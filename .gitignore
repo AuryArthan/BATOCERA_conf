@@ -1,7 +1,0 @@
-/bios
-/roms
-
-.*
-!/.gitignore
-
-*.png
