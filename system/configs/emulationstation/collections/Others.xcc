@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<filter name="Others">
+	<system>xbox</system>
+	<system>flash</system>
+	<system>saturn</system>
+	<system>gamegear</system>
+	<system>mame</system>
+	<system>c64</system>
+	<system>virtualboy</system>
+	<system>easyrpg</system>
+	<system>pcengine</system>
+	<system>solarus</system>
+	<system>dos</system>
+	<system>windows</system>
+	<system>zxspectrum</system>
+	<year></year>
+</filter>
