@@ -13,7 +13,7 @@ declare -A extensions_system=(
 	['fds']='fds'
 	['snes']='sfc smc'
 	['n64']='z64'
-	['gamecube']='ciso'
+	['gamecube']='ciso m3u'
 	['wii']='wbfs'
 	['gamegear']='gg'
 	['mastersystem']='sms'
@@ -51,8 +51,15 @@ for system in ${systems[@]}; do
 			echo -e '\t<game>' >> gamelist.xml
 			echo -e '\t\t<path>./'$filename'.'$extension'</path>' >> gamelist.xml
 			echo -e '\t\t<name>'$name'</name>' >> gamelist.xml
-			if [ -f "./00Boxart/$filename" ]; then	# check if boxart exists
-				echo -e '\t\t<image>./00Boxart/'$filename'</image>' >> gamelist.xml
+			if [ -f "./00Image/$filename" ]; then	# check if image exists
+				echo -e '\t\t<image>./00Image/'$filename'</image>' >> gamelist.xml
+				if [ -f "./00Boxart/$filename" ]; then	# if so, check if boxart exists and put it as "thumbnail"
+					echo -e '\t\t<thumbnail>./00Boxart/'$filename'</thumbnail>' >> gamelist.xml
+				fi
+			else
+				if [ -f "./00Boxart/$filename" ]; then	# else, check if boxart exists and put it as "image"
+					echo -e '\t\t<image>./00Boxart/'$filename'</image>' >> gamelist.xml
+				fi
 			fi
 			if [ -f "./00Logo/$filename" ]; then	# check if logo exists
 				echo -e '\t\t<marquee>./00Logo/'$filename'</marquee>' >> gamelist.xml
