@@ -57,8 +57,9 @@ for system in ${systems[@]}; do
 					echo -e '\t\t<thumbnail>./00Boxart/'$filename'</thumbnail>' >> gamelist.xml
 				fi
 			else
-				if [ -f "./00Boxart/$filename" ]; then	# else, check if boxart exists and put it as "image"
+				if [ -f "./00Boxart/$filename" ]; then	# else, check if boxart exists and put it as "image" and "thumbnail"
 					echo -e '\t\t<image>./00Boxart/'$filename'</image>' >> gamelist.xml
+					echo -e '\t\t<thumbnail>./00Boxart/'$filename'</thumbnail>' >> gamelist.xml
 				fi
 			fi
 			if [ -f "./00Logo/$filename" ]; then	# check if logo exists
