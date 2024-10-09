@@ -14,7 +14,7 @@ declare -A extensions_system=(
 	['snes']='sfc smc'
 	['n64']='z64'
 	['gamecube']='ciso m3u'
-	['wii']='wbfs'
+	['wii']='wbfs rvz'
 	['gamegear']='gg'
 	['mastersystem']='sms'
 	['megadrive']='md'
@@ -72,6 +72,25 @@ for system in ${systems[@]}; do
 	cd ..
 done
 
+# pico8, roms are the boxart
+echo -e '\npico8'
+cd pico8
+rm gamelist.xml
+echo '<?xml version="1.0"?>' >> gamelist.xml
+echo '<gameList>' >> gamelist.xml
+echo -e '\t.png'
+for ffilename in *.png; do
+	filename=${ffilename%.*}
+	echo -e '\t<game>' >> gamelist.xml
+	echo -e '\t\t<path>./'$filename'.png</path>' >> gamelist.xml
+	echo -e '\t\t<name>'${filename%/*}'</name>' >> gamelist.xml
+	echo -e '\t\t<image>./'${filename##*/}'.png</image>' >> gamelist.xml
+	echo -e '\t\t<thumbnail>./'${filename##*/}'.png</thumbnail>' >> gamelist.xml
+	echo -e '\t</game>' >> gamelist.xml
+done
+echo '</gameList>' >> gamelist.xml
+cd ..
+
 # scummvm, use folder names
 echo -e '\nscummvm'
 cd scummvm
@@ -85,9 +104,8 @@ for ffilename in */*.scummvm; do
 	echo -e '\t\t<path>./'$filename'.scummvm</path>' >> gamelist.xml
 	echo -e '\t\t<name>'${filename%/*}'</name>' >> gamelist.xml
 	echo -e '\t\t<image>./00Boxart/'${filename##*/}'</image>' >> gamelist.xml
-	if [ -f "./00Logo/"${filename##*/} ]; then	# check if logo exists
-		echo -e '\t\t<marquee>./00Logo/'${filename##*/}'</marquee>' >> gamelist.xml
-	fi
+	echo -e '\t\t<thumbnail>./00Boxart/'${filename##*/}'</thumbnail>' >> gamelist.xml
+	echo -e '\t\t<marquee>./00Logo/'${filename##*/}'</marquee>' >> gamelist.xml
 	echo -e '\t</game>' >> gamelist.xml
 done
 echo '</gameList>' >> gamelist.xml
