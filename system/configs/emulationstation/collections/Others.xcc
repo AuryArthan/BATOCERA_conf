@@ -13,5 +13,6 @@
 	<system>dos</system>
 	<system>windows</system>
 	<system>zxspectrum</system>
-	<year></year>
+	<kidGame>TRUE</kidGame>
+	<kidGame>FALSE</kidGame>
 </filter>
