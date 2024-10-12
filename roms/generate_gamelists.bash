@@ -1,4 +1,4 @@
-systems=('atari2600' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'lutro' 'solarus' 'flash' 'dos' 'windows' 'ports')
+systems=('atari2600' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'lutro' 'pico8' 'solarus' 'flash' 'dos' 'windows' 'ports')
 declare -A extensions_system=( 
 	['atari2600']='a26'
 	['c64']='d64'
@@ -28,6 +28,7 @@ declare -A extensions_system=(
 	['xbox']='xiso.iso'
 	['easyrpg']='zip'
 	['lutro']='lutro'
+	['pico8']='png'
 	['solarus']='solarus'
 	['flash']='swf'
 	['dos']='iso'
@@ -65,31 +66,24 @@ for system in ${systems[@]}; do
 			if [ -f "./00Logo/$filename" ]; then	# check if logo exists
 				echo -e '\t\t<marquee>./00Logo/'$filename'</marquee>' >> gamelist.xml
 			fi
+			if [ -f "./00description.json" ]; then	# check if descriptions exist
+				game=$(jq -c --arg path "./$filename.$extension" '.games[] | select(.path == $path)' "./00description.json")
+				if [ -n "$game" ]; then		# check if the chosen game description exists
+					echo -e "\t\t<desc>$(echo "$game" | jq -r '.desc // ""' | sed 's/&/\&amp;/g')</desc>" >> gamelist.xml
+					echo -e "\t\t<releasedate>$(echo "$game" | jq -r '.releasedate // ""' | sed 's/&/\&amp;/g')</releasedate>" >> gamelist.xml
+					echo -e "\t\t<developer>$(echo "$game" | jq -r '.developer // ""' | sed 's/&/\&amp;/g')</developer>" >> gamelist.xml
+					echo -e "\t\t<publisher>$(echo "$game" | jq -r '.publisher // ""' | sed 's/&/\&amp;/g')</publisher>" >> gamelist.xml
+					echo -e "\t\t<genre>$(echo "$game" | jq -r '.genre // ""' | sed 's/&/\&amp;/g')</genre>" >> gamelist.xml
+					echo -e "\t\t<players>$(echo "$game" | jq -r '.players // ""' | sed 's/&/\&amp;/g')</players>" >> gamelist.xml
+					echo -e "\t\t<lang>$(echo "$game" | jq -r '.lang // "en"' | sed 's/&/\&amp;/g')</lang>" >> gamelist.xml
+				fi
+			fi
 			echo -e '\t</game>' >> gamelist.xml
 		done
 	done
 	echo '</gameList>' >> gamelist.xml
 	cd ..
 done
-
-# pico8, roms are the boxart
-echo -e '\npico8'
-cd pico8
-rm gamelist.xml
-echo '<?xml version="1.0"?>' >> gamelist.xml
-echo '<gameList>' >> gamelist.xml
-echo -e '\t.png'
-for ffilename in *.png; do
-	filename=${ffilename%.*}
-	echo -e '\t<game>' >> gamelist.xml
-	echo -e '\t\t<path>./'$filename'.png</path>' >> gamelist.xml
-	echo -e '\t\t<name>'${filename%/*}'</name>' >> gamelist.xml
-	echo -e '\t\t<image>./'${filename##*/}'.png</image>' >> gamelist.xml
-	echo -e '\t\t<thumbnail>./'${filename##*/}'.png</thumbnail>' >> gamelist.xml
-	echo -e '\t</game>' >> gamelist.xml
-done
-echo '</gameList>' >> gamelist.xml
-cd ..
 
 # scummvm, use folder names
 echo -e '\nscummvm'
@@ -106,6 +100,18 @@ for ffilename in */*.scummvm; do
 	echo -e '\t\t<image>./00Boxart/'${filename##*/}'</image>' >> gamelist.xml
 	echo -e '\t\t<thumbnail>./00Boxart/'${filename##*/}'</thumbnail>' >> gamelist.xml
 	echo -e '\t\t<marquee>./00Logo/'${filename##*/}'</marquee>' >> gamelist.xml
+	if [ -f "./00description.json" ]; then	# check if descriptions exist
+		game=$(jq -c --arg path "./$filename.$extension" '.games[] | select(.path == $path)' "./00description.json")
+		if [ -n "$game" ]; then		# check if the chosen game description exists
+			echo -e "\t\t<desc>$(echo "$game" | jq -r '.desc // ""' | sed 's/&/\&amp;/g')</desc>" >> gamelist.xml
+			echo -e "\t\t<releasedate>$(echo "$game" | jq -r '.releasedate // ""' | sed 's/&/\&amp;/g')</releasedate>" >> gamelist.xml
+			echo -e "\t\t<developer>$(echo "$game" | jq -r '.developer // ""' | sed 's/&/\&amp;/g')</developer>" >> gamelist.xml
+			echo -e "\t\t<publisher>$(echo "$game" | jq -r '.publisher // ""' | sed 's/&/\&amp;/g')</publisher>" >> gamelist.xml
+			echo -e "\t\t<genre>$(echo "$game" | jq -r '.genre // ""' | sed 's/&/\&amp;/g')</genre>" >> gamelist.xml
+			echo -e "\t\t<players>$(echo "$game" | jq -r '.players // ""' | sed 's/&/\&amp;/g')</players>" >> gamelist.xml
+			echo -e "\t\t<lang>$(echo "$game" | jq -r '.lang // "en"' | sed 's/&/\&amp;/g')</lang>" >> gamelist.xml
+		fi
+	fi
 	echo -e '\t</game>' >> gamelist.xml
 done
 echo '</gameList>' >> gamelist.xml

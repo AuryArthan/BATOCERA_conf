@@ -1,4 +1,4 @@
-systems=('atari2600' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'lutro' 'solarus' 'flash' 'dos' 'windows' 'ports')
+systems=('atari2600' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'lutro' 'pico8' 'solarus' 'flash' 'dos' 'windows' 'ports')
 declare -A extensions_system=( 
 	['atari2600']='a26'
 	['c64']='d64'
@@ -28,6 +28,7 @@ declare -A extensions_system=(
 	['xbox']='xiso.iso'
 	['easyrpg']='zip'
 	['lutro']='lutro'
+	['pico8']='png'
 	['solarus']='solarus'
 	['flash']='swf'
 	['dos']='iso'
