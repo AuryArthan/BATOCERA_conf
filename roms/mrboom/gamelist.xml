@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./MrBoom.libretro</path>
+		<name>Mr. Boom</name>
+		<image>./00Boxart/MrBoom</image>
+		<thumbnail>./00Boxart/MrBoom</thumbnail>
+		<marquee>./00Logo/MrBoom</marquee>
+		<desc>Mr.Boom is a Bomberman clone for the RetroArch platform and was converted from DOS assembly using asm2c.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Community</developer>
+		<publisher>Homebrew Port</publisher>
+		<genre>Action, Strategy</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+</gameList>

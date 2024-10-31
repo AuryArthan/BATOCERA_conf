@@ -1,0 +1,204 @@
+{
+    "games": [
+        {
+            "path": "./Another Super Mario 3D.nds",
+            "desc": "Another Super Mario 3D is a SM64DS hack made by The Newer Team and also the first ROM hack of SM64DS. It includes 7 main levels and 10 secret levels.",
+            "releasedate": "20150618T000000",
+            "developer": "The Newer Team",
+            "publisher": "Romhacking, Unlicenced",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Ghost Trick - Phantom Detective (USA).nds",
+            "desc": "Ghost Trick is a story of mystery and intrigue that blends fun logic puzzles with the world of the supernatural, making for an entirely new and unique experience in the handheld gaming space. Part adventure game, part puzzle game, Ghost Trick's gameplay will challenge player's brains while its distinct art elements and character designs will deliver the fun.",
+            "releasedate": "20110111T000000",
+            "developer": "Capcom",
+            "publisher": "Capcom",
+            "genre": "Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Golden Sun - Dark Dawn (USA, Australia).nds",
+            "desc": "After going dark six years ago, 2010 will see a new dawn. Golden Sun DS updates the popular portable Golden Sun role-playing series with an impressive graphical style. This installment follows the story of the previous heroes' descendants and immerses players into the magic of its adventure by pushing the boundaries of intuitive touch-screen controls.",
+            "releasedate": "20101210T000000",
+            "developer": "Camelot Software Planning",
+            "publisher": "Nintendo",
+            "genre": "Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Kirby Super Star Ultra (USA).nds",
+            "desc": "Kirby Super Star Ultra is a 2008 DS side-scrolling platformer video game developed by HAL Laboratory and released by Nintendo of America in the USA on September 22, 2008.\n\nKirby Super Star Ultra for the Nintendo DS re-imagines one of the most beloved Kirby games of all time. The game features new graphics and fully rendered animated cut scenes. With so many adventures waiting to be unlocked, there will never be a dull moment as Kirby runs, floats, copies enemies and uses Helpers to fight King Dedede and Meta Knight. New modes like Revenge of the King and Meta Knight Ultra await, along with classics like The Great Cave Offensive and Milky Way Wishes. On top of the main modes, there are also three new touch-screen-controlled mini-games that can be played with up to three friends via DS Download Play. Not only that, but players can go on Kirby adventures with a friend via local wireless as well.",
+            "releasedate": "20080922T000000",
+            "developer": "HAL Laboratory, Inc.",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Platform",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./Legend of Zelda, The - Phantom Hourglass (USA).nds",
+            "desc": "Continue the Wind Waker adventure in Link's first DS game.\n\nThe epic story of The Legend of Zelda: The Wind Waker continues as Link finds himself lost and alone in unknown seas in a new adventure. Featuring intuitive touch-screen controls and innovative puzzles, The Legend of Zelda: Phantom Hourglass offers new challenges for fans of the series and an easy-to-grasp introduction for gamers new to The Legend of Zelda. But time grows short, and only the Phantom Hourglass can buy Link the minutes he’ll need to survive.\n\nMany months have passed since the events of The Legend of Zelda: The Wind Waker, and Link, Tetra and Tetra’s band of pirates have set sail in search of new lands. They come across a patch of ocean covered in a dense fog, in which they discover an abandoned ship. Tetra falls into danger when she explores the ship alone, and Link falls into the ocean when he attempts to rescue her. When he washes up unconscious on the shores of a mysterious island, he is awakened by the sound of a fairy’s voice. With the aid of this fairy, he sets off to find Tetra – and his way back to the seas he once knew.",
+            "releasedate": "20071001T000000",
+            "developer": "Nintendo EAD",
+            "publisher": "Nintendo",
+            "genre": "Action, Adventure, Role-Playing, Puzzle",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Legend of Zelda, The - Spirit Tracks (USA).nds",
+            "desc": "Join Link and Zelda in an all-new adventure! Spirit Tracks have long protected the kingdom from evil. When they start disappearing mysteriously, Link and Zelda must travel the land together to restore them and keep the dark forces at bay.",
+            "releasedate": "20091207T000000",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "genre": "Action, Adventure, Role-Playing",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./Mario & Luigi - Bowser's Inside Story (USA).nds",
+            "desc": "Mario & Luigi: Bowser's Inside Story is the third game in the Mario & Luigi series of games. Players control Mario and Luigi simultaneously in the side-scrolling platform environment of Bowser's body, while also controlling the Koopa King himself in the top-down world of the Mushroom Kingdom. Similar to games like Earthbound, enemy encounters are seen as actual enemies that players can avoid or attempt to strike early. The actual battles are a combination of turn-based menu attacks, and timed reactions to enemies during battle. By watching the way an enemy reacts, you can anticipate their attack and avoid it or counterattack.",
+            "releasedate": "20090914T000000",
+            "developer": "AlphaDream",
+            "publisher": "Nintendo",
+            "genre": "Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Mario & Luigi - Partners in Time (USA).nds",
+            "desc": "The famous Mario Brothers return in this sequel to the humorous Superstar Saga. In this adventure, Princess Peach takes a trip in a time machine, but when it returns, there's only a monster inside! The heroic brothers travel back in time only to discover that evil alien life forms known as the Shroobs have taken over the Mushroom Kingdom, and no-one is safe! They soon meet up with their younger selves, and set out to stop the alien menace, not to mention rescue the Princess!",
+            "releasedate": "20051128T000000",
+            "developer": "AlphaDream",
+            "publisher": "Nintendo",
+            "genre": "Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Mario Kart DS (USA, Australia).nds",
+            "desc": "Mario Kart DS is a 2005 DS racing video game developed by Nintendo EAD and released by Nintendo of America in the USA on November 14, 2005.\n\nMario Kart DS is the continuation of the long running racing game series that began on the Super Nintendo. It features 16 new tracks as well as 16 tracks from the previous 4 games, with each set split up into the Nitro and Retro Grand Prix respectively. Eight racers are initially available, each with two go-karts to choose from. A number of characters and additional karts are also available to unlock. New items have been added to the arsenal, including a Blooper squid that squirts ink onto the screens of other players and a Bullet Bill power up that transforms the player into a giant, fast-travelling bullet on autopilot.",
+            "releasedate": "20051114T000000",
+            "developer": "Nintendo EAD",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Racing",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./New Super Mario Bros (USA, Australia).nds",
+            "desc": "New Super Mario Bros. is a 2006 DS side-scrolling platformer video game developed by Nintendo EAD and released by Nintendo of America in the USA on May 15, 2006.\n\nIn an all new 2D side-scrolling adventure, Mario and Luigi return after nearly fifteen years. The first traditional Mario Bros. game since Super Mario World.\n\nThe character models are rendered in real time 3D, allowing for a far greater number of moves ever before seen in a Mario Bros. title. Also as the game is on DS, the touch screen allows players to store an additional power-up and view the distance still to go in a level.",
+            "releasedate": "20060515T000000",
+            "developer": "Nintendo EAD",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Platform",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon - Black Version (USA, Europe).nds",
+            "desc": "Pok\u00e9mon Version Noire et Pok\u00e9mon Version Blanche pr\u00e9sentent de nouveaux Pok\u00e9mon que les joueurs peuvent attraper, entra\u00eener et utiliser en combat alors qu\u2019ils poursuivent leur aventure. Notez que certains Pok\u00e9mon ne peuvent \u00eatre attrap\u00e9s que dans une version du jeu. Par exemple, le l\u00e9gendaire Pok\u00e9mon Reshiram ne peut qu\u2019\u00eatre attrap\u00e9 dans Pok\u00e9mon Version Noire, alors que le l\u00e9gendaire Pok\u00e9mon Zekrom peut seulement \u00eatre attrap\u00e9 dans Pok\u00e9mon Version Blanche.\n\nDe plus, les deux jeux introduisent de nouveaux endroits, dont une ville m\u00e9tropolitaine unique appel\u00e9e Ville Noire dans Pok\u00e9mon Version Noire, et une verte et luxuriante for\u00eat appel\u00e9e For\u00eat Blanche dans Pok\u00e9mon Version Blanche. Pok\u00e9mon Version Noire et Pok\u00e9mon Version Blanche introduisent aussi pour la premi\u00e8re fois dans l\u2019histoire de la franchise Pok\u00e9mon, un jeu qui change au rythme des saisons. Certains Pok\u00e9mon appara\u00eetront plus souvent lors de certaines saisons, et certains endroits ne seront accessibles qu\u2019au cours de certaines saisons. Pok\u00e9mon Version Noire et Pok\u00e9mon Version Blanche permettent aux joueurs de choisir un Pok\u00e9mon avec qui ils commenceront leur aventure : le Pok\u00e9mon de type Plante Vip\u00e9lierre, le Pok\u00e9mon de type Feu Gruigrui ou le Pok\u00e9mon de type Eau Moustillon. Jusqu'\u00e0 ce que l'histoire principale du jeu est termin\u00e9e, tous les Pok\u00e9mon que les joueurs rencontreront n'auront jamais \u00e9t\u00e9 vus dans les jeux Pok\u00e9mon pr\u00e9c\u00e9dents. Un Dresseur et une Dresseuse seront aussi au rendez-vous pour partir \u00e0 l\u2019aventure dans la nouvelle r\u00e9gion d\u2019Unys.\n\n- Un nouveau monde peupl\u00e9 de Pok\u00e9mon encore jamais vus\n- Plus de 150 nouveaux Pok\u00e9mon",
+            "releasedate": "20110306T000000",
+            "developer": "Game Freak",
+            "publisher": "Nintendo",
+            "genre": "Adventure, Role-Playing",
+            "players": "5",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon - HeartGold Version (USA).nds",
+            "desc": "Pok\u00e9mon HeartGold is an enhanced remake of one of the second installments in the Pok\u00e9mon Main RPG Series, Pok\u00e9mon Gold.\n\n\nSet in the region of Johto, the player controls a new Pok\u00e9mon Trainer on his/her way to meet up with Pok\u00e9mon Researcher Professor Elm at his lab to receive his/her first Pok\u00e9mon. While running an errand for Elm, the player returns to find that a thief has stolen one of the professor's Pok\u00e9mon. This event starts your quest to becoming a Pok\u00e9mon master, leading you through the region of Johto and later Kanto, to battle the mysterious Team Rocket and capture all 493 Pok\u00e9mon. \n\n\nAlong with retaining most of the original game's features, HeartGold contains quite a few new updates. Like Gold the story will incorporate the legendary Pok\u00e9mon Ho-Oh (who can be seen on the game's box art), although this time in a bigger fashion. Graphics have been upgraded to 3D models to resemble the series previous Nintendo DS iterations, Diamond, Pearl, and Platinum. The ability to have any one of your Pok\u00e9mon following you on the Overworld Screen which was limitedly seen in Pok\u00e9mon Yellow has been added. \n\n\nIncluded with the game is a peripheral known as the Pok\u00e9walker. Acting as a pedometer, the Pok\u00e9walker allows you to wirelessly transfer a Pok\u00e9mon from HeartGold to it. When there is a Pok\u00e9mon in the Pok\u00e9walker it gains \"experience points\" for each step you take. The player also earns a form of money known as \"watts\", which is used to help catch other Pok\u00e9mon and buy items.\n\nThe game is compatible with the following games via Nintendo Wi-Fi Connection: Pok\u00e9mon SoulSilver, Diamond, Pearl, and Platinum.",
+            "releasedate": "20090912T000000",
+            "developer": "Game Freak",
+            "publisher": "Nintendo",
+            "genre": "Adventure, Role-Playing",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon - Platinum Version (USA).nds",
+            "desc": "Pok\u00e9mon Platinum Version is a 2009 DS strategy role-playing video game developed by Game Freak and released by Nintendo of America in the USA on March 22, 2009.\n\nAnother world has emerged in the Sinnoh Region...\n\n...A world where space & time are altered!\n\nNew Discoveries, New Challenges!\nCatch, train, and battle your favorite Pok\u00e9mon, and discover ancient, mythical Pok\u00e9mon in this exciting new adventure!\n\nExpanded Online Options!\nNew experiences in the Wi-Fi Plaza and Battle Frontier!",
+            "releasedate": "20090322T000000",
+            "developer": "Game Freak",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Role-Playing, Strategy",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon - SoulSilver Version (USA, Australia).nds",
+            "desc": "Pok\u00e9mon SoulSilver Version return players to the scenic Johto region first introduced in the beloved original Pok\u00e9mon Gold and Pok\u00e9mon Silver games nearly a decade ago. The richly detailed adventure of Pok\u00e9mon Gold and Silver is now enhanced for the Nintendo DS and Nintendo DSi systems with updated graphics and sound, as well as new touch-screen features and a host of surprises. Pok\u00e9mon SoulSilver Version brings dozens of Pokémon characters back into the limelight for a new Pok\u00e9mon generation - and longtime fans - to catch, train and battle.",
+            "releasedate": "20090912T000000",
+            "developer": "Game Freak",
+            "publisher": "Nintendo, The Pokemon Company",
+            "genre": "Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon - White Version (USA, Europe).nds",
+            "desc": "Pok\u00e9mon Version Noire et Pok\u00e9mon Version Blanche pr\u00e9sentent de nouveaux Pok\u00e9mon que les joueurs peuvent attraper, entra\u00eener et utiliser en combat alors qu\u2019ils poursuivent leur aventure. Notez que certains Pok\u00e9mon ne peuvent \u00eatre attrap\u00e9s que dans une version du jeu. Par exemple, le l\u00e9gendaire Pok\u00e9mon Reshiram ne peut qu\u2019\u00eatre attrap\u00e9 dans Pok\u00e9mon Version Noire, alors que le l\u00e9gendaire Pok\u00e9mon Zekrom peut seulement \u00eatre attrap\u00e9 dans Pok\u00e9mon Version Blanche.\n\nDe plus, les deux jeux introduisent de nouveaux endroits, dont une ville m\u00e9tropolitaine unique appel\u00e9e Ville Noire dans Pok\u00e9mon Version Noire, et une verte et luxuriante for\u00eat appel\u00e9e For\u00eat Blanche dans Pok\u00e9mon Version Blanche. Pok\u00e9mon Version Noire et Pok\u00e9mon Version Blanche introduisent aussi pour la premi\u00e8re fois dans l\u2019histoire de la franchise Pok\u00e9mon, un jeu qui change au rythme des saisons. Certains Pok\u00e9mon appara\u00eetront plus souvent lors de certaines saisons, et certains endroits ne seront accessibles qu\u2019au cours de certaines saisons. Pok\u00e9mon Version Noire et Pok\u00e9mon Version Blanche permettent aux joueurs de choisir un Pok\u00e9mon avec qui ils commenceront leur aventure : le Pok\u00e9mon de type Plante Vip\u00e9lierre, le Pok\u00e9mon de type Feu Gruigrui ou le Pok\u00e9mon de type Eau Moustillon. Jusqu'\u00e0 ce que l'histoire principale du jeu est termin\u00e9e, tous les Pok\u00e9mon que les joueurs rencontreront n'auront jamais \u00e9t\u00e9 vus dans les jeux Pok\u00e9mon pr\u00e9c\u00e9dents. Un Dresseur et une Dresseuse seront aussi au rendez-vous pour partir \u00e0 l\u2019aventure dans la nouvelle r\u00e9gion d\u2019Unys.\n\n- Un nouveau monde peupl\u00e9 de Pok\u00e9mon encore jamais vus\n- Plus de 150 nouveaux Pok\u00e9mon",
+            "releasedate": "20110306T000000",
+            "developer": "Game Freak",
+            "publisher": "Nintendo",
+            "genre": "Adventure, Role-Playing",
+            "players": "5",
+            "lang": "en"
+        },
+        {
+            "path": "./Shantae - Risky's Revenge (USA).nds",
+            "desc": "The sequel to the critically acclaimed Shantae is here! Fans asked, and WayForward has answered with a powder keg of high-octane, hair-whipping, hip-shaking action available only on the Nintendo DSiWare service. Shantae: Risky’s Revenge sets the bar even higher with thousands of frames of animation, huge multi-sprite bosses and a quest so big it’s bursting at the seams. Guide “half-genie” Shantae through haunted wastelands, burning deserts, enchanted forests, dripping caverns and deadly labyrinths. Discover magical attacks, brew zombie coffee, save golden babies and master the art of belly dancing to transform Shantae into more powerful creatures. Use your powers to foil the lady pirate Risky Boots and save Sequin Land from certain doom. With its infectious characters, flirtatious humor and deliciously outlandish action, Shantae: Risky’s Revenge offers up all the hair-whipping, belly-dancing action you can handle.",
+            "releasedate": "20101004T000000",
+            "developer": "WayForward",
+            "publisher": "WayForward",
+            "genre": "Adventure , Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Sonic Rush (USA).nds",
+            "desc": "The world's fastest hedgehog streaks onto Nintendo DS in Sonic Rush. In this sideways scrolling scramble, Sega's mascot is so incredibly fast you'll need to use both of the DS' two screens to keep up, with both the lower and upper displays combined to portray a single play area. Whizz around brand-new corkscrews, whipping Sonic up, down and all points in between - you can even take the spiky blue 'hog bungee jumping, Sonic plummeting down from one screen to the next. Sonic himself is displayed in 3D, and the boss-battles also switch to fully 3D action as in Sonic Heroes! Play as either Sonic or the mysterious new character Blaze the Cat, a feline queen from a parallel dimension. Search for the powerful Sol Emeralds - but beware, you're not the only one in search of these dangerous jewels. As you progress through the game, the \"ripple\" effect means that actions you take in Sonic's world will have consequences in the world of Blaze, and vice versa. With stylus controlled mini-games for when you need a break from the main game, Sonic's latest is a real Rush!",
+            "releasedate": "20051115T000000",
+            "developer": "Dimps Corporation",
+            "publisher": "Sega",
+            "genre": "Action, Platform",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Mario 64 DS (USA, Australia).nds",
+            "desc": "Super Mario 64 DS is a 2004 DS third-person platformer video game developed by Nintendo EAD and released by Nintendo of America in the USA on November 21, 2004.\n\nSuper Mario 64, the classic 3D platformer for the Nintendo 64, arrives on the Nintendo DS with all-new features that take advantage of the portable system's dual screens, touch screen, and wireless multiplayer capability. Like the original game, Super Mario 64 DS challenges you to find all the power stars hidden throughout the royal castle in the effort to free Peach imprisoned inside the castle. This time, you can play as Mario, Luigi, Wario, and Yoshi, each of whom has unique abilities. Overcome the challenges on your own or battle up to three of your friends in the multiplayer modes.",
+            "releasedate": "20041121T000000",
+            "developer": "Nintendo EAD",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Platform",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Princess Peach (USA).nds",
+            "desc": "Princess Power!\nBowser's up to no good again...but this time, it's Princess Peach to the rescue! When Mario, Luigi, and the Mushroom Castle Toads get kidnapped it's up to Peach and her magical umbrella to save them.\n* Feel the vibes! Use the Touch Screen on the DS to channel Peach's emotional vibes into special abilities. Float when she's happy, burn through walls when she's mad, or make vegetation grow with her tears!\n* Save Mario! Join the princess as she runs, jumps, floats, and fights her way through eight worlds, from Fury Volcano to Spooky Shriek Mansion.\n* Keep your eyes peeled! Every area hides secrets, including Touch-Screen Minigames, cool puzzles, and and plenty of power ups for both Peach and her umbrella!",
+            "releasedate": "20060227T000000",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./World Ends with You, The (USA).nds",
+            "desc": "The World Ends With You is an exciting new title developed exclusively for the Nintendo DS handheld system. Previously known as Subarashiki Kono Sekai on its release in Japan, The World Ends With You is an innovative new title from Square Enix that fully utilizes the capabilities of the Nintendo DS, and takes major influence from Japan's modern day culture including its people, music, clothes, food and design.",
+            "releasedate": "20080422T000000",
+            "developer": "Jupiter Corporation",
+            "publisher": "Square Enix",
+            "genre": "Action, Role-Playing",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

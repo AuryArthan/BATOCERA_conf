@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./smw.game</path>
+		<name>Super Mario War</name>
+		<image>./00Image/smw</image>
+		<thumbnail>./00Boxart/smw</thumbnail>
+		<marquee>./00Logo/smw</marquee>
+		<desc>Super Mario War is an open source, cross-platform, platform-adventure video game and level editor. It is unofficially based upon gameplay elements and audiovisual media that are cloned from Nintendo's Super Mario series. The game centers on players fighting each other by one player jumping on the other player's head, or by making use of items which can be picked up during gameplay.
+
+The gameplay is somewhat simple. In various game modes, players may jump on each other's heads to defeat each other or they may use items found in the power-up boxes. The game has a variety of such configurable settings to determine when certain items spawn in the power-up boxes, the way players spawn onscreen, and more.
+
+The game includes a campaign mode based upon an overworld similar to that of Super Mario Bros. 3. However, instead of levels, the player simply fights more of the characters featured in the game although controlled by the CPU player. The player moves onto the next level when the enemy is defeated.</desc>
+		<releasedate>20061216T000000</releasedate>
+		<developer>Florian Hufsky, Michael Schaffer</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Fighting, Platform, Unofficial</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+</gameList>

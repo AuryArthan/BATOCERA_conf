@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Doukutsu.exe</path>
+		<name>Cave Story</name>
+		<image>./00Boxart/Cave Story</image>
+		<thumbnail>./00Boxart/Cave Story</thumbnail>
+		<marquee>./00Logo/Cave Story</marquee>
+		<desc>Arguably the most well-known indie game of all time, Cave Story is an action-adventure game featuring a completely original storyline wrapped with personality, mystery and hours of fast-paced fun. You wake up in a dark cave with no memory of who you are, where you came from or why you're in such a place. Uncovering Mimiga Village you discover that the once-carefree Mimigas are in danger at the hands of a maniacal scientist. The Mimigas’ only hope rest squarely on the shoulders of a quiet, amnesiac boy who can't remember his own name.</desc>
+		<releasedate>20041220T000000</releasedate>
+		<developer>Studio Pixel</developer>
+		<publisher>Studio Pixel</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>

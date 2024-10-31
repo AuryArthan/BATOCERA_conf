@@ -1,4 +1,4 @@
-systems=('atari2600' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'lutro' 'pico8' 'solarus' 'flash' 'dos' 'windows' 'ports')
+systems=('atari2600' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'wswan' 'wswanc' 'lutro' 'pico8' 'solarus' 'flash' 'dos' 'windows' 'ports')
 declare -A extensions_system=( 
 	['atari2600']='a26'
 	['c64']='d64'
@@ -7,13 +7,13 @@ declare -A extensions_system=(
 	['gb']='gb'
 	['gbc']='gbc'
 	['gba']='gba'
-	['nds']='nds'
+	['nds']='nds zip'
 	['virtualboy']='vb'
 	['nes']='nes'
 	['fds']='fds'
 	['snes']='sfc smc'
 	['n64']='z64'
-	['gamecube']='ciso m3u'
+	['gamecube']='ciso iso m3u'
 	['wii']='wbfs rvz'
 	['gamegear']='gg'
 	['mastersystem']='sms'
@@ -27,6 +27,8 @@ declare -A extensions_system=(
 	['ps2']='iso'
 	['xbox']='xiso.iso'
 	['easyrpg']='zip'
+	['wswan']='ws'
+	['wswanc']='wsc'
 	['lutro']='lutro'
 	['pico8']='png'
 	['solarus']='solarus'
@@ -66,6 +68,13 @@ for system in ${systems[@]}; do
 			if [ -f "./00Logo/$filename" ]; then	# check if logo exists
 				echo -e '\t\t<marquee>./00Logo/'$filename'</marquee>' >> gamelist.xml
 			fi
+			if [ -f "./00Cart/$filename" ]; then	# check if cart exists
+				echo -e '\t\t<cart>./00Cart/'$filename'</cart>' >> gamelist.xml
+			else
+				if [ -f "./00Cart/00Placeholder" ]; then	# check if cart placeholder exists
+					echo -e '\t\t<cart>./00Cart/00Placeholder</cart>' >> gamelist.xml
+				fi
+			fi
 			if [ -f "./00description.json" ]; then	# check if descriptions exist
 				game=$(jq -c --arg path "./$filename.$extension" '.games[] | select(.path == $path)' "./00description.json")
 				if [ -n "$game" ]; then		# check if the chosen game description exists
@@ -101,7 +110,7 @@ for ffilename in */*.scummvm; do
 	echo -e '\t\t<thumbnail>./00Boxart/'${filename##*/}'</thumbnail>' >> gamelist.xml
 	echo -e '\t\t<marquee>./00Logo/'${filename##*/}'</marquee>' >> gamelist.xml
 	if [ -f "./00description.json" ]; then	# check if descriptions exist
-		game=$(jq -c --arg path "./$filename.$extension" '.games[] | select(.path == $path)' "./00description.json")
+		game=$(jq -c --arg path "./$filename.scummvm" '.games[] | select(.path == $path)' "./00description.json")
 		if [ -n "$game" ]; then		# check if the chosen game description exists
 			echo -e "\t\t<desc>$(echo "$game" | jq -r '.desc // ""' | sed 's/&/\&amp;/g')</desc>" >> gamelist.xml
 			echo -e "\t\t<releasedate>$(echo "$game" | jq -r '.releasedate // ""' | sed 's/&/\&amp;/g')</releasedate>" >> gamelist.xml

@@ -1,0 +1,34 @@
+{
+    "games": [
+		{
+            "path": "./Bible_Fight.pc",
+            "desc": "Bible Fight is a browser-based fighting game which puts characters from the Bible face-to-face to fight each other, such as: Jesus, Mary, Moses, Noah, Satan and a secret unlockable character. Each character has the ability to punch, kick and a set of three special moves, which can be used through combos. Each of them are controlled by the keyboard, with the arrow keys for movement and Z and X for kicks and punches. The game features a practice and a tournament mode.",
+            "releasedate": "20070502T000000",
+            "developer": "This Is Pop",
+            "publisher": "Adult Swim",
+            "genre": "Fighting",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Claw.pc",
+            "desc": "Claw focuses on the misadventures of Captain Claw, a cat whose main mission is to defeat the Cocker Spaniard Armada. The daring pirate Captain Claw and his cat forces are defeated and Claw is imprisoned.\n\nWhile locked up, he finds a letter that puts him on the trail of finding the legendary (Amulet of Nine Lives) that will not only help him defeat his rival but promises near immortality. Claw escapes the dungeon and explores 14 levels that contain more than 40 enemies and bosses. \n\nThe game features sprawling levels with numerous puzzles and features a multiplayer mode that supports up to 64 players at www.captainclaw.com. The Internet site includes a player forum, a high-scores listing, rankings, art, tips and codes, a treasure guide, and many Claw site links as well.",
+            "releasedate": "19970930T000000",
+            "developer": "Takarajimasha",
+            "publisher": "Monolith Productions, Inc.",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Icy_Tower.pc",
+            "desc": "Icy Tower is a freeware video game by Swedish game developer Free Lunch Design. It is a platform game set in a tower, where the player's goal is to jump from one 'floor' to the next and go as high as possible without falling and plunging off the screen. The higher the player's character climbs, the faster the tower's floors move downward and the harder the game becomes.",
+            "releasedate": "20011222T000000",
+            "developer": "Free Lunch Design",
+            "publisher": "Free Lunch Design",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

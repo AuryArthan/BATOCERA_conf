@@ -1,0 +1,395 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Elvira: Mistress of the Dark/elvira1.scummvm</path>
+		<name>Elvira: Mistress of the Dark</name>
+		<image>./00Boxart/elvira1</image>
+		<thumbnail>./00Boxart/elvira1</thumbnail>
+		<marquee>./00Logo/elvira1</marquee>
+		<desc>Join Elvira in a horror adventure to save a castle from dark forces. Solve puzzles, fight monsters, and uncover the castle’s secrets.</desc>
+		<releasedate>19901001T000000</releasedate>
+		<developer>Horror Soft</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure, Horror</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fatty Bear's Birthday Surprise/fbear.scummvm</path>
+		<name>Fatty Bear's Birthday Surprise</name>
+		<image>./00Boxart/fbear</image>
+		<thumbnail>./00Boxart/fbear</thumbnail>
+		<marquee>./00Logo/fbear</marquee>
+		<desc>Help Fatty Bear prepare for a birthday party in this interactive children’s game. Solve puzzles and explore the house to make the perfect celebration!</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Freddi Fish 2 - The Case of the Haunted Schoolhouse/freddi2.scummvm</path>
+		<name>Freddi Fish 2 - The Case of the Haunted Schoolhouse</name>
+		<image>./00Boxart/freddi2</image>
+		<thumbnail>./00Boxart/freddi2</thumbnail>
+		<marquee>./00Logo/freddi2</marquee>
+		<desc>Freddi Fish and Luther are back to solve the mystery of the haunting in the schoolhouse!</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Freddi Fish 3 - The Case of the Stolen Conch Shell/freddi3.scummvm</path>
+		<name>Freddi Fish 3 - The Case of the Stolen Conch Shell</name>
+		<image>./00Boxart/freddi3</image>
+		<thumbnail>./00Boxart/freddi3</thumbnail>
+		<marquee>./00Logo/freddi3</marquee>
+		<desc>Help Freddi Fish recover the stolen conch shell and solve another underwater mystery with her friend Luther.</desc>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Freddi Fish 4 - The Case of the Hogfish Rustlers of Briny Gulch/freddi4.scummvm</path>
+		<name>Freddi Fish 4 - The Case of the Hogfish Rustlers of Briny Gulch</name>
+		<image>./00Boxart/freddi4</image>
+		<thumbnail>./00Boxart/freddi4</thumbnail>
+		<marquee>./00Logo/freddi4</marquee>
+		<desc>Freddi Fish and Luther dive into a Western-themed adventure to recover the hogfish rustled from Briny Gulch.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Freddi Fish 5 - The Case of the Creature of Coral Cove/freddicove.scummvm</path>
+		<name>Freddi Fish 5 - The Case of the Creature of Coral Cove</name>
+		<image>./00Boxart/freddicove</image>
+		<thumbnail>./00Boxart/freddicove</thumbnail>
+		<marquee>./00Logo/freddicove</marquee>
+		<desc>Freddi Fish investigates a mysterious sea creature terrorizing Coral Cove.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Freddi Fish - The Case of the Missing Kelp Seeds/freddi.scummvm</path>
+		<name>Freddi Fish - The Case of the Missing Kelp Seeds</name>
+		<image>./00Boxart/freddi</image>
+		<thumbnail>./00Boxart/freddi</thumbnail>
+		<marquee>./00Logo/freddi</marquee>
+		<desc>Join Freddi Fish and her friend Luther as they solve the mystery of the missing kelp seeds in an underwater adventure.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Let's Explore the Jungle with Buzzy/jungle.scummvm</path>
+		<name>Let's Explore the Jungle with Buzzy</name>
+		<image>./00Boxart/jungle</image>
+		<thumbnail>./00Boxart/jungle</thumbnail>
+		<marquee>./00Logo/jungle</marquee>
+		<desc>An educational adventure that allows children to explore the jungle with Buzzy the Knowledge Bug, learning about plants, animals, and ecosystems.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Education, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Living Books- Arthur's Teacher Trouble/arthur.scummvm</path>
+		<name>Living Books- Arthur's Teacher Trouble</name>
+		<image>./00Boxart/arthur</image>
+		<thumbnail>./00Boxart/arthur</thumbnail>
+		<marquee>./00Logo/arthur</marquee>
+		<desc>Join Arthur in his interactive school adventure, as he faces off with Mr. Ratburn’s spelling test challenge!</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Living Books</developer>
+		<publisher>Brøderbund</publisher>
+		<genre>Interactive Story, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Living Books - The Berenstain Bears in the Dark/beardark.scummvm</path>
+		<name>Living Books - The Berenstain Bears in the Dark</name>
+		<image>./00Boxart/beardark</image>
+		<thumbnail>./00Boxart/beardark</thumbnail>
+		<marquee>./00Logo/beardark</marquee>
+		<desc>The Berenstain Bears face their fears in the dark in this interactive storybook adventure.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Living Books</developer>
+		<publisher>Brøderbund</publisher>
+		<genre>Interactive Story, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Living Books - The Tortoise and the Hare/tortoise.scummvm</path>
+		<name>Living Books - The Tortoise and the Hare</name>
+		<image>./00Boxart/tortoise</image>
+		<thumbnail>./00Boxart/tortoise</thumbnail>
+		<marquee>./00Logo/tortoise</marquee>
+		<desc>Experience the classic story of The Tortoise and the Hare in an interactive adventure, where players explore, listen, and learn along with the story.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Living Books</developer>
+		<publisher>Brøderbund</publisher>
+		<genre>Interactive Story, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Magic Tales - Liam Finds a Story/liam.scummvm</path>
+		<name>Magic Tales - Liam Finds a Story</name>
+		<image>./00Boxart/liam</image>
+		<thumbnail>./00Boxart/liam</thumbnail>
+		<marquee>./00Logo/liam</marquee>
+		<desc>Help Liam discover the magic of storytelling in this interactive children’s adventure.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Davidson &amp; Associates</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Monkey Island/monkey.scummvm</path>
+		<name>Monkey Island</name>
+		<image>./00Boxart/monkey</image>
+		<thumbnail>./00Boxart/monkey</thumbnail>
+		<marquee>./00Logo/monkey</marquee>
+		<desc>Set sail as Guybrush Threepwood, a wannabe pirate, in this classic adventure filled with humor, puzzles, and legendary pirate duels.</desc>
+		<releasedate>19901001T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Neverhood/neverhood.scummvm</path>
+		<name>Neverhood</name>
+		<image>./00Boxart/neverhood</image>
+		<thumbnail>./00Boxart/neverhood</thumbnail>
+		<marquee>./00Logo/neverhood</marquee>
+		<desc>Step into a world of claymation and puzzles as you explore The Neverhood, uncover its secrets, and solve mysteries.</desc>
+		<releasedate>19961001T000000</releasedate>
+		<developer>The Neverhood, Inc.</developer>
+		<publisher>DreamWorks Interactive</publisher>
+		<genre>Adventure, Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pajama Sam 2/pajama2.scummvm</path>
+		<name>Pajama Sam 2</name>
+		<image>./00Boxart/pajama2</image>
+		<thumbnail>./00Boxart/pajama2</thumbnail>
+		<marquee>./00Logo/pajama2</marquee>
+		<desc>Join Pajama Sam on an adventure to conquer his fear of thunderstorms in Thunder and Lightning Aren’t So Frightening.</desc>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pajama Sam 3/pajama3.scummvm</path>
+		<name>Pajama Sam 3</name>
+		<image>./00Boxart/pajama3</image>
+		<thumbnail>./00Boxart/pajama3</thumbnail>
+		<marquee>./00Logo/pajama3</marquee>
+		<desc>Help Pajama Sam clean up the world of junk food in You Are What You Eat from Your Head to Your Feet.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pajama Sam/pajama.scummvm</path>
+		<name>Pajama Sam</name>
+		<image>./00Boxart/pajama</image>
+		<thumbnail>./00Boxart/pajama</thumbnail>
+		<marquee>./00Logo/pajama</marquee>
+		<desc>Pajama Sam faces his fears and embarks on an adventure to capture the villain Darkness.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Putt-Putt Enters the Race/puttrace.scummvm</path>
+		<name>Putt-Putt Enters the Race</name>
+		<image>./00Boxart/puttrace</image>
+		<thumbnail>./00Boxart/puttrace</thumbnail>
+		<marquee>./00Logo/puttrace</marquee>
+		<desc>Join Putt-Putt as he gears up to participate in the Cartown 500 race!</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Putt-Putt Goes to the Moon/puttmoon.scummvm</path>
+		<name>Putt-Putt Goes to the Moon</name>
+		<image>./00Boxart/puttmoon</image>
+		<thumbnail>./00Boxart/puttmoon</thumbnail>
+		<marquee>./00Logo/puttmoon</marquee>
+		<desc>Putt-Putt gets launched to the moon and needs help to find his way back to Earth!</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Putt-Putt Joins the Circus/puttcircus.scummvm</path>
+		<name>Putt-Putt Joins the Circus</name>
+		<image>./00Boxart/puttcircus</image>
+		<thumbnail>./00Boxart/puttcircus</thumbnail>
+		<marquee>./00Logo/puttcircus</marquee>
+		<desc>Help Putt-Putt and Pep with circus-related challenges in this colorful adventure.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Putt-Putt Joins the Parade/puttputt.scummvm</path>
+		<name>Putt-Putt Joins the Parade</name>
+		<image>./00Boxart/puttputt</image>
+		<thumbnail>./00Boxart/puttputt</thumbnail>
+		<marquee>./00Logo/puttputt</marquee>
+		<desc>Putt-Putt embarks on his first adventure in Cartown, helping the town prepare for the parade.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Putt-Putt Saves the Zoo/puttzoo.scummvm</path>
+		<name>Putt-Putt Saves the Zoo</name>
+		<image>./00Boxart/puttzoo</image>
+		<thumbnail>./00Boxart/puttzoo</thumbnail>
+		<marquee>./00Logo/puttzoo</marquee>
+		<desc>Putt-Putt needs your help to rescue missing baby animals and ensure the grand opening of the Cartown Zoo!</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Putt-Putt Travels Through Time/putttime.scummvm</path>
+		<name>Putt-Putt Travels Through Time</name>
+		<image>./00Boxart/putttime</image>
+		<thumbnail>./00Boxart/putttime</thumbnail>
+		<marquee>./00Logo/putttime</marquee>
+		<desc>Putt-Putt and Pep must retrieve their belongings after accidentally traveling back in time!</desc>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Quest for Glory I: So You Want to be a Hero/qfg1.scummvm</path>
+		<name>Quest for Glory I: So You Want to be a Hero</name>
+		<image>./00Boxart/qfg1</image>
+		<thumbnail>./00Boxart/qfg1</thumbnail>
+		<marquee>./00Logo/qfg1</marquee>
+		<desc>An adventure-RPG where you shape your hero’s skills and journey through dangerous lands in the kingdom of Spielburg.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure, Role-Playing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Spy Fox - Dry Cereal/spyfox.scummvm</path>
+		<name>Spy Fox - Dry Cereal</name>
+		<image>./00Boxart/spyfox</image>
+		<thumbnail>./00Boxart/spyfox</thumbnail>
+		<marquee>./00Logo/spyfox</marquee>
+		<desc>Join Spy Fox in his mission to save the world's dairy supply in this spy-themed adventure for kids.</desc>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Spy Fox - Operation Ozone/spyozon.scummvm</path>
+		<name>Spy Fox - Operation Ozone</name>
+		<image>./00Boxart/spyozon</image>
+		<thumbnail>./00Boxart/spyozon</thumbnail>
+		<marquee>./00Logo/spyozon</marquee>
+		<desc>Spy Fox is back to stop a scheme that threatens Earth’s ozone layer in this kid-friendly spy adventure.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Spy Fox - Some Assembly Required/spyfox2.scummvm</path>
+		<name>Spy Fox - Some Assembly Required</name>
+		<image>./00Boxart/spyfox2</image>
+		<thumbnail>./00Boxart/spyfox2</thumbnail>
+		<marquee>./00Logo/spyfox2</marquee>
+		<desc>Spy Fox must stop a scheme involving assembly-required toys in this spy adventure.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure, Kids</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Dig/dig.scummvm</path>
+		<name>The Dig</name>
+		<image>./00Boxart/dig</image>
+		<thumbnail>./00Boxart/dig</thumbnail>
+		<marquee>./00Logo/dig</marquee>
+		<desc>A group of astronauts uncovers an alien world while investigating an asteroid, revealing mysteries beyond their imagination.</desc>
+		<releasedate>19951101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure, Sci-Fi</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>

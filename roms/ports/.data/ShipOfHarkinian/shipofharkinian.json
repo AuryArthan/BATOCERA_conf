@@ -1,0 +1,253 @@
+{
+    "CVars": {
+        "gAltAssets": 1,
+        "gDisableDrawDistance": 2,
+        "gDisableKokiriDrawDistance": 0,
+        "gDisableLOD": 0,
+        "gLowResMode": 0,
+        "gOpenWindows": {
+            "modalWindowEnabled": 1
+        },
+        "gPreset0": 2,
+        "gZFightingMode": 0
+    },
+    "ConfigVersion": 2,
+    "Controllers": {
+        "Auto": {
+            "Slot_0": {
+                "AxisDeadzones": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_1": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_2": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_3": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            }
+        },
+        "Deck": {
+            "Slot_0": "Auto",
+            "Slot_1": "Disconnected",
+            "Slot_2": "Disconnected",
+            "Slot_3": "Disconnected"
+        },
+        "Keyboard": {
+            "Slot_0": {
+                "AxisDeadzones": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "17": 524288,
+                    "18": 32,
+                    "19": 16,
+                    "20": 2048,
+                    "30": 65536,
+                    "31": 262144,
+                    "32": 131072,
+                    "328": 8,
+                    "33": 512,
+                    "331": 2,
+                    "333": 1,
+                    "336": 4,
+                    "34": 1024,
+                    "35": 256,
+                    "42": 64,
+                    "44": 8192,
+                    "45": 32768,
+                    "46": 16384,
+                    "54": 128,
+                    "57": 4096
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_1": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "17": 524288,
+                    "18": 32,
+                    "19": 16,
+                    "20": 2048,
+                    "30": 65536,
+                    "31": 262144,
+                    "32": 131072,
+                    "328": 8,
+                    "33": 512,
+                    "331": 2,
+                    "333": 1,
+                    "336": 4,
+                    "34": 1024,
+                    "35": 256,
+                    "42": 64,
+                    "44": 8192,
+                    "45": 32768,
+                    "46": 16384,
+                    "54": 128,
+                    "57": 4096
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_2": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "17": 524288,
+                    "18": 32,
+                    "19": 16,
+                    "20": 2048,
+                    "30": 65536,
+                    "31": 262144,
+                    "32": 131072,
+                    "328": 8,
+                    "33": 512,
+                    "331": 2,
+                    "333": 1,
+                    "336": 4,
+                    "34": 1024,
+                    "35": 256,
+                    "42": 64,
+                    "44": 8192,
+                    "45": 32768,
+                    "46": 16384,
+                    "54": 128,
+                    "57": 4096
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_3": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "17": 524288,
+                    "18": 32,
+                    "19": 16,
+                    "20": 2048,
+                    "30": 65536,
+                    "31": 262144,
+                    "32": 131072,
+                    "328": 8,
+                    "33": 512,
+                    "331": 2,
+                    "333": 1,
+                    "336": 4,
+                    "34": 1024,
+                    "35": 256,
+                    "42": 64,
+                    "44": 8192,
+                    "45": 32768,
+                    "46": 16384,
+                    "54": 128,
+                    "57": 4096
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            }
+        }
+    },
+    "Window": {
+        "AudioBackend": "pulse",
+        "Backend": {
+            "Id": 3,
+            "Name": "OpenGL"
+        },
+        "Fullscreen": {
+            "Enabled": false
+        },
+        "Height": 974,
+        "PositionX": 1,
+        "PositionY": 80,
+        "Width": 1918
+    }
+}

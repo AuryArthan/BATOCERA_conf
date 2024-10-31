@@ -1,0 +1,304 @@
+{
+    "games": [
+        {
+            "path": "./8 Legs to Love.png",
+            "desc": "Spin a web, eat bugs, earn points, and have fun!\n\n8 Legs to Love is separated into six levels of just over two minutes each. The goal of each level is to spin an elaborate web and use it to catch bugs. Each level poses a different challenge for building and maintaining a web, and introduces new and exotic types of bugs. Complete a playthrough and work towards a personal high score! Or just have good time, there's no pressure.",
+            "releasedate": "20170609T000000",
+            "developer": "bridgs",
+            "publisher": "pico8, Homebrew",
+            "genre": "Arcade",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./A Doukutsu Demake.png",
+            "desc": "Another little project my brother and I have been working on. We are huge Cave Story fans, so building a demake was kind of a childhood dream come true. Never ceases to amaze me how much can be done within the (wonderful self-imposed) limitations of the Pico-8 engine.\n\nIt has no real ending as-of-now, we might add that in later. But for now, enjoy! If you want to see some of our process in creating this, we vlogged about it at DoubtfulGames",
+            "releasedate": "20160208T000000",
+            "developer": "howlermiller",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./A Hat on Time.png",
+            "desc": "The Conductor's train went off the rails near the desolate plains of Ash Town, so Hat Kid has returned to the planet to make sure her friends are okay, and to find a mysterious relic! Grab all 30 time pieces in this short platformer, based on the game A Hat in Time!",
+            "releasedate": "20180824T000000",
+            "developer": "eggnog",
+            "publisher": "pico8, Homebrew",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Ascent.png",
+            "desc": "Crashed on a desolate but mysterious planet you find yourself eye to eye with an ancient civilisation. Explore the planet, find powerful upgrades, and uncover its secrets.",
+            "releasedate": "20220903T000000",
+            "developer": "johanp",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Celeste 2.png",
+            "desc": "For the 3rd anniversary of Celeste we made this new PICO-8 game in 3 days!",
+            "releasedate": "20210126T000000",
+            "developer": "noel",
+            "publisher": "pico8, Homebrew",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Celeste.png",
+            "desc": "A hardcore platformer by Matt Thorson and Noel Berry (me), that we made in 4 days.\n\nWe used pretty much all our resources for this. 8186/8192 code, the entire spritemap, the entire map, and 63/64 sounds.",
+            "releasedate": "20150721T000000",
+            "developer": "noel",
+            "publisher": "pico8, Homebrew",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Dank Tomb.png",
+            "desc": "If you'd like to put the game down and return to it later, the game features a special room where you can save your progress. Once you see the \"progress saved\" message, it's safe to close the browser/console. To delete your progress (to get 100% completion on a new playthrough, maybe?), press Enter and select \"delete progress\" from the in-game menu. Warning: irreversible!",
+            "releasedate": "20170725T000000",
+            "developer": "krajzeg",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Dusk Child.png",
+            "desc": "You have been drawn to a mysterious place, what secrets does it hold, and what will they mean for you?\n\nWhen not carrying an item, you can examine things. If you're stuck, try examining signs and other objects.\nWhen you have explored far enough into the western temple, you can use the 'X' button.",
+            "releasedate": "20170415T000000",
+            "developer": "SophieHoulden",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Fuz.png",
+            "desc": "This is a tiny adventure based directly on FEZ, a game by the Polytron Corporation. It is a fan work, and was not made in collaboration with or endorsed by them.\n\nFUZ features a total of 8 distinct areas. Its visuals, mechanics, and puzzles are all based off those in the original.",
+            "releasedate": "20190531T000000",
+            "developer": "Jusiv",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Ghost House.png",
+            "desc": "As the title suggests. Made in a month for Spooky September 4-Color Jam.",
+            "releasedate": "20190901T000000",
+            "developer": "kittenmAster",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Gifts on Venus.png",
+            "desc": "Evil skulls have put explosive gifts all over Venus! Go and slash them off to save Venus!",
+            "releasedate": "20210308T000000",
+            "developer": "TRASEVOL_DOG",
+            "publisher": "pico8, Homebrew",
+            "genre": "Action",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Hybris.png",
+            "desc": "Destroy the infected cells to prevent the infection from spreading.",
+            "releasedate": "20151214T000000",
+            "developer": "benjamin_soule",
+            "publisher": "pico8, Homebrew",
+            "genre": "Action",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Marballs 2.png",
+            "desc": "A sequel to Marballs, now with verticality, orbs and jump pads!\n\nRoll around with the arrow keys, jump with Z and use X to pause and restart.\nUse the pause menu (ESC or enter) to return to the main menu.\nTo swap to 45 degrees controls choose \"swap controls\" in the pause menu.",
+            "releasedate": "20210625T000000",
+            "developer": "lucatron",
+            "publisher": "pico8, Homebrew",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./P.Craft.png",
+            "desc": "P.Craft is a crafting game. You wake up on a deserted island, and you have to survive. Gather materials and build your tools. Explore the area and find a cave. Will you find a way to escape the island?",
+            "releasedate": "20160708T000000",
+            "developer": "NuSan",
+            "publisher": "pico8, Homebrew",
+            "genre": "Survival",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./PicoHot.png",
+            "desc": "SUPERHOT’s \"time moves only when you move\" mechanic. The Basic SUPERHOT three-color palette for clarity. It’s 3D! A few story levels and an endless mode.",
+            "releasedate": "20200401T000000",
+            "developer": "pirx_vr",
+            "publisher": "pico8, Homebrew",
+            "genre": "Shooter",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./PicoKart.png",
+            "desc": "Compete in a 3D, high-speed go-cart race against computer-controlled mouse opponents in three challenging tracks.",
+            "releasedate": "20151221T000000",
+            "developer": "electricgryphon",
+            "publisher": "pico8, Homebrew",
+            "genre": "Racer",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pico Pirates.png",
+            "desc": "Pico Pirates is an open world adventure game featuring deadly monsters, rival pirates and beautiful sandy beaches!\n\nYou set out on your quest to find The Pirate King and claim the crown for yourself. To do this, you'll need to find the 4 compass pieces scattered around the vast, procedurally generated world and keep your crews spirits high throughout (pirates lovely treasure and a good fight!).",
+            "releasedate": "20190919T000000",
+            "developer": "GibletsofJesus",
+            "publisher": "pico8, Homebrew",
+            "genre": "Action, Strategy",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pico Racer.png",
+            "desc": "As it sounds. A Pole Position/Enduro/OutRun derivative.",
+            "releasedate": "20160429T000000",
+            "developer": "kometbomb",
+            "publisher": "pico8, Homebrew",
+            "genre": "Racing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pico Tennis.png",
+            "desc": "Play against AI or with up to 4 players.\n\nZ to hit the ball. To hit the ball in different directions you need to hit it when it's off to your side. So the further to your right the ball is when you hit it the more it will go left.\n\nX to do a power shot. Whenever you return the ball during a rally you will build up power. You can do a power shot anytime you have power in your meter, but the more it builds up the faster your shot will be.",
+            "releasedate": "20191118T000000",
+            "developer": "paranoidcactus",
+            "publisher": "pico8, Homebrew",
+            "genre": "Sports",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./Pico Tetris.png",
+            "desc": "Why are you reading this, it's Tetris, you probably already know how it works\n\nAnyways, this clone is guideline-compliant in large parts (except where the guideline is boring or confusing to me), including Standard Rotation System and kicks. It has a steep difficulty curve, and a lot of options to adjust gameplay, animations, or Tetromino sprites (I have 16 now!).\n\nI implemented 9 different modes, and up to 3 highscores are automatically saved per mode (options are also automatically saved btw)",
+            "releasedate": "20190429T000000",
+            "developer": "Vanessa",
+            "publisher": "pico8, Homebrew",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Picoware.png",
+            "desc": "Do you love WarioWare? And do you love PICO-8? What we if we combine them into one game that you can play in your browser, right now?",
+            "releasedate": "20210916T000000",
+            "developer": "szczm_",
+            "publisher": "pico8, Homebrew",
+            "genre": "Action, Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Poom.png",
+            "desc": "Mars base, Union Aerospace Corporation experiments opened a portal to Hell. You appear to be the last human, fight your way out!",
+            "releasedate": "20220103T000000",
+            "developer": "freds72",
+            "publisher": "pico8, Homebrew",
+            "genre": "Shooter",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Mario Bros.png",
+            "desc": "Late last year (2017) I started work on a port of Super Mario Bros [NES] to Pico-8. The goal was to be authentic as possible to the original game, while working within the Pico-8 limitations. Something like Super Mario Bros Deluxe [GBC] (https://www.mariowiki.com/Super_Mario_Bros._Deluxe).\n\nIn the end I was able to get 1-1 and 1-2 mostly complete before starting to hit serious memory limits which make it seem near impossible to ship the full game.\n\nWith that in mind, I'm releasing it as-is for now so that people can check it out and see where it was headed.",
+            "releasedate": "20180910T000000",
+            "developer": "mhughson",
+            "publisher": "pico8, Homebrew",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Tera.png",
+            "desc": "Tera: Mind Over Matter is a modern puzzle action game about dropping blocks of different shapes to clear lines. The game has a rapid difficulty curve that emphasizes speed and accuracy. Get as many Teras as you can!",
+            "releasedate": "20190217T000000",
+            "developer": "tesselode",
+            "publisher": "pico8, Homebrew",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./The Merciless Deep.png",
+            "desc": "Goal: Reach the deepest possible and then come back to your boat.",
+            "releasedate": "20200223T000000",
+            "developer": "benjamin_soule",
+            "publisher": "pico8, Homebrew",
+            "genre": "Action, Strategy",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./UFO Swamp Odyssey.png",
+            "desc": "A short atmospheric platformer with metroidvania elements. Your UFO has been knocked out of the sky by scavengers and you're now trapped in their swampy junk yard. With the help of some friendly aliens, find a way to disable the electromagnetic pulse cannon that's keeping you from escaping.",
+            "releasedate": "20200527T000000",
+            "developer": "paranoidcactus",
+            "publisher": "pico8, Homebrew",
+            "genre": "Platform, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Villager.png",
+            "desc": "Welcome, Villager!\nYou are on this island to build a cosy little town for the peeple that want to live here.\n\nGather wood and stones to build and unlock other buildings. Some produce resources for you, others make your inhabitants happy. Well-fed and happy peeple produce more resources but keep them hungry or sad and they will leave. They might seem a bit lazy, but without them, buildings won't produce anything!\n\nBuild your first house and somebody will come soon, but there is no rush! Take your time and explore the island. There is no pressing matter, no harsh lose-condition, so be creative and build something beautiful.\n\nBe good to them, and have fun.",
+            "releasedate": "20200719T000000",
+            "developer": "partnano",
+            "publisher": "pico8, Homebrew",
+            "genre": "Simulation, Sandbox",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Wolfenstein 3D.png",
+            "desc": "Mostly works. Loads missing. Only 1 level. You get the idea.",
+            "releasedate": "20170103T000000",
+            "developer": "hungrybutterfly",
+            "publisher": "pico8, Homebrew",
+            "genre": "Shooter",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./X-Zero.png",
+            "desc": "Hack all the terminals and defeat the boss.\n\nThis is my attempt at making a polished game in a week and a half, although it ended up being 2 weeks. I had to drop a few features I wanted to put in due to time, and code ended up getting a bit messy. Still, I'm pretty happy with how it came out.\n\nThe frame rate can drop sometimes, particularly in the later parts of the game when there are a lot of enemies around.",
+            "releasedate": "20200314T000000",
+            "developer": "paranoidcactus",
+            "publisher": "pico8, Homebrew",
+            "genre": "Action",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Zepton.png",
+            "desc": "You have to survive as long as possible to an always increasing number of enemies. GOOD LUCK!",
+            "releasedate": "20170609T000000",
+            "developer": "rez",
+            "publisher": "pico8, Homebrew",
+            "genre": "Shmup",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./mk.zip</path>
+		<name>Mortal Kombat</name>
+		<image>./00Boxart/mk</image>
+		<thumbnail>./00Boxart/mk</thumbnail>
+		<marquee>./00Logo/mk</marquee>
+	</game>
+	<game>
+		<path>./mk2.zip</path>
+		<name>Mortal Kombat 2</name>
+		<image>./00Boxart/mk2</image>
+		<thumbnail>./00Boxart/mk2</thumbnail>
+		<marquee>./00Logo/mk2</marquee>
+	</game>
+	<game>
+		<path>./umk3r11.zip</path>
+		<name>Ultimate Mortal Kombat 3</name>
+		<image>./00Boxart/umk3r11</image>
+		<thumbnail>./00Boxart/umk3r11</thumbnail>
+		<marquee>./00Logo/umk3r11</marquee>
+	</game>
+</gameList>

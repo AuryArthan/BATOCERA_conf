@@ -1,0 +1,34 @@
+{
+    "games": [
+        {
+            "path": "./Knuckles' Chaotix (Japan, USA).32x",
+            "desc": "Knuckles' Chaotix is a spin-off of the Sonic the Hedgehog series of Genesis games. The starring character in this title is Knuckles the Echidna, who first appeared in Sonic the Hedgehog 3. Knuckles works at Carnival Island, an amusement park. It's his job to protect the park and make it a happy place for visitors. Dr. Robotnik, as usual, has an evil plan for the park. He wants the power emerald which supplies electricity to the entire island. What's worse, he has imprisoned several of Knuckles' friends in the \"combi confiner.\" This contraption only allows Knuckles to free one of his friends at a time be attaching a tether between himself and them. Therefore, when you play the game you are always attached to another character.\n\nAlthough the basic gameplay of Knuckles' Chaotix is similar to the Sonic games, the bungee cord between the two characters creates new challenges. The new characters that appear are Vector the Crocodile, Mighty the Armadillo, Espio the Chameleon, and Charmy Bee. There also two characters whose sole purpose is to slow you down, Heavy the Robot, and Bomb. Chaotix adds several new powerups and 3D bonus levels as well.",
+            "releasedate": "19950404T000000",
+            "developer": "Sega CS R&D 2, Sonic Team",
+            "publisher": "Sega of America, Inc.",
+            "genre": "Platform",
+            "players": "2",
+            "lang": "en,jp"
+        },
+        {
+            "path": "./Kolibri (USA, Europe).32x",
+            "desc": "Deep in the Earth, a powerful ancient crystal hums, fueling the balance of nature. But when its toxic twin plummets to Earth, nature totters on the edge of extinction! Only one hope survives - Kolibri. Though small and alone, the hummingbird must battle the invasive mutation in all its malignant form to restore Earth. But at what cost?",
+            "releasedate": "19950908T000000",
+            "developer": "Novotrade International",
+            "publisher": "Sega",
+            "genre": "Shooter",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pitfall.32x",
+            "desc": "Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive\u2014and quick. Or prepare to die.",
+            "releasedate": "19951001T000000",
+            "developer": "Activision",
+            "publisher": "Activision",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

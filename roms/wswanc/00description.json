@@ -1,0 +1,14 @@
+{
+    "games": [
+        {
+            "path": "./Digimon Digital Monsters - Anode & Cathode Tamer: Veedramon Version (Asia).wsc",
+            "desc": "At the very tail end of 1999, something very peculiar happened. At some point, Chimairamon and Mugendramon fused together in order to survive, resulting in Millenniumon. Millenniumon then imprisoned the Chosen Children, generated a time slip that resurrected many of the evil Digimon from Digimon Adventure, and was generally evil. Agumon escaped with Taichi's Digivice and tried to send it to different children. On New Year's Eve, he finally found a child willing to take up the Digivice and help him save Taichi and the others: an eleven year old boy with no Digimon partner or Digivice of his own, named Akiyama Ryou.\n\nVeedramon Version combines the two Japan-exclusive games Digimon Adventure: Anode Tamer and Cathode Tamer in a colored version which previously was implemented in Digimon Adventure 02: D1 Tamers. It is in English language and mainly uses the North American dub names for all characters.",
+            "releasedate": "20010918T000000",
+            "developer": "SIMS Co., Ltd.",
+            "publisher": "Bandai Co., Ltd.",
+            "genre": "Role-Playing",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

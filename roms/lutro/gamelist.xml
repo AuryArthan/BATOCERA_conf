@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Onion Kidd.lutro</path>
+		<name>Onion Kidd</name>
+		<image>./00Image/Onion Kidd</image>
+		<thumbnail>./00Boxart/Onion Kidd</thumbnail>
+		<marquee>./00Logo/Onion Kidd</marquee>
+		<desc>This is an Alex Kidd style platformer, made with lutro for my 3yo son. The gameplay is simplified, the character is a single tile high to avoid having to jump and punch at the same time.</desc>
+		<releasedate>20211113T000000</releasedate>
+		<developer>Kivutar</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Shogun.lutro</path>
+		<name>Shogun</name>
+		<image>./00Image/Shogun</image>
+		<thumbnail>./00Boxart/Shogun</thumbnail>
+		<marquee>./00Logo/Shogun</marquee>
+		<desc>A simple, symmetric board game inspired by Shogi.
+
+There are two types of pieces:
+1. Nobles, move 1 square in any direction and can only be moved by their respective players.
+2. Pointers, move 1 square in any direction except backward and can be moved by all players. When pointers move, their orientation changes.
+
+Pointers attack the square in front of them. Nobles cannot enter an attacked square, and when they are attacked they must move out. If they are attacked and cannot move, they are defeated.
+
+A player wins if their noble reaches the center of the board, or if all other players are defeated.
+
+Pointers cannot enter the center and can only be moved once per turn.</desc>
+		<releasedate>20240618T000000</releasedate>
+		<developer>AuryArthan</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Spaceship.lutro</path>
+		<name>Spaceship</name>
+		<image>./00Image/Spaceship</image>
+		<thumbnail>./00Boxart/Spaceship</thumbnail>
+		<marquee>./00Logo/Spaceship</marquee>
+		<desc>Simple demo game for Lutro.</desc>
+		<releasedate>20210424T000000</releasedate>
+		<developer>Kivutar</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tetris.lutro</path>
+		<name>Tetris</name>
+		<image>./00Image/Tetris</image>
+		<thumbnail>./00Boxart/Tetris</thumbnail>
+		<marquee>./00Logo/Tetris</marquee>
+		<desc>Tetris clone demo for Lutro, adapted from ex's blocks for LÖVE.</desc>
+		<releasedate>20210818T000000</releasedate>
+		<developer>Kivutar</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>

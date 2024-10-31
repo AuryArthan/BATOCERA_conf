@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Conker - Live & Reloaded (USA).xiso.iso</path>
+		<name>Conker - Live & Reloaded</name>
+		<image>./00Image/Conker - Live & Reloaded (USA)</image>
+		<thumbnail>./00Boxart/Conker - Live & Reloaded (USA)</thumbnail>
+		<marquee>./00Logo/Conker - Live & Reloaded (USA)</marquee>
+		<cart>./00Cart/Conker - Live & Reloaded (USA)</cart>
+		<desc>Conker, gaming’s notoriously naughty squirrel, arrives on the Xbox with a bang in an all-new Xbox Live-enabled team-based shooter, Conker: Live and Reloaded.
+
+The game features intense Deathmatch and Campaign story line modes via Xbox Live and System Link, and players can compete as one of six combat specialists across multi-mission campaigns covering Old War and Future War. The warfare promises to deliver the non-stop action, humor, and innuendos Conker is famous for.
+
+Also included is the critically acclaimed single-player game, Conker’s Bad Fur Day, completely recreated for the Xbox with stunning graphics and unparalleled attitude.</desc>
+		<releasedate>20050621T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fable - The Lost Chapters (USA).xiso.iso</path>
+		<name>Fable - The Lost Chapters</name>
+		<image>./00Image/Fable - The Lost Chapters (USA)</image>
+		<thumbnail>./00Boxart/Fable - The Lost Chapters (USA)</thumbnail>
+		<marquee>./00Logo/Fable - The Lost Chapters (USA)</marquee>
+		<cart>./00Cart/Fable - The Lost Chapters (USA)</cart>
+		<desc>In this role-playing adventure game from Lionhead Studios, every action determines a character's skills, appearance and morality. A character's life story is created from childhood through adulthood and on to old age. One can grow from an inexperienced child into the most powerful being in the world, spoken of by all and immortalized in legend. As additional story and side quests await, so too does the path of righteousness, as well as the life of evil. With every choice, a character transforms into a reflection of his actions and decisions. Age leaves characters wizened and battle leaves characters scarred in the world of Fable: The Lost Chapters.</desc>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Lionhead Studios Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pirates of the Caribbean (USA).xiso.iso</path>
+		<name>Pirates of the Caribbean</name>
+		<image>./00Image/Pirates of the Caribbean (USA)</image>
+		<thumbnail>./00Boxart/Pirates of the Caribbean (USA)</thumbnail>
+		<marquee>./00Logo/Pirates of the Caribbean (USA)</marquee>
+		<cart>./00Cart/Pirates of the Caribbean (USA)</cart>
+		<desc>Pirates of the Caribbean is a 2003 video game for Microsoft Windows and Xbox, developed by Akella and published by Bethesda Softworks. The Xbox version was the first U.S. console game developed in Russia. A PlayStation 2 version was also originally in development, but was later canceled.
+
+An unrelated game by the same name was also released for mobile phones, as was a Game Boy Advance game.</desc>
+		<releasedate>20030701T000000</releasedate>
+		<developer>Akella</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>

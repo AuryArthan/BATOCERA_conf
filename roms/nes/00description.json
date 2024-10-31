@@ -1,0 +1,364 @@
+{
+    "games": [
+        {
+            "path": "./2048 (tsone).nes",
+            "desc": "2048 is a puzzle game where the idea is to make the number 2048 appear on a 4 x 4 grid. Starting with two number two's, you must move the numbers to make other number two's appear and when they touch then they double to make four. Moving the numbers make other numbers appear and if the same number touches then they double as well. You have to keep doubling the numbers until you make 2048 without filling the grid and you are unable to move any more numbers.",
+            "releasedate": "20140621T000000",
+            "developer": "tsone",
+            "publisher": "tsone",
+            "genre": "Puzzle, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Aladdin.nes",
+            "desc": "Aladdin is a platform adventure where you play as the street-smart Aladdin. Journey through bustling marketplaces, desert sands, and the Sultan's palace to defeat the evil Jafar. Utilize jumps, attacks, and acrobatics to navigate traps, dodge enemies, and reach your goal.",
+            "releasedate": "19930101T000000",
+            "developer": "NMS Software",
+            "publisher": "Virgin Games",
+            "genre": "Platform, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Alter Ego.nes",
+            "desc": "You control a hero who has a phantom twin, his alter ego. When the hero moves, the alter ego moves too in a mirrored fashion. In some levels the movements are mirrored horizontally, in other ones they are mirrored vertically. You can switch between the hero and his alter ego limited number of times in a level\u2026",
+            "releasedate": "20110827T000000",
+            "developer": "RetroSouls",
+            "publisher": "RetroSouls",
+            "genre": "Puzzle, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Alwa's Awakening.nes",
+            "desc": "Use your magic staff and progress through a large interconnected world where you'll solve puzzles, fight enemies and defeat bosses in order to help free the land of Alwa. Explore and uncover the secrets by using your platforming skills in this challenging and charming 8-bit adventure game.",
+            "releasedate": "20220504T000000",
+            "developer": "Elden Pixels",
+            "publisher": "Elden Pixels",
+            "genre": "Adventure, Platform, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Back to the Future (USA).nes",
+            "desc": "You are Marty McFly, just a typical senior at Hill Valley High. But after getting behind the wheel of a nuclear-powered sports car turned time machine, you find yourself in the year 1955 where you've accidentally tampered with history. Now it must be corrected. You must somehow make sure that teenagers Lorraine Baines and George McFly (the two kids that will eventually grow up to become your parents) fall in love before the photo of your family fades away and you're left with nothing to come home to. It won't be easy. You'll have to protect George from Biff and his gang of bullies while doing your best to keep them from beating you up instead. To complicate things, Lorraine has a crush on you, so you'll have to dodge her advances while trying to figure out a way to get George and her to kiss at the school dance. Time is wasting and even if you manage to put all of the pieces in place, there is still no guarantee that you'll get back. It will all come down to one brief moment in time when the past, present and future all meet.",
+            "releasedate": "19890901T000000",
+            "developer": "Software Images",
+            "publisher": "LJN",
+            "genre": "Action",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Back to the Future Part II & III (USA).nes",
+            "desc": "Get ready for a wild romp through time, Marty McFly, 'cause you're about to take off on a double mission to save the past, present and future! Better load up on pizza and soda as you rocket to the year 2015 in Doc's supercharged time machine. Hang on to your hi-speed hoverboard as you teach Biff Tannen a thing or two about stealing your Sports Almanac, and locate the special objects he's hidden throughout time. Then, if your flux capacitor isn't on the fritz, it's off to the Wild West, where sharp shootin' gunslingers want you out of town by sundown. The fate of the world -- not to mention generations of McFly's -- is in your hands... and you're out of time!",
+            "releasedate": "19901231T000000",
+            "developer": "Beam Software",
+            "publisher": "LJN",
+            "genre": "Action, Adventure, Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Bard's Tale, The (USA).nes",
+            "desc": "In The Bard's Tale, journey into dungeons filled with mysterious foes, puzzles, and treasures. As a novice bard, level up and recruit allies to take on creatures that lurk in the shadows of Skara Brae. Use your magic and wits to become the ultimate hero.",
+            "releasedate": "19900501T000000",
+            "developer": "Interplay Productions",
+            "publisher": "FCI, Inc.",
+            "genre": "Role-Playing, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Beatles Adventures In Pepperland, The.nes",
+            "desc": "The Beatles Adventures In Pepperland Super Mario Bros. 2 hack\n\nProduced by Nesdraug and Shauing 2019-2021\n\nThis hack is loosely based on the 1968 film Yellow Submarine(which was actually released 13 november 1968 in the US)\n\nPlay as The Beatles and fight blue meanies in this colorful adventure in the unearthly paradise called Pepperland.",
+            "releasedate": "20211109T000000",
+            "developer": "Nesdraug, Shauing",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Beetlejuice (USA).nes",
+            "desc": "In the game you control Beetlejuice through various side-scrolling and overhead view levels in an effort to scare the yuppie Deetz family and friends that have taken over the house.  You stomp on cockroaches in order to gain points that you used to buy various scare tactics that you use to defeat various enemies and bosses.  Although the initial levels of the game are based upon the film, with Beetlejuice venturing through the Maitland House to find and scare away Otho, the later levels are original and involve Beetlejuice fighting mythical creatures in such locations as a sewer system and the afterlife.",
+            "releasedate": "19910101T000000",
+            "developer": "Rare, Ltd.",
+            "publisher": "LJN",
+            "genre": "Action, Adventure, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Bible Adventures (USA).nes",
+            "desc": "Be a part of Bible stories as exciting characters come to life. Help Noah bring the animals into the ark before the big storm; pretend you are David battling the giant Goliath; and help save baby Moses from the Pharaoh's overwhelming forces. Assisted by scores of direct quotes from the Bible, your adventure is going to be fun and educational.",
+            "releasedate": "19920124T000000",
+            "developer": "Wisdom Tree, Inc",
+            "publisher": "Wisdom Tree, Inc.",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Binary Land (Japan).nes",
+            "desc": "Binary Land is a puzzle video game developed by Hudson Soft in 1983 for the MSX, FM-7, NEC PC-6001, NEC PC-8801, and in 1985 for the Famicom. The MSX version saw release in Japan by Kuma Computers Ltd in 1984.\n\nWhile the Famicom version has a grand total of 99 levels; there is no ending screen implemented in the game.\n\nIn the Famicom version of the game, players have to unite two penguins, Gurin (male) and Malon (female), who are in love. The MSX version features a human boy and a human girl; gameplay remains identical to the Famicom version. Players control Malon and Gurin simultaneously; with a timer adding to the difficulty. These penguins move in mirror images of each other. The game features many different stages. After completing the 17th stage, players have to start over again on stage 1. \"Je te veux\" by Erik Satie is the background music in the game during the levels. Upon uniting the two penguins, Beethoven's \"Ode to Joy\" is played.\n\nA top-down view is utilized in the game; similar to the method used in The Adventures of Lolo. Standing in their way are spiders, birds and other creatures which the player must attack with the penguins' spray. Cobwebs occupy some of the cells on the playing field; possibly slowing the player down long enough for a spider to kill either Gurin or Malon. With each level arranged on a 10-by-15 grid and a vertical wall separating the two penguins from each other, only the upper central cell is free for both characters to reach. This \"free cell\" always holds the caged heart that is required to complete the level. A row of walls surrounding each player in a maze-like environment. In order to make the challenges more difficult; they are unbalanced and offer a different experience for Gurin and Malon.",
+            "releasedate": "19851219T000000",
+            "developer": "Hudson Entertainment, Inc.",
+            "publisher": "Hudson Entertainment, Inc.",
+            "genre": "Action",
+            "players": "1",
+            "lang": "jp"
+        },
+        {
+            "path": "./Castlevania III - Dracula's Curse (USA).nes",
+            "desc": "Akumaj\u014d Densetsu (also known as Castlevania III: Dracula's Curse) is a 1989 Famicom side-scrolling action platformer video game developed and released by Konami in Japan on December 22, 1989.\n\nJapanese release of Castlevania III: Dracula's Curse. Besides just the different title, Akumaj\u014d Densetsu, the Japanese version has several other differences. Most notably, the original Japanese version contained a specialized \"VRC6\" coprocessor chip. Other changes differed in the gameplay or graphics. Instead of using a stabbing dagger, Grant throws daggers as his main attack. Some enemies do less damage in the Japanese version, and had their sprites changed for the Western releases. Some instances of nudity on the enemies were also censored, and religious iconography was pared down. The Japanese version had slightly different backgrounds in many stages, and had special effects not seen in the North American and European releases.\n\nThe year is 1476, and Count Dracula has started to ravage Europe with an army of monsters. The Belmont family of vampire hunters, once exiled from Wallachia, are called into action by the Church. They feared the Belmonts' \"super-human\" power, but with Dracula menacing to swallow Europe in darkness, they are left with no choice but to call Trevor Belmont, current wielder of the Vampire Killer Whip.\n\nJoining Trevor Belmont in his mission to defeat Dracula are three new playable characters: Sypha Belnades, a young sorceress with poor physical attack power but powerful elemental magic spells at her disposal; Grant Danasty, a pirate with the ability to climb on walls and change direction in mid-jump (a rare ability in earlier games of the series); and Alucard, Dracula's son, a dhampir with the ability to shoot fireballs and transform into a bat. Trevor can be accompanied by only one companion at a time. If he chooses to take on another he must abandon his current companion. The player can \"spiritually transform\" between Trevor and his ally with the \"select\" button. Both Trevor and whoever is accompanying him share the same health meter. The ending of the game differs depending on which companion Trevor has with him at the time, or if he does not take another character with him at all. The ending determines the path of the character to Valhalla.",
+            "releasedate": "19891222T000000",
+            "developer": "Konami",
+            "publisher": "Konami",
+            "genre": "Action, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Contra (USA).nes",
+            "desc": "Contra is a 1988 NES side-scrolling run and gun platformer video game developed by Konami and released by Konami Inc. in the USA on February 2, 1988.\n\nThe universe teeters on the brink of total annihilation at the hands of the vile alien warmonger, Red Falcon. Earth's only hope rests with you, a courageous member of the Special Forces elite commando squad. Your mission: Battle deep into the deadly Amazon jungle, where the Red Falcon and his galactic henchmen have transformed ancient Mayan temples into awesome monuments dedicated to mass destruction. A multitude of weapons, from rapid-fire machine guns to high-tech lasers are at your disposal as you sweat blood, fighting past 3-D mazes, underground security systems, and tropical forests surrounded by giant waterfalls and alien cannons. This is the ultimate test for the ultimate guerilla warrior. And if you survive, Earth survives!",
+            "releasedate": "19880202T000000",
+            "developer": "Konami",
+            "publisher": "Konami",
+            "genre": "Action, Shooter, Platform",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./D-pad Hero.nes",
+            "desc": "D-Pad Hero is a 2009 video game demake of the Guitar Hero series developed for the Nintendo Entertainment System. An unofficial release, the game is a ROM which must be dumped onto a cartridge or played via emulator.",
+            "releasedate": "20090101T000000",
+            "developer": "Kent Hansen",
+            "publisher": "Homebrew",
+            "genre": "Music, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Final Fantasy (USA).nes",
+            "desc": "Final Fantasy is a 1990 NES role-playing video game developed by Square and released by Nintendo of America in the USA on May 26, 1990.\n\nAn evil shroud covers the world in darkness. You must restore the powers of earth, wind, fire and water to the Four Orbs. Create your own band of 4 Light Warriors from fighters, thieves, martial artists, and magicians. You'll need all their skills to triumph in this massive role-playing adventure. Your treacherous journey takes you to all parts of a strange new world. Explore dangerous castles and dark caverns where deadly perils and great rewards, await at every turn. Hundreds of ferocious monsters block your path. With patience, skill, and cunning, you can defeat them.",
+            "releasedate": "19900526T000000",
+            "developer": "Squaresoft",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Fire 'n Ice (USA).nes",
+            "desc": "Some levels contain pipes through which Dana can go, burning jars that melt ice or moving monsters instead of flames. There are ten worlds plus five secret worlds that contain ten levels. The first nine worlds can be played in any order. The tenth level of a world usually features a special challenge like moving flames or monsters and lava that is slowly rising from the bottom.",
+            "releasedate": "19930315T000000",
+            "developer": "Tecmo",
+            "publisher": "Tecmo",
+            "genre": "Action",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Immortal, The (USA).nes",
+            "desc": "Play as a powerful wizard in a dark fantasy world. Navigate traps, solve puzzles, and battle through dungeons in a quest to uncover secrets.",
+            "releasedate": "19910101T000000",
+            "developer": "Will Harvey",
+            "publisher": "Electronic Arts",
+            "genre": "Adventure, Action",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Legend of Zelda, The (USA).nes",
+            "desc": "Embark on a legendary adventure as Link, tasked with rescuing Princess Zelda and defeating Ganon. Explore dungeons, solve puzzles, and collect items to power up.",
+            "releasedate": "19860221T000000",
+            "developer": "Nintendo EAD",
+            "publisher": "Nintendo",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Lion King, The (Europe).nes",
+            "desc": "Disney's The Lion King brings to life the majesty of Africa through the tale of Simba, a lion cub faced with the challenging transition to maturity. Driven into the wilderness by his evil uncle Scar, Simba finds salvation with Pumbaa the warthog and Timon the Meerkat, and his education begins.",
+            "releasedate": "19950525T000000",
+            "developer": "Virgin Interactive Entertainment",
+            "publisher": "Virgin Interactive Entertainment, Inc.",
+            "genre": "Action",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Mario Adventure.nes",
+            "desc": "Hailed as one of the greatest NES hacks of all time. This Super Mario Brothers 3 hack changes the game right down to the core by tweaking the actual game engine itself!\n\nAside from the \u2018typical\u2019 graphics and text changes, this hack alters musical melodies, a full line up of all new levels, new power ups, new abilities for Mario, and even new enemies! When I say new, I\u2019m not talking about changed graphics; I\u2019m talking about completely new power ups and monsters. Money mushrooms, invisible Mario, time stopping potions, Kuribo shoes in any level that don\u2019t disappear, shy guys that create projectiles, heat seeking bullet bills, and others are just the beginning of the changes made to this game.\n\nOn top of that, you have random weather patterns on every stage, boss battles on every stage, and infinite lives, so your coins go to more useful purposes. They will be used to buy items from Toad\u2019s house and get some level exits to appear. Let\u2019s not forget stored, and switchable, power ups such as those found in Super Mario World!",
+            "releasedate": "20040101T000000",
+            "developer": "DahrkDaiz",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Mario Bros. (World).nes",
+            "desc": "Mario Bros. is a 1983 Famicom platformer video game developed by Nintendo R&D2 and released by Nintendo in Japan on September 9, 1983.",
+            "releasedate": "19830909T000000",
+            "developer": "Nintendo R&D2",
+            "publisher": "Nintendo",
+            "genre": "Platform",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Mega Man 2 (USA).nes",
+            "desc": "Rockman 2: Dr. Wily no Nazo (also known as Mega Man 2) is a 1988 Famicom side-scrolling action platformer video game developed and released by Capcom in Japan on December 24, 1988.",
+            "releasedate": "19881224T000000",
+            "developer": "Capcom",
+            "publisher": "Capcom",
+            "genre": "Action, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Metroid (USA).nes",
+            "desc": "Metroid is a 1987 NES side-scrolling metroidvania platformer video game developed by Nintendo R&D1 (co-developed by Intelligent Systems) and released by Nintendo of America in the USA on August 15, 1987.\n\nIt's you against the evil Mother Brain in the thrilling battle of Metroid!\n\nYou\u2019re inside the fortress planet Zebes.  The planet of endless secret passageways where the Metroid are multiplying.  Left alone the Metroid are harmless.  But in the wrong hands they could destroy the galaxy.  It\u2019s up to you to prevent the Mother Brain that controls Zebes from using the Metroid for evil purposes.  But that won\u2019t be easy.  You\u2019ll have to use your spacesuit to absorb valuable energy for your search to gain the use of power items like the Ice Beam, Wave Beam, High Jump Boots and Varia.  If you survive, it will be you and your acquired powers against the Mother Brain.\n\nWorth Noting: \nMetroid introduced nonlinear, side-scroller, maze-like, gameplay, in a platform, shooter. Metroid required players to discover permanent power-ups to progress further along; while backtracking through previously visited areas. The style is affectionately known as Metroid-vania' (Castlevania: Symphony of the Night being the second half to the term, mirrored the concept).\n\nMetroid also used a password system to resume progression of the game (Before the addition of battery backups and save files in console cartridges). Additionally the password system could be used for cheat codes: 'JUSTIN BAILEY ------ ------' (Just in Ballet) being famous, would remove Samus' power suit and start the player with many of the power-ups and fairly progressed through the game.\n\nCompleting the game in time and with enough power-ups revealed different endings. At the end Samus removes the helmet or power suit (depending) to a reveal a shocking suprise that endeared the character and broke new ground in gaming.",
+            "releasedate": "19870815T000000",
+            "developer": "Intelligent Systems Co., Ltd., Nintendo R&D1",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Action, Adventure, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Micro Mages.nes",
+            "desc": "Once upon a time, in a small cottage within a dark forest, four mages and their beloved Princess spent a life in harmony.  The mages were students at the renowned Hocus-Pocus Academy of Applied Magicks.  To keep Princess safe during their study hours, they installed a giant lock on their front door.\n\nOne day, the blue mage forgot to lock the door and when everyone came back home after a long day, their Princess was gone.\n\nA fairy bore terrible news: \"Strange things are happening in the old Demon Fortress atop Pretzel Mountain!\"\n\nThe four mages did not hesitate.  After chanting a teleportation spell they had just learned at the Academy, they took off to the Demon Fortress.",
+            "releasedate": "20180901T000000",
+            "developer": "Morphcat Games",
+            "publisher": "Morphcat Games, Broke Studio",
+            "genre": "Platform",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./Nova the Squirrel.nes",
+            "desc": "Nova the Squirrel is an open source NES platformer game that features Kirby-style ability copying as well as puzzle platforming. It features 33 levels (plus several bonus levels at the end), seven bosses, and a collectible in every level the player can try to get for 100% completion. It has a modern design, featuring no time limits or lives, as well as an abundance of checkpoints and in-game help.",
+            "releasedate": "20180101T000000",
+            "developer": "NovaSquirrel",
+            "publisher": "Homebrew",
+            "genre": "Action, Platform, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pac-Man (USA).nes",
+            "desc": "Pac-Man is a 1984 Famicom maze chase video game developed and released by Namco in Japan on November 2, 1984.",
+            "releasedate": "19841102T000000",
+            "developer": "Namcot",
+            "publisher": "Namcot",
+            "genre": "Action",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Solomon's Key (USA).nes",
+            "desc": "Solomon's Key is a platform game with both action and strategy elements. On each level your goal is to retrieve a key which can then be used to unlock the exit. To help out, you have a magic wand which can be used to create and destroy blocks (though some blocks can't be destroyed). In order to reach the key you will need carefully to arrange the blocks on the screen so you can jump your way around safely. Wandering around each level are a variety of enemies which will cause you to lose a life if you're caught. Some creatures can be killed by destroying the block they are standing on, others must be dodged. Hidden bonuses and magic can be found on many of the levels, sometimes even hidden in blocks. Some treasures give you bonus points, others can form magic spells to help deal with the enemies. To make the game more difficult, each level has a time limit in which it must be completed.\n\nKnown in Japan as Solomon no Kagi.",
+            "releasedate": "19870722T000000",
+            "developer": "Tecmo",
+            "publisher": "Tecmo",
+            "genre": "Puzzle, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Mario Bro-Op.nes",
+            "desc": "Mario and Luigi have defeated Wario but now the brothers face an even bigger challenge\u2026 or at least a taller one: Waluigi! Can Mario and Luigi make it through the mazes and hurdles to save the kingdoms? Probably!\n\n\u2219 Two Player Co-Op\n\n\u2219 New graphics, levels and music\n\n\u2219 Unlimited lives\n\n\u2219 No 1-up mushrooms\n\n\u2219 [!]-box removes lifts\n\n\u2219 20 coins = Star power\n\n\u2219 Additional stars in invincible boxes.\n\nNavigate through maze-like levels in The Mushroom Kingdom and Sarasaland. A lot of times you need to hit the boxes with dotted lines to make progress.\n\nThe game is made with two player co-op in mind but the game is beatable in single player mode, although there may be some paths that are tricky to reach without a second player.\n\nThis game features two player co-op, updated graphics and each world has it\u2019s own overworld music.",
+            "releasedate": "20230317T000000",
+            "developer": "Nesdraug",
+            "publisher": "Romhacking",
+            "genre": "Adventure, Platform, Unofficial",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Mario Bros. 2 (J).nes",
+            "desc": "Super Mario Bros. 2 is a 1988 NES side-scrolling platformer video game developed by Nintendo R&D4 and released by Nintendo of America in the USA on October 9, 1988.\n\nMario\u2019s back! Bigger and badder than ever before! This time it\u2019s a fierce action-packed battle to free the land of Subcon from the curse of the evil Wart. It\u2019s up to you, along with Mario, Luigi, Toad and the Princess, to fight your way through bizarre multi-level worlds and find him! This time you\u2019ve got a brand new kind of power - plucking power - and now anything you find can be a weapon. But beware! You\u2019ve never seen creatures like these! Shyguys and Tweeters! Ninji and Beezos! And you\u2019ve never had an adventure like this! Only cunning and speed can save you now\u2026",
+            "releasedate": "19881009T000000",
+            "developer": "Nintendo R&D4",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "jp"
+        },
+        {
+            "path": "./Super Mario Bros. 2 (USA).nes",
+            "desc": "Super Mario Bros. 2 is a 1988 NES side-scrolling platformer video game developed by Nintendo R&D4 and released by Nintendo of America in the USA on October 9, 1988.\n\nMario\u2019s back! Bigger and badder than ever before! This time it\u2019s a fierce action-packed battle to free the land of Subcon from the curse of the evil Wart. It\u2019s up to you, along with Mario, Luigi, Toad and the Princess, to fight your way through bizarre multi-level worlds and find him! This time you\u2019ve got a brand new kind of power - plucking power - and now anything you find can be a weapon. But beware! You\u2019ve never seen creatures like these! Shyguys and Tweeters! Ninji and Beezos! And you\u2019ve never had an adventure like this! Only cunning and speed can save you now\u2026",
+            "releasedate": "19881009T000000",
+            "developer": "Nintendo R&D4",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Mario Bros. 3 (USA).nes",
+            "desc": "Super Mario Bros. 3 is a 1990 NES side-scrolling platformer video game developed by Nintendo R&D4 and released by Nintendo of America in the USA on February 12, 1990.\n\nFight monsters and mini-bosses, avoid ghosts and the burning sun. Make your way through water and quicksand. Dodge cannonballs and bullets and rescue the King\u2019s wand!\n\nIn Super Mario Bros. 3, there are more warps, more chances at extra lives, and new special suits! The raccoon suit lets you fly and knock out blocks. The frog suit helps you out-swim the deadly fish. There are suits for every occasion!\n\nStore up flowers and mushrooms to use later on. Play game-show type bonus rounds! Go back to that last screen and get a mushroom! Pause to take a break, then continue where you left off!\n\nSuper Mario Bros. 3 is fun to play alone, or team up with a buddy to prolong the adventure!\n\nNote: Turn based Co-op as players work in turn to clear individual levels in a world. There is also a vs. mini-game where players try to steal items from each other.",
+            "releasedate": "19900212T000000",
+            "developer": "Nintendo R&D4",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Platform",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Mario Bros. 3 - Mix.nes",
+            "desc": "The original game with updated sprites from Super Mario 3.  Another hidden gem from BaronGaming.",
+            "releasedate": "20160101T000000",
+            "developer": "Southbird",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unofficial",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Mario Unlimited.nes",
+            "desc": "Bowser has returned and kidnapped Yoshi! You must help Mario rescue his friends from the clutches of evil!",
+            "releasedate": "20120117T000000",
+            "developer": "Frantik",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Tetris (USA).nes",
+            "desc": "Tetris is a 1989 NES puzzle video game developed by Nintendo R&D1 and released by Nintendo of America in the USA on November 1, 1989.\n\nA random sequence of tetrominoes (sometimes called \"tetrads\" in older versions)\u2014shapes composed of four square blocks each\u2014fall down the playing field (a rectangular vertical shaft, called the \"well\" or \"matrix\"). The objective of the game is to manipulate these tetrominoes, by moving each one sideways and rotating it by 90 degree units, with the aim of creating a horizontal line of blocks without gaps. When such a line is created, it disappears, and any block above the deleted line will fall. With every ten lines that are cleared, the game enters a new level. As the game progresses, each level causes the tetrominoes to fall faster, and the game ends when the stack of tetrominoes reaches the top of the playing field and no new tetrominoes are able to enter. In certain versions, the game can also end if the player is able to get all the way to level 15.\n\nAll of the tetrominoes are capable of single and double clears. I, J, and L are able to clear triples. Only the I tetromino has the capacity to clear four lines simultaneously, and this is referred to as a \"tetris\". (This may vary depending on the rotation and compensation rules of each specific Tetris implementation. For instance, in the Super Rotation System used in most recent implementations, called \"Easy Spin\" in Tetris Worlds, certain rare situations allow T, S and Z to 'snap' into tight spots and clear triples.)",
+            "releasedate": "19891101T000000",
+            "developer": "Nintendo R&D1",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Yoshi (USA).nes",
+            "desc": "Yoshi no Tamago (also known as Yoshi) is a 1991 Famicom puzzle video game developed by Game Freak and released by Nintendo in Japan on December 14, 1991.",
+            "releasedate": "19911214T000000",
+            "developer": "Game Freak",
+            "publisher": "Nintendo",
+            "genre": "Puzzle",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Zelda II - The Adventure of Link (USA).nes",
+            "desc": "The land of Hyrule is in chaos. As Link, you\u2019ll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues. Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell. On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest. As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision. Are you up to the challenge?",
+            "releasedate": "19881201T000000",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "genre": "Action, Role-Playing, Platform",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

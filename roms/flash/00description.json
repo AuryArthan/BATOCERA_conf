@@ -1,0 +1,64 @@
+{
+    "games": [
+        {
+            "path": "./Bloxorz.swf",
+            "desc": "Bloxorz is a challenging geometry puzzle game. You take charge of a rectangular solid trying to move across a series of levels by fitting through variously-shaped holes. Rotating the block to get to -- and fit into -- the hole requires planning and forethought, especially as one false move can send you off the edge of the level or into a deadly trap. Later levels are more complex and will probably require repeated attempts.",
+            "releasedate": "20070101T000000",
+            "developer": "Damien Clarke",
+            "publisher": "Flash, Homebrew",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Flight of the Hamsters.swf",
+            "desc": "Flight of the Hamsters is a super fun game where you get to launch cute hamsters into the air. It's their day off from powering the Kids Next Door Treehouse, and they're ready for some fun! Imagine a hamster, wearing tiny goggles, soaring through the air like a superhero. How cool is that?",
+            "releasedate": "20080101T000000",
+            "developer": "Cartoon Network",
+            "publisher": "Flash, Cartoon Network",
+            "genre": "Action, Casual",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Happy Wheels.swf",
+            "desc": "Happy Wheels is a driving, action, and obstacle-overcoming game that is becoming more and more popular with billions of players across the world. In this fun game, your character is sure to get injured, with a broken leg or arm... on the arduous journey to win. Happy Wheels is based on ragdoll physics. You will have to drive through hazardous terrain and find your way to the finish line at all costs, including serious injury. Driving is not easy! At each stage, you need to choose the right character. This bloody game looks very simple but is extremely thrilling and special. You will not stop laughing while playing this game.",
+            "releasedate": "20100601T000000",
+            "developer": "Jim Bonnaci",
+            "publisher": "Flash, Homebrew",
+            "genre": "Action, Racing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Learn to Fly.swf",
+            "desc": "This penguin has had enough of life on the ground and wants to Learn to Fly! Slide off the ramp and buy upgrades so that you can make it over the water. Use the left and right arrow keys to control your angle in flight. Once you buy rockets, press and hold Spacebar to activate them.",
+            "releasedate": "20090516T000000",
+            "developer": "Light Bringer",
+            "publisher": "Flash, Homebrew",
+            "genre": "Strategy",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Spin Stadium.swf",
+            "desc": "Spin Stadium was a game on the US Cartoon Network website. The player chooses to play as one of the the Eds who attempt to knock out tops in front of the the Kids.",
+            "releasedate": "20070101T000000",
+            "developer": "Cartoon Network",
+            "publisher": "Flash, Cartoon Network",
+            "genre": "Action, Casual",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Mario 63.swf",
+            "desc": "Super Mario 63 is a fan-game, mainly inspired by Nintendo's Super Mario 64, but also by Super Mario Sunshine, and Super Mario Galaxy. Many levels and features are based upon them and other Nintendo's games, but a variety of them are completely original. Among them include a detailed storyline, shareable codes, three different F.L.U.D.D. power-ups, four different power-up stars, with 64 Shine Sprites and 64 Star Coins to collect.",
+            "releasedate": "20090610T000000",
+            "developer": "Runouw",
+            "publisher": "Flash, Homebrew",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

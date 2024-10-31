@@ -1,0 +1,14 @@
+{
+    "games": [
+        {
+            "path": "./Yarntown.solarus",
+            "desc": "Welcome to Yarntown, a Zeldalike tribute to Bloodborne. Explore the streets of a cursed, gothic town, hunting beasts and uncovering twisted bosses.\n\nYarntown is a 2D hommage to Bloodborne, a dark fantasy video game released on Playstation 4 in 2015. Bloodborne is as renowned for its demanding and merciless gameplay as for its incredible gothico-victorian atmosphere. This quest recreates only a part of the original game, because this is just a little side project.",
+            "releasedate": "20200718T000000",
+            "developer": "Moth Atlas",
+            "publisher": "Homebrew",
+            "genre": "Action-RPG, Souls-like",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

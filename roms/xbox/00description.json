@@ -1,0 +1,34 @@
+{
+    "games": [
+        {
+            "path": "./Conker - Live & Reloaded (USA).xiso.iso",
+            "desc": "Conker, gaming’s notoriously naughty squirrel, arrives on the Xbox with a bang in an all-new Xbox Live-enabled team-based shooter, Conker: Live and Reloaded.\n\nThe game features intense Deathmatch and Campaign story line modes via Xbox Live and System Link, and players can compete as one of six combat specialists across multi-mission campaigns covering Old War and Future War. The warfare promises to deliver the non-stop action, humor, and innuendos Conker is famous for.\n\nAlso included is the critically acclaimed single-player game, Conker’s Bad Fur Day, completely recreated for the Xbox with stunning graphics and unparalleled attitude.",
+            "releasedate": "20050621T000000",
+            "developer": "Rare, Ltd.",
+            "publisher": "Microsoft Studios",
+            "genre": "Action, Platform",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Fable - The Lost Chapters (USA).xiso.iso",
+            "desc": "In this role-playing adventure game from Lionhead Studios, every action determines a character's skills, appearance and morality. A character's life story is created from childhood through adulthood and on to old age. One can grow from an inexperienced child into the most powerful being in the world, spoken of by all and immortalized in legend. As additional story and side quests await, so too does the path of righteousness, as well as the life of evil. With every choice, a character transforms into a reflection of his actions and decisions. Age leaves characters wizened and battle leaves characters scarred in the world of Fable: The Lost Chapters.",
+            "releasedate": "20051018T000000",
+            "developer": "Lionhead Studios Ltd.",
+            "publisher": "Microsoft Studios",
+            "genre": "Action, Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pirates of the Caribbean (USA).xiso.iso",
+            "desc": "Pirates of the Caribbean is a 2003 video game for Microsoft Windows and Xbox, developed by Akella and published by Bethesda Softworks. The Xbox version was the first U.S. console game developed in Russia. A PlayStation 2 version was also originally in development, but was later canceled.\n\nAn unrelated game by the same name was also released for mobile phones, as was a Game Boy Advance game.",
+            "releasedate": "20030701T000000",
+            "developer": "Akella",
+            "publisher": "Bethesda Softworks",
+            "genre": "Action, Role-Playing",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

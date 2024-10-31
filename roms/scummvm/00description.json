@@ -1,0 +1,284 @@
+{
+    "games": [
+        {
+            "path": "./Elvira: Mistress of the Dark/elvira1.scummvm",
+            "desc": "Join Elvira in a horror adventure to save a castle from dark forces. Solve puzzles, fight monsters, and uncover the castle’s secrets.",
+            "releasedate": "19901001T000000",
+            "developer": "Horror Soft",
+            "publisher": "Accolade",
+            "genre": "Adventure, Horror",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Fatty Bear's Birthday Surprise/fbear.scummvm",
+            "desc": "Help Fatty Bear prepare for a birthday party in this interactive children’s game. Solve puzzles and explore the house to make the perfect celebration!",
+            "releasedate": "19930101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Freddi Fish - The Case of the Missing Kelp Seeds/freddi.scummvm",
+            "desc": "Join Freddi Fish and her friend Luther as they solve the mystery of the missing kelp seeds in an underwater adventure.",
+            "releasedate": "19940101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Freddi Fish 2 - The Case of the Haunted Schoolhouse/freddi2.scummvm",
+            "desc": "Freddi Fish and Luther are back to solve the mystery of the haunting in the schoolhouse!",
+            "releasedate": "19960101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Freddi Fish 3 - The Case of the Stolen Conch Shell/freddi3.scummvm",
+            "desc": "Help Freddi Fish recover the stolen conch shell and solve another underwater mystery with her friend Luther.",
+            "releasedate": "19980101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Freddi Fish 4 - The Case of the Hogfish Rustlers of Briny Gulch/freddi4.scummvm",
+            "desc": "Freddi Fish and Luther dive into a Western-themed adventure to recover the hogfish rustled from Briny Gulch.",
+            "releasedate": "19990101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Freddi Fish 5 - The Case of the Creature of Coral Cove/freddicove.scummvm",
+            "desc": "Freddi Fish investigates a mysterious sea creature terrorizing Coral Cove.",
+            "releasedate": "20010101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Let's Explore the Jungle with Buzzy/jungle.scummvm",
+            "desc": "An educational adventure that allows children to explore the jungle with Buzzy the Knowledge Bug, learning about plants, animals, and ecosystems.",
+            "releasedate": "19960101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Education, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Living Books - The Berenstain Bears in the Dark/beardark.scummvm",
+            "desc": "The Berenstain Bears face their fears in the dark in this interactive storybook adventure.",
+            "releasedate": "19930101T000000",
+            "developer": "Living Books",
+            "publisher": "Brøderbund",
+            "genre": "Interactive Story, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Living Books - The Tortoise and the Hare/tortoise.scummvm",
+            "desc": "Experience the classic story of The Tortoise and the Hare in an interactive adventure, where players explore, listen, and learn along with the story.",
+            "releasedate": "19940101T000000",
+            "developer": "Living Books",
+            "publisher": "Brøderbund",
+            "genre": "Interactive Story, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Living Books- Arthur's Teacher Trouble/arthur.scummvm",
+            "desc": "Join Arthur in his interactive school adventure, as he faces off with Mr. Ratburn’s spelling test challenge!",
+            "releasedate": "19930101T000000",
+            "developer": "Living Books",
+            "publisher": "Brøderbund",
+            "genre": "Interactive Story, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Magic Tales - Liam Finds a Story/liam.scummvm",
+            "desc": "Help Liam discover the magic of storytelling in this interactive children’s adventure.",
+            "releasedate": "19950101T000000",
+            "developer": "Davidson & Associates",
+            "publisher": "Sierra On-Line",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Monkey Island/monkey.scummvm",
+            "desc": "Set sail as Guybrush Threepwood, a wannabe pirate, in this classic adventure filled with humor, puzzles, and legendary pirate duels.",
+            "releasedate": "19901001T000000",
+            "developer": "Lucasfilm Games",
+            "publisher": "Lucasfilm Games",
+            "genre": "Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Neverhood/neverhood.scummvm",
+            "desc": "Step into a world of claymation and puzzles as you explore The Neverhood, uncover its secrets, and solve mysteries.",
+            "releasedate": "19961001T000000",
+            "developer": "The Neverhood, Inc.",
+            "publisher": "DreamWorks Interactive",
+            "genre": "Adventure, Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pajama Sam 2/pajama2.scummvm",
+            "desc": "Join Pajama Sam on an adventure to conquer his fear of thunderstorms in Thunder and Lightning Aren’t So Frightening.",
+            "releasedate": "19980101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pajama Sam 3/pajama3.scummvm",
+            "desc": "Help Pajama Sam clean up the world of junk food in You Are What You Eat from Your Head to Your Feet.",
+            "releasedate": "19990101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pajama Sam/pajama.scummvm",
+            "desc": "Pajama Sam faces his fears and embarks on an adventure to capture the villain Darkness.",
+            "releasedate": "19960101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Putt-Putt Enters the Race/puttrace.scummvm",
+            "desc": "Join Putt-Putt as he gears up to participate in the Cartown 500 race!",
+            "releasedate": "19990101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Putt-Putt Goes to the Moon/puttmoon.scummvm",
+            "desc": "Putt-Putt gets launched to the moon and needs help to find his way back to Earth!",
+            "releasedate": "19930101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Putt-Putt Joins the Circus/puttcircus.scummvm",
+            "desc": "Help Putt-Putt and Pep with circus-related challenges in this colorful adventure.",
+            "releasedate": "20000101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Putt-Putt Joins the Parade/puttputt.scummvm",
+            "desc": "Putt-Putt embarks on his first adventure in Cartown, helping the town prepare for the parade.",
+            "releasedate": "19920101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Putt-Putt Saves the Zoo/puttzoo.scummvm",
+            "desc": "Putt-Putt needs your help to rescue missing baby animals and ensure the grand opening of the Cartown Zoo!",
+            "releasedate": "19950101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Putt-Putt Travels Through Time/putttime.scummvm",
+            "desc": "Putt-Putt and Pep must retrieve their belongings after accidentally traveling back in time!",
+            "releasedate": "19970101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Quest for Glory I: So You Want to be a Hero/qfg1.scummvm",
+            "desc": "An adventure-RPG where you shape your hero’s skills and journey through dangerous lands in the kingdom of Spielburg.",
+            "releasedate": "19890101T000000",
+            "developer": "Sierra On-Line",
+            "publisher": "Sierra On-Line",
+            "genre": "Adventure, Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Spy Fox - Dry Cereal/spyfox.scummvm",
+            "desc": "Join Spy Fox in his mission to save the world's dairy supply in this spy-themed adventure for kids.",
+            "releasedate": "19970101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Spy Fox - Operation Ozone/spyozon.scummvm",
+            "desc": "Spy Fox is back to stop a scheme that threatens Earth’s ozone layer in this kid-friendly spy adventure.",
+            "releasedate": "20010101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Spy Fox - Some Assembly Required/spyfox2.scummvm",
+            "desc": "Spy Fox must stop a scheme involving assembly-required toys in this spy adventure.",
+            "releasedate": "19990101T000000",
+            "developer": "Humongous Entertainment",
+            "publisher": "Humongous Entertainment",
+            "genre": "Adventure, Kids",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./The Dig/dig.scummvm",
+            "desc": "A group of astronauts uncovers an alien world while investigating an asteroid, revealing mysteries beyond their imagination.",
+            "releasedate": "19951101T000000",
+            "developer": "LucasArts",
+            "publisher": "LucasArts",
+            "genre": "Adventure, Sci-Fi",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

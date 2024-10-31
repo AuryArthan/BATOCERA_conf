@@ -1,0 +1,14 @@
+{
+    "games": [
+        {
+            "path": "./Klonoa - Moonlight Museum (English v1.1).ws",
+            "desc": "Klonoa and his friend Huepow come across a young crying girl who tells them that the moon has been divided into fragments and stolen by a mysterious group of artists that reside in the nearby Moonlight Museum. Determined to help, the duo rush off to the Museum's entrance, and once they come inside, they are greeted by a painter named Picoo who traps them inside a piece of artwork. Klonoa and Huepow must fight their way through five worlds within the Museum itself before finding the source of all their troubles and restoring the moon to the sky.",
+            "releasedate": "19990520T000000",
+            "developer": "Namco",
+            "publisher": "Namco",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

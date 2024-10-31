@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Dragon Force (USA).m3u</path>
+		<name>Dragon Force</name>
+		<image>./00Boxart/Dragon Force (USA)</image>
+		<thumbnail>./00Boxart/Dragon Force (USA)</thumbnail>
+		<marquee>./00Logo/Dragon Force (USA)</marquee>
+		<desc>Step forth brave warrior. The destiny of the world of Legendra lies solely in your hands. Play as one of eight warlords, each with a unique storyline, to conquer the evil forces of Madruk in this incredible role playing/strategy game.</desc>
+		<releasedate>19961212T000000</releasedate>
+		<developer>J-Force, Sega</developer>
+		<publisher>Sega, Working Designs</publisher>
+		<genre>Role-Playing, Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./NiGHTS into Dreams (USA, Brazil).m3u</path>
+		<name>NiGHTS into Dreams</name>
+		<image>./00Boxart/NiGHTS into Dreams (USA, Brazil)</image>
+		<thumbnail>./00Boxart/NiGHTS into Dreams (USA, Brazil)</thumbnail>
+		<marquee>./00Logo/NiGHTS into Dreams (USA, Brazil)</marquee>
+		<desc>Nights into Dreams is a 1996 Saturn action video game developed by Sonic Team and released by Sega of America in the USA on August 21, 1996.
+
+Immerse yourself in an unparalleled 3D flying experience. NiGHTS truly delivers an amazing virtual world of dreams -- filled with unbelievable real-time effects, fantastic creatures and nightmarish monsters.
+
+* Master a showcase of Sega Saturn's Processing Power.
+* Face your worst nightmares in a stunning world of 3D gameplay.
+* Dozens of camera angles, never-seen-before effects and 3D positional sound.
+* Developed exclusively for Sega Saturn by the creators of "Sonic the Hedgehog."</desc>
+		<releasedate>19960821T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega of America, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>br,en</lang>
+	</game>
+	<game>
+		<path>./Panzer Dragoon II Zwei (USA).m3u</path>
+		<name>Panzer Dragoon II Zwei</name>
+		<image>./00Boxart/Panzer Dragoon II Zwei (USA)</image>
+		<thumbnail>./00Boxart/Panzer Dragoon II Zwei (USA)</thumbnail>
+		<marquee>./00Logo/Panzer Dragoon II Zwei (USA)</marquee>
+		<desc>Flash backwards to several years before the vicious battle against the empire in Panzer Dragoon 1. In the country of Machania, dragons are bred for the exclusive use of the dragoons, or Knights. Dragons with wings are normally executed as they are deemed to be a bad omen by the citizens. In the war with the Empire, Machania has begun to examine the ancient ways rather than to try to fight a futile war using technological advances. The Empire is technologically more advanced. Randy, the hero, and his newfound friend, the dragon he saved, want to turn the tide of battle.</desc>
+		<releasedate>19960510T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic R (USA).m3u</path>
+		<name>Sonic R</name>
+		<image>./00Boxart/Sonic R (USA)</image>
+		<thumbnail>./00Boxart/Sonic R (USA)</thumbnail>
+		<marquee>./00Logo/Sonic R (USA)</marquee>
+		<desc>Sonic R is a 1997 Saturn racing video game developed by Sonic Team (co-developed by Traveller's Tales) and released by Sega of America in the USA on November 18, 1997.
+
+The world's most notorious speed demon pushes the 32-bit speed limit into extreme overdrive in a twisting, turning, upside-down-corkscrewing race for the finish line. Compete with 4 different characters-PLUS special "hidden" track smokers-and satisfy your need for speed through 5 blistering circuits. This wicked band of Mach-maniacs is sporting enough torque to keep you flossing bug guts out of your teeth for days.</desc>
+		<releasedate>19971118T000000</releasedate>
+		<developer>Sonic Team, Traveller's Tales Ltd.</developer>
+		<publisher>Sega of America, Inc.</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+</gameList>

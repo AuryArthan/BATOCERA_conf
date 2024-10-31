@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./doom.wad</path>
+		<name>Doom</name>
+		<image>./00Boxart/Doom</image>
+		<thumbnail>./00Boxart/Doom</thumbnail>
+		<marquee>./00Logo/Doom</marquee>
+		<desc>The Union Aerospace Corporation has been experimenting with teleportation technology on Mars' moons Phobos and Deimos. After early successes, something goes wrong. It seems the scientists have opened a gateway straight to Hell. Phobos base is overrun with demonic creatures, and the whole of Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly slaughtered. It falls to the surviving marine to grab some guns and strike back at the demons.</desc>
+		<releasedate>19931210T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>id Software</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>

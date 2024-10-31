@@ -1,0 +1,34 @@
+{
+    "games": [
+        {
+            "path": "./Ecco - The Tides of Time (USA).m3u",
+            "desc": "The follow-up to Ecco the Dolphin, in which Ecco successfully destroyed the Vortex. Unfortunately, it turns out that the Vortex Queen followed it to the Earth and eventually destroyed the Asterite. All the world's oceans are threatened, and actually already doomed.\n\nIn order to restore the Asterite and finally defeat the Vortex Queen, Ecco will have to confront once again the tides of time, which have split into two possible futures, the regular one and the dark one dominated by the Vortex Queen.\n\nEcco: The Tides of Time features even better graphics than its predecessor, and introduces a new gameplay mode in which the camera follows the dolphin from behind instead of from the side.",
+            "releasedate": "19941115T000000",
+            "developer": "Novotrade International",
+            "publisher": "Sega of America, Inc.",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Night Trap (USA).m3u",
+            "desc": "Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because \"nice people\" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.",
+            "releasedate": "19920701T000000",
+            "developer": "Digital Pictures",
+            "publisher": "Sega",
+            "genre": "Puzzle, Horror",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Sonic CD (USA).m3u",
+            "desc": "Sonic the Hedgehog and his self-proclaimed girlfriend Amy Rose travel to Never Lake, only to discover the legendary Little Planet there, tied in chains and covered by metal. It appears that Sonic's archenemy, Dr. Robotnik, is using the powers of the planet in order to manipulate the fabric of time. He created Sonic's evil counterpart, Metal Sonic, who kidnaps Amy and disappears. Now the brave hedgehog must explore the Little Planet, collect seven jewels capable of altering the passage of time, free Amy, and defeat Metal Sonic along with his master. \n\nSonic CD is a fast-paced side-scrolling platform action game, similar in gameplay to other installments of the series. Sonic uses his patented spin attacks to destroy the doctor's minions, and collects various items, such as protective rings, shields, and speed shoes. His special attacks include the Spin Dash and the Super Peel Out. A stand-out gameplay feature of this installment is Sonic's ability to travel to past and future versions of the stages he traverses. Depending on the player's action in the past version of a level, the future versions (which contain obligatory boss enemies) will change from \"bad\" to \"good\", having more or less enemies and obstacles, respectively. \n\nTime Stones can be collected by completing special stages, in which Sonic has to shoot UFOs within an allotted time limit. The game's \"good\" ending can be achieved either by collecting all the seven Time Stones, or by turning all future level versions into \"good\". The game has features that take advantage of the CD format such as CD audio, video clips, and more levels (over fifty in total).",
+            "releasedate": "19931123T000000",
+            "developer": "Sonic Team, Toei Animation",
+            "publisher": "Sega of America, Inc.",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

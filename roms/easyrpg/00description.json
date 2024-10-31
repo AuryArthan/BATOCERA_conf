@@ -1,0 +1,64 @@
+{
+    "games": [
+        {
+            "path": "./Ghost Party.zip",
+            "desc": "Have you heard? There's a fancy evening dinner party at a stately mansion, and you're invited! But you know, these things would be a lot more fun if we could throw one that didn't involve the wealthier guests falling over dead partway through. Get ready to party the night away with cute talking bats, chic clairvoyant goth girls and giant malfunctioning robots in Tuan & Marshall's premiere afterlife adventure mystery, Ghost Party!",
+            "releasedate": "20030101T000000",
+            "developer": "Tuan & Marshall",
+            "publisher": "Homebrew",
+            "genre": "Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Ib.zip",
+            "desc": "A young girl named Ib visits an art gallery with her parents. While observing the many exhibits, she suddenly realizes she is alone. And in her search for others, she finds things awry in the gallery...\n\nThe game is focused on exploration and puzzle-solving. There are no battles, and it does not demand quick reflexes. It's designed to be accessible to all kinds of players, so enjoy.",
+            "releasedate": "20120227T000000",
+            "developer": "kouri",
+            "publisher": "Homebrew",
+            "genre": "Adventure, Horror",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Onyx.zip",
+            "desc": "The game takes place during modern times. The game centers around a young teen named Chad, who tends to his sick Aunt. One day, he's confronted by a mysterious child who takes him into a world physically identical to his, but with demons and other powerful forces. The kid has a connection to a powerful stone called the 'Onyx', and if Chad wants to return to his home, he must find it.\n\nThe game features an ever-changing, dark storyline, which sets it apart from various rpgmaker games. Onyx has obvious Shin Megami Tensei influences, as shown in the gameplay and the storytelling.",
+            "releasedate": "20080519T000000",
+            "developer": "Yeaster",
+            "publisher": "Homebrew",
+            "genre": "Adventure, Fantasy, Horror",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Unterwegs in Dusterburg (eng).zip",
+            "desc": "It's been many years now since that is the insidious vampire Wahnfried fallen by an evil List in the hands of the Duchy of Falkenburg, since he ruled the Duchy small and the city, which he read to rename in Dark Castle, with-iron fist. It should, however, a new ray of hope appears when a young man enters the eastern marches away from Dark Castle from a fog bank, without memories, only his name is familiar to him: Grandy. You play this Grandy, who gradually in search of his past good friends such as the aging Alchemist Dankwart or the lovely Libra, but also to meet many enemies, and must be hit by a scrub seals of lies, intrigue and black magic.\n\nIn the world in Dark Castle almost nothing is as it seems at first, seemingly vicious monsters can turn out at second glance as friendly and supposed friends might tell you here in the next moment. That's what makes up a major part of the stimulus to this game. Another attraction is certainly the sheer number of different Möglichgkeiten to solve a problem. So you have, for example, often the choice whether you now done a monster that is blocking your way, trying zufinden a second path or you somehow arrange with the nature. Yes on how you decide, the further course of the game a little different, be mild or severe.\n\nAs you make your way through the exceptionally atmospheric and picturesque landscapes, you will in any case make one or the other unusual acquaintance, and of course also take on opponents. This way you can always see before a fight and so try to avoid them. If it comes to the fight but ye into RPG Maker Standard battlefield promoted, but which has been refined with all submit to the art. So you will meet in a largely self-drawn monster actually getting very appropriate environment. The combat animations were created by means of the specially developed for this game called 'puppet' method. By this method, it is always possible to see the attacks together with exporting characters in a very fluid and realistic representation.\n\nBut even on the collector and researcher of you was intended. Everywhere there are hidden places, literally buried treasures Invite lost dungeons and secret places which to explore and enjoy. Changes you around between major towns, it is remapped to a kind of map on which you can then proceed to the next place the map. The places on the map but have to be back each unlocked. And as if that was not all that glitters playing this game with a lot of animated cutscenes, which certainly looking at the RPG Maker second to none. All in all, the way in Dark Castle is one of the top games worth at all and definitely a Preview.",
+            "releasedate": "20020827T000000",
+            "developer": "Grandy",
+            "publisher": "Homebrew",
+            "genre": "Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Witchs Heart.zip",
+            "desc": "The game follows Claire Elford, a young woman that gets trapped in a cursed mansion along with four others. Throughout the course of five days, the group has to find a way to escape the mansion, all while uncovering the secrets within it, and learning the truth about the legendary wish-granting treasure: the Witch's Heart.",
+            "releasedate": "20170101T000000",
+            "developer": "IZ",
+            "publisher": "Blue Star Entertainment, Homebrew",
+            "genre": "Horror",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Yume Nikki.zip",
+            "desc": "'Yume Nikki' means 'Dream Diary' in Japanese, and the game follows a girl named Madotsuki as she dreams. The goal is to seek out and acquire all 24 'effects'. The game otherwise has no actual plot or dialogue, and nearly the entire game is left up to speculation.",
+            "releasedate": "20040626T000000",
+            "developer": "Kikiyama",
+            "publisher": "Pride Interactive, Homebrew",
+            "genre": "Horror",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

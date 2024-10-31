@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Super Mario 64 - Render 96.sh</path>
+		<name>Super Mario 64 - Render 96</name>
+		<image>./00Image/Super Mario 64 - Render 96</image>
+		<thumbnail>./00Boxart/Super Mario 64 - Render 96</thumbnail>
+		<marquee>./00Logo/Super Mario 64 - Render 96</marquee>
+		<desc>Render96 is a fork of the Super Mario 64 PC port that adds extra settings, quality of life fixes, and new features.  It adds Luigi and Wario as playable characters, each with their own moves and capabilities.  It is also available with or without raytracing.</desc>
+		<releasedate>20210101T000000</releasedate>
+		<developer>DorfDork et al.</developer>
+		<publisher>Romhacking, Homebrew</publisher>
+		<genre>Action, Platform, Unofficial</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SuperTuxKart.sh</path>
+		<name>SuperTuxKart</name>
+		<image>./00Boxart/SuperTuxKart</image>
+		<thumbnail>./00Boxart/SuperTuxKart</thumbnail>
+		<marquee>./00Logo/SuperTuxKart</marquee>
+		<desc>SuperTuxKart is a Free 3d kart racing game; we want to make the game fun more than we want to make it realistic. You can play with up to 4 friends on one PC, racing against each other or just try to beat the computer. (a network multiplayer feature is planned)
+See the great lighthouse or drive through the sand and visit the pyramids. Race underground or in space, watching the stars passing by. Have some rest under the palms on the beach (watching the other karts overtaking you :) ). But don't eat the bananas! Watch for bowling balls, plungers, bubble gum and cakes thrown by opponents.
+You can do a single race against other karts, compete in one of several Grand Prix, try to beat the high score in time trials on your own, play battle mode against your friends, and more!</desc>
+		<releasedate>20060901T000000</releasedate>
+		<developer>Joerg Henrichs, Marianne Gagnon</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SuperTux.sh</path>
+		<name>SuperTux</name>
+		<image>./00Boxart/SuperTux</image>
+		<thumbnail>./00Boxart/SuperTux</thumbnail>
+		<marquee>./00Logo/SuperTux</marquee>
+		<desc>SuperTux is a classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games covered under the GPL. The Milestone 1 release of SuperTux features:
+
+9 enemies
+26 playable levels
+Software and OpenGL rendering modes
+configurable joystick and keyboard input
+new music
+completely redone graphics
+Together with a little story, we hope to provide a good gaming experience with this first Milestone release.</desc>
+		<releasedate>20030401T000000</releasedate>
+		<developer>SuperTux Development Team</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Veloren.sh</path>
+		<name>Veloren</name>
+		<image>./00Image/Veloren</image>
+		<thumbnail>./00Boxart/Veloren</thumbnail>
+		<marquee>./00Logo/Veloren</marquee>
+		<desc>Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
+
+Veloren is fully open-source, licensed under GPL 3. It uses original graphics, musics and other assets created by its community. Being contributor-driven, its development community and user community is one and the same: developers, players, artists and musicians come together to develop the game.</desc>
+		<releasedate>20190528T000000</releasedate>
+		<developer>Community</developer>
+		<publisher>Homebrew</publisher>
+		<genre>MMO, Virtual Console</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Zelda - Ship of Harkinian.sh</path>
+		<name>Zelda - Ship of Harkinian</name>
+		<image>./00Image/Zelda - Ship of Harkinian</image>
+		<thumbnail>./00Boxart/Zelda - Ship of Harkinian</thumbnail>
+		<marquee>./00Logo/Zelda - Ship of Harkinian</marquee>
+		<desc>Ship of Harkinian is an unofficial source port of the 1998 Nintendo 64 video game, The Legend of Zelda: Ocarina of Time, that runs on Microsoft Windows, Linux, macOS, Wii U, and Nintendo Switch.
+
+It first released in March 2022 for Windows, four months after Ocarina of Time's source code was decompiled and released. Since then, Ship of Harkinian has received ports to Linux and macOS, and homebrew ports to Wii U and Nintendo Switch.</desc>
+		<releasedate>20220322T000000</releasedate>
+		<developer>Harbour Masters</developer>
+		<publisher>Romhacking, Homebrew</publisher>
+		<genre>Action, Adventure, Unofficial</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>

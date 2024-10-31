@@ -1,0 +1,104 @@
+{
+    "games": [
+        {
+            "path": "./Conker's Pocket Tales (USA, Europe).gbc",
+            "desc": "Conker's Pocket Tales is a 1999 Game Boy Color action-adventure video game developed and released by Rare, under distribution by Nintendo of America, in the USA on June 8, 1999.\n\nIt's Conker's birthday and someone crashed his party! The Evil Acorn has stolen all of Conker's presents and kidnapped his best chipmunk friend, Berri. Now you must take on the role of the bushy-tailed hero, pursuing your nemesis throughout 6 visually-stunning worlds to rescue Berri and save your birthday from complete disaster. Strain your brain to solve challenging puzzles, battle the Evil Acorn's horde of minions with your trusty slingshot, and even flex your muscles in sporting events as you track your foe to the final showdown!",
+            "releasedate": "19990608T000000",
+            "developer": "Rare, Ltd.",
+            "publisher": "Rare, Ltd.",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Legend of Zelda, The - Link's Awakening DX (USA, Europe).gbc",
+            "desc": "Link’s latest challenge is set on the mysterious Koholint Island, a place where dreams and reality collide.  As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule.  This will not be an easy task.\n\nThe island’s inhabitants have no knowledge of the outside world.  One creature, a talking owl, may know the solution to Link’s dilemma.  Link must first tackle eight dungeons full of treacherous monsters and tricky traps.  His goal: find the eight Instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.",
+            "releasedate": "19981215T000000",
+            "developer": "Nintendo",
+            "publisher": "Nintendo",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Legend of Zelda, The - Oracle of Ages (USA, Australia).gbc",
+            "desc": "Link has been summoned by the Triforce to the land of Labrynna, where the Sorceress of Shadows, Veran, has taken control of the Oracle of Ages, Nayru, and is using her power to ignite despair in Labrynna.  But hope is not lost... yet.  Link will need to find the 8 Essences of Time to save Nayru and defeat Veran!  And he must hurry, for time is running out...",
+            "releasedate": "20010227T000000",
+            "developer": "Capcom",
+            "publisher": "Nintendo",
+            "genre": "Action, Adventure, Role-Playing, Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Legend of Zelda, The - Oracle of Seasons (USA, Australia).gbc",
+            "desc": "Link has been summoned by the Triforce to the land of Holodrum, which is in a state of destruction. Onox, the General of Darkness, has imprisoned the Oracle of Seasons, Din,  and sunk the Temple of Seasons to the ground! With the season in disarray, it's up to Link to save Din, and stop Onox. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.",
+            "releasedate": "20010227T000000",
+            "developer": "Capcom",
+            "publisher": "Nintendo",
+            "genre": "Action, Adventure, Role-Playing, Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon - Gold Version (USA, Europe).gbc",
+            "desc": "Pok\u00e9mon Gold Version is a 2000 Game Boy Color strategy role-playing video game developed by Game Freak and released by Nintendo of America in the USA on October 15, 2000.\n\nEnter a whole new world, with new Pok\u00e9mon to capture, train and battle! Meet Professor Elm and get the all-new Pok\u00e9 Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time\u2014and be sure to keep an eye out for Pok\u00e9mon that come out only at night!\n\n\u2022 Dozens of never-before-seen Pok\u00e9mon! Find new evolutions for some familiar Pok\u00e9mon and discover whole new species. Your Pok\u00e9dex will even reveal genders of some Pok\u00e9mon.\n\u2022 A whole new world! Explore Johto, where there are new gym leaders to beat and eight new badges to earn.\n\u2022 Two new types! Introducing Dark and Steel-type Pok\u00e9mon.\n\u2022 Trade with Silver, Red, Blue, and Yellow versions to catch \u2018em all!",
+            "releasedate": "20001015T000000",
+            "developer": "Game Freak",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Role-Playing, Strategy",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon - Silver Version (USA, Europe).gbc",
+            "desc": "Pok\u00e9mon Silver Version is a 2000 Game Boy Color strategy role-playing video game developed by Game Freak and released by Nintendo of America in the USA on October 15, 2000.\n\nEnter a whole new world, with new Pok\u00e9mon to capture, train and battle!  Meet Professor Elm and get the all-new Pok\u00e9 Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time\u2014and be sure to keep an eye out for Pok\u00e9mon that come out only at night!\n\n\u2022 Dozens of never-before-seen Pok\u00e9mon!  Find new evolutions for some familiar Pok\u00e9mon and discover whole new species.  Your Pok\u00e9dex will even reveal genders of some Pok\u00e9mon.\n\u2022 A whole new world!  Explore Johto, where there are new gym leaders to beat and eight new badges to earn.\n\u2022 Two new types!  Introducing Dark and Steel-type Pok\u00e9mon.\n\u2022 Trade with Gold, Red, Blue, and Yellow versions to catch \u2018em all!",
+            "releasedate": "20001015T000000",
+            "developer": "Game Freak",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Role-Playing, Strategy",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Quartet.gbc",
+            "desc": "Quartet is a simple but addictive puzzle game where you assemble pieces into faces and score points. Don't be too slow, or you will lose! This is the Game Boy version of the original Quartet game by Photon Storm.\n\nThe game is designed for the original monochrome Game Boy, but also to take advantage of later models with color displays. So if you run it on a GBC, GBA or even SGB you get a glorious full color experience.",
+            "releasedate": "20210116T000000",
+            "developer": "Mackerel Interactive",
+            "publisher": "Homebrew",
+            "genre": "Puzzle, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Shantae (USA).gbc",
+            "desc": "Genie-girl Shantae is the self-appointed guardian of a small fishing village, Scuttle Town. Living life in a lighthouse rather than a bottle, she's constantly on the lookout for danger. When the nefarious lady-pirate, Risky Boots catches wind of the treasure that was recently unearthed in the village, she launches an attack. To get Scuttle out of trouble, it's up to Shantae to prove that she's the rightful 'Guardian Genie' to the best of her dancing, buying and hair-whipping abilities. Now crack that whip!\n\n* Play on the Game Boy Advance system for enhanced color and to unlock hidden secrets!\n* Over 50 Locations and Mini-Games!\n* Learn 'Dance Magic' to transform Shantae and learn new attacks!",
+            "releasedate": "20020602T000000",
+            "developer": "WayForward Technologies",
+            "publisher": "Capcom",
+            "genre": "Action, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Wario Land 3 (World).gbc",
+            "desc": "Wario Land 3 is a 2000 Game Boy Color side-scrolling platformer video game developed by Nintendo R&D1 and released by Nintendo of America in the USA on May 30, 2000.\n\nTrapped inside a magical music box, the invincible Wario is on a dangerous quest to help a mysterious figure recover its lost powers! Smash, bash and crash your way through more than two dozen gigantic levels in search of hidden keys, valuable treasures and mystical music boxes. Test your wits on puzzle after intricate puzzle and flex your muscles in action-packed boss fights! Be wary of Wanderin' Gooms, Hammer-bots, Mad Scienstein and more as you plunge into one of the largest, most dazzling adventures ever to hit Game Boy Color!",
+            "releasedate": "20000530T000000",
+            "developer": "Nintendo R&D1",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Wario Land II (USA, Europe).gbc",
+            "desc": "Wario Land II is a 1999 Game Boy Color side-scrolling platformer video game developed by Nintendo R&D1 and released by Nintendo of America in the USA on February 10, 1999.\n\nWhat kind of no-good ruffians would break into my castle and steal my treasures?! It's that rotten Captain Syrup and that Black Sugar Gang! I'm looking out for bad guys and scavenging for coins as I track down my treasures. If I don't get them all the first time, that's OK. I can go back again and again until I find them all. Captain Syrup doesn't stand a chance against me!",
+            "releasedate": "19990210T000000",
+            "developer": "Nintendo R&D1",
+            "publisher": "Nintendo of America, Inc.",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

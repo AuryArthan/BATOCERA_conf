@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Bloxorz.swf</path>
+		<name>Bloxorz</name>
+		<image>./00Image/Bloxorz</image>
+		<thumbnail>./00Boxart/Bloxorz</thumbnail>
+		<marquee>./00Logo/Bloxorz</marquee>
+		<desc>Bloxorz is a challenging geometry puzzle game. You take charge of a rectangular solid trying to move across a series of levels by fitting through variously-shaped holes. Rotating the block to get to -- and fit into -- the hole requires planning and forethought, especially as one false move can send you off the edge of the level or into a deadly trap. Later levels are more complex and will probably require repeated attempts.</desc>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Damien Clarke</developer>
+		<publisher>Flash, Homebrew</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Flight of the Hamsters.swf</path>
+		<name>Flight of the Hamsters</name>
+		<image>./00Image/Flight of the Hamsters</image>
+		<thumbnail>./00Boxart/Flight of the Hamsters</thumbnail>
+		<marquee>./00Logo/Flight of the Hamsters</marquee>
+		<desc>Flight of the Hamsters is a super fun game where you get to launch cute hamsters into the air. It's their day off from powering the Kids Next Door Treehouse, and they're ready for some fun! Imagine a hamster, wearing tiny goggles, soaring through the air like a superhero. How cool is that?</desc>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Cartoon Network</developer>
+		<publisher>Flash, Cartoon Network</publisher>
+		<genre>Action, Casual</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Happy Wheels.swf</path>
+		<name>Happy Wheels</name>
+		<image>./00Image/Happy Wheels</image>
+		<thumbnail>./00Boxart/Happy Wheels</thumbnail>
+		<marquee>./00Logo/Happy Wheels</marquee>
+		<desc>Happy Wheels is a driving, action, and obstacle-overcoming game that is becoming more and more popular with billions of players across the world. In this fun game, your character is sure to get injured, with a broken leg or arm... on the arduous journey to win. Happy Wheels is based on ragdoll physics. You will have to drive through hazardous terrain and find your way to the finish line at all costs, including serious injury. Driving is not easy! At each stage, you need to choose the right character. This bloody game looks very simple but is extremely thrilling and special. You will not stop laughing while playing this game.</desc>
+		<releasedate>20100601T000000</releasedate>
+		<developer>Jim Bonnaci</developer>
+		<publisher>Flash, Homebrew</publisher>
+		<genre>Action, Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Learn to Fly.swf</path>
+		<name>Learn to Fly</name>
+		<image>./00Image/Learn to Fly</image>
+		<thumbnail>./00Boxart/Learn to Fly</thumbnail>
+		<marquee>./00Logo/Learn to Fly</marquee>
+		<desc>This penguin has had enough of life on the ground and wants to Learn to Fly! Slide off the ramp and buy upgrades so that you can make it over the water. Use the left and right arrow keys to control your angle in flight. Once you buy rockets, press and hold Spacebar to activate them.</desc>
+		<releasedate>20090516T000000</releasedate>
+		<developer>Light Bringer</developer>
+		<publisher>Flash, Homebrew</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Spin Stadium.swf</path>
+		<name>Spin Stadium</name>
+		<image>./00Image/Spin Stadium</image>
+		<thumbnail>./00Boxart/Spin Stadium</thumbnail>
+		<marquee>./00Logo/Spin Stadium</marquee>
+		<desc>Spin Stadium was a game on the US Cartoon Network website. The player chooses to play as one of the the Eds who attempt to knock out tops in front of the the Kids.</desc>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Cartoon Network</developer>
+		<publisher>Flash, Cartoon Network</publisher>
+		<genre>Action, Casual</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Mario 63.swf</path>
+		<name>Super Mario 63</name>
+		<image>./00Image/Super Mario 63</image>
+		<thumbnail>./00Boxart/Super Mario 63</thumbnail>
+		<marquee>./00Logo/Super Mario 63</marquee>
+		<desc>Super Mario 63 is a fan-game, mainly inspired by Nintendo's Super Mario 64, but also by Super Mario Sunshine, and Super Mario Galaxy. Many levels and features are based upon them and other Nintendo's games, but a variety of them are completely original. Among them include a detailed storyline, shareable codes, three different F.L.U.D.D. power-ups, four different power-up stars, with 64 Shine Sprites and 64 Star Coins to collect.</desc>
+		<releasedate>20090610T000000</releasedate>
+		<developer>Runouw</developer>
+		<publisher>Flash, Homebrew</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>

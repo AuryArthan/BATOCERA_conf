@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil).gg</path>
+		<name>Sonic The Hedgehog - Triple Trouble</name>
+		<image>./00Boxart/Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil)</image>
+		<thumbnail>./00Boxart/Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil)</thumbnail>
+		<marquee>./00Logo/Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil)</marquee>
+		<desc>Sonic Triple Trouble is a 1994 Game Gear side-scrolling platformer video game developed by Sega CS (co-developed by Aspect) and released by Sega of America in the USA on November 15, 1994.
+
+Sonic and Tails are back with three times the fun and three times the trouble! Dr. Robotnik is building the ultimate super-weapon with the help of Knuckles, but you can stop him by getting the Chaos Emeralds first. Rip across snow and water on Sonic's new jet skateboard or zip underwater in Tails' "Sea Fox". But look out - Nack the Weasel is after the Emeralds, too!</desc>
+		<releasedate>19941115T000000</releasedate>
+		<developer>Aspect Co. Ltd.</developer>
+		<publisher>Sega of America, Inc.</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>br,en</lang>
+	</game>
+</gameList>
