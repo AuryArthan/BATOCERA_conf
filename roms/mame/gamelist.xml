@@ -2,7 +2,7 @@
 <gameList>
 	<game>
 		<path>./mk2.zip</path>
-		<name>mk2</name>
+		<name>Mortal Kombat 2</name>
 		<image>./00Boxart/mk2</image>
 		<thumbnail>./00Boxart/mk2</thumbnail>
 		<marquee>./00Logo/mk2</marquee>
@@ -20,7 +20,7 @@ Following his failure to defeat Liu Kang in the first Mortal Kombat game, the ev
 	</game>
 	<game>
 		<path>./mk.zip</path>
-		<name>mk</name>
+		<name>Mortal Kombat</name>
 		<image>./00Boxart/mk</image>
 		<thumbnail>./00Boxart/mk</thumbnail>
 		<marquee>./00Logo/mk</marquee>
@@ -38,7 +38,7 @@ The game takes place on a fictional island in Earthrealm, where a tournament is 
 	</game>
 	<game>
 		<path>./umk3r11.zip</path>
-		<name>umk3r11</name>
+		<name>Ultimate Mortal Kombat 3</name>
 		<image>./00Boxart/umk3r11</image>
 		<thumbnail>./00Boxart/umk3r11</thumbnail>
 		<marquee>./00Logo/umk3r11</marquee>
