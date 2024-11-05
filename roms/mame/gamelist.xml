@@ -1,24 +1,55 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./mk.zip</path>
-		<name>Mortal Kombat</name>
-		<image>./00Boxart/mk</image>
-		<thumbnail>./00Boxart/mk</thumbnail>
-		<marquee>./00Logo/mk</marquee>
-	</game>
-	<game>
 		<path>./mk2.zip</path>
-		<name>Mortal Kombat 2</name>
+		<name>mk2</name>
 		<image>./00Boxart/mk2</image>
 		<thumbnail>./00Boxart/mk2</thumbnail>
 		<marquee>./00Logo/mk2</marquee>
+		<desc>Mortal Kombat II is a 1993 arcade fighting video game developed and released by Midway Manufacturing in the USA on June 25, 1993.
+
+Mortal Kombat II is the second game in the Mortal Kombat series.
+
+Following his failure to defeat Liu Kang in the first Mortal Kombat game, the evil sorcerer Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and even restores Tsung's youth. He then extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The new tournament is much more dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will allow him to subdue Earthrealm.</desc>
+		<releasedate>19930625T000000</releasedate>
+		<developer>Midway Manufacturing Co.</developer>
+		<publisher>Midway Manufacturing</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./mk.zip</path>
+		<name>mk</name>
+		<image>./00Boxart/mk</image>
+		<thumbnail>./00Boxart/mk</thumbnail>
+		<marquee>./00Logo/mk</marquee>
+		<desc>Mortal Kombat is a 1992 arcade fighting video game developed and released by Midway Manufacturing in the USA on October 8, 1992.
+
+Mortal Kombat is the first game in the Mortal Kombat series.
+
+The game takes place on a fictional island in Earthrealm, where a tournament is being held at Shang Tsung's Island, on which seven of its locations serve as stages in the game. For 500 years straight, Goro has been undefeated in the tournament, and now a new generation of warriors must challenge him. The player receives information about the characters in biographies displayed during the attract mode. Additional information about the characters and their motivations for entering the tournament is received upon completion of the game with each character.</desc>
+		<releasedate>19921008T000000</releasedate>
+		<developer>Midway Manufacturing Co.</developer>
+		<publisher>Midway Manufacturing</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./umk3r11.zip</path>
-		<name>Ultimate Mortal Kombat 3</name>
+		<name>umk3r11</name>
 		<image>./00Boxart/umk3r11</image>
 		<thumbnail>./00Boxart/umk3r11</thumbnail>
 		<marquee>./00Logo/umk3r11</marquee>
+		<desc>Ultimate Mortal Kombat 3 is a 1995 arcade fighting video game developed and released by Midway Manufacturing in the USA on November 6, 1995.
+
+Ultimate Mortal Kombat 3 is an update of 1995's earlier Mortal Kombat 3 with an altered gameplay system, additional characters like the returning favorites Kitana and Scorpion who were missing from Mortal Kombat 3, and some new features.</desc>
+		<releasedate>19951106T000000</releasedate>
+		<developer>Midway Manufacturing Co.</developer>
+		<publisher>Midway Manufacturing</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 </gameList>

@@ -16,6 +16,21 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Cursed Mountain (USA).wbfs</path>
+		<name>Cursed Mountain</name>
+		<image>./00Image/Cursed Mountain (USA)</image>
+		<thumbnail>./00Boxart/Cursed Mountain (USA)</thumbnail>
+		<marquee>./00Logo/Cursed Mountain (USA)</marquee>
+		<cart>./00Cart/Cursed Mountain (USA)</cart>
+		<desc>After his brother, known for taking extreme risks, disappears in the Himalayas, Eric Simmons reluctantly heads off to the village of Lhando, his last known location. He has arranged to meet with his brother's employer - but the town is completely deserted. What's more, everything has been abandoned, and bodies lie rotting in the streets. The locals were desperate to get away from someone... or something - but who or what? Only by exploring Lhando and the the mountain, Chomolonzo, will Eric find the answers he seeks, and hopefully, his brother.</desc>
+		<releasedate>20090825T000000</releasedate>
+		<developer>Deep Silver Vienna</developer>
+		<publisher>Deep Silver Vienna</publisher>
+		<genre>Adventure, Horror</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Dawn of Discovery (USA).wbfs</path>
 		<name>Dawn of Discovery</name>
 		<image>./00Image/Dawn of Discovery (USA)</image>
@@ -181,6 +196,21 @@ FEATURES:
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action, Adventure, Role-Playing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Little King's Story (USA).wbfs</path>
+		<name>Little King's Story</name>
+		<image>./00Image/Little King's Story (USA)</image>
+		<thumbnail>./00Boxart/Little King's Story (USA)</thumbnail>
+		<marquee>./00Logo/Little King's Story (USA)</marquee>
+		<cart>./00Cart/Little King's Story (USA)</cart>
+		<desc>Little King’s Story is an original single player simulation Role-Playing Game designed and developed by some of the most respected names in the gaming industry. Featuring the efforts of Yasuhiro Wada (creator: Harvest Moon), Hideo Minaba (Art Director: Final Fantasy XII), and Youichi Kawaguchi (Main Programmer: Dragon Quest VIII), Little King’s Story combines life-simulation, real-time strategy, and adventure elements along with an enchanting storyline to offer a new and unique gaming experience on the Wii platform.</desc>
+		<releasedate>20090721T000000</releasedate>
+		<developer>CING, Inc.</developer>
+		<publisher>XSEED Games</publisher>
+		<genre>Role-Playing, Strategy</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

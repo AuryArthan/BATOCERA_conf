@@ -463,12 +463,12 @@ This game features two player co-op, updated graphics and each world has it’s 
 		<image>./00Image/Super Mario Bros. 2 (J)</image>
 		<thumbnail>./00Boxart/Super Mario Bros. 2 (J)</thumbnail>
 		<marquee>./00Logo/Super Mario Bros. 2 (J)</marquee>
-		<desc>Super Mario Bros. 2 is a 1988 NES side-scrolling platformer video game developed by Nintendo R&amp;D4 and released by Nintendo of America in the USA on October 9, 1988.
+		<desc>Super Mario Bros. 2 (also known as Super Mario Bros.: The Lost Levels) is a 1986 Famicom Disk System side-scrolling platformer video game developed by Nintendo R&amp;D4 and released by Nintendo in Japan on June 3, 1986.
 
-Mario’s back! Bigger and badder than ever before! This time it’s a fierce action-packed battle to free the land of Subcon from the curse of the evil Wart. It’s up to you, along with Mario, Luigi, Toad and the Princess, to fight your way through bizarre multi-level worlds and find him! This time you’ve got a brand new kind of power - plucking power - and now anything you find can be a weapon. But beware! You’ve never seen creatures like these! Shyguys and Tweeters! Ninji and Beezos! And you’ve never had an adventure like this! Only cunning and speed can save you now…</desc>
-		<releasedate>19881009T000000</releasedate>
+Originally released in Japan as Super Mario Bros. 2, this game has previously made only brief cameo appearances in the Western hemisphere. Mario fans will appreciate the familiar look and feel of the game, while finding that its updated game play creates an entirely new challenge. No longer content just to wear different-colored overalls, Mario and Luigi also possess different skill sets (Mario can stop quicker, while Luigi can jump higher). In addition to the classic enemies already known to fans worldwide, there are also Poison Mushrooms, backward Warp Zones, and the occasional wind gust (which can help or hinder your progress) to take into account. And if that’s somehow not enough, expert players can go looking for the game’s secret worlds. So get ready to put your Mario skills to the ultimate test, and save the Princess again. Just don’t be surprised if she’s in another castle!</desc>
+		<releasedate>19860603T000000</releasedate>
 		<developer>Nintendo R&amp;D4</developer>
-		<publisher>Nintendo of America, Inc.</publisher>
+		<publisher>Nintendo</publisher>
 		<genre>Platform</genre>
 		<players>1</players>
 		<lang>jp</lang>

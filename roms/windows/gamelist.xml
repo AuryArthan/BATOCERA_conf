@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Bible_Fight.pc</path>
-		<name>Bible_Fight</name>
-		<image>./00Image/Bible_Fight</image>
-		<thumbnail>./00Boxart/Bible_Fight</thumbnail>
-		<marquee>./00Logo/Bible_Fight</marquee>
+		<path>./Bible Fight.pc</path>
+		<name>Bible Fight</name>
+		<image>./00Image/Bible Fight</image>
+		<thumbnail>./00Boxart/Bible Fight</thumbnail>
+		<marquee>./00Logo/Bible Fight</marquee>
 		<desc>Bible Fight is a browser-based fighting game which puts characters from the Bible face-to-face to fight each other, such as: Jesus, Mary, Moses, Noah, Satan and a secret unlockable character. Each character has the ability to punch, kick and a set of three special moves, which can be used through combos. Each of them are controlled by the keyboard, with the arrow keys for movement and Z and X for kicks and punches. The game features a practice and a tournament mode.</desc>
 		<releasedate>20070502T000000</releasedate>
 		<developer>This Is Pop</developer>
@@ -17,9 +17,10 @@
 	<game>
 		<path>./Claw.pc</path>
 		<name>Claw</name>
-		<image>./00Boxart/Claw</image>
+		<image>./00Image/Claw</image>
 		<thumbnail>./00Boxart/Claw</thumbnail>
 		<marquee>./00Logo/Claw</marquee>
+		<cart>./00Cart/Claw</cart>
 		<desc>Claw focuses on the misadventures of Captain Claw, a cat whose main mission is to defeat the Cocker Spaniard Armada. The daring pirate Captain Claw and his cat forces are defeated and Claw is imprisoned.
 
 While locked up, he finds a letter that puts him on the trail of finding the legendary (Amulet of Nine Lives) that will not only help him defeat his rival but promises near immortality. Claw escapes the dungeon and explores 14 levels that contain more than 40 enemies and bosses. 
@@ -33,11 +34,11 @@ The game features sprawling levels with numerous puzzles and features a multipla
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Icy_Tower.pc</path>
-		<name>Icy_Tower</name>
-		<image>./00Boxart/Icy_Tower</image>
-		<thumbnail>./00Boxart/Icy_Tower</thumbnail>
-		<marquee>./00Logo/Icy_Tower</marquee>
+		<path>./Icy Tower.pc</path>
+		<name>Icy Tower</name>
+		<image>./00Boxart/Icy Tower</image>
+		<thumbnail>./00Boxart/Icy Tower</thumbnail>
+		<marquee>./00Logo/Icy Tower</marquee>
 		<desc>Icy Tower is a freeware video game by Swedish game developer Free Lunch Design. It is a platform game set in a tower, where the player's goal is to jump from one 'floor' to the next and go as high as possible without falling and plunging off the screen. The higher the player's character climbs, the faster the tower's floors move downward and the harder the game becomes.</desc>
 		<releasedate>20011222T000000</releasedate>
 		<developer>Free Lunch Design</developer>

@@ -10,6 +10,16 @@
             "players": "1",
             "lang": "en"
         },
+        {
+            "path": "./Cursed Mountain (USA).wbfs",
+            "desc": "After his brother, known for taking extreme risks, disappears in the Himalayas, Eric Simmons reluctantly heads off to the village of Lhando, his last known location. He has arranged to meet with his brother's employer - but the town is completely deserted. What's more, everything has been abandoned, and bodies lie rotting in the streets. The locals were desperate to get away from someone... or something - but who or what? Only by exploring Lhando and the the mountain, Chomolonzo, will Eric find the answers he seeks, and hopefully, his brother.",
+            "releasedate": "20090825T000000",
+            "developer": "Deep Silver Vienna",
+            "publisher": "Deep Silver Vienna",
+            "genre": "Adventure, Horror",
+            "players": "1",
+            "lang": "en"
+        },
 		{
             "path": "./Dawn of Discovery (USA).wbfs",
             "desc": "Designed from the ground up to maximize the interactivity of the DS stylus and Wii-mote, Dawn of Discovery appeals to players of all ages. Make your own history and expand your empire through a journey across the globe to explore, trade, and learn new technologies. Blaze your own path, or build your civilizations together with friends.",
@@ -107,6 +117,16 @@
             "developer": "Nintendo",
             "publisher": "Nintendo",
             "genre": "Action, Adventure, Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Little King's Story (USA).wbfs",
+            "desc": "Little King’s Story is an original single player simulation Role-Playing Game designed and developed by some of the most respected names in the gaming industry. Featuring the efforts of Yasuhiro Wada (creator: Harvest Moon), Hideo Minaba (Art Director: Final Fantasy XII), and Youichi Kawaguchi (Main Programmer: Dragon Quest VIII), Little King’s Story combines life-simulation, real-time strategy, and adventure elements along with an enchanting storyline to offer a new and unique gaming experience on the Wii platform.",
+            "releasedate": "20090721T000000",
+            "developer": "CING, Inc.",
+            "publisher": "XSEED Games",
+            "genre": "Role-Playing, Strategy",
             "players": "1",
             "lang": "en"
         },

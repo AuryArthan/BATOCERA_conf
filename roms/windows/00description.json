@@ -1,7 +1,7 @@
 {
     "games": [
 		{
-            "path": "./Bible_Fight.pc",
+            "path": "./Bible Fight.pc",
             "desc": "Bible Fight is a browser-based fighting game which puts characters from the Bible face-to-face to fight each other, such as: Jesus, Mary, Moses, Noah, Satan and a secret unlockable character. Each character has the ability to punch, kick and a set of three special moves, which can be used through combos. Each of them are controlled by the keyboard, with the arrow keys for movement and Z and X for kicks and punches. The game features a practice and a tournament mode.",
             "releasedate": "20070502T000000",
             "developer": "This Is Pop",
@@ -21,7 +21,7 @@
             "lang": "en"
         },
         {
-            "path": "./Icy_Tower.pc",
+            "path": "./Icy Tower.pc",
             "desc": "Icy Tower is a freeware video game by Swedish game developer Free Lunch Design. It is a platform game set in a tower, where the player's goal is to jump from one 'floor' to the next and go as high as possible without falling and plunging off the screen. The higher the player's character climbs, the faster the tower's floors move downward and the harder the game becomes.",
             "releasedate": "20011222T000000",
             "developer": "Free Lunch Design",
