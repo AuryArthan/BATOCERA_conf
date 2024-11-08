@@ -11,6 +11,16 @@
             "lang": "en"
         },
         {
+            "path": "./BloodRayne (USA).iso",
+            "desc": "BloodRayne is a killing machine. The Brimstone Society calls upon this half-vampire, half-human agent to take on two missions in the years between the world wars. At the root of these missions is one man who searches for powerful occult artifacts that would bring Germany into a new age of domination. As BloodRayne, you must stop this man's elite Nazi army from releasing terrorizing creatures onto the world.",
+            "releasedate": "20021015T000000",
+            "developer": "Terminal Reality, Inc.",
+            "publisher": "Majesco Entertainment",
+            "genre": "Action, Horror",
+            "players": "1",
+            "lang": "en"
+        },
+        {
             "path": "./Bully (USA).iso",
             "desc": "Bully is a story of one Jimmy Hopkins, whose academic success hasn't been anything spectacular as he's been expelled from various schools. His parents have a grand idea of sending him to Bullworth Academy which -- despite its grand name -- houses lots of other kids like Jimmy. This is the place where future dictators, murderers, and mad scientists reside. With a help of a few friends, some wits and hard-as-a-rock fists, Jimmy has to survive through one year in Bullworth Academy.\n\nOften described as 'GTA in high school', the game indeed has many similarities with the famous car-hijacking series. It features a 'sandbox' environment, which encompasses not only the vast high school grounds, but also the nearby town of Bullworth. As in GTA games, the player can choose to complete missions in different order, or simply roam the game world, interacting with the environment and the characters.\n\nNaturally, much of the typical GTA-like content has been changed to fit the high school setting. The violence is still present: Jimmy can punch and kick anyone he encounters, as well as use a variety of (non-lethal) weapons such as slingshots, fire crackers, and even self-made guns. It is not possible to hijack cars, but Jimmy is able to steal and ride bicycles. The missions include a variety of gameplay styles: chases, races, shooter-like sequences, escort missions, spying, random acts of vandalism, and many more.\n\nBully features a plethora of activities and mini-games that can be accessed outside of the missions. Jimmy can simply attend classes and study. Each class is built like a mini-game: for example, language lesson involves composing as many words as possible out of a few given letters within a time limit. It is possible to find, buy, and wear different outfits, get jobs and earn money, and even date schoolmates and buy presents for them.",
             "releasedate": "20061017T000000",
@@ -221,6 +231,16 @@
             "lang": "en"
         },
         {
+            "path": "./Primal (USA).iso",
+            "desc": "Jen meets a short gargoyle named Scree, who informs her that while she must leave the physical plane Mortalis and accompany him to the demon plane Oblivion. The creature who kidnapped Lewis and left her for dead is an agent of Abaddon who represents Chaos and has been locked in struggle for aeons with Arella, representing Order. The balance between Chaos and Order has been upset and it is Jen's task to restore the balance, all the while hoping to discover the whereabouts of Lewis.\n\nPrimal can be described as a \"3D platformer\", being somewhat similar in its basic gameplay mechanics to Tomb Raider games. Puzzle-solving and action-based combat constitute the focus of the gameplay. The player can switch between Jen and Scree at any time; Jen is capable of fighting, but Scree is invulnerable to enemy attacks. When Jen is incapacitated in combat, Scree must quickly restore her to life within a time limit; failure to do so prematurely ends the game.\n\nCombat is heavily based on \"finishing moves\" and Jen's ability to transform into demonic forms. There are four demons Jen can merge herself with; they are obtained one by one as the game's narrative advances. These demonic forms allow Jen to use special abilities, which include jumping to extreme heights, unnaturally fast swimming, slowing down time, and using powerful weapons.",
+            "releasedate": "20030325T000000",
+            "developer": "Sony",
+            "publisher": "Sony",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
             "path": "./Ratchet & Clank (USA).iso",
             "desc": "Ratchet & Clank is a platform/adventure game in a similar vein to the 3D versions of the Rayman, Sonic, Mario, or other games. It involves the two protagonists Ratchet, a furry alien creature, and Clank, a nerdy little robot, going on a quest to find Captain Qwark and ultimately to help save the galaxy.\n\nRatchet & Clank includes many of the best features of previous similar games, but makes itself unique in a number of ways. Firstly each of the game's levels are huge sweeping vistas with extremely detailed buildings which are visible at all times (i.e. there is no distance fog). This means that a building on the horizon is not just a \"backdrop\"; in all likelihood Ratchet will be exploring it in a few moments time. Secondly, the game includes a number of sub-games, such as a space fight sequence and a number of turret shoot-outs which are akin to Missile Command in the first person.\n\nThe game has over twenty levels (planets) and includes as many real-time cut-scenes which tell the story. Also of note is that the story is non-linear, requiring the player to return to previous levels to complete objectives and to choose between multiple paths forward. There is also a respectable array of weapons, gadgets, and accessories to find or buy as the game progresses, which offer some unique gameplay features.",
             "releasedate": "20021104T000000",
@@ -237,6 +257,16 @@
             "developer": "Artificial Mind & Movement",
             "publisher": "Global Star Software Inc.",
             "genre": "Action, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Scarface - The World Is Yours (USA).iso",
+            "desc": "Miami in the '80s: gangs, drugs and hookers dominate the scene and a Cuban called Tony Montana rises up to be the most powerful drug dealer, controlling the whole of Miami. This is the story of the 1983 movie Scarface in which Tony Montana dies during a attack from a rival gang on his mansion at the end. The game now puts the player in the shoes of Tony a few moments before the gang hits his office.",
+            "releasedate": "20061008T000000",
+            "developer": "Radical Entertainment Inc.",
+            "publisher": "Sierra | Vivendi Games",
+            "genre": "Action, Adventure",
             "players": "1",
             "lang": "en"
         },
@@ -308,6 +338,16 @@
             "publisher": "Vivendi Games",
             "genre": "Platform",
             "players": "",
+            "lang": "en"
+        },
+        {
+            "path": "./Tony Hawk's Pro Skater 3 (USA).iso",
+            "desc": "This game saw the introduction of the revert, a trick that enabled vert combos to be tied together with a manual, by tapping a button when landing in a quarterpipe. This allowed for much longer combos than in the previous two games, where landing in a quarterpipe would finish a combo. The game also added hidden combos. These were variations on standard tricks that could be performed as grab, flip, lip, or grind tricks. For example, double-tapping the kickflip button would, naturally, make the character perform a double kickflip.",
+            "releasedate": "20011030T000000",
+            "developer": "Neversoft Entertainment",
+            "publisher": "Activision",
+            "genre": "Sports",
+            "players": "2",
             "lang": "en"
         },
         {

@@ -275,6 +275,20 @@ An evil shroud covers the world in darkness. You must restore the powers of eart
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Legends of Owlia, The.nes</path>
+		<name>The Legends of Owlia</name>
+		<image>./00Boxart/Legends of Owlia, The</image>
+		<thumbnail>./00Boxart/Legends of Owlia, The</thumbnail>
+		<marquee>./00Logo/Legends of Owlia, The</marquee>
+		<desc>Guide heroine Adlanniel and her owl friend Tyto to free the great owls and defeat Mermon king of the Mermen. An action-adventure game inspired by StarTropics, Crystalis, and the Legend of Zelda with 12 enemy types, 5 dungeons and 5 bosses to beat.</desc>
+		<releasedate>20171225T000000</releasedate>
+		<developer>Gradual Games</developer>
+		<publisher>Gradual Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Lion King, The (Europe).nes</path>
 		<name>The Lion King</name>
 		<image>./00Boxart/Lion King, The (Europe)</image>

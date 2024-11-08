@@ -171,6 +171,16 @@
             "lang": "en"
         },
         {
+            "path": "./Legends of Owlia, The.nes",
+            "desc": "Guide heroine Adlanniel and her owl friend Tyto to free the great owls and defeat Mermon king of the Mermen. An action-adventure game inspired by StarTropics, Crystalis, and the Legend of Zelda with 12 enemy types, 5 dungeons and 5 bosses to beat.",
+            "releasedate": "20171225T000000",
+            "developer": "Gradual Games",
+            "publisher": "Gradual Games",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
             "path": "./Legend of Zelda, The (USA).nes",
             "desc": "Embark on a legendary adventure as Link, tasked with rescuing Princess Zelda and defeating Ganon. Explore dungeons, solve puzzles, and collect items to power up.",
             "releasedate": "19860221T000000",

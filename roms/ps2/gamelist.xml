@@ -22,6 +22,21 @@ A local co-op mode is available, which uses a single non-split screen view. The 
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./BloodRayne (USA).iso</path>
+		<name>BloodRayne</name>
+		<image>./00Image/BloodRayne (USA)</image>
+		<thumbnail>./00Boxart/BloodRayne (USA)</thumbnail>
+		<marquee>./00Logo/BloodRayne (USA)</marquee>
+		<cart>./00Cart/BloodRayne (USA)</cart>
+		<desc>BloodRayne is a killing machine. The Brimstone Society calls upon this half-vampire, half-human agent to take on two missions in the years between the world wars. At the root of these missions is one man who searches for powerful occult artifacts that would bring Germany into a new age of domination. As BloodRayne, you must stop this man's elite Nazi army from releasing terrorizing creatures onto the world.</desc>
+		<releasedate>20021015T000000</releasedate>
+		<developer>Terminal Reality, Inc.</developer>
+		<publisher>Majesco Entertainment</publisher>
+		<genre>Action, Horror</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Bully (USA).iso</path>
 		<name>Bully</name>
 		<image>./00Image/Bully (USA)</image>
@@ -382,6 +397,25 @@ A spiritual successor on the Nintendo DS, Ōkamiden, was released in Japan in Se
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Primal (USA).iso</path>
+		<name>Primal</name>
+		<image>./00Image/Primal (USA)</image>
+		<thumbnail>./00Boxart/Primal (USA)</thumbnail>
+		<marquee>./00Logo/Primal (USA)</marquee>
+		<cart>./00Cart/Primal (USA)</cart>
+		<desc>Jen meets a short gargoyle named Scree, who informs her that while she must leave the physical plane Mortalis and accompany him to the demon plane Oblivion. The creature who kidnapped Lewis and left her for dead is an agent of Abaddon who represents Chaos and has been locked in struggle for aeons with Arella, representing Order. The balance between Chaos and Order has been upset and it is Jen's task to restore the balance, all the while hoping to discover the whereabouts of Lewis.
+
+Primal can be described as a "3D platformer", being somewhat similar in its basic gameplay mechanics to Tomb Raider games. Puzzle-solving and action-based combat constitute the focus of the gameplay. The player can switch between Jen and Scree at any time; Jen is capable of fighting, but Scree is invulnerable to enemy attacks. When Jen is incapacitated in combat, Scree must quickly restore her to life within a time limit; failure to do so prematurely ends the game.
+
+Combat is heavily based on "finishing moves" and Jen's ability to transform into demonic forms. There are four demons Jen can merge herself with; they are obtained one by one as the game's narrative advances. These demonic forms allow Jen to use special abilities, which include jumping to extreme heights, unnaturally fast swimming, slowing down time, and using powerful weapons.</desc>
+		<releasedate>20030325T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Ratchet & Clank (USA).iso</path>
 		<name>Ratchet & Clank</name>
 		<image>./00Image/Ratchet & Clank (USA)</image>
@@ -416,6 +450,21 @@ Since certain goals can only be reached in one particular lizard form, part of t
 		<developer>Artificial Mind &amp; Movement</developer>
 		<publisher>Global Star Software Inc.</publisher>
 		<genre>Action, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Scarface - The World Is Yours (USA).iso</path>
+		<name>Scarface - The World Is Yours</name>
+		<image>./00Image/Scarface - The World Is Yours (USA)</image>
+		<thumbnail>./00Boxart/Scarface - The World Is Yours (USA)</thumbnail>
+		<marquee>./00Logo/Scarface - The World Is Yours (USA)</marquee>
+		<cart>./00Cart/Scarface - The World Is Yours (USA)</cart>
+		<desc>Miami in the '80s: gangs, drugs and hookers dominate the scene and a Cuban called Tony Montana rises up to be the most powerful drug dealer, controlling the whole of Miami. This is the story of the 1983 movie Scarface in which Tony Montana dies during a attack from a rival gang on his mansion at the end. The game now puts the player in the shoes of Tony a few moments before the gang hits his office.</desc>
+		<releasedate>20061008T000000</releasedate>
+		<developer>Radical Entertainment Inc.</developer>
+		<publisher>Sierra | Vivendi Games</publisher>
+		<genre>Action, Adventure</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -540,6 +589,21 @@ Spyro and his friends must eliminate the evil Red Dragon by defeating his henchm
 		<publisher>Vivendi Games</publisher>
 		<genre>Platform</genre>
 		<players></players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 3 (USA).iso</path>
+		<name>Tony Hawk's Pro Skater 3</name>
+		<image>./00Image/Tony Hawk's Pro Skater 3 (USA)</image>
+		<thumbnail>./00Boxart/Tony Hawk's Pro Skater 3 (USA)</thumbnail>
+		<marquee>./00Logo/Tony Hawk's Pro Skater 3 (USA)</marquee>
+		<cart>./00Cart/Tony Hawk's Pro Skater 3 (USA)</cart>
+		<desc>This game saw the introduction of the revert, a trick that enabled vert combos to be tied together with a manual, by tapping a button when landing in a quarterpipe. This allowed for much longer combos than in the previous two games, where landing in a quarterpipe would finish a combo. The game also added hidden combos. These were variations on standard tricks that could be performed as grab, flip, lip, or grind tricks. For example, double-tapping the kickflip button would, naturally, make the character perform a double kickflip.</desc>
+		<releasedate>20011030T000000</releasedate>
+		<developer>Neversoft Entertainment</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
