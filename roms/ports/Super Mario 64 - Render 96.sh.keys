@@ -1,0 +1,14 @@
+{
+    "actions_player1": [
+        {
+            "trigger": "start",
+            "type": "key",
+            "target": "KEY_F4"
+        },
+        {
+            "trigger": "select",
+            "type": "key",
+            "target": "KEY_LEFTALT"
+        }
+    ]
+}

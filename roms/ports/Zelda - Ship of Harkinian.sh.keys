@@ -1,0 +1,23 @@
+{
+    "actions_player1": [
+        {
+            "trigger": "joystick2",
+            "type": "mouse"
+        },
+        {
+            "trigger": "r3",
+            "type": "key",
+            "target": "BTN_LEFT"
+        },
+        {
+            "trigger": "start",
+            "type": "key",
+            "target": "KEY_F4"
+        },
+        {
+            "trigger": "select",
+            "type": "key",
+            "target": "KEY_LEFTALT"
+        }
+    ]
+}
