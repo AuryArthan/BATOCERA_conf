@@ -1,6 +1,21 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./1080 Snowboarding (Japan, USA).z64</path>
+		<name>1080 Snowboarding</name>
+		<image>./00Boxart/1080 Snowboarding (Japan, USA)</image>
+		<thumbnail>./00Boxart/1080 Snowboarding (Japan, USA)</thumbnail>
+		<marquee>./00Logo/1080 Snowboarding (Japan, USA)</marquee>
+		<cart>./00Cart/1080 Snowboarding (Japan, USA)</cart>
+		<desc>You’re taking a Tahoe 155 snowboard down a steep, bumpy incline at night and you’re about to top off an Indy Nosebone with a 360 Air, and you haven’t even left your living room! You’re Playing 1080 (Ten Eighty) Snowboarding, a game so intense you’ll be brushing the snow off your goggles. With five different boarders, eight different Lamar snowboards, more than 25 tricks, a Half-Pipe and six different courses, this is as close as you’ll get to the real thing without hopping on the next ski lift.</desc>
+		<releasedate>19980401T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Banjo-Kazooie (USA).z64</path>
 		<name>Banjo-Kazooie</name>
 		<image>./00Boxart/Banjo-Kazooie (USA)</image>
@@ -137,6 +152,36 @@ Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his home
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Excitebike 64 (USA).z64</path>
+		<name>Excitebike 64</name>
+		<image>./00Boxart/Excitebike 64 (USA)</image>
+		<thumbnail>./00Boxart/Excitebike 64 (USA)</thumbnail>
+		<marquee>./00Logo/Excitebike 64 (USA)</marquee>
+		<cart>./00Cart/Excitebike 64 (USA)</cart>
+		<desc>Experience extreme MX! You grind your way through the hairpin turn, a wall of mud exploding in your wake. Your next jump launches you into the air - you pull off a spectacular double no-footed can-can and become an instant legend! In Excitebike 64, you'll find all the high-flying action, heart-stopping stunts and bone-jarring crashes of the extreme sport of motocross. It'll set the daredevil inside you free. 20 stadium tracks and awesome outdoor courses - plus six different riders with six unique styles!</desc>
+		<releasedate>20000430T000000</releasedate>
+		<developer>Left Field Productions</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Forsaken 64 (USA).z64</path>
+		<name>Forsaken 64</name>
+		<image>./00Boxart/Forsaken 64 (USA)</image>
+		<thumbnail>./00Boxart/Forsaken 64 (USA)</thumbnail>
+		<marquee>./00Logo/Forsaken 64 (USA)</marquee>
+		<cart>./00Cart/Forsaken 64 (USA)</cart>
+		<desc>Forsaken is a first-person shoot 'em up in which you have complete movement freedom in 3 dimensions, as you accelerate, swerve and strafe your craft, making for gameplay resembling Descent. Each level has a defined exit which must be reached within a tight time limit. The surrounding areas are collapsing around you, with spikes and turbine fans among your hazards. Be very aware of other craft out to take all you have, as they alter their approach based on your weaponry (from the 25 featured in the game) and past encounters.</desc>
+		<releasedate>19980430T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Action, Shooter</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./F-Zero X (USA).z64</path>
 		<name>F-Zero X</name>
 		<image>./00Boxart/F-Zero X (USA)</image>
@@ -153,6 +198,21 @@ It's you against 29 other machines competing for the title of F-Zero X Champion.
 		<publisher>Nintendo of America, Inc.</publisher>
 		<genre>Racing</genre>
 		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Goemon's Great Adventure (USA).z64</path>
+		<name>Goemon's Great Adventure</name>
+		<image>./00Boxart/Goemon's Great Adventure (USA)</image>
+		<thumbnail>./00Boxart/Goemon's Great Adventure (USA)</thumbnail>
+		<marquee>./00Logo/Goemon's Great Adventure (USA)</marquee>
+		<cart>./00Cart/Goemon's Great Adventure (USA)</cart>
+		<desc>Goemon and all his friends are back in his greatest adventure yet! Goemon's Great Adventure combines classic Goemon platform action with an all-new twist. The evil time-traveling nun, Bismaru, has summoned Dochuki, a demon prince, to take over the Earth. But first, she wants to marry him! Can Goemon and his gang stop the demon? Can Dochuki escape the cloying clutches of the wacked-out nun? Will Ebisu ever beat his own dumpling eating record? It's an adventure you'll never forget!</desc>
+		<releasedate>19990915T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -182,18 +242,35 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - Majora's Mask [redux].z64</path>
-		<name>The Legend of Zelda - Majora's Mask [redux]</name>
-		<image>./00Boxart/Legend of Zelda, The - Majora's Mask [redux]</image>
-		<thumbnail>./00Boxart/Legend of Zelda, The - Majora's Mask [redux]</thumbnail>
-		<marquee>./00Logo/Legend of Zelda, The - Majora's Mask [redux]</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Majora’s Mask Redux is a hack that aims to improve the original experience of Majora’s Mask by adding some QoL improvements by applying the ASM patches provided by the Majora’s Mask Randomizer project by Saneki and its contributors.</desc>
-		<releasedate>20201124T000000</releasedate>
-		<developer>Maroc</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Action, Adventure, Role-Playing, Puzzle, Unofficial</genre>
+		<path>./Harvest Moon 64 (USA).z64</path>
+		<name>Harvest Moon 64</name>
+		<image>./00Boxart/Harvest Moon 64 (USA)</image>
+		<thumbnail>./00Boxart/Harvest Moon 64 (USA)</thumbnail>
+		<marquee>./00Logo/Harvest Moon 64 (USA)</marquee>
+		<cart>./00Cart/Harvest Moon 64 (USA)</cart>
+		<desc>Retire to the country for a new challenge in Harvest Moon 64. Hard work is rewarded as you struggle to bring prosperity back to a neglected farm. Work the land, pick up odd-jobs, and get to know the neighbors. Harvest Moon 64 has all the charm of the original Super Nintendo classic, plus many new surprises.</desc>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Toybox</developer>
+		<publisher>Natsume</publisher>
+		<genre>Construction Simulation</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jet Force Gemini (USA).z64</path>
+		<name>Jet Force Gemini</name>
+		<image>./00Boxart/Jet Force Gemini (USA)</image>
+		<thumbnail>./00Boxart/Jet Force Gemini (USA)</thumbnail>
+		<marquee>./00Logo/Jet Force Gemini (USA)</marquee>
+		<cart>./00Cart/Jet Force Gemini (USA)</cart>
+		<desc>The insect invasion has begun.
+
+The galaxy is being infested by the evil Mizar and his horde of Drones. Already, the planet of Goldwood has been subjugated and the peaceful Tribals enslaved. With an arsenal of mega-weapons at their disposal, the Jet Force Gemini team must travel in search of Mizar's lair - rescuing Tribals and splattering Drones along the way. But can Juno, Vela and their faithful dog, Lupus, exterminate the deadly threat before it's too late?</desc>
+		<releasedate>19991011T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Rare, Ltd.</publisher>
+		<genre>Action, Adventure, Shooter</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -208,42 +285,6 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action, Adventure, Role-Playing, Puzzle</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Master of Time.z64</path>
-		<name>The Legend of Zelda - Master of Time</name>
-		<image>./00Boxart/Legend of Zelda, The - Master of Time</image>
-		<thumbnail>./00Boxart/Legend of Zelda, The - Master of Time</thumbnail>
-		<marquee>./00Logo/Legend of Zelda, The - Master of Time</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>After saving both Hyrule and Termina, Link found himself without a quest. He journeyed long and far without knowing what to do. He thought a lot about the time manipulation he had done and asked himself if he was the real hero or if he was just a victim of these stories.
-
-The more his obsession of time had grown, the more it felt that time was slowing down… Until it froze completely, condemning his journey to an endless day… Just before passing out from exhaustion, Link finally found a new country…
-
-Master of Time is a new story in a completely new world, Abello, where Link must restore the flow of time. Abello is a big and dangerous world, but Link can count on the help of Nite the fairy.
-
-Around 20 hours of gameplay in various areas and dungeons with custom cutscenes, songs and much more. Good luck finding all 100 skulltula tokens and 20 hearts!</desc>
-		<releasedate>20200713T000000</releasedate>
-		<developer>Don Camilo</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Action, Adventure, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Ocarina of Time [redux].z64</path>
-		<name>The Legend of Zelda - Ocarina of Time [redux]</name>
-		<image>./00Boxart/Legend of Zelda, The - Ocarina of Time [redux]</image>
-		<thumbnail>./00Boxart/Legend of Zelda, The - Ocarina of Time [redux]</thumbnail>
-		<marquee>./00Logo/Legend of Zelda, The - Ocarina of Time [redux]</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>This hack aims at improving the original experience of Ocarina of Time by adding some QoL improvements by applying the ASM patches provided by the Ocarina of Time Randomizer project by Roman971 and its contributors. (NOTE: For a full list of the Credits per-dev, please check the ReadMe. Adult Link 3D model made by SkilarBabcock, with permission to use for this project: https://youtu.be/x6MIeEZIsPw)</desc>
-		<releasedate>20201124T000000</releasedate>
-		<developer>Maroc</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Action, Adventure, Unofficial</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -263,59 +304,6 @@ Around 20 hours of gameplay in various areas and dungeons with custom cutscenes,
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - Sealed Palace.z64</path>
-		<name>The Legend of Zelda - Sealed Palace</name>
-		<image>./00Boxart/Legend of Zelda, The - Sealed Palace</image>
-		<thumbnail>./00Boxart/Legend of Zelda, The - Sealed Palace</thumbnail>
-		<marquee>./00Logo/Legend of Zelda, The - Sealed Palace</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>An Ocarina of Time Romhack. Lots of gameplay in various areas and dungeons with custom cutscenes, songs and much more. Good luck finding all 100 Skulltula tokens and 20 hearts!</desc>
-		<releasedate>20230419T000000</releasedate>
-		<developer>Jinnosuke9</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Action, Adventure, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - The Missing Link.z64</path>
-		<name>The Legend of Zelda - The Missing Link</name>
-		<image>./00Boxart/Legend of Zelda, The - The Missing Link</image>
-		<thumbnail>./00Boxart/Legend of Zelda, The - The Missing Link</thumbnail>
-		<marquee>./00Logo/Legend of Zelda, The - The Missing Link</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>This mini-adventure is set in between Ocarina of Time and Majora’s Mask. It follows Link on his quest to find Navi, his fairy companion from the first N64 Zelda game.
-
-But this search for a missing friend quickly turns into an urgent rescue mission. And if Link doesn’t find Navi soon, the entire world will be at risk.
-
-The creators crafted new environments, graphics and music. During your quest you’ll find a new item and gameplay mechanics that go along with it.</desc>
-		<releasedate>20210730T000000</releasedate>
-		<developer>Kaze</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Action, Adventure, Role-Playing, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Ultimate Trial.z64</path>
-		<name>The Legend of Zelda - Ultimate Trial</name>
-		<image>./00Boxart/Legend of Zelda, The - Ultimate Trial</image>
-		<thumbnail>./00Boxart/Legend of Zelda, The - Ultimate Trial</thumbnail>
-		<marquee>./00Logo/Legend of Zelda, The - Ultimate Trial</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Link and Navi find themselves deep within the Lost Woods as they stumble upon a mysterious stronghold. Not knowing what will await them, they are courageous enough to enter it.
-
-Ultimate Trial includes new characters, locations, and music as well as custom enemies and upgradeable equipment within a new, unique story. A guide will be released in a couple of days as well as the soundtrack.
-
-Enjoy the game at your own pace by setting the difficulty in the pause menu screen.</desc>
-		<releasedate>20240716T000000</releasedate>
-		<developer>Ultimate Trial Team</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Action, Adventure, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Mario Golf (USA).z64</path>
 		<name>Mario Golf</name>
 		<image>./00Boxart/Mario Golf (USA)</image>
@@ -327,22 +315,6 @@ Enjoy the game at your own pace by setting the difficulty in the pause menu scre
 		<developer>Camelot Software Planning</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Sports</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Mario Kart 64 - Amped Up.z64</path>
-		<name>Mario Kart 64 - Amped Up</name>
-		<image>./00Boxart/Mario Kart 64 - Amped Up</image>
-		<thumbnail>./00Boxart/Mario Kart 64 - Amped Up</thumbnail>
-		<marquee>./00Logo/Mario Kart 64 - Amped Up</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>This is a mod for the game Mario Kart 64.
-It adds 16 brand new courses, as well as additional game modes, music, modern visuals, gameplay techniques, and much more!</desc>
-		<releasedate>20210101T000000</releasedate>
-		<developer>Litronom</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Racing, Unofficial</genre>
 		<players>4</players>
 		<lang>en</lang>
 	</game>
@@ -389,6 +361,36 @@ Three… Two… One… GO! The signal light changes and you drop the pedal to th
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Mario Party 3 (USA).z64</path>
+		<name>Mario Party 3</name>
+		<image>./00Boxart/Mario Party 3 (USA)</image>
+		<thumbnail>./00Boxart/Mario Party 3 (USA)</thumbnail>
+		<marquee>./00Logo/Mario Party 3 (USA)</marquee>
+		<cart>./00Cart/Mario Party 3 (USA)</cart>
+		<desc>Mario Party 3 is the third and final Mario Party title for the Nintendo 64. A total of eight characters are available to choose from: Mario, Luigi, Princess Peach, Yoshi, Wario, Donkey Kong, and newcomers Waluigi and Princess Daisy. Mario Party 3 features duel maps, in which two players try to lower each other's stamina to zero using non-playable characters such as Chain Chomps. It is the first Mario Party game to feature Luigi's main voice and also it is last Mario game where Princess Daisy appears in a yellow and white dress, and with long hair, as well as the last Mario game (until New Super Mario Bros. Wii) in which Yoshi's "record-scratching" voice is used. It is also the first Mario Party game to have multiple save slots.</desc>
+		<releasedate>20010506T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy, Family</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mario Party (USA).z64</path>
+		<name>Mario Party</name>
+		<image>./00Boxart/Mario Party (USA)</image>
+		<thumbnail>./00Boxart/Mario Party (USA)</thumbnail>
+		<marquee>./00Logo/Mario Party (USA)</marquee>
+		<cart>./00Cart/Mario Party (USA)</cart>
+		<desc>Every game in the main series has a standard Party Mode in which up to four players play through a board, trying to collect as many stars as possible. In every turn, each player rolls a die and progresses on the board, which usually has branching paths. Coins are primarily earned by performing well in a minigame played at the end of each turn. On most boards, players earn stars by reaching a star space and purchasing a star for a certain amount of coins. The star space appears randomly on one of several pre-determined locations and moves every time a star is purchased, usually occupying a blue space.</desc>
+		<releasedate>19990208T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy, Family</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Mario Tennis (USA).z64</path>
 		<name>Mario Tennis</name>
 		<image>./00Boxart/Mario Tennis (USA)</image>
@@ -403,6 +405,21 @@ Three… Two… One… GO! The signal light changes and you drop the pedal to th
 		<publisher>Nintendo</publisher>
 		<genre>Sports</genre>
 		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ogre Battle 64 - Person of Lordly Caliber (USA).z64</path>
+		<name>Ogre Battle 64 - Person of Lordly Caliber</name>
+		<image>./00Boxart/Ogre Battle 64 - Person of Lordly Caliber (USA)</image>
+		<thumbnail>./00Boxart/Ogre Battle 64 - Person of Lordly Caliber (USA)</thumbnail>
+		<marquee>./00Logo/Ogre Battle 64 - Person of Lordly Caliber (USA)</marquee>
+		<cart>./00Cart/Ogre Battle 64 - Person of Lordly Caliber (USA)</cart>
+		<desc>Ogre Battle 64 is the third game in the series, the first two being Ogre Battle: The March of the Black Queen, and Tactics Ogre: Let Us Cling Together. The story follows Magnus Gallant, a recent graduate of the Ischka Military Academy, and fledgling captain in Palatinus' Southern region, Alba. As civil war erupts in the country, Magnus eventually decides to join the revolution with its leader, Frederick Raskin, first liberating the southern region with the Zenobians' aid, then Nirdam and uniting with them, then returning the Eastern Region of Capitrium to the Orthodox church, and finally marching on the capital of Latium. However, along the way, Magnus' battalion, the Blue Knights, finds its enemies escalating, from the puppet kingdom of Palatinus, to the might of the Holy Lodis Empire, to the Dark Hordes of the Netherworld.</desc>
+		<releasedate>20001007T000000</releasedate>
+		<developer>Quest</developer>
+		<publisher>Atlus Co., Ltd.</publisher>
+		<genre>Adventure, Role-Playing, Strategy</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -481,6 +498,21 @@ Step into the dark... As Carrington Institute's most promising new Agent, Joanna
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Quest 64 (USA).z64</path>
+		<name>Quest 64</name>
+		<image>./00Boxart/Quest 64 (USA)</image>
+		<thumbnail>./00Boxart/Quest 64 (USA)</thumbnail>
+		<marquee>./00Logo/Quest 64 (USA)</marquee>
+		<cart>./00Cart/Quest 64 (USA)</cart>
+		<desc>Celtland has been cast into chaos by the theft of Eletale's Book. This mystical volume contains the secrets of the Spirit Tamers. Control Brian, a magician's apprentice, as he explores the expansive countryside and villages on his quest. If he does not reclaim the book, the Kingdom of Celtland will be cast into darkness forever.</desc>
+		<releasedate>19980611T000000</releasedate>
+		<developer>Imagineer</developer>
+		<publisher>THQ</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Star Fox 64 (USA).z64</path>
 		<name>Star Fox 64</name>
 		<image>./00Boxart/Star Fox 64 (USA)</image>
@@ -507,6 +539,21 @@ When offered membership into the Cornerian Army, Fox declines on behalf of his t
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Star Wars Episode I - Battle for Naboo (USA).z64</path>
+		<name>Star Wars Episode I - Battle for Naboo</name>
+		<image>./00Boxart/Star Wars Episode I - Battle for Naboo (USA)</image>
+		<thumbnail>./00Boxart/Star Wars Episode I - Battle for Naboo (USA)</thumbnail>
+		<marquee>./00Logo/Star Wars Episode I - Battle for Naboo (USA)</marquee>
+		<cart>./00Cart/Star Wars Episode I - Battle for Naboo (USA)</cart>
+		<desc>Attention defenders of Naboo! The Trade Federation must be stopped! Storm through more than 15 missions over land, sea and space as your freedom fighters rally against the droid armies. Take control of 7 vehicles: the Naboo starfighter, Gian speeder, and new craft like the heavy STAP, Trade Federation gunboat and more. More than 15 missions: escape from Theed, search &amp; destroy, sabotage, reconnaissance, convoy. Battle against Trade Federation droid starfighters, AATs, destroyer droids, battle droids. Change vehicles mid-mission through specially designated hangars.</desc>
+		<releasedate>20001218T000000</releasedate>
+		<developer>Factor 5 GmbH</developer>
+		<publisher>LucasArts Entertainment Company LLC, Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Star Wars Episode I - Racer (USA).z64</path>
 		<name>Star Wars Episode I - Racer</name>
 		<image>./00Boxart/Star Wars Episode I - Racer (USA)</image>
@@ -524,290 +571,18 @@ When offered membership into the Cornerian Army, Fox declines on behalf of his t
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Super Mario 64 - B3313.z64</path>
-		<name>Super Mario 64 - B3313</name>
-		<image>./00Boxart/Super Mario 64 - B3313</image>
-		<thumbnail>./00Boxart/Super Mario 64 - B3313</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - B3313</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Will you play the game, or will the game play you?
-
-B3313 or Build 3313 (also called SM64 Internal Plexus) is a ROM hack of Super Mario 64 developed by ChrisRLillo and his dev team. It is the largest beta-based SM64 hack to date in terms of the number of accessible areas and star count, as well as various other aspects.</desc>
-		<releasedate>20210926T000000</releasedate>
-		<developer>ChrisRLillo et al.</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Beyond the Cursed Mirror.z64</path>
-		<name>Super Mario 64 - Beyond the Cursed Mirror</name>
-		<image>./00Boxart/Super Mario 64 - Beyond the Cursed Mirror</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Beyond the Cursed Mirror</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Beyond the Cursed Mirror</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Greetings Superstar,
-Did you know that your nemesis hid in the decrepit castle all this time? It appears he fosters his strength in a hidden compartment behind one cursed mirror. I implore you to defeat him, once and for all – for the sake of the kingdom.
--Yours truly, The Showrunner</desc>
-		<releasedate>20230518T000000</releasedate>
-		<developer>rovertronic</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Decades Later.z64</path>
-		<name>Super Mario 64 - Decades Later</name>
-		<image>./00Boxart/Super Mario 64 - Decades Later</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Decades Later</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Decades Later</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Ever wondered what SM64's levels would look like after a few years, maybe even 2 decades after the events the original when Bowser took over the Castle with now 150 new stars to collect? Well, this hack aims to recreate and reimagine vanilla SM64 levels from memory to an extend where some levels will feel familiar yet new and others that have been turned into fully new levels. Stars or sections that felt too repetitive or just weren't fun in the eyes of the hack creator have been replaced with newer stars or been reworked to play out differently.</desc>
-		<releasedate>20240329T000000</releasedate>
-		<developer>BroDute</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Escape from the Jail.z64</path>
-		<name>Super Mario 64 - Escape from the Jail</name>
-		<image>./00Boxart/Super Mario 64 - Escape from the Jail</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Escape from the Jail</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Escape from the Jail</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Escape from the Jail "Definitive Edition" is a hack that contains 50 stars for an adventurer to collect - remaster of an original hack made by TheGael95. Mario was captured in the jail and now he needs to find out who is behind it! Join Mario in this epic journey featuring 5 full courses and lots of side courses to explore.</desc>
-		<releasedate>20220204T000000</releasedate>
-		<developer>aglab2</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Eureka.z64</path>
-		<name>Super Mario 64 - Eureka</name>
-		<image>./00Boxart/Super Mario 64 - Eureka</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Eureka</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Eureka</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Full 100 star hack with plenty of things to find. Some useful, some not. That is for you to decide.</desc>
-		<releasedate>20240414T000000</releasedate>
-		<developer>GooseDaJuice</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Last Impact.z64</path>
-		<name>Super Mario 64 - Last Impact</name>
-		<image>./00Boxart/Super Mario 64 - Last Impact</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Last Impact</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Last Impact</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>SM64: Last Impact is a major hack made by Kaze Emanuar. It was released on September 30th, 2016. It contains 130 stars, 12 power-ups, many new bosses and a large variety of completely new levels.
-
-In this hack, Mario only has 6 health instead of the normal 8 and a separate gauge for air underwater. This hack presents many things that weren't in previous hacks or the original game, including new power-ups, custom music and objects, and unique boss fights.</desc>
-		<releasedate>20160930T000000</releasedate>
-		<developer>Kaze</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Adventure, Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Monstrous Manor.z64</path>
-		<name>Super Mario 64 - Monstrous Manor</name>
-		<image>./00Boxart/Super Mario 64 - Monstrous Manor</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Monstrous Manor</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Monstrous Manor</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Mario gets invited to explore a haunted manor in this unconventionally-structured major hack.
-
-Solve puzzles, collect keys, and fight enemies to uncover the mystery of the manor.</desc>
-		<releasedate>20230929T000000</releasedate>
-		<developer>MrComit</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Mystery of the Capsmith DEMO.z64</path>
-		<name>Super Mario 64 - Mystery of the Capsmith DEMO</name>
-		<image>./00Boxart/Super Mario 64 - Mystery of the Capsmith DEMO</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Mystery of the Capsmith DEMO</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Mystery of the Capsmith DEMO</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>The demo for Mystery of the Capsmith is here!
-3 new caps, 3 new levels!
-
-I made this game in 17 days for the Scuttle Hacking Competition and it won first place. This shorter competition/demo version doesn't have the story of the Capsmith, but the full version will. You guys can let me know what you think of it, and if you'd like to see it made into a larger hack or even a major hack.
-This demo does not support N64 as its build doesn't have my newer optimizations.</desc>
-		<releasedate>20221011T000000</releasedate>
-		<developer>Dorrieal</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Peach's Fury.z64</path>
-		<name>Super Mario 64 - Peach's Fury</name>
-		<image>./00Boxart/Super Mario 64 - Peach's Fury</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Peach's Fury</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Peach's Fury</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>This hack features a complete refactoring of the SM64 code to allow it to run high poly maps on a real N64. There is an option to turn on 60FPS mode in the pause menu. It's on by default on emu, off on N64.</desc>
-		<releasedate>20220205T000000</releasedate>
-		<developer>Kaze, thelegendofzeina</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 [QoL].z64</path>
-		<name>Super Mario 64 [QoL]</name>
-		<image>./00Boxart/Super Mario 64 [QoL]</image>
-		<thumbnail>./00Boxart/Super Mario 64 [QoL]</thumbnail>
-		<marquee>./00Logo/Super Mario 64 [QoL]</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Super Mario 64 'Quality of Life' update. Widescreen, cleaner camera, cleaner hud etc.</desc>
-		<releasedate>20240626T000000</releasedate>
-		<developer>AuryArthan</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Return to Yoshi's Island DEMO.z64</path>
-		<name>Super Mario 64 - Return to Yoshi's Island DEMO</name>
-		<image>./00Boxart/Super Mario 64 - Return to Yoshi's Island DEMO</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Return to Yoshi's Island DEMO</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Return to Yoshi's Island DEMO</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Bowser has kidnapped most of the Yoshi's and is forcing them to work for him. A lone orange Yoshi that napped through the kidnapping calls upon Mario to help rescue the Yoshi's.
-
-Fall damage has not been disabled, but the distance Mario can fall without taking damage has been increased, and Mario's lives counter has been disabled.
-
-Upon initial entry, each course will have a cutscene play that shows off the level's notable features, similar to in Last Impact. The camera controls and Stars are very similar to those used in Peach's Fury.</desc>
-		<releasedate>20210415T000000</releasedate>
-		<developer>Kaze</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Royal Legacy.z64</path>
-		<name>Super Mario 64 - Royal Legacy</name>
-		<image>./00Boxart/Super Mario 64 - Royal Legacy</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Royal Legacy</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Royal Legacy</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>For fans of SM64 Sapphire: a new 30-star adventure awaits you. This is a very traditional platformer hack meant to challenge players who have already mastered everything vanilla SM64 asks of you. 4 original worlds, complete with a hub, Bowser stage and fight. The entire soundtrack is original music composed just for this game.</desc>
-		<releasedate>20240811T000000</releasedate>
-		<developer>StunningCactus</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Serene Fusion.z64</path>
-		<name>Super Mario 64 - Serene Fusion</name>
-		<image>./00Boxart/Super Mario 64 - Serene Fusion</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Serene Fusion</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Serene Fusion</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Serene Fusion is a major ROM hack created by aglab2 and made in collaboration with the SM64 ROM hack Community for the Fangame Marathon 2022 Special Event. This hack is initially dubbed Project 74 as a remaster of Lugmillord's Super Mario 74, which contains a couple levels from the original hack with newer gimmicks and redesigns. It features a total of 80 Stars and over 8 levels; additionally, original level content is included as main and secret stages alike.</desc>
-		<releasedate>20221009T000000</releasedate>
-		<developer>Aglab2</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Shotgun Mario.z64</path>
-		<name>Super Mario 64 - Shotgun Mario</name>
-		<image>./00Boxart/Super Mario 64 - Shotgun Mario</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Shotgun Mario</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Shotgun Mario</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Shotgun Mario 64 is a ROM hack created by Dorrieal. The majority of this hack uses the same content as vanilla Super Mario 64 (such as levels and areas), but its stand-out custom mechanic, a shotgun, sets it apart from other vanilla edits. Not because it's a gun, but because of the execution of this custom mechanic.
-
-Note for speedrunners: hold R, Z and B during the intro to skip the tutorial.
-
-Upon starting a new file, Mario will enter a quick tutorial on the basics of using his shotgun. He will not, however, be taught the extent of how this mechanic can affect the world around him. Using the shotgun not only annihilates enemies, but many of the objects and facets of the overworld/levels have had custom behaviour added in, so that shotgunning them often causes some bizarre effect. Here are a few examples of the many custom behaviours:
-- Doors can now be blown off their hinges.
-- Trees can sustain multiple forms of damage and will also be left singed.
-- Cannon hatches can be destroyed, thus giving the Bob-omb Buddies a permanent holiday.
-- Power Stars undergo a divorce upon being shot.
-- Lakitu skip has never been easier.
-There are many, many others, but this hack is best experienced without knowing much of what will happen.</desc>
-		<releasedate>20231022T000000</releasedate>
-		<developer>Dorrieal</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Star Revenge 6.25 - Luigi's Adventure DX.z64</path>
-		<name>Super Mario 64 - Star Revenge 6.25 - Luigi's Adventure DX</name>
-		<image>./00Boxart/Super Mario 64 - Star Revenge 6.25 - Luigi's Adventure DX</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Star Revenge 6.25 - Luigi's Adventure DX</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Star Revenge 6.25 - Luigi's Adventure DX</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>After his brother has vanished, Luigi finds himself in mysterious castle inside a forest that has been overran by bad guys like Bowser.</desc>
-		<releasedate>20191218T000000</releasedate>
-		<developer>BroDute</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Star Road.z64</path>
-		<name>Super Mario 64 - Star Road</name>
-		<image>./00Boxart/Super Mario 64 - Star Road</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Star Road</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Star Road</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Super Mario Star Road is a ROM Hack made by Skelux. It was released around Christmas 2011, and contains 130 Stars. This ROM hack is considered to be one of the most famous. It contains levels with similar design to the original Super Mario 64, which is overall very solid and fun.
-
-This hack tries to be a sequel, or another version, of the original Super Mario 64, in terms of level design, difficulty, and plot. Not only are all of the levels redone using custom graphics (some of which directly come from other Nintendo 64 games), but custom music and custom enemies have been added as well. The level entrances range from simple pipes or paintings to more unconventional entrances, such as a vase or an easel. In addition, the boss fights have been changed; Bowser himself is only fought once in the game, at the end of the final Bowser level. In the first two Bowser levels, Mario must defeat a mini-boss in order to obtain the key to the next area.
-
-(Information from the Mario 64 Hacks Wiki)</desc>
-		<releasedate>20111224T000000</releasedate>
-		<developer>Skelux</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Through the Ages.z64</path>
-		<name>Super Mario 64 - Through the Ages</name>
-		<image>./00Boxart/Super Mario 64 - Through the Ages</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Through the Ages</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Through the Ages</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Mario visits various historical locations while teaming up with various partner Pokemon.
-
-NOTE: DO NOT PLAY ON PARALLEL PLUGIN! GlideN64 is strongly recommended for the best experience.</desc>
-		<releasedate>20220430T000000</releasedate>
-		<developer>Kaze</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
-		<players>1</players>
+		<path>./Stunt Racer 64 (USA).z64</path>
+		<name>Stunt Racer 64</name>
+		<image>./00Boxart/Stunt Racer 64 (USA)</image>
+		<thumbnail>./00Boxart/Stunt Racer 64 (USA)</thumbnail>
+		<marquee>./00Logo/Stunt Racer 64 (USA)</marquee>
+		<cart>./00Cart/Stunt Racer 64 (USA)</cart>
+		<desc>Set in some unspecified time in the future, the gameplay includes more than simple racing. Older vehicles (primarily those regarded even today as classics) are retrofitted with futuristic engine and turbo technology, in addition to jets mounted to allow the car to perform midair stunts. These stunts, including flips, barrel rolls, etc., allow the player to accumulate cash rewards during races on levitating tracks. Money accumulated is used to purchase new cars, as well as upgraded parts for cars (This increases the value of the vehicle. Oddly enough, this feature is relatively useless because vehicles can't be sold.)</desc>
+		<releasedate>20001001T000000</releasedate>
+		<developer>Boss Game Studios</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -836,21 +611,6 @@ Mario is super in a whole new way! Combining the finest 3D graphics ever develop
 		<developer>Nintendo EAD</developer>
 		<publisher>Nintendo of America, Inc.</publisher>
 		<genre>Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario 64 - Vacation Course.z64</path>
-		<name>Super Mario 64 - Vacation Course</name>
-		<image>./00Boxart/Super Mario 64 - Vacation Course</image>
-		<thumbnail>./00Boxart/Super Mario 64 - Vacation Course</thumbnail>
-		<marquee>./00Logo/Super Mario 64 - Vacation Course</marquee>
-		<cart>./00Cart/00Placeholder</cart>
-		<desc>Play this open-world 30-star hack inspired by Bowser's Fury! Placed 1st in scuttlebug_raiser's 1st Hacking Competition, hosted on the SM64Romhacks discord server.</desc>
-		<releasedate>20210416T000000</releasedate>
-		<developer>Reonu</developer>
-		<publisher>Romhacking</publisher>
-		<genre>Platform, Unofficial</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -884,6 +644,21 @@ The many worlds of Nintendo collide in the ultimate showdown of strength and ski
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Tigger's Honey Hunt (USA).z64</path>
+		<name>Tigger's Honey Hunt</name>
+		<image>./00Boxart/Tigger's Honey Hunt (USA)</image>
+		<thumbnail>./00Boxart/Tigger's Honey Hunt (USA)</thumbnail>
+		<marquee>./00Logo/Tigger's Honey Hunt (USA)</marquee>
+		<cart>./00Cart/Tigger's Honey Hunt (USA)</cart>
+		<desc>Winnie the Pooh needs YOU! How can he throw a party without honey? Play as Tigger and run, jump, and bounce around the 100 Acre Wood in search of Pooh's "most favorite" snack. Along the journey there'll be plenty of challenges - blustery blowing leaves to ride, icy terrain, falling boulders, menacing bees, pesky bats and more. Earn Tigger's very special "Tiggertastic Bounce" as a bonus!</desc>
+		<releasedate>20001101T000000</releasedate>
+		<developer>Doki Denki Studio</developer>
+		<publisher>NewKidCo</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Turok 3 - Shadow of Oblivion (USA).z64</path>
 		<name>Turok 3 - Shadow of Oblivion</name>
 		<image>./00Boxart/Turok 3 - Shadow of Oblivion (USA)</image>
@@ -897,6 +672,51 @@ The many worlds of Nintendo collide in the ultimate showdown of strength and ski
 		<developer>Acclaim</developer>
 		<publisher>Acclaim Entertainment, Inc.</publisher>
 		<genre>Shooter</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Vigilante 8 (USA).z64</path>
+		<name>Vigilante 8</name>
+		<image>./00Boxart/Vigilante 8 (USA)</image>
+		<thumbnail>./00Boxart/Vigilante 8 (USA)</thumbnail>
+		<marquee>./00Logo/Vigilante 8 (USA)</marquee>
+		<cart>./00Cart/Vigilante 8 (USA)</cart>
+		<desc>Vigilante 8 is a vehicular combat video game developed by Luxoflux and published by Activision for PlayStation, Nintendo 64 and Game Boy Color. It is a spin-off of the Interstate '76 series, featuring several of its theme concepts (auto-vigilantes, the 1970s time frame, and specific fictional vehicle companies).</desc>
+		<releasedate>19990317T000000</releasedate>
+		<developer>Luxoflux Corp.</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Shooter, Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wave Race 64 - Kawasaki Jet Ski (USA).z64</path>
+		<name>Wave Race 64 - Kawasaki Jet Ski</name>
+		<image>./00Boxart/Wave Race 64 - Kawasaki Jet Ski (USA)</image>
+		<thumbnail>./00Boxart/Wave Race 64 - Kawasaki Jet Ski (USA)</thumbnail>
+		<marquee>./00Logo/Wave Race 64 - Kawasaki Jet Ski (USA)</marquee>
+		<cart>./00Cart/Wave Race 64 - Kawasaki Jet Ski (USA)</cart>
+		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone! Challenge a friend!</desc>
+		<releasedate>19961104T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo of America, Inc.</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Xena - Warrior Princess - The Talisman of Fate (USA).z64</path>
+		<name>Xena - Warrior Princess - The Talisman of Fate</name>
+		<image>./00Boxart/Xena - Warrior Princess - The Talisman of Fate (USA)</image>
+		<thumbnail>./00Boxart/Xena - Warrior Princess - The Talisman of Fate (USA)</thumbnail>
+		<marquee>./00Logo/Xena - Warrior Princess - The Talisman of Fate (USA)</marquee>
+		<cart>./00Cart/Xena - Warrior Princess - The Talisman of Fate (USA)</cart>
+		<desc>Xena shall choose the defenders of the world. We have seen them in the memories of her exploits. So come together, Earth's greatest heroes and villains. Choose your weapons wisely and let the battles begin! Just remember, each victory only brings you closer to challenging the embodiment of darkness... Despair himself! Each of Xena's 10 characters possess their own unique weapons, attitudes and fighting techniques. Exclusive multi-player feature includes a roster mode, plus team and single battles.</desc>
+		<releasedate>19981214T000000</releasedate>
+		<developer>Saffire Corporation</developer>
+		<publisher>Titus Interactive, S.A.</publisher>
+		<genre>Fighting</genre>
 		<players>4</players>
 		<lang>en</lang>
 	</game>
@@ -918,5 +738,10 @@ Baby Bowser has taken the Super Happy Tree and cast a spell on Yoshi's world, tu
 		<genre>Platform</genre>
 		<players>1</players>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./*.n64</path>
+		<name>*</name>
+		<cart>./00Cart/00Placeholder</cart>
 	</game>
 </gameList>

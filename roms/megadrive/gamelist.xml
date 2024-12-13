@@ -147,11 +147,11 @@ The hack and slash gameplay, in a medieval fantasy setting, is essentially the s
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Lion King 3.md</path>
-		<name>Lion King 3</name>
-		<image>./00Boxart/Lion King 3</image>
-		<thumbnail>./00Boxart/Lion King 3</thumbnail>
-		<marquee>./00Logo/Lion King 3</marquee>
+		<path>./Lion King, The 3.md</path>
+		<name>The Lion King 3</name>
+		<image>./00Boxart/Lion King, The 3</image>
+		<thumbnail>./00Boxart/Lion King, The 3</thumbnail>
+		<marquee>./00Logo/Lion King, The 3</marquee>
 		<desc>Lion King 3 is a platform game released for the Sega Mega Drive based, not the Disney film of the same name, but the original film itself, as a follow-up to the Mega Drive game The Lion King II. It was developed by an unknown company likely connected to Gamtec and published by X Boy.</desc>
 		<releasedate>19980101T000000</releasedate>
 		<developer>Gamtec</developer>
@@ -161,15 +161,33 @@ The hack and slash gameplay, in a medieval fantasy setting, is essentially the s
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Lion King II.md</path>
-		<name>Lion King II</name>
-		<image>./00Boxart/Lion King II</image>
-		<thumbnail>./00Boxart/Lion King II</thumbnail>
-		<marquee>./00Logo/Lion King II</marquee>
+		<path>./Lion King, The II.md</path>
+		<name>The Lion King II</name>
+		<image>./00Boxart/Lion King, The II</image>
+		<thumbnail>./00Boxart/Lion King, The II</thumbnail>
+		<marquee>./00Logo/Lion King, The II</marquee>
 		<desc>The Lion King II is an unlicensed platformer for the Sega Mega Drive. It is loosely based on the 1994 film The Lion King (as opposed to its 1998 sequel which shares The Lion King II title). It was developed by Gamtec at an unknown date, and uses sound effects from Wonder Boy III: Monster Lair.</desc>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Gamtec</developer>
 		<publisher>Romhacking, Unlicenced</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Lion King, The (World).md</path>
+		<name>The Lion King</name>
+		<image>./00Boxart/Lion King, The (World)</image>
+		<thumbnail>./00Boxart/Lion King, The (World)</thumbnail>
+		<marquee>./00Logo/Lion King, The (World)</marquee>
+		<desc>The Lion King is a 1994 Genesis side-scrolling platformer video game developed by Westwood Studios (co-developed by Krisalis Software) and released by Virgin Interactive Entertainment Inc. and Disney Software in the USA on November 9, 1994.
+
+It is based on the movie, The Lion King, which was produced by Walt Disney Feature Animation and released in theaters on June 15, 1994.
+
+You think you want to be King? Get real. You're starting life as Simba, the cub. To survive and grow into a powerful adult lion, you must perfect your savage pounce, reckless roar, and master fighting with all four paws. If you survive the challenge, you'll grow into a strong, ferocious adult lion. So prepare to scrap with hyenas. Blast through an elephant graveyard. Battle an in-your-face stampede of trampling wildebeests. And you'd better quit hanging with slackers like Timon and Pumbaa, unless you want to be scarfing bugs the rest of your life! Are you sure you want to be King? Then it's time to cut loose in the deadliest one-on-one brawl ever. Defeat your evil Uncle Scar. Recapture the Pridelands. And reclaim your rightful place in the Circle of Life.</desc>
+		<releasedate>19941109T000000</releasedate>
+		<developer>Krisalis Software Ltd., Westwood Studios</developer>
+		<publisher>Disney Software, Virgin Interactive Entertainment, Inc.</publisher>
 		<genre>Platform</genre>
 		<players>1</players>
 		<lang>en</lang>

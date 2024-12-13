@@ -51,6 +51,16 @@
             "lang": "en"
         },
         {
+            "path": "./Gauntlet Legends (USA).m3u",
+            "desc": "The diabolical Skorne has scattered the planet's powerful rune stones throughout the world so that nobody can use their powers to challenge his evil rule. Pick your character either the Warrior, Wizard, Valkyrie, or Archer and work with your party as you go on the ultimate manhunt. Fight your way through castles, deserts, temples, and forests and upgrade your weapons and powers as you collect money and experience. The action is fast and furious, but if you don't fight smart you'll find yourself right back where you started. But it'll take more than a powerful punch to get far, as there are a host of puzzles that will challenge your mind and might mean the difference between success and failure. Can you find the rune stones and use them to your advantage? It may be the only way to defeat Skorne, so gather your party and head into the great unknown on the most important journey of your life.",
+            "releasedate": "20000530T000000",
+            "developer": "Atari",
+            "publisher": "Midway Games",
+            "genre": "Action",
+            "players": "4",
+            "lang": "en"
+        },
+        {
             "path": "./Illbleed (USA).m3u",
             "desc": "Imagine, if you will, a berserk B-movie horror film producer with a twisted sense of humor who puts up a million bucks (fictitious, of course!) to anyone who can survive his 7 movie-themed worlds. It's a bloody mess of mutant monsters, over 1000 traps and items, and abject terror fused with B-movie humor. You must rely solely on the game's sensory feedback (eyesight, hearing, smell, sixth sense) and the hard-to-find \"Horror Monitor\" to survive the epic adventure! Illbleed delivers a badly needed transfusion to the \"been there, done that\" horror game genre.",
             "releasedate": "20010425T000000",
@@ -137,6 +147,16 @@
             "developer": "Acclaim Studios London",
             "publisher": "Acclaim Entertainment, Inc.",
             "genre": "Racing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Shadow Man (USA).m3u",
+            "desc": "You're the Shadow Man, a person who can switch between the world of the dead and of the living. In Shadow Man your mission is to prevent 5 serial killers from bringing the total armageddon. In the world of the living, you're mortal and have conventional weapons. When you die, you are transported to the world of the dead and you become Shadow Man once again. Which means you're not really mortal. In the world of the dead you can't use normal weapons, your gun shoots ghosts which kill the zombies and the other ugly creatures which live there. You also have different voodoo powers and weapons. And you're carrying a large inventory around.",
+            "releasedate": "19991130T000000",
+            "developer": "Acclaim",
+            "publisher": "Acclaim Entertainment, Inc.",
+            "genre": "Action",
             "players": "1",
             "lang": "en"
         },

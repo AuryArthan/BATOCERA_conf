@@ -1,5 +1,15 @@
 {
     "games": [
+		{
+            "path": "./3 Ninjas Kick Back (USA).sfc",
+            "desc": "You first saw Rocky, Colt and Tum Tum on the silver screen when their martial arts skills and extreme exploits saved the honor of Grandfather Mori and defeated an evil arms dealer.  Now, it’s up to you!  In this action-packed adventure, you become any one of the 3 Ninjas.  And that’s when the fun begins.  Wild animals and even wilder ninjas attack!  A trio of spaced-out heavy metal rockers join forces with the evil Koga in an all-out effort to do you dirty.  But if you rescue Grandfather Mori and his ceremonial dagger, you’ll have the last laugh… and unlock a secret room filled with more gold than Fort Knox!",
+            "releasedate": "19940619T000000",
+            "developer": "Malibu Interactive",
+            "publisher": "Sony Imagesoft",
+            "genre": "Action",
+            "players": "2",
+            "lang": "en"
+        },
         {
             "path": "./Addams Family, The (USA).sfc",
             "desc": "Creepy, Kooky, Ooky, Spooky.\n\nTHE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the family attorney, who is after the family fortune - Morticia, Lurch, Granny, Pugsley and Wednesday have gone to the house to reason with him. But when Gomez arrives, his family is missing! As Gomez, you must save your loved ones, your home and your loads of wealth. You'll have to watch out for scary obstacles like falling spikes, frightening monsters and ghosts, and you'll need to look for clues as you search for your family. Get a move on... 'cause you're gonna make a call on THE ADDAMS FAMILY!",
@@ -27,6 +37,16 @@
             "developer": "Capcom",
             "publisher": "Capcom",
             "genre": "Action",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./A Plumber For All Seasons.sfc",
+            "desc": "A Plumber For All Seasons is a hack I've worked on for a long time. Each world represents a different season — there's a Spring world, a Summer world, a Fall world, and a Winter world. (And some more!) Almost all the graphics are custom and hand-made.",
+            "releasedate": "20211211T000000",
+            "developer": "wye",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unofficial",
             "players": "1",
             "lang": "en"
         },
@@ -117,6 +137,16 @@
             "developer": "Nintendo EAD",
             "publisher": "Nintendo",
             "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Lion King, The [Proto] (Early Prototype).sfc",
+            "desc": "A very early prototype of The Lion King was found and dumped by Z in 2015. Interestingly, the Master System and Game Gear versions of the game are based on this prototype.",
+            "releasedate": "19940101T000000",
+            "developer": "Westwood Studios",
+            "publisher": "Virgin Interactive Entertainment, Unreleased",
+            "genre": "Platform, Adventure, Prototype",
             "players": "1",
             "lang": "en"
         },
@@ -259,6 +289,16 @@
             "genre": "Action, Adventure, Platform",
             "players": "1",
             "lang": "en,jp"
+        },
+        {
+            "path": "./Conker's High Rule Tail.sfc",
+            "desc": "Initially built as a spiritual sequel to Parallel Worlds, this project has evolved so much overtime that eventually it became an unofficial sequel to an M Rated game that was released late in the Nintendo 64 lifespan, none other than Conker’s Bad Fur Day!\n\nIncluding all the same crude humor found in that Conker game and the many references to movies and games we’ve come to love. For obvious reasons, it is also rated \"AO for Adults Only\"!",
+            "releasedate": "20211124T000000",
+            "developer": "SePH",
+            "publisher": "Romhacking",
+            "genre": "Adventure, Unofficial",
+            "players": "1",
+            "lang": "en"
         }
     ]
 }

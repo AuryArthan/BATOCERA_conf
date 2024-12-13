@@ -303,6 +303,20 @@ An evil shroud covers the world in darkness. You must restore the powers of eart
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Little Samson (USA).nes</path>
+		<name>Little Samson</name>
+		<image>./00Boxart/Little Samson (USA)</image>
+		<thumbnail>./00Boxart/Little Samson (USA)</thumbnail>
+		<marquee>./00Logo/Little Samson (USA)</marquee>
+		<desc>The Imperial Forgy has been invaded by Ta-Keed the Prince of Darkness! Only the owners of the Magic Bells can stop his forces from destroying the realm. Led by the mountaineering youth, Samson, a force of unlikely heroes sets out to banish evil forever! Become a fire-breathing dragon, a living statue of solid stone or a nimble and crafty mouse. Soar the skies and belch fire balls as Kikira the Dragon Lord! Crush enemy troops with fists of granite as Gamm the Rock Lord! Scurry past dangerous monsters while setting time bombs as K.O. the mouse! These creatures join Little Samson to form a unique and powerful alliance as the last hope for the Imperial Forgy!</desc>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Takeru</developer>
+		<publisher>Taito America Corporation</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Mario Adventure.nes</path>
 		<name>Mario Adventure</name>
 		<image>./00Boxart/Mario Adventure</image>

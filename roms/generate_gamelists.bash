@@ -1,4 +1,4 @@
-systems=('atari2600' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'wswan' 'wswanc' 'lutro' 'pico8' 'solarus' 'flash' 'dos' 'windows' 'ports')
+systems=('atari2600' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'n64_hacks' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'wswan' 'wswanc' 'lutro' 'pico8' 'solarus' 'flash' 'dos' 'windows' 'ports')
 declare -A extensions_system=( 
 	['atari2600']='a26'
 	['c64']='d64'
@@ -13,6 +13,7 @@ declare -A extensions_system=(
 	['fds']='fds'
 	['snes']='sfc smc'
 	['n64']='z64'
+	['n64_hacks']='z64 n64'
 	['gamecube']='ciso iso m3u'
 	['wii']='wbfs rvz'
 	['gamegear']='gg'
@@ -69,10 +70,10 @@ for system in ${systems[@]}; do
 				echo -e '\t\t<marquee>./00Logo/'$filename'</marquee>' >> gamelist.xml
 			fi
 			if [ -f "./00Cart/$filename" ]; then	# check if cart exists
-				echo -e '\t\t<cart>./00Cart/'$filename'</cart>' >> gamelist.xml
+				echo -e '\t\t<cartridge>./00Cart/'$filename'</cartridge>' >> gamelist.xml
 			else
 				if [ -f "./00Cart/00Placeholder" ]; then	# check if cart placeholder exists
-					echo -e '\t\t<cart>./00Cart/00Placeholder</cart>' >> gamelist.xml
+					echo -e '\t\t<cartridge>./00Cart/00Placeholder</cartridge>' >> gamelist.xml
 				fi
 			fi
 			if [ -f "./00description.json" ]; then	# check if descriptions exist

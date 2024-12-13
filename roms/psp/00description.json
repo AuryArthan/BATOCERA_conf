@@ -115,7 +115,7 @@
             "desc": "1998. A new Mafia war is on the rise in Liberty City – the Sindacco, Forelli and Leone families are at their throats again for domination over the worst city in America. The Sindaccos, led by the ambitious Paulie Sindacco, plan to conquer what they can before the others can get their hands on what’s left of the city. A loyal henchman they have, Joseph Daniel O’Toole, is supposed to infiltrate the Leone Family. Meanwhile, Paulie’s two nephews, Frank and Marcus, are preparing their men for a big war…",
             "releasedate": "20230608T000000",
             "developer": "Barcode Studia",
-            "publisher": "Homebrew",
+            "publisher": "Romhacking",
             "genre": "Action, Sandbox, Unofficial",
             "players": "1",
             "lang": "en"
@@ -258,6 +258,16 @@
             "publisher": "Bandai Namco Entertainment",
             "genre": "Fighting",
             "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Tony Hawk's Project Mod.iso",
+            "desc": "Massive overhaul to whole game (Tony Hawk's Project 8), with brand new mode additions. New levels and skaters ported over from other games in the series, and a bunch of polish to the existing content in the base game.",
+            "releasedate": "20210101T000000",
+            "developer": "Iron Hawk",
+            "publisher": "Romhacking",
+            "genre": "Sports, Unofficial",
+            "players": "1",
             "lang": "en"
         },
         {

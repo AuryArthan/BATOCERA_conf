@@ -1,6 +1,20 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./3 Ninjas Kick Back (USA).sfc</path>
+		<name>3 Ninjas Kick Back</name>
+		<image>./00Boxart/3 Ninjas Kick Back (USA)</image>
+		<thumbnail>./00Boxart/3 Ninjas Kick Back (USA)</thumbnail>
+		<marquee>./00Logo/3 Ninjas Kick Back (USA)</marquee>
+		<desc>You first saw Rocky, Colt and Tum Tum on the silver screen when their martial arts skills and extreme exploits saved the honor of Grandfather Mori and defeated an evil arms dealer.  Now, it’s up to you!  In this action-packed adventure, you become any one of the 3 Ninjas.  And that’s when the fun begins.  Wild animals and even wilder ninjas attack!  A trio of spaced-out heavy metal rockers join forces with the evil Koga in an all-out effort to do you dirty.  But if you rescue Grandfather Mori and his ceremonial dagger, you’ll have the last laugh… and unlock a secret room filled with more gold than Fort Knox!</desc>
+		<releasedate>19940619T000000</releasedate>
+		<developer>Malibu Interactive</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Addams Family, The (USA).sfc</path>
 		<name>The Addams Family</name>
 		<image>./00Boxart/Addams Family, The (USA)</image>
@@ -41,6 +55,36 @@ THE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the fa
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./A Plumber For All Seasons.sfc</path>
+		<name>A Plumber For All Seasons</name>
+		<image>./00Boxart/A Plumber For All Seasons</image>
+		<thumbnail>./00Boxart/A Plumber For All Seasons</thumbnail>
+		<marquee>./00Logo/A Plumber For All Seasons</marquee>
+		<desc>A Plumber For All Seasons is a hack I've worked on for a long time. Each world represents a different season — there's a Spring world, a Summer world, a Fall world, and a Winter world. (And some more!) Almost all the graphics are custom and hand-made.</desc>
+		<releasedate>20211211T000000</releasedate>
+		<developer>wye</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform, Unofficial</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Conker's High Rule Tail.sfc</path>
+		<name>Conker's High Rule Tail</name>
+		<image>./00Boxart/Conker's High Rule Tail</image>
+		<thumbnail>./00Boxart/Conker's High Rule Tail</thumbnail>
+		<marquee>./00Logo/Conker's High Rule Tail</marquee>
+		<desc>Initially built as a spiritual sequel to Parallel Worlds, this project has evolved so much overtime that eventually it became an unofficial sequel to an M Rated game that was released late in the Nintendo 64 lifespan, none other than Conker’s Bad Fur Day!
+
+Including all the same crude humor found in that Conker game and the many references to movies and games we’ve come to love. For obvious reasons, it is also rated "AO for Adults Only"!</desc>
+		<releasedate>20211124T000000</releasedate>
+		<developer>SePH</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Adventure, Unofficial</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -177,6 +221,20 @@ Use any of Kirby's amazing powers to create a "helper" to assist you in battle. 
 		<developer>Nintendo EAD</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Lion King, The [Proto] (Early Prototype).sfc</path>
+		<name>The Lion King [Proto]</name>
+		<image>./00Boxart/Lion King, The [Proto] (Early Prototype)</image>
+		<thumbnail>./00Boxart/Lion King, The [Proto] (Early Prototype)</thumbnail>
+		<marquee>./00Logo/Lion King, The [Proto] (Early Prototype)</marquee>
+		<desc>A very early prototype of The Lion King was found and dumped by Z in 2015. Interestingly, the Master System and Game Gear versions of the game are based on this prototype.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin Interactive Entertainment, Unreleased</publisher>
+		<genre>Platform, Adventure, Prototype</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

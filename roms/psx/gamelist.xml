@@ -442,4 +442,19 @@ Spyro the Dragon stars the title character, a young purple dragon named Spyro an
 		<players>1</players>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./Worms Armageddon (USA).m3u</path>
+		<name>Worms Armageddon</name>
+		<image>./00Boxart/Worms Armageddon (USA)</image>
+		<thumbnail>./00Boxart/Worms Armageddon (USA)</thumbnail>
+		<marquee>./00Logo/Worms Armageddon (USA)</marquee>
+		<cart>./00Cart/Worms Armageddon (USA)</cart>
+		<desc>Gameplay is turn-based, with each team moving in sequence (which is determined randomly) across two-dimensional terrain. During a single turn, a team can only move one of its worms (unless the Select Worm item is used). Worms can walk and jump, as well as (when the proper items are available) swing by rope, parachute, teleport, and bungee. The objective of a traditional match is to defeat all opposing teams by killing their worms, although in the campaign some missions have other objectives (such as collecting a specific crate).</desc>
+		<releasedate>19990414T000000</releasedate>
+		<developer>Team17 Software Limited</developer>
+		<publisher>MicroProse Software, Inc.</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
 </gameList>

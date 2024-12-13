@@ -399,6 +399,20 @@ Tekken: Dark Resurrection has arrived on the PSP system. Fight with new characte
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Tony Hawk's Project Mod.iso</path>
+		<name>Tony Hawk's Project Mod</name>
+		<image>./00Image/Tony Hawk's Project Mod</image>
+		<thumbnail>./00Boxart/Tony Hawk's Project Mod</thumbnail>
+		<marquee>./00Logo/Tony Hawk's Project Mod</marquee>
+		<desc>Massive overhaul to whole game (Tony Hawk's Project 8), with brand new mode additions. New levels and skaters ported over from other games in the series, and a bunch of polish to the existing content in the base game.</desc>
+		<releasedate>20210101T000000</releasedate>
+		<developer>Iron Hawk</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Sports, Unofficial</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Ys Seven (USA).iso</path>
 		<name>Ys Seven</name>
 		<image>./00Image/Ys Seven (USA)</image>

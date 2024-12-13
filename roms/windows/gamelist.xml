@@ -47,4 +47,18 @@ The game features sprawling levels with numerous puzzles and features a multipla
 		<players>1</players>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./A Slower Speed of Light.pc</path>
+		<name>A Slower Speed of Light</name>
+		<image>./00Boxart/A Slower Speed of Light</image>
+		<thumbnail>./00Boxart/A Slower Speed of Light</thumbnail>
+		<marquee>./00Logo/A Slower Speed of Light</marquee>
+		<desc>A Slower Speed of Light is a first-person game prototype in which players navigate a 3D space while picking up orbs that reduce the speed of light in increments. Custom-built, open-source relativistic graphics code allows the speed of light in the game to approach the player’s own maximum walking speed. Visual effects of special relativity gradually become apparent to the player, increasing the challenge of gameplay. These effects, rendered in realtime to vertex accuracy, include the Doppler effect (red- and blue-shifting of visible light, and the shifting of infrared and ultraviolet light into the visible spectrum); the searchlight effect (increased brightness in the direction of travel); time dilation (differences in the perceived passage of time from the player and the outside world); Lorentz transformation (warping of space at near-light speeds); and the runtime effect (the ability to see objects as they were in the past, due to the travel time of light). Players can choose to share their mastery and experience of the game through Twitter. A Slower Speed of Light combines accessible gameplay and a fantasy setting with theoretical and computational physics research to deliver an engaging and pedagogically rich experience.</desc>
+		<releasedate>20120101T000000</releasedate>
+		<developer>MIT Game Lab</developer>
+		<publisher>MIT Game Lab</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
 </gameList>
