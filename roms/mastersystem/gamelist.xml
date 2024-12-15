@@ -1,6 +1,36 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./Aladdin (Europe, Brazil).sms</path>
+		<name>Aladdin</name>
+		<image>./00Boxart/Aladdin (Europe, Brazil)</image>
+		<thumbnail>./00Boxart/Aladdin (Europe, Brazil)</thumbnail>
+		<marquee>./00Logo/Aladdin (Europe, Brazil)</marquee>
+		<desc>As Aladdin, baffle the guards in the streets of Agrabah. Elude the tempting traps in the Cave of Wonders, and the dangers of the Sultan's Palace. Ride the magic carpet through breathtaking skies. Then challenge the evil Jafar to a duel of swords and magic!</desc>
+		<releasedate>19941231T000000</releasedate>
+		<developer>SIMS Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Alex Kidd in Miracle World (USA, Europe).sms</path>
+		<name>Alex Kidd in Miracle World</name>
+		<image>./00Boxart/Alex Kidd in Miracle World (USA, Europe)</image>
+		<thumbnail>./00Boxart/Alex Kidd in Miracle World (USA, Europe)</thumbnail>
+		<marquee>./00Logo/Alex Kidd in Miracle World (USA, Europe)</marquee>
+		<desc>Journey through the planet Aries to the beautiful City of Radactian - and save it from the evil Janken the Great. This game was considered to be Sega's attempt on Super Mario.
+
+Alex Kidd in Miracle World is the first of several games in the Alex Kidd series, starring a character which would serve as the company's mascot for half a decade before being replaced by Sonic the Hedgehog.</desc>
+		<releasedate>19861201T000000</releasedate>
+		<developer>Sega R&amp;D2</developer>
+		<publisher>Sega of America, Inc.</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Alex Kidd in Shinobi World (USA, Europe, Brazil).sms</path>
 		<name>Alex Kidd in Shinobi World</name>
 		<image>./00Boxart/Alex Kidd in Shinobi World (USA, Europe, Brazil)</image>
@@ -101,6 +131,24 @@ Someone must put an end to the fiend's realm of darkness, death and destruction!
 		<lang>br,en</lang>
 	</game>
 	<game>
+		<path>./Golvellius - Valley of Doom (USA, Europe, Brazil).sms</path>
+		<name>Golvellius - Valley of Doom</name>
+		<image>./00Boxart/Golvellius - Valley of Doom (USA, Europe, Brazil)</image>
+		<thumbnail>./00Boxart/Golvellius - Valley of Doom (USA, Europe, Brazil)</thumbnail>
+		<marquee>./00Logo/Golvellius - Valley of Doom (USA, Europe, Brazil)</marquee>
+		<desc>Enter the world of Golvellius. Where demons rule the valley of water...and control the creatures of land, sea and air. Where almost everyone stands against you. There is only one way in...and no way out except victory or death!
+
+It's an adventure that will take you across deserts and mountains, oceans and forests...through eerie graveyards and caves filled with danger and surprise.
+
+Golvellius has a PASSWORD SAVE feature that lets you keep all your possessions. So you never have to start an adventure empty handed!</desc>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega of America, Inc.</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Land of Illusion Starring Mickey Mouse (Europe, Brazil).sms</path>
 		<name>Land of Illusion Starring Mickey Mouse</name>
 		<image>./00Boxart/Land of Illusion Starring Mickey Mouse (Europe, Brazil)</image>
@@ -143,6 +191,20 @@ The partnership of Disney Software and Virgin Interactive Entertainment combine 
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Master of Darkness (Europe, Brazil).sms</path>
+		<name>Master of Darkness</name>
+		<image>./00Boxart/Master of Darkness (Europe, Brazil)</image>
+		<thumbnail>./00Boxart/Master of Darkness (Europe, Brazil)</thumbnail>
+		<marquee>./00Logo/Master of Darkness (Europe, Brazil)</marquee>
+		<desc>The shadow of Dracula has spread over Victorian England. Make your way through strange and forbidding streets and cavernous warehouses while fighting his army of monsters. Find Dracula, the Master of Darkness, and rescue England from his terrifying grasp.</desc>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Platform</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -213,23 +275,33 @@ Bust the video game speed barrier wide open with Sonic The Hedgehog. Blaze by in
 		<lang>br,en</lang>
 	</game>
 	<game>
-		<path>./Wonder Boy III - The Dragon's Trap (USA, Europe).sms</path>
-		<name>Wonder Boy III - The Dragon's Trap</name>
-		<image>./00Boxart/Wonder Boy III - The Dragon's Trap (USA, Europe)</image>
-		<thumbnail>./00Boxart/Wonder Boy III - The Dragon's Trap (USA, Europe)</thumbnail>
-		<marquee>./00Logo/Wonder Boy III - The Dragon's Trap (USA, Europe)</marquee>
-		<desc>Wonder Boy III: The Dragon's Trap is a 1989 Master System side-scrolling action-adventure platformer video game developed by Westone and released by Sega of America in the USA on September 1, 1989.
+		<path>./Voyage - A Sorceress' Vacation.sms</path>
+		<name>Voyage - A Sorceress' Vacation</name>
+		<image>./00Boxart/Voyage - A Sorceress' Vacation</image>
+		<thumbnail>./00Boxart/Voyage - A Sorceress' Vacation</thumbnail>
+		<marquee>./00Logo/Voyage - A Sorceress' Vacation</marquee>
+		<desc>"KERPLOSHH!" AND LIKE THAT YOUR CRUISE ENDED ON THE SHORE OF A STRANGE ISLAND. CERTAINLY, NOT THE ONE WITH THE 6.5 STAR SPA RESORT YOU WERE LOOKING FORWARD TO ALL YEAR LONG. WELL, THE RESCUE TEAM IS PROBABLY ALREADY ON ITS WAY… OR IS IT?
 
-Get ready for the third Wonder Boy adventure! To save Monster Land from the evil Meka Dragon, you've entered his castle and are about to go into battle. If you defeat the dragon, a terrible surprise awaits you...a curse! You'll turn into a lizard-man, and more. The only way you can return to human form is to find the Salamander Cross, a magical item with the power to remove curses.
-
-But where is it hidden? Finding it is an adventure that will take you across strange lands, against strange creatures, into battles where you never know what strange shape you'll turn into! Hawk-man, Lion-man and more! You'll be able to buy armor, weapons and use magic items! Hidden rooms hold even greater surprises!
-
-Can you beat the dragon's bosses and recover the Salamander Cross? When you look at the shape you're in, it's your only hope!</desc>
-		<releasedate>19890901T000000</releasedate>
-		<developer>Westone Co., Ltd.</developer>
-		<publisher>Sega of America, Inc.</publisher>
-		<genre>Action, Adventure, Platform</genre>
+Completely new levels with a bunch of different styles, more than a dozen new music tracks and even more sound effects, many new features and a few surprises is what we put into this hack, making it a completely different game than Alex Kidd in Miracle World. This is what began its life as a competition entry named “Ma Kai Quest”. Get ready to help our heroine to make her vacation enjoyable in the end and complete all 17 levels. But will completing them be enough to succeed?</desc>
+		<releasedate>20211118T000000</releasedate>
+		<developer>SNAGS</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform, Unofficial</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wonder Boy (USA, Europe, Brazil).sms</path>
+		<name>Wonder Boy</name>
+		<image>./00Boxart/Wonder Boy (USA, Europe, Brazil)</image>
+		<thumbnail>./00Boxart/Wonder Boy (USA, Europe, Brazil)</thumbnail>
+		<marquee>./00Logo/Wonder Boy (USA, Europe, Brazil)</marquee>
+		<desc>Have you ever wondered what it would be like to set out all alone through the deepest of deep dark forests? To live off the fruit of the land? And fend for yourself against nature's nasty woodland creatures? Have you ever wondered how you'd cope in the middle of a burning desert? With nothing but a skateboard and a glass of milk to see you through? Well now you have to. Because Tanya, the love of your life, has been kidnapped and taken to the other side of the planet. You've got to get her back. As soon as possible. Besides, she'd never forgive you if you didn't risk your life for her.</desc>
+		<releasedate>19870601T000000</releasedate>
+		<developer>Sega R&amp;D2</developer>
+		<publisher>Sega of America, Inc.</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>
