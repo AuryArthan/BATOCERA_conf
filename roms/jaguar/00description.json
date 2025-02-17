@@ -1,0 +1,14 @@
+{
+    "games": [
+        {
+            "path": "./Rayman (World).j64",
+            "desc": "Enter the challenging, mind-altering world of Rayman and, suddenly, reality seems far too tame. Free your mind as Rayman takes you on an arduous adventure through a complex realm of psychedelic landscapes, absurd characters, formidable opponents, and uncharted levels of dementia. You'll experience a heightened sense of visual awareness. You'll hear strange and beautiful sounds. Endless legions of bizarre creatures will be out to get you. One trip into Rayman's kaleidoscopic domain...and you'll be addicted!",
+            "releasedate": "19950908T000000",
+            "developer": "Ubisoft Entertainment",
+            "publisher": "Ubisoft Entertainment",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        }
+    ]
+}

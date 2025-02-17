@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Rayman (World).j64</path>
+		<name>Rayman</name>
+		<image>./00Boxart/Rayman (World)</image>
+		<thumbnail>./00Boxart/Rayman (World)</thumbnail>
+		<marquee>./00Logo/Rayman (World)</marquee>
+		<cartridge>./00Cart/Rayman (World)</cartridge>
+		<desc>Enter the challenging, mind-altering world of Rayman and, suddenly, reality seems far too tame. Free your mind as Rayman takes you on an arduous adventure through a complex realm of psychedelic landscapes, absurd characters, formidable opponents, and uncharted levels of dementia. You'll experience a heightened sense of visual awareness. You'll hear strange and beautiful sounds. Endless legions of bizarre creatures will be out to get you. One trip into Rayman's kaleidoscopic domain...and you'll be addicted!</desc>
+		<releasedate>19950908T000000</releasedate>
+		<developer>Ubisoft Entertainment</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>
