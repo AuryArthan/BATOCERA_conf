@@ -6,7 +6,7 @@
 		<image>./00Boxart/1080 Snowboarding (Japan, USA)</image>
 		<thumbnail>./00Boxart/1080 Snowboarding (Japan, USA)</thumbnail>
 		<marquee>./00Logo/1080 Snowboarding (Japan, USA)</marquee>
-		<cart>./00Cart/1080 Snowboarding (Japan, USA)</cart>
+		<cartridge>./00Cart/1080 Snowboarding (Japan, USA)</cartridge>
 		<desc>You’re taking a Tahoe 155 snowboard down a steep, bumpy incline at night and you’re about to top off an Indy Nosebone with a 360 Air, and you haven’t even left your living room! You’re Playing 1080 (Ten Eighty) Snowboarding, a game so intense you’ll be brushing the snow off your goggles. With five different boarders, eight different Lamar snowboards, more than 25 tricks, a Half-Pipe and six different courses, this is as close as you’ll get to the real thing without hopping on the next ski lift.</desc>
 		<releasedate>19980401T000000</releasedate>
 		<developer>Nintendo EAD</developer>
@@ -21,7 +21,7 @@
 		<image>./00Boxart/Banjo-Kazooie (USA)</image>
 		<thumbnail>./00Boxart/Banjo-Kazooie (USA)</thumbnail>
 		<marquee>./00Logo/Banjo-Kazooie (USA)</marquee>
-		<cart>./00Cart/Banjo-Kazooie (USA)</cart>
+		<cartridge>./00Cart/Banjo-Kazooie (USA)</cartridge>
 		<desc>Action and Puzzles and Bears, Oh My!
 
 Trouble brews when Gruntilda the witch captures the unbearably beautiful cub, Tooty. But before the grisly hag can steal the bear's good looks, big brother Banjo and his fine-feathered friend, Kazooie, join forces to stop her. Combining their 24 moves and special powers, Banjo and Kazooie will fend off armies of beasts. Bear and bird must hunt down the 100 puzzle pieces and 900 musical notes that will ultimately lead them to Gruntilda. However, miles of swamp, desert and snow and one bear of an adventure stand in their way.
@@ -46,7 +46,7 @@ Trouble brews when Gruntilda the witch captures the unbearably beautiful cub, To
 		<image>./00Boxart/Banjo-Tooie (USA)</image>
 		<thumbnail>./00Boxart/Banjo-Tooie (USA)</thumbnail>
 		<marquee>./00Logo/Banjo-Tooie (USA)</marquee>
-		<cart>./00Cart/Banjo-Tooie (USA)</cart>
+		<cartridge>./00Cart/Banjo-Tooie (USA)</cartridge>
 		<desc>Grunty returns-and that's bad news for Banjo and Kazooie! In this all-new adventure, combine everything you learned in the award-winning prequel, Banjo-Kazooie, with dozens of brand-new moves and abilities. Explore eight original worlds-like a monstrous factory and a dilapidated amusement park. Solve incredible puzzles that link those worlds together-sometimes you'll have to complete tasks in several worlds to solve a single puzzle!
 
 -Divide and conquer! The bear and bird are back and this time they can split up and work alone.
@@ -64,12 +64,29 @@ Trouble brews when Gruntilda the witch captures the unbearably beautiful cub, To
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Body Harvest (USA).z64</path>
+		<name>Body Harvest</name>
+		<image>./00Boxart/Body Harvest (USA)</image>
+		<thumbnail>./00Boxart/Body Harvest (USA)</thumbnail>
+		<marquee>./00Logo/Body Harvest (USA)</marquee>
+		<cartridge>./00Cart/Body Harvest (USA)</cartridge>
+		<desc>The year is 2016. Humanity has been reduced to a few survivors inhabiting the orbital space station Omega. Over the course of the history, aliens visited the Earth every twenty-five years, "harvesting" humans as an organic material. Eventually, they launch an assault on the last remnants of the human race. But Adam Drake, a genetically engineered soldier, comes into possession of a time-traveling device. He uses it to travel to the time periods of human history when aliens performed their deadly attacks. The fate of humanity is in his hands.
+
+Body Harvest is an action and driving game with a mission-based structure. The protagonist travels to various locations and eras (e.g. Greece during World War II, Siberia in the 1990s, etc.) with the goal of stopping alien invasions. Missions can be accessed by traveling to specified areas on the map. Adam can move on foot and use his weapons to kill aliens; however, vehicles usually prove to be a more reliable way of tackling most missions. Adam can use most of his weapons while in a vehicle; in addition, some vehicles are outfitted with their own weapons.</desc>
+		<releasedate>19981020T000000</releasedate>
+		<developer>DMA Design Limited</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Castlevania - Legacy of Darkness (USA).z64</path>
 		<name>Castlevania - Legacy of Darkness</name>
 		<image>./00Boxart/Castlevania - Legacy of Darkness (USA)</image>
 		<thumbnail>./00Boxart/Castlevania - Legacy of Darkness (USA)</thumbnail>
 		<marquee>./00Logo/Castlevania - Legacy of Darkness (USA)</marquee>
-		<cart>./00Cart/Castlevania - Legacy of Darkness (USA)</cart>
+		<cartridge>./00Cart/Castlevania - Legacy of Darkness (USA)</cartridge>
 		<desc>Before Reinhardt Schneider and Carrie Fernandez confronted Dracula, a magical warrior embarked on a quest that would ultimately lead him to Dracula's lair. Take control of Cornell, a powerful werewolf, who is seeking out the evil minions responsible for his sister's disappearance. Armed with the power to morph from human to werewolf, Cornell is destined to rescure his sister from a sinister plan and rid the world of Dracula once and for all. Will he succeed or fail? Will the past unravel the future? Discover the legacy in this exciting prequel.</desc>
 		<releasedate>19991225T000000</releasedate>
 		<developer>Bottom Up</developer>
@@ -84,7 +101,7 @@ Trouble brews when Gruntilda the witch captures the unbearably beautiful cub, To
 		<image>./00Boxart/Conker's Bad Fur Day (USA)</image>
 		<thumbnail>./00Boxart/Conker's Bad Fur Day (USA)</thumbnail>
 		<marquee>./00Logo/Conker's Bad Fur Day (USA)</marquee>
-		<cart>./00Cart/Conker's Bad Fur Day (USA)</cart>
+		<cartridge>./00Cart/Conker's Bad Fur Day (USA)</cartridge>
 		<desc>Conker's Bad Fur Day is a 2001 N64 third-person action-adventure platformer video game developed and released by Rare, under distribution by Nintendo of America, in the USA on March 5, 2001.
 
 The guys at Rare have been very, very naughty.
@@ -107,7 +124,7 @@ The day after his 21st birthday bash, Conker's sporting the worst hangover ever,
 		<image>./00Boxart/Diddy Kong Racing (USA)</image>
 		<thumbnail>./00Boxart/Diddy Kong Racing (USA)</thumbnail>
 		<marquee>./00Logo/Diddy Kong Racing (USA)</marquee>
-		<cart>./00Cart/Diddy Kong Racing (USA)</cart>
+		<cartridge>./00Cart/Diddy Kong Racing (USA)</cartridge>
 		<desc>Diddy Kong Racing is a 1997 N64 racing video game developed and released by Rare, under distribution by Nintendo of America, in the USA on November 24, 1997.
 
 Timber the Tiger's parents picked a fine time to go on vacation. When they come back, they're going to be faced with an island trashed by the spiteful space bully Wizpig - unless the local animals can do something about it! So join Diddy Kong as he teams up with Timber the Tiger, Pipsy the Mouse and Taj the Genie in an epic racing adventure unlike anything you've ever experienced before!
@@ -134,7 +151,7 @@ Timber the Tiger's parents picked a fine time to go on vacation. When they come 
 		<image>./00Boxart/Donkey Kong 64 (USA)</image>
 		<thumbnail>./00Boxart/Donkey Kong 64 (USA)</thumbnail>
 		<marquee>./00Logo/Donkey Kong 64 (USA)</marquee>
-		<cart>./00Cart/Donkey Kong 64 (USA)</cart>
+		<cartridge>./00Cart/Donkey Kong 64 (USA)</cartridge>
 		<desc>K. Rool has ape-napped the Kongs!
 
 Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his homeland from certain doom? Take out some Kremlings with Chunky's Pineapple Launcher or Lanky's Trombone. Float through the air using Tiny's Pony Tail Twirl. Even Rocket to the sky with Diddy's Jetbarrel!
@@ -157,7 +174,7 @@ Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his home
 		<image>./00Boxart/Excitebike 64 (USA)</image>
 		<thumbnail>./00Boxart/Excitebike 64 (USA)</thumbnail>
 		<marquee>./00Logo/Excitebike 64 (USA)</marquee>
-		<cart>./00Cart/Excitebike 64 (USA)</cart>
+		<cartridge>./00Cart/Excitebike 64 (USA)</cartridge>
 		<desc>Experience extreme MX! You grind your way through the hairpin turn, a wall of mud exploding in your wake. Your next jump launches you into the air - you pull off a spectacular double no-footed can-can and become an instant legend! In Excitebike 64, you'll find all the high-flying action, heart-stopping stunts and bone-jarring crashes of the extreme sport of motocross. It'll set the daredevil inside you free. 20 stadium tracks and awesome outdoor courses - plus six different riders with six unique styles!</desc>
 		<releasedate>20000430T000000</releasedate>
 		<developer>Left Field Productions</developer>
@@ -172,7 +189,7 @@ Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his home
 		<image>./00Boxart/Forsaken 64 (USA)</image>
 		<thumbnail>./00Boxart/Forsaken 64 (USA)</thumbnail>
 		<marquee>./00Logo/Forsaken 64 (USA)</marquee>
-		<cart>./00Cart/Forsaken 64 (USA)</cart>
+		<cartridge>./00Cart/Forsaken 64 (USA)</cartridge>
 		<desc>Forsaken is a first-person shoot 'em up in which you have complete movement freedom in 3 dimensions, as you accelerate, swerve and strafe your craft, making for gameplay resembling Descent. Each level has a defined exit which must be reached within a tight time limit. The surrounding areas are collapsing around you, with spikes and turbine fans among your hazards. Be very aware of other craft out to take all you have, as they alter their approach based on your weaponry (from the 25 featured in the game) and past encounters.</desc>
 		<releasedate>19980430T000000</releasedate>
 		<developer>Iguana Entertainment</developer>
@@ -187,7 +204,7 @@ Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his home
 		<image>./00Boxart/F-Zero X (USA)</image>
 		<thumbnail>./00Boxart/F-Zero X (USA)</thumbnail>
 		<marquee>./00Logo/F-Zero X (USA)</marquee>
-		<cart>./00Cart/F-Zero X (USA)</cart>
+		<cartridge>./00Cart/F-Zero X (USA)</cartridge>
 		<desc>F-Zero X is a 1998 N64 racing video game developed by Nintendo EAD and released by Nintendo of America in the USA on October 26, 1998.
 
 It's you against 29 other machines competing for the title of F-Zero X Champion. You're racing at speeds of over 1,000 km/h high above the atmosphere. Your competition comes from every corner of the galaxy and won't shed a tear at the thought of smashing you off the track. With four-player simultaneous gameplay and the Rumble Pak accessory, you have the fastest racing game on the N64 system!
@@ -206,7 +223,7 @@ It's you against 29 other machines competing for the title of F-Zero X Champion.
 		<image>./00Boxart/Goemon's Great Adventure (USA)</image>
 		<thumbnail>./00Boxart/Goemon's Great Adventure (USA)</thumbnail>
 		<marquee>./00Logo/Goemon's Great Adventure (USA)</marquee>
-		<cart>./00Cart/Goemon's Great Adventure (USA)</cart>
+		<cartridge>./00Cart/Goemon's Great Adventure (USA)</cartridge>
 		<desc>Goemon and all his friends are back in his greatest adventure yet! Goemon's Great Adventure combines classic Goemon platform action with an all-new twist. The evil time-traveling nun, Bismaru, has summoned Dochuki, a demon prince, to take over the Earth. But first, she wants to marry him! Can Goemon and his gang stop the demon? Can Dochuki escape the cloying clutches of the wacked-out nun? Will Ebisu ever beat his own dumpling eating record? It's an adventure you'll never forget!</desc>
 		<releasedate>19990915T000000</releasedate>
 		<developer>Konami</developer>
@@ -221,7 +238,7 @@ It's you against 29 other machines competing for the title of F-Zero X Champion.
 		<image>./00Boxart/GoldenEye 007 (USA)</image>
 		<thumbnail>./00Boxart/GoldenEye 007 (USA)</thumbnail>
 		<marquee>./00Logo/GoldenEye 007 (USA)</marquee>
-		<cart>./00Cart/GoldenEye 007 (USA)</cart>
+		<cartridge>./00Cart/GoldenEye 007 (USA)</cartridge>
 		<desc>GoldenEye 007 is a 1997 N64 first-person shooter video game developed by Rare and released by Nintendo of America in the USA on August 25, 1997.
 
 You are Bond, James Bond.
@@ -247,7 +264,7 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<image>./00Boxart/Harvest Moon 64 (USA)</image>
 		<thumbnail>./00Boxart/Harvest Moon 64 (USA)</thumbnail>
 		<marquee>./00Logo/Harvest Moon 64 (USA)</marquee>
-		<cart>./00Cart/Harvest Moon 64 (USA)</cart>
+		<cartridge>./00Cart/Harvest Moon 64 (USA)</cartridge>
 		<desc>Retire to the country for a new challenge in Harvest Moon 64. Hard work is rewarded as you struggle to bring prosperity back to a neglected farm. Work the land, pick up odd-jobs, and get to know the neighbors. Harvest Moon 64 has all the charm of the original Super Nintendo classic, plus many new surprises.</desc>
 		<releasedate>19991130T000000</releasedate>
 		<developer>Toybox</developer>
@@ -262,7 +279,7 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<image>./00Boxart/Jet Force Gemini (USA)</image>
 		<thumbnail>./00Boxart/Jet Force Gemini (USA)</thumbnail>
 		<marquee>./00Logo/Jet Force Gemini (USA)</marquee>
-		<cart>./00Cart/Jet Force Gemini (USA)</cart>
+		<cartridge>./00Cart/Jet Force Gemini (USA)</cartridge>
 		<desc>The insect invasion has begun.
 
 The galaxy is being infested by the evil Mizar and his horde of Drones. Already, the planet of Goldwood has been subjugated and the peaceful Tribals enslaved. With an arsenal of mega-weapons at their disposal, the Jet Force Gemini team must travel in search of Mizar's lair - rescuing Tribals and splattering Drones along the way. But can Juno, Vela and their faithful dog, Lupus, exterminate the deadly threat before it's too late?</desc>
@@ -279,7 +296,7 @@ The galaxy is being infested by the evil Mizar and his horde of Drones. Already,
 		<image>./00Boxart/Legend of Zelda, The - Majora's Mask (USA)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - Majora's Mask (USA)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - Majora's Mask (USA)</marquee>
-		<cart>./00Cart/Legend of Zelda, The - Majora's Mask (USA)</cart>
+		<cartridge>./00Cart/Legend of Zelda, The - Majora's Mask (USA)</cartridge>
 		<desc>Link's all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above. When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule.</desc>
 		<releasedate>20001026T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -294,7 +311,7 @@ The galaxy is being infested by the evil Mizar and his horde of Drones. Already,
 		<image>./00Boxart/Legend of Zelda, The - Ocarina of Time (USA)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - Ocarina of Time (USA)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - Ocarina of Time (USA)</marquee>
-		<cart>./00Cart/Legend of Zelda, The - Ocarina of Time (USA)</cart>
+		<cartridge>./00Cart/Legend of Zelda, The - Ocarina of Time (USA)</cartridge>
 		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf’s evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora’s Domain.  Before you complete this epic quest, you’ll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.</desc>
 		<releasedate>19981123T000000</releasedate>
 		<developer>Nintendo EAD</developer>
@@ -309,7 +326,7 @@ The galaxy is being infested by the evil Mizar and his horde of Drones. Already,
 		<image>./00Boxart/Mario Golf (USA)</image>
 		<thumbnail>./00Boxart/Mario Golf (USA)</thumbnail>
 		<marquee>./00Logo/Mario Golf (USA)</marquee>
-		<cart>./00Cart/Mario Golf (USA)</cart>
+		<cartridge>./00Cart/Mario Golf (USA)</cartridge>
 		<desc>Forget buying expensive golf gear--Mario brings the game to you. Mario Golf features four complete 18-hole courses, 11 golfers, and precise play control. Create your own golfer and build up his or her experience and skill levels by competing in various tournaments and head-to-head matches. The more you play, the stronger and more accurate your golfer becomes. There are many different modes of play in Mario Golf, including a wide variety of minigames designed to challenge even the most level-headed swingers.</desc>
 		<releasedate>19990730T000000</releasedate>
 		<developer>Camelot Software Planning</developer>
@@ -324,7 +341,7 @@ The galaxy is being infested by the evil Mizar and his horde of Drones. Already,
 		<image>./00Boxart/Mario Kart 64 (USA)</image>
 		<thumbnail>./00Boxart/Mario Kart 64 (USA)</thumbnail>
 		<marquee>./00Logo/Mario Kart 64 (USA)</marquee>
-		<cart>./00Cart/Mario Kart 64 (USA)</cart>
+		<cartridge>./00Cart/Mario Kart 64 (USA)</cartridge>
 		<desc>Mario Kart 64 is a 1997 N64 racing video game developed by Nintendo EAD and released by Nintendo of America in the USA on February 10, 1997.
 
 Three… Two… One… GO! The signal light changes and you drop the pedal to the metal. Take on up to three friends in the split-screen VS games, or race solo in the Mario GP. Tell your friends to bring it on in the highly competitive Battle mode. Advanced features allow you to race with your “Ghost”. The driving data from your best run appears as a transparent character on the screen. No longer must you simply race against the clock -- you can actually race against yourself!
@@ -349,7 +366,7 @@ Three… Two… One… GO! The signal light changes and you drop the pedal to th
 		<image>./00Boxart/Mario Party 2 (USA)</image>
 		<thumbnail>./00Boxart/Mario Party 2 (USA)</thumbnail>
 		<marquee>./00Logo/Mario Party 2 (USA)</marquee>
-		<cart>./00Cart/Mario Party 2 (USA)</cart>
+		<cartridge>./00Cart/Mario Party 2 (USA)</cartridge>
 		<desc>Mario and the gang are back for another round of Bowser-bashin' party action! Watch as your favorite Nintendo characters don different duds for each of the five all-new Adventure Boards! A slew of new tricks and devices bring new levels of challenge and excitement to board game play. New board maps, new Mini-Games, new action and new surprises means a whole new batch of fun! Get ready to unleash your best Hip Drops, hammer swings and high-flying high junks for another round of frenzied multi-player action!
 
 • Saves via Internal Memory (EEPROM)</desc>
@@ -366,7 +383,7 @@ Three… Two… One… GO! The signal light changes and you drop the pedal to th
 		<image>./00Boxart/Mario Party 3 (USA)</image>
 		<thumbnail>./00Boxart/Mario Party 3 (USA)</thumbnail>
 		<marquee>./00Logo/Mario Party 3 (USA)</marquee>
-		<cart>./00Cart/Mario Party 3 (USA)</cart>
+		<cartridge>./00Cart/Mario Party 3 (USA)</cartridge>
 		<desc>Mario Party 3 is the third and final Mario Party title for the Nintendo 64. A total of eight characters are available to choose from: Mario, Luigi, Princess Peach, Yoshi, Wario, Donkey Kong, and newcomers Waluigi and Princess Daisy. Mario Party 3 features duel maps, in which two players try to lower each other's stamina to zero using non-playable characters such as Chain Chomps. It is the first Mario Party game to feature Luigi's main voice and also it is last Mario game where Princess Daisy appears in a yellow and white dress, and with long hair, as well as the last Mario game (until New Super Mario Bros. Wii) in which Yoshi's "record-scratching" voice is used. It is also the first Mario Party game to have multiple save slots.</desc>
 		<releasedate>20010506T000000</releasedate>
 		<developer>Hudson Entertainment, Inc.</developer>
@@ -381,7 +398,7 @@ Three… Two… One… GO! The signal light changes and you drop the pedal to th
 		<image>./00Boxart/Mario Party (USA)</image>
 		<thumbnail>./00Boxart/Mario Party (USA)</thumbnail>
 		<marquee>./00Logo/Mario Party (USA)</marquee>
-		<cart>./00Cart/Mario Party (USA)</cart>
+		<cartridge>./00Cart/Mario Party (USA)</cartridge>
 		<desc>Every game in the main series has a standard Party Mode in which up to four players play through a board, trying to collect as many stars as possible. In every turn, each player rolls a die and progresses on the board, which usually has branching paths. Coins are primarily earned by performing well in a minigame played at the end of each turn. On most boards, players earn stars by reaching a star space and purchasing a star for a certain amount of coins. The star space appears randomly on one of several pre-determined locations and moves every time a star is purchased, usually occupying a blue space.</desc>
 		<releasedate>19990208T000000</releasedate>
 		<developer>Hudson Entertainment, Inc.</developer>
@@ -396,7 +413,7 @@ Three… Two… One… GO! The signal light changes and you drop the pedal to th
 		<image>./00Boxart/Mario Tennis (USA)</image>
 		<thumbnail>./00Boxart/Mario Tennis (USA)</thumbnail>
 		<marquee>./00Logo/Mario Tennis (USA)</marquee>
-		<cart>./00Cart/Mario Tennis (USA)</cart>
+		<cartridge>./00Cart/Mario Tennis (USA)</cartridge>
 		<desc>All of your favorite characters hit the court in a wild and wacky multiplayer tennis game from the makers of Mario Golf. Mario, Luigi, Bowser, Peach, Toad, and Donkey Kong lead off the all-star, 14-player line-up. The fast-paced action will have you unleashing vicious volleys, life-saving lobs, ballistic backhands and electrifying super-charged smashes!
 
 • Saves via Internal Memory (EEPROM)</desc>
@@ -413,7 +430,7 @@ Three… Two… One… GO! The signal light changes and you drop the pedal to th
 		<image>./00Boxart/Ogre Battle 64 - Person of Lordly Caliber (USA)</image>
 		<thumbnail>./00Boxart/Ogre Battle 64 - Person of Lordly Caliber (USA)</thumbnail>
 		<marquee>./00Logo/Ogre Battle 64 - Person of Lordly Caliber (USA)</marquee>
-		<cart>./00Cart/Ogre Battle 64 - Person of Lordly Caliber (USA)</cart>
+		<cartridge>./00Cart/Ogre Battle 64 - Person of Lordly Caliber (USA)</cartridge>
 		<desc>Ogre Battle 64 is the third game in the series, the first two being Ogre Battle: The March of the Black Queen, and Tactics Ogre: Let Us Cling Together. The story follows Magnus Gallant, a recent graduate of the Ischka Military Academy, and fledgling captain in Palatinus' Southern region, Alba. As civil war erupts in the country, Magnus eventually decides to join the revolution with its leader, Frederick Raskin, first liberating the southern region with the Zenobians' aid, then Nirdam and uniting with them, then returning the Eastern Region of Capitrium to the Orthodox church, and finally marching on the capital of Latium. However, along the way, Magnus' battalion, the Blue Knights, finds its enemies escalating, from the puppet kingdom of Palatinus, to the might of the Holy Lodis Empire, to the Dark Hordes of the Netherworld.</desc>
 		<releasedate>20001007T000000</releasedate>
 		<developer>Quest</developer>
@@ -428,7 +445,7 @@ Three… Two… One… GO! The signal light changes and you drop the pedal to th
 		<image>./00Boxart/Paper Mario (USA)</image>
 		<thumbnail>./00Boxart/Paper Mario (USA)</thumbnail>
 		<marquee>./00Logo/Paper Mario (USA)</marquee>
-		<cart>./00Cart/Paper Mario (USA)</cart>
+		<cartridge>./00Cart/Paper Mario (USA)</cartridge>
 		<desc>Paper Mario is a role-playing game developed by Intelligent Systems for the Nintendo 64. It was later re-released for the iQue Player in 2004, the Wii's Virtual Console in 2007, the Wii U's Virtual Console in 2015, and Nintendo 64 - Nintendo Switch Online in 2021.
 
 Paper Mario has the player taking control of Mario on his quest to rescue Princess Peach and save the Mushroom Kingdom from Bowser, who has stolen the mythical Star Rod of Star Haven and used its wish-granting powers to make himself invincible. To stop Bowser and rescue Princess Peach, Mario and company must save the seven Star Spirits; magical beings who have been sealed in cards by Bowser with the power to nullify the Star Rod, as well as the original owners of the Star Rod.
@@ -451,7 +468,7 @@ The above text is from the Super Mario Wiki and is available under a Creative Co
 		<image>./00Boxart/Perfect Dark (USA)</image>
 		<thumbnail>./00Boxart/Perfect Dark (USA)</thumbnail>
 		<marquee>./00Logo/Perfect Dark (USA)</marquee>
-		<cart>./00Cart/Perfect Dark (USA)</cart>
+		<cartridge>./00Cart/Perfect Dark (USA)</cartridge>
 		<desc>Perfect Dark is a 2000 N64 first-person shooter video game developed and released by Rare, under distribution by Nintendo of America, in the USA on May 22, 2000.
 
 Step into the dark... As Carrington Institute's most promising new Agent, Joanna Dark must uncover the truth behind the dataDyne Corporation's recent technological breakthroughs - breakthroughs which could have serious consequences for mankind.
@@ -470,7 +487,7 @@ Step into the dark... As Carrington Institute's most promising new Agent, Joanna
 		<image>./00Boxart/Pokemon Snap (USA)</image>
 		<thumbnail>./00Boxart/Pokemon Snap (USA)</thumbnail>
 		<marquee>./00Logo/Pokemon Snap (USA)</marquee>
-		<cart>./00Cart/Pokemon Snap (USA)</cart>
+		<cartridge>./00Cart/Pokemon Snap (USA)</cartridge>
 		<desc>The Professor has asked you to capture the Wild Pokémon of Pokémon Island… on film!  Tour the island in your ZERO-ONE vehicle and snap pictures of Pokémon in their natural habitat.  Wild Pokémon are often camera-shy, so you’ll have to use special items to bring them out in the open.  Only the best shots will do for the Professor’s Pokémon Report, so sharpen your photography skills and get ready to SNAP!
 * The first-ever N64 game to feature the world-famous Pokémon--fully rendered in 3-D!
 * Explore the many environments of Pokémon Island, like the sunny beach, the mysterious caves, and even a red-hot volcano!
@@ -488,7 +505,7 @@ Step into the dark... As Carrington Institute's most promising new Agent, Joanna
 		<image>./00Boxart/Pokemon Stadium 2 (USA)</image>
 		<thumbnail>./00Boxart/Pokemon Stadium 2 (USA)</thumbnail>
 		<marquee>./00Logo/Pokemon Stadium 2 (USA)</marquee>
-		<cart>./00Cart/Pokemon Stadium 2 (USA)</cart>
+		<cartridge>./00Cart/Pokemon Stadium 2 (USA)</cartridge>
 		<desc>At long last, all of your favorite Pokémon are rady to go head-to-head on the N64®! Whether you're battle a friend, a Gym Leader or a tournament contestant, you're about to witness some of the most spectacular battle scenes in Pokémon history! Select a team from a huge stable of "rental" battlers, or use the included N64 Transfer Pak™ to upload your own team from Pokémon Red, Blue or Yellow! This Stadium is packed and ready to rock!</desc>
 		<releasedate>19990430T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -503,7 +520,7 @@ Step into the dark... As Carrington Institute's most promising new Agent, Joanna
 		<image>./00Boxart/Quest 64 (USA)</image>
 		<thumbnail>./00Boxart/Quest 64 (USA)</thumbnail>
 		<marquee>./00Logo/Quest 64 (USA)</marquee>
-		<cart>./00Cart/Quest 64 (USA)</cart>
+		<cartridge>./00Cart/Quest 64 (USA)</cartridge>
 		<desc>Celtland has been cast into chaos by the theft of Eletale's Book. This mystical volume contains the secrets of the Spirit Tamers. Control Brian, a magician's apprentice, as he explores the expansive countryside and villages on his quest. If he does not reclaim the book, the Kingdom of Celtland will be cast into darkness forever.</desc>
 		<releasedate>19980611T000000</releasedate>
 		<developer>Imagineer</developer>
@@ -513,12 +530,27 @@ Step into the dark... As Carrington Institute's most promising new Agent, Joanna
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Rocket - Robot on Wheels (USA).z64</path>
+		<name>Rocket - Robot on Wheels</name>
+		<image>./00Boxart/Rocket - Robot on Wheels (USA)</image>
+		<thumbnail>./00Boxart/Rocket - Robot on Wheels (USA)</thumbnail>
+		<marquee>./00Logo/Rocket - Robot on Wheels (USA)</marquee>
+		<cartridge>./00Cart/Rocket - Robot on Wheels (USA)</cartridge>
+		<desc>First-time Nintendo 64 developer Sucker Punch Studios jumped onto the scene with a highly original 3D platformer. The design philosophy behind the title is simple -- rather than build the platformer around the main character, the software house opted instead to focus on the interactivity of the 3D environments he travels. To that end, Rocket employs an advanced physics engine which allows the main character, a lovable unicycle-based robot named Rocket, to travel and experiment with colorful, platform-esque worlds with realistic gravity and inertia. Every object has its own set of lifelike attributes that must be "weighed" into consideration when solving puzzles.</desc>
+		<releasedate>19991031T000000</releasedate>
+		<developer>Sucker Punch</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Star Fox 64 (USA).z64</path>
 		<name>Star Fox 64</name>
 		<image>./00Boxart/Star Fox 64 (USA)</image>
 		<thumbnail>./00Boxart/Star Fox 64 (USA)</thumbnail>
 		<marquee>./00Logo/Star Fox 64 (USA)</marquee>
-		<cart>./00Cart/Star Fox 64 (USA)</cart>
+		<cartridge>./00Cart/Star Fox 64 (USA)</cartridge>
 		<desc>Star Fox 64 (Japanese: スターフォックス64 Hepburn: Sutā Fokkusu Rokujūyon?), known in Australia and Europe as Lylat Wars, is a 3D scrolling shooter game themed around aircraft combat for the Nintendo 64 video game console. It is a reboot of the original Star Fox, and the only game in the Star Fox series to be released on the Nintendo 64. An autostereoscopic remake, titled Star Fox 64 3D, was released for the Nintendo 3DS in 2011.
 
 Star Fox 64 was the first Nintendo 64 game to have included support for the Rumble Pak, with which it initially came bundled. The game received critical acclaim for its smooth animation, detailed visuals, voice acting, and use of multiple gameplay paths.
@@ -544,7 +576,7 @@ When offered membership into the Cornerian Army, Fox declines on behalf of his t
 		<image>./00Boxart/Star Wars Episode I - Battle for Naboo (USA)</image>
 		<thumbnail>./00Boxart/Star Wars Episode I - Battle for Naboo (USA)</thumbnail>
 		<marquee>./00Logo/Star Wars Episode I - Battle for Naboo (USA)</marquee>
-		<cart>./00Cart/Star Wars Episode I - Battle for Naboo (USA)</cart>
+		<cartridge>./00Cart/Star Wars Episode I - Battle for Naboo (USA)</cartridge>
 		<desc>Attention defenders of Naboo! The Trade Federation must be stopped! Storm through more than 15 missions over land, sea and space as your freedom fighters rally against the droid armies. Take control of 7 vehicles: the Naboo starfighter, Gian speeder, and new craft like the heavy STAP, Trade Federation gunboat and more. More than 15 missions: escape from Theed, search &amp; destroy, sabotage, reconnaissance, convoy. Battle against Trade Federation droid starfighters, AATs, destroyer droids, battle droids. Change vehicles mid-mission through specially designated hangars.</desc>
 		<releasedate>20001218T000000</releasedate>
 		<developer>Factor 5 GmbH</developer>
@@ -559,7 +591,7 @@ When offered membership into the Cornerian Army, Fox declines on behalf of his t
 		<image>./00Boxart/Star Wars Episode I - Racer (USA)</image>
 		<thumbnail>./00Boxart/Star Wars Episode I - Racer (USA)</thumbnail>
 		<marquee>./00Logo/Star Wars Episode I - Racer (USA)</marquee>
-		<cart>./00Cart/Star Wars Episode I - Racer (USA)</cart>
+		<cartridge>./00Cart/Star Wars Episode I - Racer (USA)</cartridge>
 		<desc>Join Jedi-to-be Anakin Skywalker in the Star Wars race of your life! Relive all the thrills and excitement of the Podracer sequence from Star Wars: Episode I. Hang on tight - with afterburners on, Podracers max out at a simulated 600 mph! Race in furious competition against more than 21 opponents! Take on over 21 tracks in 8 unique worlds. Avoid hazards such as methane lakes, meteor showers and Tusken Raiders! Featuring spectacular 3D environments!
 
 • Saves via Internal Memory (EEPROM)</desc>
@@ -576,7 +608,7 @@ When offered membership into the Cornerian Army, Fox declines on behalf of his t
 		<image>./00Boxart/Stunt Racer 64 (USA)</image>
 		<thumbnail>./00Boxart/Stunt Racer 64 (USA)</thumbnail>
 		<marquee>./00Logo/Stunt Racer 64 (USA)</marquee>
-		<cart>./00Cart/Stunt Racer 64 (USA)</cart>
+		<cartridge>./00Cart/Stunt Racer 64 (USA)</cartridge>
 		<desc>Set in some unspecified time in the future, the gameplay includes more than simple racing. Older vehicles (primarily those regarded even today as classics) are retrofitted with futuristic engine and turbo technology, in addition to jets mounted to allow the car to perform midair stunts. These stunts, including flips, barrel rolls, etc., allow the player to accumulate cash rewards during races on levitating tracks. Money accumulated is used to purchase new cars, as well as upgraded parts for cars (This increases the value of the vehicle. Oddly enough, this feature is relatively useless because vehicles can't be sold.)</desc>
 		<releasedate>20001001T000000</releasedate>
 		<developer>Boss Game Studios</developer>
@@ -591,7 +623,7 @@ When offered membership into the Cornerian Army, Fox declines on behalf of his t
 		<image>./00Boxart/Super Mario 64 (USA)</image>
 		<thumbnail>./00Boxart/Super Mario 64 (USA)</thumbnail>
 		<marquee>./00Logo/Super Mario 64 (USA)</marquee>
-		<cart>./00Cart/Super Mario 64 (USA)</cart>
+		<cartridge>./00Cart/Super Mario 64 (USA)</cartridge>
 		<desc>Super Mario 64 is a 1996 N64 third-person platformer video game developed by Nintendo EAD and released by Nintendo of America in the USA on September 26, 1996.
 
 Mario is super in a whole new way! Combining the finest 3D graphics ever developed for a video game and an explosive soundtrack, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis -- Bowser, King of the Koopas!
@@ -620,7 +652,7 @@ Mario is super in a whole new way! Combining the finest 3D graphics ever develop
 		<image>./00Boxart/Super Smash Bros. (USA)</image>
 		<thumbnail>./00Boxart/Super Smash Bros. (USA)</thumbnail>
 		<marquee>./00Logo/Super Smash Bros. (USA)</marquee>
-		<cart>./00Cart/Super Smash Bros. (USA)</cart>
+		<cartridge>./00Cart/Super Smash Bros. (USA)</cartridge>
 		<desc>Super Smash Bros. is a 1999 N64 crossover fighting video game developed by HAL Laboratory and released by Nintendo of America in the USA on April 26, 1999.
 
 It's a Bumpin', Bruisin', Brawlin' Bash!
@@ -649,7 +681,7 @@ The many worlds of Nintendo collide in the ultimate showdown of strength and ski
 		<image>./00Boxart/Tigger's Honey Hunt (USA)</image>
 		<thumbnail>./00Boxart/Tigger's Honey Hunt (USA)</thumbnail>
 		<marquee>./00Logo/Tigger's Honey Hunt (USA)</marquee>
-		<cart>./00Cart/Tigger's Honey Hunt (USA)</cart>
+		<cartridge>./00Cart/Tigger's Honey Hunt (USA)</cartridge>
 		<desc>Winnie the Pooh needs YOU! How can he throw a party without honey? Play as Tigger and run, jump, and bounce around the 100 Acre Wood in search of Pooh's "most favorite" snack. Along the journey there'll be plenty of challenges - blustery blowing leaves to ride, icy terrain, falling boulders, menacing bees, pesky bats and more. Earn Tigger's very special "Tiggertastic Bounce" as a bonus!</desc>
 		<releasedate>20001101T000000</releasedate>
 		<developer>Doki Denki Studio</developer>
@@ -664,7 +696,7 @@ The many worlds of Nintendo collide in the ultimate showdown of strength and ski
 		<image>./00Boxart/Turok 3 - Shadow of Oblivion (USA)</image>
 		<thumbnail>./00Boxart/Turok 3 - Shadow of Oblivion (USA)</thumbnail>
 		<marquee>./00Logo/Turok 3 - Shadow of Oblivion (USA)</marquee>
-		<cart>./00Cart/Turok 3 - Shadow of Oblivion (USA)</cart>
+		<cartridge>./00Cart/Turok 3 - Shadow of Oblivion (USA)</cartridge>
 		<desc>Turok 3: Shadow of Oblivion picks up where Turok 2: Seeds of Evil left off when gamers were first introduced to "Oblivion" and its lackeys, 'Flesh Eaters. Oblivion is a monstrous cosmic entity that consumed everything in its path. It reigned before the birth of our universe. Invading the bodies of the living and devouring them from the inside-out, Oblivion fed on the very energy of the dead and dying. When the Primagen's Lightship was destroyed, the chain reaction it triggered as a result was so powerful that the universe as it existed was completely eradicated, and the almighty Oblivion was pushed to the very brink of destruction. For the first time, Oblivion felt pain, fear, and hate. Though totally ravaged, Oblivion survived and now desperately seeks a means to punch through the Netherscape that separates our world from the Lost Lands (a strange and primitive world where "time has no meaning"), and the Lost Lands from countless others. The last shreds of the pure energy source that created our world and nearly wiped out Oblivion are contained within the Light Burden, the bag that every member of the Turok lineage has carried. The death of the Turok mantle will signal the beginning of the end: the rebirth of Oblivion.
 
 • Saves via Controller Pak</desc>
@@ -681,7 +713,7 @@ The many worlds of Nintendo collide in the ultimate showdown of strength and ski
 		<image>./00Boxart/Vigilante 8 (USA)</image>
 		<thumbnail>./00Boxart/Vigilante 8 (USA)</thumbnail>
 		<marquee>./00Logo/Vigilante 8 (USA)</marquee>
-		<cart>./00Cart/Vigilante 8 (USA)</cart>
+		<cartridge>./00Cart/Vigilante 8 (USA)</cartridge>
 		<desc>Vigilante 8 is a vehicular combat video game developed by Luxoflux and published by Activision for PlayStation, Nintendo 64 and Game Boy Color. It is a spin-off of the Interstate '76 series, featuring several of its theme concepts (auto-vigilantes, the 1970s time frame, and specific fictional vehicle companies).</desc>
 		<releasedate>19990317T000000</releasedate>
 		<developer>Luxoflux Corp.</developer>
@@ -696,7 +728,7 @@ The many worlds of Nintendo collide in the ultimate showdown of strength and ski
 		<image>./00Boxart/Wave Race 64 - Kawasaki Jet Ski (USA)</image>
 		<thumbnail>./00Boxart/Wave Race 64 - Kawasaki Jet Ski (USA)</thumbnail>
 		<marquee>./00Logo/Wave Race 64 - Kawasaki Jet Ski (USA)</marquee>
-		<cart>./00Cart/Wave Race 64 - Kawasaki Jet Ski (USA)</cart>
+		<cartridge>./00Cart/Wave Race 64 - Kawasaki Jet Ski (USA)</cartridge>
 		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone! Challenge a friend!</desc>
 		<releasedate>19961104T000000</releasedate>
 		<developer>Nintendo EAD</developer>
@@ -711,7 +743,7 @@ The many worlds of Nintendo collide in the ultimate showdown of strength and ski
 		<image>./00Boxart/Xena - Warrior Princess - The Talisman of Fate (USA)</image>
 		<thumbnail>./00Boxart/Xena - Warrior Princess - The Talisman of Fate (USA)</thumbnail>
 		<marquee>./00Logo/Xena - Warrior Princess - The Talisman of Fate (USA)</marquee>
-		<cart>./00Cart/Xena - Warrior Princess - The Talisman of Fate (USA)</cart>
+		<cartridge>./00Cart/Xena - Warrior Princess - The Talisman of Fate (USA)</cartridge>
 		<desc>Xena shall choose the defenders of the world. We have seen them in the memories of her exploits. So come together, Earth's greatest heroes and villains. Choose your weapons wisely and let the battles begin! Just remember, each victory only brings you closer to challenging the embodiment of darkness... Despair himself! Each of Xena's 10 characters possess their own unique weapons, attitudes and fighting techniques. Exclusive multi-player feature includes a roster mode, plus team and single battles.</desc>
 		<releasedate>19981214T000000</releasedate>
 		<developer>Saffire Corporation</developer>
@@ -726,7 +758,7 @@ The many worlds of Nintendo collide in the ultimate showdown of strength and ski
 		<image>./00Boxart/Yoshi's Story (USA)</image>
 		<thumbnail>./00Boxart/Yoshi's Story (USA)</thumbnail>
 		<marquee>./00Logo/Yoshi's Story (USA)</marquee>
-		<cart>./00Cart/Yoshi's Story (USA)</cart>
+		<cartridge>./00Cart/Yoshi's Story (USA)</cartridge>
 		<desc>Yoshi's Story is a 1998 N64 side-scrolling platformer video game developed by Nintendo EAD and released by Nintendo of America in the USA on March 10, 1998.
 
 Baby Bowser has taken the Super Happy Tree and cast a spell on Yoshi's world, turning it into the pages of a picture book. The only Yoshies not affected by the spell were six hatchlings that were still protected by their shells. It's up to them to reclaim the Super Happy Tree and restore happiness to the world. That is the only thing that can break Baby Bowser's Spell!
@@ -738,10 +770,5 @@ Baby Bowser has taken the Super Happy Tree and cast a spell on Yoshi's world, tu
 		<genre>Platform</genre>
 		<players>1</players>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./*.n64</path>
-		<name>*</name>
-		<cart>./00Cart/00Placeholder</cart>
 	</game>
 </gameList>

@@ -2,6 +2,7 @@
 <filter name="Others">
 	<system>wswan</system>
 	<system>wswanc</system>
+	<system>daphne</system>
 	<system>xbox</system>
 	<system>flash</system>
 	<system>saturn</system>

@@ -6,6 +6,7 @@
 		<image>./00Boxart/mk2</image>
 		<thumbnail>./00Boxart/mk2</thumbnail>
 		<marquee>./00Logo/mk2</marquee>
+		<cartridge>./00Cart/mk2</cartridge>
 		<desc>Mortal Kombat II is a 1993 arcade fighting video game developed and released by Midway Manufacturing in the USA on June 25, 1993.
 
 Mortal Kombat II is the second game in the Mortal Kombat series.
@@ -24,6 +25,7 @@ Following his failure to defeat Liu Kang in the first Mortal Kombat game, the ev
 		<image>./00Boxart/mk</image>
 		<thumbnail>./00Boxart/mk</thumbnail>
 		<marquee>./00Logo/mk</marquee>
+		<cartridge>./00Cart/mk</cartridge>
 		<desc>Mortal Kombat is a 1992 arcade fighting video game developed and released by Midway Manufacturing in the USA on October 8, 1992.
 
 Mortal Kombat is the first game in the Mortal Kombat series.
@@ -42,6 +44,7 @@ The game takes place on a fictional island in Earthrealm, where a tournament is 
 		<image>./00Boxart/umk3r11</image>
 		<thumbnail>./00Boxart/umk3r11</thumbnail>
 		<marquee>./00Logo/umk3r11</marquee>
+		<cartridge>./00Cart/umk3r11</cartridge>
 		<desc>Ultimate Mortal Kombat 3 is a 1995 arcade fighting video game developed and released by Midway Manufacturing in the USA on November 6, 1995.
 
 Ultimate Mortal Kombat 3 is an update of 1995's earlier Mortal Kombat 3 with an altered gameplay system, additional characters like the returning favorites Kitana and Scorpion who were missing from Mortal Kombat 3, and some new features.</desc>
@@ -50,6 +53,48 @@ Ultimate Mortal Kombat 3 is an update of 1995's earlier Mortal Kombat 3 with an 
 		<publisher>Midway Manufacturing</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./dkong.zip</path>
+		<name>Donkey Kong</name>
+		<image>./00Boxart/dkong</image>
+		<thumbnail>./00Boxart/dkong</thumbnail>
+		<marquee>./00Logo/dkong</marquee>
+		<cartridge>./00Cart/dkong</cartridge>
+		<desc>Following Space Panic (1980), Donkey Kong is one of the earliest examples of the platform game genre, even prior to the term being coined; the U.S. gaming press used "climbing game" for games with platforms and ladders. As the first platform game to feature jumping, Donkey Kong requires the player to jump between gaps and over obstacles or approaching enemies, setting the template for the future of the genre. With four unique stages, Donkey Kong was the most complex arcade game of the time, and one of the first arcade games with multiple stages, following games such as Phoenix (1980), Gorf (1981), and Scramble (1981).
+
+In addition to the goal of saving Pauline, the player has a score. Points are awarded for the following: leaping over obstacles; destroying objects with a hammer power-up; collecting items such as hats, parasols, and purses; removing rivets from platforms; and completing each stage according to a steadily decreasing bonus counter. The player starts with three lives with a bonus life awarded at 7,000 points. A life is lost when Mario touches Donkey Kong or any enemy object, falls too far, or lets the bonus counter reach zero. The game ends when all lives are lost.
+
+Each of the four single-screen stages represents 25 meters of the structure Donkey Kong has climbed: 25, 50, 75, and 100 meters. Stage one involves Mario scaling a construction site made of crooked girders and ladders while jumping over or hammering barrels and oil drums tossed by Donkey Kong. Stage two involves climbing a five-story structure of conveyor belts, each of which transport cement pans. The third stage involves the player riding elevators while avoiding bouncing springs. The final stage requires Mario to remove eight rivets from the platforms supporting Donkey Kong; this causes Donkey Kong to fall and the hero to be reunited with Pauline. These four stages combine to form one level.
+
+After each level, the stages repeat with increased difficulty. For example, Donkey Kong begins to hurl barrels faster and sometimes diagonally, and fireballs speed up. The victory music alternates between levels 1 and 2. The fourth level consists of five stages with the final stage at 125 meters. Level 130 is colloquially known as the kill screen, due to a programming error that kills Mario after a few seconds, effectively ending the game.</desc>
+		<releasedate>19810731T000000</releasedate>
+		<developer>Ikegami Tsushinki, Nintendo R&D1 </developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./pacman.zip</path>
+		<name>Pac-Man</name>
+		<image>./00Boxart/pacman</image>
+		<thumbnail>./00Boxart/pacman</thumbnail>
+		<marquee>./00Logo/pacman</marquee>
+		<cartridge>./00Cart/pacman</cartridge>
+		<desc>The player controls Pac-Man through an enclosed maze. The objective of the game is to eat all of the dots placed in the maze while avoiding four colored ghosts—Blinky (red), Pinky (pink), Inky (cyan), and Clyde (orange)—who pursue Pac-Man. When Pac-Man eats all of the dots, the player advances to the next level. Levels are indicated by fruit icons at the bottom of the screen. In between levels are short cutscenes featuring Pac-Man and Blinky in humorous, comical situations.
+
+If Pac-Man is caught by a ghost, he loses a life; the game ends when all lives are lost. Each of the four ghosts has its own unique artificial intelligence (A.I.), or "personality": Blinky gives direct chase to Pac-Man; Pinky and Inky try to position themselves in front of Pac-Man, usually by cornering him; and Clyde switches between chasing Pac-Man and fleeing from him.
+
+Placed near the four corners of the maze are large flashing "energizers" or "power pellets". When Pac-Man eats one, the ghosts turn blue with a dizzied expression and reverse direction. Pac-Man can eat blue ghosts for bonus points; when a ghost is eaten, its eyes make their way back to the center box in the maze, where the ghost "regenerates" and resumes its normal activity. Eating multiple blue ghosts in succession increases their point value. After a certain amount of time, blue-colored ghosts flash white before turning back into their normal forms. Eating a certain number of dots in a level causes a bonus item—usually a fruit—to appear underneath the center box; the item can be eaten for bonus points. To the sides of the maze are two "warp tunnels", which allow Pac-Man and the ghosts to travel to the opposite side of the screen. Ghosts become slower when entering and exiting these tunnels.
+
+The game increases in difficulty as the player progresses: the ghosts become faster, and the energizers' effect decreases in duration, eventually disappearing entirely. An integer overflow causes the 256th level to load improperly, rendering it impossible to complete.</desc>
+		<releasedate>19801010T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway Manufacturing</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

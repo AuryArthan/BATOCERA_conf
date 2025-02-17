@@ -81,6 +81,16 @@
             "lang": "en"
         },
         {
+            "path": "./Super Mario Land DX.gb",
+            "desc": "Super Mario Land DX is a romhack of the original Super Mario Land for the Game Boy that turns the game into a Game Boy Color game. It adds color and changes the graphics to give the game a modern look.",
+            "releasedate": "20220420T000000",
+            "developer": "toruzz",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
             "path": "./Super Mario Land (World).gb",
             "desc": "Journey with Mario to a land of giant crabs, Koopa Troopas, flying stone heads and hungry sharks! Travel over land, in the air, and underwater. Mario makes his way through four treacherous worlds on his way to save the Princess!",
             "releasedate": "19890731T000000",

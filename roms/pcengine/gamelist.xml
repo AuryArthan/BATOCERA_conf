@@ -6,6 +6,7 @@
 		<image>./00Boxart/Devil's Crush (USA)</image>
 		<thumbnail>./00Boxart/Devil's Crush (USA)</thumbnail>
 		<marquee>./00Logo/Devil's Crush (USA)</marquee>
+		<cartridge>./00Cart/Devil's Crush (USA)</cartridge>
 		<desc>The playfield of Devil's Crush consists of a free scrolling pinball table three screens high. There are three pairs of flippers. The player can nudge/bump the table to influence the ball's path. Using the tilt button too much will result in the game "tilting" and the flippers will stop working, causing a lost ball. There are many targets to shoot for and hidden bonus rooms.</desc>
 		<releasedate>19900101T000000</releasedate>
 		<developer>NAXAT Soft</developer>
@@ -20,6 +21,7 @@
 		<image>./00Boxart/Dragon's Curse (USA)</image>
 		<thumbnail>./00Boxart/Dragon's Curse (USA)</thumbnail>
 		<marquee>./00Logo/Dragon's Curse (USA)</marquee>
+		<cartridge>./00Cart/Dragon's Curse (USA)</cartridge>
 		<desc>Life as a roaming adventurer is never easy. One minute you're shoving several feet of cold steel between the gaping jaws of some evil robot dragon, and the next thing you know, you've been transformed into a fire breathing lizard man. Such is the problem that you first encounter at the beginning of Adventure Island, Hudson Soft's conversion of the Master System game 'Wonder Boy III: The Dragon's Trap'. Taking more of its influence from the second game in the Wonder Boy series than the first, Adventure Island has a more balanced structure and more exploratory gameplay.
 
 The main game is centred around a small village which acts as a sort of 'hub' to the surrounding levels. Each of these levels are gradually accessed over time with the acquisition of keys or new transformations. As the game progresses, you will find yourself transforming into five different creatures, which can (and need to) be switched between in special rooms. The lizard is the basic transformation and does little more than breathe fire at any passing fauna. Mouse man is a tiny little critter and aside from being able to fit under small obstacles, he can also run up and around special chequered walls and ceilings. Next up is a green amphibian that gives you the power to swim around freely, followed by a tiger man who swings his sword around in a wide arc, allowing you to break blocks above and below. Finally, there is the bird transformation which lets you fly around by repeatedly tapping the jump button.
@@ -38,6 +40,7 @@ As you progress, your quest will take you over many types of terrain from jungle
 		<image>./00Boxart/Legendary Axe, The (USA)</image>
 		<thumbnail>./00Boxart/Legendary Axe, The (USA)</thumbnail>
 		<marquee>./00Logo/Legendary Axe, The (USA)</marquee>
+		<cartridge>./00Cart/Legendary Axe, The (USA)</cartridge>
 		<desc>You are Gogan, a muscular powerhouse with enough guts to enter the Pits of Madness. Your mission: rescue the beautiful red-haired Flare. You are strong, but you also have Sting, a sacred axe to help you battle strange creatures and the savage cult of Jagu, fighting through mountain, jungle and cave environments to reach the lovely maiden.</desc>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Atlus Co., Ltd.</developer>
@@ -52,6 +55,7 @@ As you progress, your quest will take you over many types of terrain from jungle
 		<image>./00Boxart/Somer Assault (USA)</image>
 		<thumbnail>./00Boxart/Somer Assault (USA)</thumbnail>
 		<marquee>./00Logo/Somer Assault (USA)</marquee>
+		<cartridge>./00Cart/Somer Assault (USA)</cartridge>
 		<desc>Here begins the story from a time and a world not our own ... A sorceress used her evil powers to fulfill her conquest to rule the world. "Go my dead slaves to trample and rule the world which will belong to us!" You are the only one who can crush her wretched plans! Each stage is controlled by a boss who portrays a sign of the zodiac. Going through a maze, you have to find and destroy the boss before your time runs out. Save the world!</desc>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Atlus U.S.A., Inc.</developer>

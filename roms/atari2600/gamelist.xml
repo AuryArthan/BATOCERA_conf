@@ -6,6 +6,7 @@
 		<image>./00Boxart/Adventure (USA)</image>
 		<thumbnail>./00Boxart/Adventure (USA)</thumbnail>
 		<marquee>./00Logo/Adventure (USA)</marquee>
+		<cartridge>./00Cart/Adventure (USA)</cartridge>
 		<desc>Adventure is a 1980 Atari 2600 action-adventure video game developed and released by Atari in the USA on March 14, 1980.
 
 In Adventure, the player's goal is to recover the Enchanted Chalice that an evil magician has stolen and hidden in the kingdom and return it to the Golden Castle. The kingdom is made of a total of thirty rooms, with various obstacles, enemies, and mazes located in and around the Golden, White, and Black Castles. The kingdom is guarded by three dragons—the yellow Yorgle, the green Grundle, and the red Rhindle—that protect or flee from various items and attack the player's avatar. An enemy bat can roam the kingdom freely, carrying an item or a dragon around; the bat was to be named Knubberrub but the name is not in the manual. The bat's two states are agitation and non-agitation. When in the agitated state, the bat will either pick up or swap what it currently carries with an object in the present room, eventually returning to the non-agitated state where it will not pick up an object. The bat continues to fly around even offscreen, swapping objects.
@@ -26,6 +27,7 @@ The game offers three different skill levels. Level 1 is the easiest, as it uses
 		<image>./00Boxart/Amoeba Jump</image>
 		<thumbnail>./00Boxart/Amoeba Jump</thumbnail>
 		<marquee>./00Logo/Amoeba Jump</marquee>
+		<cartridge>./00Cart/Amoeba Jump</cartridge>
 		<desc>Amoeba Jump is a vertical jumping game for the Atari 2600 where your objective is to guide an amoeba (a single-celled creature) up a never-ending series of platforms without falling. The higher you get, the higher your score will be!</desc>
 		<releasedate>20191208T000000</releasedate>
 		<developer>Dion Olsthoorn</developer>
@@ -40,6 +42,7 @@ The game offers three different skill levels. Level 1 is the easiest, as it uses
 		<image>./00Boxart/Asteroids (Japan, USA)</image>
 		<thumbnail>./00Boxart/Asteroids (Japan, USA)</thumbnail>
 		<marquee>./00Logo/Asteroids (Japan, USA)</marquee>
+		<cartridge>./00Cart/Asteroids (Japan, USA)</cartridge>
 		<desc>Asteroids is a 1981 Atari 2600 multidirectional shooter video game developed and released by Atari in the USA on August 1, 1981.
 
 The objective of Asteroids is to score as many points as possible by destroying asteroids and flying saucers. The player controls a triangular-shaped ship that can rotate left and right, fire shots straight forward, and thrust forward. As the ship moves, momentum is not conserved — the ship eventually comes to a stop again when not thrusting. The player can also send their ship into hyperspace, causing it to disappear and reappear in a random location on the screen (with the risk of self-destructing or appearing on top of an asteroid).</desc>
@@ -56,6 +59,7 @@ The objective of Asteroids is to score as many points as possible by destroying 
 		<image>./00Boxart/Atlantis (USA)</image>
 		<thumbnail>./00Boxart/Atlantis (USA)</thumbnail>
 		<marquee>./00Logo/Atlantis (USA)</marquee>
+		<cartridge>./00Cart/Atlantis (USA)</cartridge>
 		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Imagic</developer>
@@ -70,6 +74,7 @@ The objective of Asteroids is to score as many points as possible by destroying 
 		<image>./00Boxart/Boom Bang</image>
 		<thumbnail>./00Boxart/Boom Bang</thumbnail>
 		<marquee>./00Logo/Boom Bang</marquee>
+		<cartridge>./00Cart/Boom Bang</cartridge>
 		<desc>Bugs are crawling out of the sewers and are coming for you. Your defense: a bunch of potted plants hanging over your balcony. As the bugs climb the wall, push the pots over the edge and knock the bugs off. If six bugs get into your building through the window, they'll eat away at the foundation until the building drops a bit. Then the bugs will have a shorter wall to climb, and things get harder. This game is original, challenging, and pretty addictive. Get 75,000 points and earn the Crackpots patch.</desc>
 		<releasedate>19821001T000000</releasedate>
 		<developer>Activision</developer>
@@ -84,6 +89,7 @@ The objective of Asteroids is to score as many points as possible by destroying 
 		<image>./00Boxart/Centipede (Japan, USA)</image>
 		<thumbnail>./00Boxart/Centipede (Japan, USA)</thumbnail>
 		<marquee>./00Logo/Centipede (Japan, USA)</marquee>
+		<cartridge>./00Cart/Centipede (Japan, USA)</cartridge>
 		<desc>Centipede is a 1982 Atari 2600 fixed shooter video game developed by General Computer Corporation and released by Atari in the USA on December 31, 1982.
 
 The player moves the character about the bottom area of the screen and fires laser shots at a centipede advancing from the top of the screen down through a field of mushrooms. Shooting any section of the centipede creates a mushroom; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the board, with the first section of the rear piece becoming a new head. If the head is destroyed, the section behind it becomes the next head.</desc>
@@ -100,6 +106,7 @@ The player moves the character about the bottom area of the screen and fires las
 		<image>./00Boxart/Dig Dug (USA)</image>
 		<thumbnail>./00Boxart/Dig Dug (USA)</thumbnail>
 		<marquee>./00Logo/Dig Dug (USA)</marquee>
+		<cartridge>./00Cart/Dig Dug (USA)</cartridge>
 		<desc>Dig Dug is a 1983 Atari 2600 maze action video game developed by General Computer Corporation and released by Atari in the USA on October 7, 1983.
 
 The objective of Dig Dug is to eliminate underground-dwelling monsters. This can be done by inflating them until they pop or by dropping rocks on them. There are two kinds of enemies in the game: Pookas, round red monsters (said to be modeled after tomatoes) who wear yellow goggles, and Fygars, green dragons who can breathe fire. The player's character is Dig Dug, dressed in white and blue, and able to dig tunnels. Dig Dug is killed if he is caught by either Pooka or Fygar, burned by a Fygar's fire, or crushed by a rock.</desc>
@@ -116,6 +123,7 @@ The objective of Dig Dug is to eliminate underground-dwelling monsters. This can
 		<image>./00Boxart/Dolphin (USA)</image>
 		<thumbnail>./00Boxart/Dolphin (USA)</thumbnail>
 		<marquee>./00Logo/Dolphin (USA)</marquee>
+		<cartridge>./00Cart/Dolphin (USA)</cartridge>
 		<desc>Listen!  An endangered dolphin is calling you!  Only by learning the dolphin's sonic language can you guide her through schools of seahorses, battling a monstrous squid, to gain magic powers from and elusive seagull.  Hurry!  Lend an ear...
 
 You will guide your dolphin through openings in the seahorse schools by listening to sonic tones and catching waves. Pay attention to the following:
@@ -143,6 +151,7 @@ Also, you'll score 100 points each time your dolphin catches a good wave or each
 		<image>./00Boxart/Dragster (USA)</image>
 		<thumbnail>./00Boxart/Dragster (USA)</thumbnail>
 		<marquee>./00Logo/Dragster (USA)</marquee>
+		<cartridge>./00Cart/Dragster (USA)</cartridge>
 		<desc>You have in your hand one of the most exciting video games ever designed. One word of caution: this game takes a little time to learn because it's so challenging. It's very tricky. So, please read these directions and give yourself some practice time. Then you can aim for the World Record.
 
 Game 1: Straight-ahead Dragster, one or two players.
@@ -170,6 +179,7 @@ The object of Dragster is to beat your opponent across the screen, or to race ag
 		<image>./00Boxart/E.T. - The Extra-Terrestrial (USA)</image>
 		<thumbnail>./00Boxart/E.T. - The Extra-Terrestrial (USA)</thumbnail>
 		<marquee>./00Logo/E.T. - The Extra-Terrestrial (USA)</marquee>
+		<cartridge>./00Cart/E.T. - The Extra-Terrestrial (USA)</cartridge>
 		<desc>Ouch! E.T. is lost on Earth and wants to get home. Help him build an interplanetary telephone to call for assistance before his energy runs out. But beware of government agents and curious scientists who will sap E.T.'s precious energy before he reaches his goal.</desc>
 		<releasedate>19820701T000000</releasedate>
 		<developer>Atari</developer>
@@ -184,6 +194,7 @@ The object of Dragster is to beat your opponent across the screen, or to race ag
 		<image>./00Boxart/Frankenstein's Monster (USA)</image>
 		<thumbnail>./00Boxart/Frankenstein's Monster (USA)</thumbnail>
 		<marquee>./00Logo/Frankenstein's Monster (USA)</marquee>
+		<cartridge>./00Cart/Frankenstein's Monster (USA)</cartridge>
 		<desc>In the cold dark night you make your way through the ghoulish castle of Dr. Frankenstein. There you must prevent him from completing his creation.
 
 Your only chance is to gather stones from the dungeon and bring them to the tower where you must build a barricade around the monster before he has accumulated enough energy to come alive.
@@ -204,6 +215,7 @@ You have three lives and falling into the acid pool will lose you one. You are a
 		<image>./00Boxart/Frogger (USA)</image>
 		<thumbnail>./00Boxart/Frogger (USA)</thumbnail>
 		<marquee>./00Logo/Frogger (USA)</marquee>
+		<cartridge>./00Cart/Frogger (USA)</cartridge>
 		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.</desc>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Parker Brothers</developer>
@@ -218,6 +230,7 @@ You have three lives and falling into the acid pool will lose you one. You are a
 		<image>./00Boxart/Halo2600</image>
 		<thumbnail>./00Boxart/Halo2600</thumbnail>
 		<marquee>./00Logo/Halo2600</marquee>
+		<cartridge>./00Cart/Halo2600</cartridge>
 		<desc>The year is 2552. Planet Earth still exists, but overpopulation has forced many of her former residents to colonize other worlds. After contact with an outer colony was lost, a battlegroup was sent to investigate and was almost completely destroyed; only one badly damaged ship returned to tell of a seemingly unstoppable alien warship that had effortlessly annihilated their forces.
 
 This was humankind's first encounter with a group of aliens they eventually came to know as the Covenant, a collective of alien races bent on wiping out humanity. A desperate plan is set in motion: board a Covenant vessel and learn the location of the Covenant home world. But before the mission begins, Covenant forces strike and annihilate the attack force.
@@ -243,6 +256,7 @@ In the game, Halo players control Master Chief in a non-scrolling exploration ga
 		<image>./00Boxart/Jungle Hunt (USA)</image>
 		<thumbnail>./00Boxart/Jungle Hunt (USA)</thumbnail>
 		<marquee>./00Logo/Jungle Hunt (USA)</marquee>
+		<cartridge>./00Cart/Jungle Hunt (USA)</cartridge>
 		<desc>Swing into action with one of the most popular arcade hits ever - JUNGLE HUNT! Realistic graphics place you deep in the jungle as you swing from vine to vine, fight off man-eating crocodiles. dodge bouncing boulders, and save your sweetie from the masked cannibals!</desc>
 		<releasedate>19830701T000000</releasedate>
 		<developer>Atari</developer>
@@ -257,6 +271,7 @@ In the game, Halo players control Master Chief in a non-scrolling exploration ga
 		<image>./00Boxart/Pitfall!</image>
 		<thumbnail>./00Boxart/Pitfall!</thumbnail>
 		<marquee>./00Logo/Pitfall!</marquee>
+		<cartridge>./00Cart/Pitfall!</cartridge>
 		<desc>Pitfall! is a 1982 Atari 2600 platformer video game developed and released by Activision in the USA on September 2, 1982.
 
 Pitfall! is a video game set in a jungle where the player controls Pitfall Harry, a fortune hunter and explorer. Pitfall! has been characterized as a platformer by Nick Montfort and Ian Bogost, the authors of Racing the Beam. Similar to Superman (1979) and Adventure (1980), the game does not feature side-scrolling and instead loads one screen at a time, with a new screen appearing when the player character, Pitfall Harry, moves to the edge of the screen. The goal is to get Harry as many points as possible within a twenty-minute time limit. The player starts the game with 2,000 points and can collect a total of 32 treasure hidden among 255 scenes to increase their total, ranging from a money bag worth 2,000 points to a diamond ring worth 5,000 points.
@@ -275,6 +290,7 @@ Pitfall Harry moves left and right and can jump over and onto objects, swing fro
 		<image>./00Boxart/Princess Rescue</image>
 		<thumbnail>./00Boxart/Princess Rescue</thumbnail>
 		<marquee>./00Logo/Princess Rescue</marquee>
+		<cartridge>./00Cart/Princess Rescue</cartridge>
 		<desc>Oh No! BJ is at it again!
 
 Will he ever learn? Better yet, will the princess? It seems like you can usually mark on the calendar when this is going to happen. Yes, once again BJ and his minions have managed to steal away the kingdom's most beloved princess and it's up to you to rescue her...again. It never fails. As par for the course, BJ will be sending out his followers to stop you from completing your task, but they can be defeated. The kingdom is filled with lots of magical stones that contain power or items that you can use along your way to help rescue the princess. Why BJ hasn't gotten rid of them by now is anyone's guess. So venture out and once again restore order to the kingdom!
@@ -293,6 +309,7 @@ Save the Princess in this familiar platform game through 16 challenging scrollin
 		<image>./00Boxart/Q-bert (USA)</image>
 		<thumbnail>./00Boxart/Q-bert (USA)</thumbnail>
 		<marquee>./00Logo/Q-bert (USA)</marquee>
+		<cartridge>./00Cart/Q-bert (USA)</cartridge>
 		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Parker Brothers</developer>
@@ -307,6 +324,7 @@ Save the Princess in this familiar platform game through 16 challenging scrollin
 		<image>./00Boxart/River Raid (USA)</image>
 		<thumbnail>./00Boxart/River Raid (USA)</thumbnail>
 		<marquee>./00Logo/River Raid (USA)</marquee>
+		<cartridge>./00Cart/River Raid (USA)</cartridge>
 		<desc>River Raid is a 1982 Atari 2600 vertically scrolling shooter video game developed and released by Activision in the USA on December 18, 1982.
 
 In River Raid the player is in a B1 StratoWing Assault Jet that is retrofitted with rapid-fire guided missiles and had the ability to both accelerate and slow down easily. The jet is going down the "River of No Return" where it is on a mission to break the enemy blockades and halt troop advances. The river in the game has no actual ending and scrolls infinitely.
@@ -325,6 +343,7 @@ River Raid is played with the joystick. The player can control movement left and
 		<image>./00Boxart/Space Invaders (USA)</image>
 		<thumbnail>./00Boxart/Space Invaders (USA)</thumbnail>
 		<marquee>./00Logo/Space Invaders (USA)</marquee>
+		<cartridge>./00Cart/Space Invaders (USA)</cartridge>
 		<desc>Space Invaders is a 1980 Atari 2600 fixed shooter video game developed and released by Atari in the USA on March 6, 1980.
 
 The player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up.</desc>

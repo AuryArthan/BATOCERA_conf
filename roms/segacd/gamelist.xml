@@ -1,11 +1,29 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./3 Ninjas Kick Back (USA).m3u</path>
+		<name>3 Ninjas Kick Back</name>
+		<image>./00Boxart/3 Ninjas Kick Back (USA)</image>
+		<thumbnail>./00Boxart/3 Ninjas Kick Back (USA)</thumbnail>
+		<marquee>./00Logo/3 Ninjas Kick Back (USA)</marquee>
+		<cartridge>./00Cart/3 Ninjas Kick Back (USA)</cartridge>
+		<desc>You must help an old samurai to retrieve a dagger he once got as an award for his achievements in martial arts. The dagger was stolen by somebody who envied the old warrior - now he cannot give this prize to the warriors of the next generation. Choose one of the three young ninjas to help the old man!
+
+This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each one of the three ninjas has unique weapons and abilities. All three of them can run, duck, crawl, climb, jump, and hang on trees, ropes, etc. You'll encounter many obstacles and enemies, both regular and boss-like, which you'll have to overcome and defeat.</desc>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Malibu Interactive</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Ecco - The Tides of Time (USA).m3u</path>
 		<name>Ecco - The Tides of Time</name>
 		<image>./00Boxart/Ecco - The Tides of Time (USA)</image>
 		<thumbnail>./00Boxart/Ecco - The Tides of Time (USA)</thumbnail>
 		<marquee>./00Logo/Ecco - The Tides of Time (USA)</marquee>
+		<cartridge>./00Cart/Ecco - The Tides of Time (USA)</cartridge>
 		<desc>The follow-up to Ecco the Dolphin, in which Ecco successfully destroyed the Vortex. Unfortunately, it turns out that the Vortex Queen followed it to the Earth and eventually destroyed the Asterite. All the world's oceans are threatened, and actually already doomed.
 
 In order to restore the Asterite and finally defeat the Vortex Queen, Ecco will have to confront once again the tides of time, which have split into two possible futures, the regular one and the dark one dominated by the Vortex Queen.
@@ -24,6 +42,7 @@ Ecco: The Tides of Time features even better graphics than its predecessor, and 
 		<image>./00Boxart/Night Trap (USA)</image>
 		<thumbnail>./00Boxart/Night Trap (USA)</thumbnail>
 		<marquee>./00Logo/Night Trap (USA)</marquee>
+		<cartridge>./00Cart/Night Trap (USA)</cartridge>
 		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.</desc>
 		<releasedate>19920701T000000</releasedate>
 		<developer>Digital Pictures</developer>
@@ -38,6 +57,7 @@ Ecco: The Tides of Time features even better graphics than its predecessor, and 
 		<image>./00Boxart/Sonic CD (USA)</image>
 		<thumbnail>./00Boxart/Sonic CD (USA)</thumbnail>
 		<marquee>./00Logo/Sonic CD (USA)</marquee>
+		<cartridge>./00Cart/Sonic CD (USA)</cartridge>
 		<desc>Sonic the Hedgehog and his self-proclaimed girlfriend Amy Rose travel to Never Lake, only to discover the legendary Little Planet there, tied in chains and covered by metal. It appears that Sonic's archenemy, Dr. Robotnik, is using the powers of the planet in order to manipulate the fabric of time. He created Sonic's evil counterpart, Metal Sonic, who kidnaps Amy and disappears. Now the brave hedgehog must explore the Little Planet, collect seven jewels capable of altering the passage of time, free Amy, and defeat Metal Sonic along with his master. 
 
 Sonic CD is a fast-paced side-scrolling platform action game, similar in gameplay to other installments of the series. Sonic uses his patented spin attacks to destroy the doctor's minions, and collects various items, such as protective rings, shields, and speed shoes. His special attacks include the Spin Dash and the Super Peel Out. A stand-out gameplay feature of this installment is Sonic's ability to travel to past and future versions of the stages he traverses. Depending on the player's action in the past version of a level, the future versions (which contain obligatory boss enemies) will change from "bad" to "good", having more or less enemies and obstacles, respectively. 

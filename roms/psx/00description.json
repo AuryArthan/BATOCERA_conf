@@ -271,13 +271,23 @@
             "lang": "en"
         },
         {
-            "path": "./Worms Armageddon (USA).m3u",
-            "desc": "Gameplay is turn-based, with each team moving in sequence (which is determined randomly) across two-dimensional terrain. During a single turn, a team can only move one of its worms (unless the Select Worm item is used). Worms can walk and jump, as well as (when the proper items are available) swing by rope, parachute, teleport, and bungee. The objective of a traditional match is to defeat all opposing teams by killing their worms, although in the campaign some missions have other objectives (such as collecting a specific crate).",
-            "releasedate": "19990414T000000",
-            "developer": "Team17 Software Limited",
-            "publisher": "MicroProse Software, Inc.",
-            "genre": "Strategy",
-            "players": "4",
+            "path": "./Adventures of Lomax, The (USA).m3u",
+            "desc": "Lomax is in way over his head. Evil Ed has nabbed his pals and tricked them into doing diabolical deeds. Only Lomax has the power to break the sinister hex! Leap into action with Lomax as he battles Ed's evildoers and travels through bizarre lands in this fast and frantic thriller!",
+            "releasedate": "19961031T000000",
+            "developer": "Psygnosis Limited",
+            "publisher": "Psygnosis Limited",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Moto Racer (USA).m3u",
+            "desc": "MOTO RACER brings the excitement of motorcycle racing to the PlayStation, and is essentially two racing games in one. showcases both dirt and street bikes, with tracks that fit each bike's acing style. Dirt bikes can race in a typical motocross stadium, which offers plenty of moguls and dirt ramps. In street racing, you'll go to more exotic locales, peeling out and burning rubber in a jungle setting and trying to figure out the best way to negotiate the curves of the Great Wall of China. Also included is a Multiplayer mode, which lets you go full throttle against a friend in head-to-head competition. So strap on your helmet and get ready for some intense dirt bike and street racing action with MOTO RACER.",
+            "releasedate": "19971130T000000",
+            "developer": "Delphine Software International",
+            "publisher": "Electronic Arts",
+            "genre": "Racing",
+            "players": "1",
             "lang": "en"
         }
     ]

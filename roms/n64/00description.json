@@ -399,6 +399,26 @@
             "genre": "Strategy, Family",
             "players": "4",
             "lang": "en"
+        },
+        {
+            "path": "./Rocket - Robot on Wheels (USA).z64",
+            "desc": "First-time Nintendo 64 developer Sucker Punch Studios jumped onto the scene with a highly original 3D platformer. The design philosophy behind the title is simple -- rather than build the platformer around the main character, the software house opted instead to focus on the interactivity of the 3D environments he travels. To that end, Rocket employs an advanced physics engine which allows the main character, a lovable unicycle-based robot named Rocket, to travel and experiment with colorful, platform-esque worlds with realistic gravity and inertia. Every object has its own set of lifelike attributes that must be \"weighed\" into consideration when solving puzzles.",
+            "releasedate": "19991031T000000",
+            "developer": "Sucker Punch",
+            "publisher": "Ubisoft Entertainment",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Body Harvest (USA).z64",
+            "desc": "The year is 2016. Humanity has been reduced to a few survivors inhabiting the orbital space station Omega. Over the course of the history, aliens visited the Earth every twenty-five years, \"harvesting\" humans as an organic material. Eventually, they launch an assault on the last remnants of the human race. But Adam Drake, a genetically engineered soldier, comes into possession of a time-traveling device. He uses it to travel to the time periods of human history when aliens performed their deadly attacks. The fate of humanity is in his hands.\n\nBody Harvest is an action and driving game with a mission-based structure. The protagonist travels to various locations and eras (e.g. Greece during World War II, Siberia in the 1990s, etc.) with the goal of stopping alien invasions. Missions can be accessed by traveling to specified areas on the map. Adam can move on foot and use his weapons to kill aliens; however, vehicles usually prove to be a more reliable way of tackling most missions. Adam can use most of his weapons while in a vehicle; in addition, some vehicles are outfitted with their own weapons.",
+            "releasedate": "19981020T000000",
+            "developer": "DMA Design Limited",
+            "publisher": "Midway Games",
+            "genre": "Action, Shooter",
+            "players": "1",
+            "lang": "en"
         }
     ]
 }

@@ -69,6 +69,20 @@ Veloren is fully open-source, licensed under GPL 3. It uses original graphics, m
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Zelda - 2 Ship 2 Harkinian.sh</path>
+		<name>Zelda - 2 Ship 2 Harkinian</name>
+		<image>./00Image/Zelda - 2 Ship 2 Harkinian</image>
+		<thumbnail>./00Boxart/Zelda - 2 Ship 2 Harkinian</thumbnail>
+		<marquee>./00Logo/Zelda - 2 Ship 2 Harkinian</marquee>
+		<desc>If you're a fan of "The Legend of Zelda: Majora's Mask", you'll be happy to know that 2S2H is a fan-made native PC port of the game that includes various enhancements to the original game, such as modern controls, widescreen support, and high-resolution graphics.</desc>
+		<releasedate>20240527T000000</releasedate>
+		<developer>Harbour Masters</developer>
+		<publisher>Romhacking, Homebrew</publisher>
+		<genre>Action, Adventure, Unofficial</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Zelda - Ship of Harkinian.sh</path>
 		<name>Zelda - Ship of Harkinian</name>
 		<image>./00Image/Zelda - Ship of Harkinian</image>

@@ -379,6 +379,56 @@
             "genre": "Action, Shooter",
             "players": "4",
             "lang": "en"
+        },
+        {
+            "path": "./Kingdom Hearts II (USA).iso",
+            "desc": "Sora, Donald, and Goofy are back in the third installment (second for PS2) of the Kingdom Hearts series, continuing where Kingdom Hearts: Chain of Memories left off. The trio awakens from their sleep and goes to Twilight Town. When the game begins, you will first have control over a boy name Roxas who wields a dual-Keyblade. He is trying to enjoy the remainder of his summer vacation with his friends but he keeps having flash-backs of someone else's memories.\n\nWhen he meets up with Sora, the two learns they have a special connection with one another. Afterwards, the group will continue their search for King Mickey and Riku. This time, they will travel to new worlds and work with various characters from the Disney and Final Fantasy universes. This includes worlds from not only Disney's animated movies but other movies as well like Pirates of the Caribbean and TRON.\n\nIn Kingdom Hearts II, Sora and his friends will battle various enemies including the Heartless from Kingdom Hearts, but also a group of enemies called Nobodies. Nobodies are \"nonexistent beings\" who are under the control of Organization XIII - a group of 13 members in black coats that Sora and his friends have reduced down to just half.\n\nGameplay is very similar to Kingdom Hearts: the player controls Sora with Donald and Goofy helping with their magic and attacks. Sora can use various magic powers as well as use Summon which will call upon the aid of special Disney characters that will temporarily fight alongside him. A new feature of combat are \"Reaction Commands\". Some enemies will leave themselves open during attacks, and if the player presses the Reaction Command button when prompted Sora will take advantage of the situation, either turning an enemy's attack against them, striking from a defenseless side for extra damage, or avoiding an otherwise unavoidable attack. As the trio levels up and progresses in the game they will gain new abilities that they can equip. Also, after Mickey meets the party, if Sora is KO'd the player will have the option of controlling Mickey and defending Sora until he can recover.",
+            "releasedate": "20060328T000000",
+            "developer": "Square Enix",
+            "publisher": "Square Enix",
+            "genre": "Action, Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Tekken 5 (USA).iso",
+            "desc": "Loved across the world for its amazing characters, explosive graphics and lightning-fast gameplay, Tekken 5 promises to deliver the next generation of blistered fingers and bleary eyes as it brings players the ultimate, most visually stunning fighting experience ever seen in a Tekken game.\n\nTekken 5 brings back the popular cast of characters from the previous games along with three new characters for a total of 20 default characters to start, with even more to unlock as you progress in the game. The game allows players to use fight money to customize their character with various accessories such as hats, glasses and an assortment of different costumes. Each of the new characters is equipped with a variety of deadly techniques, and the returning characters have been updated with new moves and combos. New to Tekken 5 is a bonus action adventure game that unfolds a side story to the action-packed fighting sequences.\n\nAfter the completion of The King of Iron Fist Tournament 4, a fierce battle between father and son unfolded at Mishima Zaibatsu headquarters. Jin emerges as the victor in this battle and continues to defeat Heihachi, his grandfather - but spares both Kazuya and Heihachi's lives in honour of his mother who loved peace. Soon after Jin's departure, a swarm of Jacks arrive at Honmaru and begin to attack Heihachi and Kazuya - and in order to escape, Kazuya thrusts Heihachi into the swarm of Jacks. A great explosion destroys Honmaru, and a man watching from afar reports, \"Heihachi Mishima is dead.\" While many presume the death of Heihachi Mishima will end the reign of Mishima Zaibatsu, an announcement is made for the fifth King of Iron Fist Tournament, with an unknown replacement to Heihachi leading the organization. The fight begins once again.",
+            "releasedate": "20050224T000000",
+            "developer": "Namco",
+            "publisher": "Namco",
+            "genre": "Fighting",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Scooby-Doo! Night of 100 Frights (USA).iso",
+            "desc": "The Mastermind has kidnapped Mystery Inc, and it's up to Scooby-Doo to search for his lost friends. Guide Scooby through 12 huge levels that include a creepy mansion, a spooky cave, a ghostly graveyard, and a perilous pier. As you search for clues, you must avoid classic Scooby-Doo monsters, use wacky inventions, eat Scooby Snacks, and gather power-ups. Do you have what it takes to foil the Mastermind's plan to rid the world of Mystery Inc?",
+            "releasedate": "20020520T000000",
+            "developer": "Heavy Iron Studios",
+            "publisher": "THQ",
+            "genre": "Adventure, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Disney Pirates of the Caribbean - At World's End (USA).iso",
+            "desc": "At World's End video games from Disney Interactive Studios invite players to \"live and die by the sword\" as they venture to the worlds of the films and beyond while playing as Captain Jack Sparrow, Will Turner and Elizabeth Swann.",
+            "releasedate": "20070522T000000",
+            "developer": "Eurocom Entertainment Software",
+            "publisher": "Disney Interactive",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pirates of the Caribbean - The Legend of Jack Sparrow (USA).iso",
+            "desc": "The game begins with Jack Sparrow and Will Turner trying to steal an object from a Spanish fortress in Panama. They are double-crossed and captured. While facing the gallows (and while Jack looks for an escape route as always), he begins to retell some of his stories to Will Turner, albeit exaggerated and not completely honestly; for instance, he always claims that either Will Turner or Elizabeth Swann was with him, even when they insist they have no idea what he's talking about. These stories include how Jack sacked Nassau Port without firing a shot; how he escaped from the desert island on the backs of sea turtles (which he never did prove in the first movie); how he fought a Chinese sorceress named Madame Tang; encountered a legion of frozen Norse warriors; visited the Arctic; and a complete retelling of Curse of the Black Pearl, complete with sequences that never happened and lines that were never said.",
+            "releasedate": "20060628T000000",
+            "developer": "Bethesda Softworks",
+            "publisher": "Ubisoft",
+            "genre": "Action, Adventure",
+            "players": "2",
+            "lang": "en"
         }
     ]
 }

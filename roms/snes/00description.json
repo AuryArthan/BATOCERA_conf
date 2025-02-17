@@ -1,15 +1,5 @@
 {
     "games": [
-		{
-            "path": "./3 Ninjas Kick Back (USA).sfc",
-            "desc": "You first saw Rocky, Colt and Tum Tum on the silver screen when their martial arts skills and extreme exploits saved the honor of Grandfather Mori and defeated an evil arms dealer.  Now, it’s up to you!  In this action-packed adventure, you become any one of the 3 Ninjas.  And that’s when the fun begins.  Wild animals and even wilder ninjas attack!  A trio of spaced-out heavy metal rockers join forces with the evil Koga in an all-out effort to do you dirty.  But if you rescue Grandfather Mori and his ceremonial dagger, you’ll have the last laugh… and unlock a secret room filled with more gold than Fort Knox!",
-            "releasedate": "19940619T000000",
-            "developer": "Malibu Interactive",
-            "publisher": "Sony Imagesoft",
-            "genre": "Action",
-            "players": "2",
-            "lang": "en"
-        },
         {
             "path": "./Addams Family, The (USA).sfc",
             "desc": "Creepy, Kooky, Ooky, Spooky.\n\nTHE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the family attorney, who is after the family fortune - Morticia, Lurch, Granny, Pugsley and Wednesday have gone to the house to reason with him. But when Gomez arrives, his family is missing! As Gomez, you must save your loved ones, your home and your loads of wealth. You'll have to watch out for scary obstacles like falling spikes, frightening monsters and ghosts, and you'll need to look for clues as you search for your family. Get a move on... 'cause you're gonna make a call on THE ADDAMS FAMILY!",
@@ -296,8 +286,98 @@
             "releasedate": "20211124T000000",
             "developer": "SePH",
             "publisher": "Romhacking",
-            "genre": "Adventure, Unofficial",
+            "genre": "Adventure, Unlicensed",
             "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Back to the Future Part II (Japan).sfc",
+            "desc": "Marty has returned from his bizarre trip to 1955 all thanks to Doc's prized invention, the DeLorean time machine. He decides to do some skateboarding around the neighborhood and visits his girlfriend Jennifer. However, this is cut short as Doc arrives from his trip to the future. He tells them that their children's future is at stake and proceeds to take them both to the year 2015. Here, Marty assumes the identity of his son Marty Jr. and faces off with Biff's grandson Griff and then his gang members one-by-one.\n\nWith Griff and his gang arrested, future history changes to ensure that the lives of Marty's children stay on track. But when Marty and Doc are not looking, old Biff takes an old sports almanac, hijacks the DeLorean, travels back to 1955 and gives the book to his teenage self. Then he returns to 2015 with Marty, Doc, and Jennifer none the wiser. When the three return to 1985, they discover that everything around them has drastically changed. Hill Valley now plagued with crime and pollution, Biff Tannen is now a multi-millionaire and Marty's stepfather, and the Doc has been certified insane. Now Marty must go throughout Hill Valley and figure out what has happened and try put time back to the way it was.",
+			"releasedate": "19930723T000000",
+            "developer": "Daft",
+            "publisher": "Toshiba-EMI Ltd.",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "jp"
+        },
+        {
+            "path": "./The Legend of Zelda - Ancient Stone Tablets (Vol 1).smc",
+            "desc": "BS The Legend of Zelda: Ancient Stone Tablets[5] was a game for the BS-X Broadcasting System add-on for the Super Famicom (the Japanese Super Nintendo). Games were downloaded from St. GIGA's satellite radio service. The game was much like a Second Quest or Master Quest of A Link to the Past, sharing a very similar overworld with slight changes and entirely new dungeons. Unlike a Second Quest however, it has an entirely new story. Various actions earned the player points, and these points could later be traded in to Nintendo for different prizes.\n\nAncient Stone Tablets is different from most other Zelda games as the game's central heroes are actually the avatars of the player's ID for the BS-X Broadcasting System, drawn into Hyrule, which is also true for BS The Legend of Zelda. The difference being that this time the player does not take the place of Link, but takes part in a new tale set after the events of A Link to the Past. The male character wears a green tunic (though others are later available) and a backwards baseball cap. The female character has long red hair and is otherwise almost exactly the same as the male.",
+			"releasedate": "19970330T000000",
+            "developer": "Nintendo",
+            "publisher": "Romhacking",
+            "genre": "Adventure, Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Junkoid.sfc",
+            "desc": "Trapped in a twisted dream where she is revered as a goddess, Junko must face the horrifying serpent that worships her.",
+            "releasedate": "20230821T000000",
+            "developer": "Pyoshi",
+            "publisher": "Romhacking",
+            "genre": "Action, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Super Mario World Central Production 2.sfc",
+            "desc": "The long-awaited sequel to An SMW Central Production, finally here after over a decade! An evil company known as Norveg Industries is expanding its business worldwide, including the Mushroom Kingdom. Can Mario put a stop to its business before nature as they know it dies out?",
+            "releasedate": "20220724T000000",
+            "developer": "SMW Central",
+            "publisher": "Romhacking",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Bowser's Kaizo Conspiracy.sfc",
+            "desc": "Bowser has stolen the wands of the 7 Guardians of Order. He seeks to use them to turn the Mushroom Kingdom into a glitched-out Kaizo wasteland. At least he didn't kidnap the princess.",
+            "releasedate": "20230524T000000",
+            "developer": "Gamma V",
+            "publisher": "Romhacking",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Sicari Remastered.sfc",
+            "desc": "Thousands of years ago, there was a war between the Gods of creation. Due to its effect on the mortal plane, the Gods were forced to punish themselves - to prevent such a thing from happening again. As such, they were all but cut off from the mortal world, with little to no influence, leading humanity to lose their faith.\n\nHowever, one group survived the thousands of years that passed after the war - the Sanguis vampire family. Their goal across those millennia was to undo the binding that their patron deity, Niscura was under. They wanted the Goddess of Dimensions and Shadow to be free again...\n...and they succeeded.\n\nthere's a bit of sensitive content here and there in the hack so do keep that in mind when playing",
+            "releasedate": "20210209T000000",
+            "developer": "Eevee",
+            "publisher": "Romhacking",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Sicari 2 - The Brink of Time.sfc",
+            "desc": "The sequel to Sicari Remastered!\nThis hack introduces new features, such as the ability to play named levels in any order and Sicari's new dagger attack. Hopefully you enjoy it (:\n\nPlot: Set one year after Niscura's defeat, a new threat is on the horizon, a mysterious being called TS-94, who is seeking powerful artifacts known as the Shards of Serpos. Sicari, with the aid of K-16 must gather these shards and use them to travel through time to track TS-94 and stop her minions.",
+            "releasedate": "20221028T000000",
+            "developer": "Eevee",
+            "publisher": "Romhacking",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Clock Tower Deluxe (English).sfc",
+            "desc": "Clock Tower is a point and click survival horror game and the first installment in the Clock Tower series. It was developed and published by Human Entertainment for the Super Nintendo Entertainment System (SNES), or Super Famicom in Japan, on September 14, 1995 in Japan.\n\nJennifer Simpson and her friends are from Granite Orphanage in Romsdalen, Norway. Adopted by a wealthy recluse named Mr. Barrows, they have come to live in the mansion known as \"Clock Tower\".\n\nThough, this mansion is not what it seems. Strange experiments are taking place in the shadows, and horrific creatures prowl through the night. Jennifer's friends have gone missing, and now she must rescue them and  try to escape with their lives.\n\nClock Tower is a haunting adventure with over 10 different endings, and will stick with you long after you've stopped playing. Players beware.\n\nThe DELUXE patch adds mouse support as well as new content from the PlayStation port to the SNES original. There are also lots of improvements like bugfixes and the ability to run through stairs, speed up the credits along with faster health regeneration. Recent additions include a refined chase system coupled with new hiding places and weapons. Your save file is also now protected in case you accidentally choose \"NEW GAME\" at the main menu.",
+            "releasedate": "19950914T000000",
+            "developer": "Human Entertainment Inc., BobSchneeder45",
+            "publisher": "Human Entertainment Inc., Romhacking",
+            "genre": "Adventure, Horror",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Lemmings (USA).sfc",
+            "desc": "Lemmings was one of the most popular computer games of its time, and several gaming magazines gave it some of their highest review scores at the time.\n\nThe behavior of the creatures in Lemmings is based on the supposed behavior of real lemmings, who by urban legend are believed to go on migrations en masse that eventually lead to disaster. The basic objective of the game is to guide lemmings through a number of obstacles to a designated exit. In order to save the required number of lemmings to win, one must determine how to assign a limited number of eight different skills to specific lemmings that allow the selected lemming to alter the landscape, to affect the behavior of other lemmings, or to clear obstacles in order to create a safe passage for the rest of the lemmings.",
+            "releasedate": "19920301T000000",
+            "developer": "Sunsoft",
+            "publisher": "Sun Corporation of America",
+            "genre": "Puzzle",
+            "players": "2",
             "lang": "en"
         }
     ]

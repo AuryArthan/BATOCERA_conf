@@ -41,6 +41,16 @@
             "lang": "en"
         },
         {
+            "path": "./Zelda - 2 Ship 2 Harkinian.sh",
+            "desc": "If you're a fan of \"The Legend of Zelda: Majora's Mask\", you'll be happy to know that 2S2H is a fan-made native PC port of the game that includes various enhancements to the original game, such as modern controls, widescreen support, and high-resolution graphics.",
+            "releasedate": "20240527T000000",
+            "developer": "Harbour Masters",
+            "publisher": "Romhacking, Homebrew",
+            "genre": "Action, Adventure, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
             "path": "./Zelda - Ship of Harkinian.sh",
             "desc": "Ship of Harkinian is an unofficial source port of the 1998 Nintendo 64 video game, The Legend of Zelda: Ocarina of Time, that runs on Microsoft Windows, Linux, macOS, Wii U, and Nintendo Switch.\n\nIt first released in March 2022 for Windows, four months after Ocarina of Time's source code was decompiled and released. Since then, Ship of Harkinian has received ports to Linux and macOS, and homebrew ports to Wii U and Nintendo Switch.",
             "releasedate": "20220322T000000",

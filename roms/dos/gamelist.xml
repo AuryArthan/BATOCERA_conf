@@ -6,6 +6,7 @@
 		<image>./00Boxart/Hugo 3 (Sl)</image>
 		<thumbnail>./00Boxart/Hugo 3 (Sl)</thumbnail>
 		<marquee>./00Logo/Hugo 3 (Sl)</marquee>
+		<cartridge>./00Cart/Hugo 3 (Sl)</cartridge>
 		<desc>Neue Abenteuern mit Hugo auf CD-ROM! Hugo, der kleine Kobold, bekannt bei jung und alt durch die gleichnamige interaktive Fernsehsendung, muß neue Abenteuer bestehen, um seine Frau Hugoline und seine drei Kinder aus den Fängen der böse Hexe Hexana zu befreien. In den Spielen Taucher, Flossfahrt, Skateboard und Eishöhle warten viele Hindernisse, die ihm Hexana mit viel List und Tücke in den Weg gelegt hat. Hat er endlich die Höhle erreicht, um seine Familie zu befreien, ist Hexana schon da und wartet auf ihn.. !</desc>
 		<releasedate>19951019T000000</releasedate>
 		<developer>ITE</developer>
@@ -20,6 +21,7 @@
 		<image>./00Boxart/Mad Dog McCree</image>
 		<thumbnail>./00Boxart/Mad Dog McCree</thumbnail>
 		<marquee>./00Logo/Mad Dog McCree</marquee>
+		<cartridge>./00Cart/Mad Dog McCree</cartridge>
 		<desc>The player assumes the first-person role of the game's silent protagonist, a nameless individual addressed only as "stranger". The stranger rides into an unnamed Old West town and is approached by an elderly prospector, who appeals to him for help. He tells the stranger that the mayor and his daughter have been kidnapped by a gang of outlaws led by the notorious "Mad Dog" McCree, and when the sheriff tried to stop them, they locked him up in the jail. Two of the gang appear to silence the prospector, but the stranger shoots them. The prospector then tells him that One-Eyed Jack holds the keys to the jail, and is in the saloon. For the remainder of the game, the exact order of events depends on the player's decisions.
 
 The stranger enters the saloon, where One-Eyed Jack and his cohorts are making trouble. The stranger defeats them and takes the jail keys. He visits the jail and frees the sheriff. The stranger and sheriff set out to stop Mad Dog, but are ambushed by three of his gang outside the jail. They defeat them, but the sheriff is fatally shot. With his dying breaths, he tells the stranger that the map to Mad Dog's hideout is hidden in the local mine, and that he should consult the prospector before going there.
@@ -42,6 +44,7 @@ The stranger confronts Mad Dog in a final quick-draw showdown. Forewarned that M
 		<image>./00Boxart/Who Shot Johnny Rock</image>
 		<thumbnail>./00Boxart/Who Shot Johnny Rock</thumbnail>
 		<marquee>./00Logo/Who Shot Johnny Rock</marquee>
+		<cartridge>./00Cart/Who Shot Johnny Rock</cartridge>
 		<desc>It's the rollicking 30's and someone has killed popular singer Johnny Rock in this action-packed gangster whodunit. The player will need to navigate the back streets, gaming halls, funeral parlors and the dirty sections of this city to get at the clues held by a number of shady characters and solve this murder mystery. Bad guys with machine guns provide a high level of shooting action.</desc>
 		<releasedate>19910202T000000</releasedate>
 		<developer>American Laser Games, Inc.</developer>

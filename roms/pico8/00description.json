@@ -299,6 +299,256 @@
             "genre": "Shmup",
             "players": "1",
             "lang": "en"
+        },
+        {
+            "path": "./Yarn Cat.png",
+            "desc": "Yarn Cat is a slow oldschool puzzle game about a mysterious cat that is somehow also a ball of yarn, traveling through odd lands to bring love to other cats. This is my first pico-8 game, and the first game I've made in about 20 years.",
+            "releasedate": "20241230T000000",
+            "developer": "lisska",
+            "publisher": "pico8, Homebrew",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Shogun.png",
+            "desc": "A simple strategy board game for 2-4 players. Can be played with the standard Shogi set.\n\nA player wins by reaching the center of the board, or by defeating all other players.",
+            "releasedate": "20250106T000000",
+            "developer": "AuryArthan",
+            "publisher": "pico8, Homebrew",
+            "genre": "Strategy",
+            "players": "4",
+            "lang": "en"
+        },
+        {
+            "path": "./Age of Ants.png",
+            "desc": "Age of Ants is a demake of Age of Empires II (with an ant/bug retheme, why not).\n\nDefeat the enemy queen to win!",
+            "releasedate": "20230203T000000",
+            "developer": "eeooty",
+            "publisher": "pico8, Homebrew",
+            "genre": "Strategy",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Beam.png",
+            "desc": "Beam is a top down puzzle adventure and is meant to be mysterious, relaxing and pretty. If you get stuck read the signs around you! It is inspired by the Zelda series, Myst, The Witness, Tunic, Hyper Light Drifter,etc and is my first attempt at coding/game development.",
+            "releasedate": "20250104T000000",
+            "developer": "rupees",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Samurise.png",
+            "desc": "Raijin, god of thunder has stolen your beloved cat! Fight through Oni and chase him to the heavens to save her!\n\nA runner/platformer where all you need to worry about is jumping and swinging your katana!",
+            "releasedate": "20241216T000000",
+            "developer": "Troypicol",
+            "publisher": "pico8, Homebrew",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Puzzles of the Paladin.png",
+            "desc": "A young hero, fueled by dreams of becoming a revered paladin, embarks on a quest that will test his strength and intelligence. Inspired by tales of the Sunforged Knights, he eagerly undertakes the arduous trials that they administer and judge. Success promises not only rank among their esteemed order but also the rewards of riches and the fulfillment of a lifelong dream.",
+            "releasedate": "20240306T000000",
+            "developer": "NerdyTeachers",
+            "publisher": "pico8, Homebrew",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Sebastian's Quest.png",
+            "desc": "Kept this one under 500 lines of code, I think that's a new record for me. Get that cheese!",
+            "releasedate": "20250113T000000",
+            "developer": "Adam Atomic",
+            "publisher": "pico8, Homebrew",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Swordfish.png",
+            "desc": "An aquatic action game. Swim sword first into the deep to destroy the evil at the heart of the ocean.",
+            "releasedate": "20180418T000000",
+            "developer": "chowyunbrent",
+            "publisher": "pico8, Homebrew",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pico Monsters.png",
+            "desc": "In this game there are markers called 'picostops' scattered throughout the map which drop random items whenever you have defeated a few wild monsters. 'Picostops' also replenish and revive all the monsters in your party. Catch new monsters with picoballs. Due to the save restrictions of pico8 the team size in this is only 4. Every wild monsters can have up to 4 different moves it's recommended to catch and compare to build your best team. There is also a very small story about professor corks whereabouts...",
+            "releasedate": "20160822T000000",
+            "developer": "hcnt",
+            "publisher": "pico8, Homebrew",
+            "genre": "Role-Playing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Sokoblox.png",
+            "desc": "Sokoblox is a hybrid of two classic puzzle games: Sokoban (the push puzzle) and Bloxorz (the rolling block puzzle).\n\nSee if you can beat all 15 levels!",
+            "releasedate": "20230301T000000",
+            "developer": "codeAtorium",
+            "publisher": "pico8, Homebrew",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Trial of the Sorcerer.png",
+            "desc": "Grab your magic staff and venture deep into the demon realm to defeat Bahmott and his evil servants!\n\nTrial of the Sorcerer is a procedurally generated 3D first person shooter inspired by Wolfenstein 3D and Catacomb Abyss.\n\nShoot monsters, collect loot, find keys to unlock doors, and try to find the exit to the next level. And don't forget to pickup the power crystals to level-up your magic staff along the way.",
+            "releasedate": "20220410T000000",
+            "developer": "Mot",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Trichromat.png",
+            "desc": "I made this little puzzle game for a 2 week solo game jam. Enjoy!",
+            "releasedate": "20240313T000000",
+            "developer": "spratt",
+            "publisher": "pico8, Homebrew",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./PicoFox.png",
+            "desc": "Fly your Arwing to victory in this demake of a certain, iconic SNES game.\n\nI finished this game with our three week old son sitting in my lap. I guess this is one our first father-son activities together--kinda sweet in a very nerdy way. Perhaps his first words will be in Lua.",
+            "releasedate": "20161115T000000",
+            "developer": "electricgryphon",
+            "publisher": "pico8, Homebrew",
+            "genre": "Shmups",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Birds with Guns.png",
+            "desc": "An Owl-some Roguelike Twin-Stick Shooter\n\nAre you ready to have a quacking time? Toucan play this egg-citing game right now! Made by an im-peck-able team of quail-ified developers, you're gonna have no egrets.\n\nEvil Robofox has captured all the birds to steal their eggs. The bird kingdom is counting on you to save them!",
+            "releasedate": "20230218T000000",
+            "developer": "Yolwoocle",
+            "publisher": "pico8, Homebrew",
+            "genre": "Shooter, Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Cryomancer.png",
+            "desc": "Defeat Fire Monsters with Ice Magic!\n\nThe pyromancer broke into the ice magic tower and set fire monsters. Fire monsters can be defeated by hitting them with ice. As a cryomancer, can you defeat the pyromancer and save the tower?",
+            "releasedate": "20250119T000000",
+            "developer": "suezou",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure, Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Delunky.png",
+            "desc": "Enter the caves and try to find as much gold as you can before you perish to the dangers of the depth. Use your trusty whip in combination with bombs, ropes, and whatever you scavenge to get as far as you can.",
+            "releasedate": "20190424T000000",
+            "developer": "johanp",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Little Necromancer.png",
+            "desc": "Help Mortimer, a necromancer apprentice, to travel to the great Necropolis. Resurrect the dead ones along his pilgrimage. But beware! They know no more master.",
+            "releasedate": "20201219T000000",
+            "developer": "Fred_Osterero",
+            "publisher": "pico8, Homebrew",
+            "genre": "Adventure, Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Low Mem Sky.png",
+            "desc": "You awake to find yourself on an alien planet, with the desire to achieve one thing... reach the centre of the galaxy!",
+            "releasedate": "20181227T000000",
+            "developer": "Liquidream",
+            "publisher": "pico8, Homebrew",
+            "genre": "Action, Adventure",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Mai-Chans Sweet Buns.png",
+            "desc": "Mai-Chan's Sweet Buns is a cute puzzle game about pastries. Our goal is to help Mai-Chan serve her sweet buns to customers at her bakery.\n\nThis game was created as part of the A Game By Its Cover Jam 2018.",
+			"releasedate": "20181227T000000",
+            "developer": "Krystman",
+            "publisher": "pico8, Homebrew",
+            "genre": "Puzzle",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Onitama.png",
+            "desc": "Onitama is a chess-like abstract strategy boardgame.\n\nThe game is played on a 5x5 board. Each player has five pawns, with the master pawn starting in the middle. At the begin of the game, 5 move cards are randomly selected out of the total of 16 animal moves. The goal is to capture the opponent's master pawn or to move on top of their master's starting position.",
+			"releasedate": "20210101T000000",
+            "developer": "mischa_u",
+            "publisher": "pico8, Homebrew",
+            "genre": "Strategy",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Dinky Kong.png",
+            "desc": "Welcome to the Pico-verse - a pixelated land of tiny horizons and even tinier characters. In the Little Apple, a bustling town on the seaside, something terrible has happened! An oversized simian sprite has escaped and taken a citizen in its cruel clutches! Making its way through town, it has climbed up the construction site of the town’s tallest building. But one brave soul stands forth, determined to rescue their fellow citizen from the dreaded… Dinky Kong!",
+            "releasedate": "20230307T000000",
+            "developer": "Heracleum",
+            "publisher": "pico8, Homebrew",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Islander.png",
+            "desc": "ISLANDER is an idle crafting game inspired by games such as Forager and Minecraft. Use your pickaxe to mine any and all materials you can find, and craft your way off the islands.",
+            "releasedate": "20200902T000000",
+            "developer": "CarsonK",
+            "publisher": "pico8, Homebrew",
+            "genre": "Sandbox",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Mancala.png",
+            "desc": "This game is based on the ancient game of Mancala, specifically the common variant called Kalah. It features a challenging computer opponent as well as a 2-player mode.",
+            "releasedate": "20250201T000000",
+            "developer": "PicoCoder",
+            "publisher": "pico8, Homebrew",
+            "genre": "Strategy",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Masters of the Universe.png",
+            "desc": "Side with He-Man and his allies or Skeletor and his minions in this new take on the classic Barbarian sword fighting game.\n\nBattle 8 levels against increasingly difficult foes or play against a friend. You have the power!",
+            "releasedate": "20200822T000000",
+            "developer": "TheRoboZ",
+            "publisher": "pico8, Homebrew",
+            "genre": "Fighting",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pico Kombat 2.png",
+            "desc": "Sharing my first project for PICO-8 platform. This game is inspired by a classic 90s fighting game franchise. I aimed to port as many original elements from the source game as possible within the limitations imposed by PICO-8. Some elements were left out as I reached the maximum token limit, however, I am very satisfied with the results achieved.\n\nI hope you enjoy the result and find at least a few moments of fun and nostalgia. I look forward to your comments!",
+            "releasedate": "20241214T000000",
+            "developer": "nascimento-cesar",
+            "publisher": "pico8, Homebrew",
+            "genre": "Fighting",
+            "players": "1",
+            "lang": "en"
         }
     ]
 }

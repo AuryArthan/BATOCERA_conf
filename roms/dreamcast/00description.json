@@ -191,12 +191,32 @@
             "lang": "en"
         },
         {
+            "path": "./Pier Solar and the Great Architects (USA).m3u",
+            "desc": "In this prospered and peaceful town there live three best friends: Hoston, Alina and Edessot. Young and curious, they want to go on a herb-seeking quest to help cure Hoston's father's mysterious illness. Little do they know ... it will be the beginning of their lifetime journey where they will learn the true meaning of friendship and the thrill of adventure.\n\nThis journey will demand their courage and wisdom to solve a long-lost mystery while they face the forces of destruction dispatched by an evil man who is trying to change the world for his own good. Through this escapade, they will be reborn as great heroes to protect the universe from a mistaken purpose..",
+			"releasedate": "20100707T000000",
+            "developer": "WaterMelon",
+            "publisher": "WaterMelon",
+            "genre": "Adventure, Unlicensed",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./San Francisco Rush 2049 (USA).m3u",
+            "desc": "San Francisco, with its steep hills and winding streets, has always been one of the most inhospitable cities for driving--at least for those who follow traffic laws. In San Francisco Rush 2049, you'll use Baghdad by the Bay's unique terrain to your advantage in aggressive racing that takes place decades into the future. Use strategically placed jumps to get past the competition.\n\nThe Dreamcast version of the game features 19 tracks and 13 customizable cars. You'll choose between different race modes, including stunt, obstacle, and battle match, where up to four players simultaneously fight (literally) for the finish.",
+			"releasedate": "20000907T000000",
+            "developer": "Atari",
+            "publisher": "Midway Games",
+            "genre": "Racing",
+            "players": "4",
+            "lang": "en"
+        },
+        {
             "path": "./Giana's Return.cdi",
             "desc": "Giana’s Return aims to be a worthy UNOFFICIAL sequel of \"The Great Giana Sisters\". There is an official sequel for Nintendo DS named 'Giana Sisters DS' ( https://www.giana-sisters.com/ ) and also has slightly more levels than Giana’s Return. In other words, it’s worth the money :)\n\nPLOT\nEvil Swampy and his followers have stolen the magic ruby, which made it once possible for Giana and Maria to return from their dream. Many creatures are after this ruby, but does it really has power, or was it just a coincidence? As this is not bad enough, Swampy fell in love at first sight with Giana’s sister Maria and shamelessly kidnapped her. She simply has been at the wrong place at the wrong time.You will now have to take on the role of Giana and get back the magic ruby. And most important of all, save your beloved sister Maria and get home save! Good Luck!",
             "releasedate": "20110101T000000",
             "developer": "Retroguru",
             "publisher": "Homebrew",
-            "genre": "Platform, Unofficial",
+            "genre": "Platform, Unlicensed",
             "players": "1",
             "lang": "en"
         },
@@ -208,6 +228,26 @@
             "publisher": "Crazy Viking Studios",
             "genre": "Action, Platform",
             "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Wacky Races (USA).m3u",
+            "desc": "For those who can remember the cartoon series, this will be a blast from the past. Choose from all your favourite characters including Peter Perfect, Penelope Pitstop and, of course, Dick Dastardly and Muttley, and wind your way through cartoon like environments in the familiar vehicles of each character. Simply get to the end of the race first to open up new tracks, and use weapons to pick off the rest of the cast, and aid your progress.",
+            "releasedate": "20000609T000000",
+            "developer": "Infogrames",
+            "publisher": "Infogrames Entertainment",
+            "genre": "Racing",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Worms Armageddon (USA).m3u",
+            "desc": "Like the previous Worms installments, the game is an artillery variant. The player give an artillery piece a shot angle and shot power, and try to hit the opponent, taking into account wind effects. The player and the opponent exchange these shots in a turn-based fashion. The game puts the player in command of a team of up to eight worms, which can move around the landscape (one at a time), using many types of weapons to try to dispatch the enemy, from bazookas to mini-guns to exploding sheep. In some situations, the worms can also jump, swing by rope, and descend with a parachute.",
+            "releasedate": "19991130T000000",
+            "developer": "Team17 Software Limited",
+            "publisher": "MicroProse Software, Inc.",
+            "genre": "Strategy",
+            "players": "2",
             "lang": "en"
         }
     ]

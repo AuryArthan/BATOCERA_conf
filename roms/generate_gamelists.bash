@@ -1,6 +1,7 @@
-systems=('atari2600' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'n64_hacks' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'wswan' 'wswanc' 'lutro' 'pico8' 'solarus' 'flash' 'dos' 'windows' 'ports')
+systems=('atari2600' 'jaguar' 'c64' 'zxspectrum' 'pcengine' 'gb' 'gbc' 'gba' 'nds' 'virtualboy' 'nes' 'fds' 'snes' 'n64' 'n64_hacks' 'gamecube' 'wii' 'gamegear' 'mastersystem' 'megadrive' 'sega32x' 'segacd' 'saturn' 'dreamcast' 'psp' 'psx' 'ps2' 'xbox' 'easyrpg' 'wswan' 'wswanc' 'lutro' 'pico8' 'solarus' 'flash' 'dos' 'windows' 'ports')
 declare -A extensions_system=( 
 	['atari2600']='a26'
+	['jaguar']='j64'
 	['c64']='d64'
 	['zxspectrum']='z80'
 	['pcengine']='pce'

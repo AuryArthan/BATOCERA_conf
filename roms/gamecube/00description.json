@@ -279,6 +279,26 @@
             "genre": "Action, Adventure",
             "players": "1",
             "lang": "en"
+        },
+        {
+            "path": "./Gun (USA).ciso",
+            "desc": "You can experience the lawless Wild West as gunslinger Colton White in the action title Gun. Traverse an expansive world where you'll encounter outlaws, Native Americans, corrupt lawmen, and army psychopaths. You can assault a fort, hunt for bounties, and upgrade your equipment as you battle through a variety of gameplay styles. Gun also features a story written by Hollywood script writer Randall Jahnson.",
+            "releasedate": "20051108T000000",
+            "developer": "Neversoft Entertainment",
+            "publisher": "Activision",
+            "genre": "Action, Shooter",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Soulcalibur II (USA).iso",
+            "desc": "Transcending history and the world, a tale of souls and swords eternally retold.\n\nFour years have passed since the spirit sword, SoulCalibur defeated the evil Soul Edge. At the end of that fateful battle, the shards of the shattered Soul Edge were scattered across the world and SoulCalibur was lost to the void. Now, the evil that still resides in the scattered shards of Soul Edge threatens again to engulf the world in darkness.\n\nGuest starring exclusively for the Nintendo Gamecube: Link from the Legend of Zelda.",
+            "releasedate": "20030827T000000",
+            "developer": "Project Soul",
+            "publisher": "Namco",
+            "genre": "Fighting",
+            "players": "2",
+            "lang": "en"
         }
     ]
 }

@@ -6,6 +6,7 @@
 		<image>./00Boxart/Another Super Mario 3D</image>
 		<thumbnail>./00Boxart/Another Super Mario 3D</thumbnail>
 		<marquee>./00Logo/Another Super Mario 3D</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>Another Super Mario 3D is a SM64DS hack made by The Newer Team and also the first ROM hack of SM64DS. It includes 7 main levels and 10 secret levels.</desc>
 		<releasedate>20150618T000000</releasedate>
 		<developer>The Newer Team</developer>
@@ -20,6 +21,7 @@
 		<image>./00Boxart/Ghost Trick - Phantom Detective (USA)</image>
 		<thumbnail>./00Boxart/Ghost Trick - Phantom Detective (USA)</thumbnail>
 		<marquee>./00Logo/Ghost Trick - Phantom Detective (USA)</marquee>
+		<cartridge>./00Cart/Ghost Trick - Phantom Detective (USA)</cartridge>
 		<desc>Ghost Trick is a story of mystery and intrigue that blends fun logic puzzles with the world of the supernatural, making for an entirely new and unique experience in the handheld gaming space. Part adventure game, part puzzle game, Ghost Trick's gameplay will challenge player's brains while its distinct art elements and character designs will deliver the fun.</desc>
 		<releasedate>20110111T000000</releasedate>
 		<developer>Capcom</developer>
@@ -34,6 +36,7 @@
 		<image>./00Boxart/Golden Sun - Dark Dawn (USA, Australia)</image>
 		<thumbnail>./00Boxart/Golden Sun - Dark Dawn (USA, Australia)</thumbnail>
 		<marquee>./00Logo/Golden Sun - Dark Dawn (USA, Australia)</marquee>
+		<cartridge>./00Cart/Golden Sun - Dark Dawn (USA, Australia)</cartridge>
 		<desc>After going dark six years ago, 2010 will see a new dawn. Golden Sun DS updates the popular portable Golden Sun role-playing series with an impressive graphical style. This installment follows the story of the previous heroes' descendants and immerses players into the magic of its adventure by pushing the boundaries of intuitive touch-screen controls.</desc>
 		<releasedate>20101210T000000</releasedate>
 		<developer>Camelot Software Planning</developer>
@@ -48,6 +51,7 @@
 		<image>./00Boxart/Kirby Super Star Ultra (USA)</image>
 		<thumbnail>./00Boxart/Kirby Super Star Ultra (USA)</thumbnail>
 		<marquee>./00Logo/Kirby Super Star Ultra (USA)</marquee>
+		<cartridge>./00Cart/Kirby Super Star Ultra (USA)</cartridge>
 		<desc>Kirby Super Star Ultra is a 2008 DS side-scrolling platformer video game developed by HAL Laboratory and released by Nintendo of America in the USA on September 22, 2008.
 
 Kirby Super Star Ultra for the Nintendo DS re-imagines one of the most beloved Kirby games of all time. The game features new graphics and fully rendered animated cut scenes. With so many adventures waiting to be unlocked, there will never be a dull moment as Kirby runs, floats, copies enemies and uses Helpers to fight King Dedede and Meta Knight. New modes like Revenge of the King and Meta Knight Ultra await, along with classics like The Great Cave Offensive and Milky Way Wishes. On top of the main modes, there are also three new touch-screen-controlled mini-games that can be played with up to three friends via DS Download Play. Not only that, but players can go on Kirby adventures with a friend via local wireless as well.</desc>
@@ -64,6 +68,7 @@ Kirby Super Star Ultra for the Nintendo DS re-imagines one of the most beloved K
 		<image>./00Boxart/Legend of Zelda, The - Phantom Hourglass (USA)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - Phantom Hourglass (USA)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - Phantom Hourglass (USA)</marquee>
+		<cartridge>./00Cart/Legend of Zelda, The - Phantom Hourglass (USA)</cartridge>
 		<desc>Continue the Wind Waker adventure in Link's first DS game.
 
 The epic story of The Legend of Zelda: The Wind Waker continues as Link finds himself lost and alone in unknown seas in a new adventure. Featuring intuitive touch-screen controls and innovative puzzles, The Legend of Zelda: Phantom Hourglass offers new challenges for fans of the series and an easy-to-grasp introduction for gamers new to The Legend of Zelda. But time grows short, and only the Phantom Hourglass can buy Link the minutes he’ll need to survive.
@@ -82,6 +87,7 @@ Many months have passed since the events of The Legend of Zelda: The Wind Waker,
 		<image>./00Boxart/Legend of Zelda, The - Spirit Tracks (USA)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - Spirit Tracks (USA)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - Spirit Tracks (USA)</marquee>
+		<cartridge>./00Cart/Legend of Zelda, The - Spirit Tracks (USA)</cartridge>
 		<desc>Join Link and Zelda in an all-new adventure! Spirit Tracks have long protected the kingdom from evil. When they start disappearing mysteriously, Link and Zelda must travel the land together to restore them and keep the dark forces at bay.</desc>
 		<releasedate>20091207T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -96,6 +102,7 @@ Many months have passed since the events of The Legend of Zelda: The Wind Waker,
 		<image>./00Boxart/Mario Kart DS (USA, Australia)</image>
 		<thumbnail>./00Boxart/Mario Kart DS (USA, Australia)</thumbnail>
 		<marquee>./00Logo/Mario Kart DS (USA, Australia)</marquee>
+		<cartridge>./00Cart/Mario Kart DS (USA, Australia)</cartridge>
 		<desc>Mario Kart DS is a 2005 DS racing video game developed by Nintendo EAD and released by Nintendo of America in the USA on November 14, 2005.
 
 Mario Kart DS is the continuation of the long running racing game series that began on the Super Nintendo. It features 16 new tracks as well as 16 tracks from the previous 4 games, with each set split up into the Nitro and Retro Grand Prix respectively. Eight racers are initially available, each with two go-karts to choose from. A number of characters and additional karts are also available to unlock. New items have been added to the arsenal, including a Blooper squid that squirts ink onto the screens of other players and a Bullet Bill power up that transforms the player into a giant, fast-travelling bullet on autopilot.</desc>
@@ -112,6 +119,7 @@ Mario Kart DS is the continuation of the long running racing game series that be
 		<image>./00Boxart/Mario & Luigi - Bowser's Inside Story (USA)</image>
 		<thumbnail>./00Boxart/Mario & Luigi - Bowser's Inside Story (USA)</thumbnail>
 		<marquee>./00Logo/Mario & Luigi - Bowser's Inside Story (USA)</marquee>
+		<cartridge>./00Cart/Mario & Luigi - Bowser's Inside Story (USA)</cartridge>
 		<desc>Mario &amp; Luigi: Bowser's Inside Story is the third game in the Mario &amp; Luigi series of games. Players control Mario and Luigi simultaneously in the side-scrolling platform environment of Bowser's body, while also controlling the Koopa King himself in the top-down world of the Mushroom Kingdom. Similar to games like Earthbound, enemy encounters are seen as actual enemies that players can avoid or attempt to strike early. The actual battles are a combination of turn-based menu attacks, and timed reactions to enemies during battle. By watching the way an enemy reacts, you can anticipate their attack and avoid it or counterattack.</desc>
 		<releasedate>20090914T000000</releasedate>
 		<developer>AlphaDream</developer>
@@ -126,6 +134,7 @@ Mario Kart DS is the continuation of the long running racing game series that be
 		<image>./00Boxart/Mario & Luigi - Partners in Time (USA)</image>
 		<thumbnail>./00Boxart/Mario & Luigi - Partners in Time (USA)</thumbnail>
 		<marquee>./00Logo/Mario & Luigi - Partners in Time (USA)</marquee>
+		<cartridge>./00Cart/Mario & Luigi - Partners in Time (USA)</cartridge>
 		<desc>The famous Mario Brothers return in this sequel to the humorous Superstar Saga. In this adventure, Princess Peach takes a trip in a time machine, but when it returns, there's only a monster inside! The heroic brothers travel back in time only to discover that evil alien life forms known as the Shroobs have taken over the Mushroom Kingdom, and no-one is safe! They soon meet up with their younger selves, and set out to stop the alien menace, not to mention rescue the Princess!</desc>
 		<releasedate>20051128T000000</releasedate>
 		<developer>AlphaDream</developer>
@@ -140,6 +149,7 @@ Mario Kart DS is the continuation of the long running racing game series that be
 		<image>./00Boxart/New Super Mario Bros (USA, Australia)</image>
 		<thumbnail>./00Boxart/New Super Mario Bros (USA, Australia)</thumbnail>
 		<marquee>./00Logo/New Super Mario Bros (USA, Australia)</marquee>
+		<cartridge>./00Cart/New Super Mario Bros (USA, Australia)</cartridge>
 		<desc>New Super Mario Bros. is a 2006 DS side-scrolling platformer video game developed by Nintendo EAD and released by Nintendo of America in the USA on May 15, 2006.
 
 In an all new 2D side-scrolling adventure, Mario and Luigi return after nearly fifteen years. The first traditional Mario Bros. game since Super Mario World.
@@ -158,6 +168,7 @@ The character models are rendered in real time 3D, allowing for a far greater nu
 		<image>./00Boxart/Pokemon - Black Version (USA, Europe)</image>
 		<thumbnail>./00Boxart/Pokemon - Black Version (USA, Europe)</thumbnail>
 		<marquee>./00Logo/Pokemon - Black Version (USA, Europe)</marquee>
+		<cartridge>./00Cart/Pokemon - Black Version (USA, Europe)</cartridge>
 		<desc>Pokémon Version Noire et Pokémon Version Blanche présentent de nouveaux Pokémon que les joueurs peuvent attraper, entraîner et utiliser en combat alors qu’ils poursuivent leur aventure. Notez que certains Pokémon ne peuvent être attrapés que dans une version du jeu. Par exemple, le légendaire Pokémon Reshiram ne peut qu’être attrapé dans Pokémon Version Noire, alors que le légendaire Pokémon Zekrom peut seulement être attrapé dans Pokémon Version Blanche.
 
 De plus, les deux jeux introduisent de nouveaux endroits, dont une ville métropolitaine unique appelée Ville Noire dans Pokémon Version Noire, et une verte et luxuriante forêt appelée Forêt Blanche dans Pokémon Version Blanche. Pokémon Version Noire et Pokémon Version Blanche introduisent aussi pour la première fois dans l’histoire de la franchise Pokémon, un jeu qui change au rythme des saisons. Certains Pokémon apparaîtront plus souvent lors de certaines saisons, et certains endroits ne seront accessibles qu’au cours de certaines saisons. Pokémon Version Noire et Pokémon Version Blanche permettent aux joueurs de choisir un Pokémon avec qui ils commenceront leur aventure : le Pokémon de type Plante Vipélierre, le Pokémon de type Feu Gruigrui ou le Pokémon de type Eau Moustillon. Jusqu'à ce que l'histoire principale du jeu est terminée, tous les Pokémon que les joueurs rencontreront n'auront jamais été vus dans les jeux Pokémon précédents. Un Dresseur et une Dresseuse seront aussi au rendez-vous pour partir à l’aventure dans la nouvelle région d’Unys.
@@ -177,6 +188,7 @@ De plus, les deux jeux introduisent de nouveaux endroits, dont une ville métrop
 		<image>./00Boxart/Pokemon - HeartGold Version (USA)</image>
 		<thumbnail>./00Boxart/Pokemon - HeartGold Version (USA)</thumbnail>
 		<marquee>./00Logo/Pokemon - HeartGold Version (USA)</marquee>
+		<cartridge>./00Cart/Pokemon - HeartGold Version (USA)</cartridge>
 		<desc>Pokémon HeartGold is an enhanced remake of one of the second installments in the Pokémon Main RPG Series, Pokémon Gold.
 
 
@@ -202,6 +214,7 @@ The game is compatible with the following games via Nintendo Wi-Fi Connection: P
 		<image>./00Boxart/Pokemon - Platinum Version (USA)</image>
 		<thumbnail>./00Boxart/Pokemon - Platinum Version (USA)</thumbnail>
 		<marquee>./00Logo/Pokemon - Platinum Version (USA)</marquee>
+		<cartridge>./00Cart/Pokemon - Platinum Version (USA)</cartridge>
 		<desc>Pokémon Platinum Version is a 2009 DS strategy role-playing video game developed by Game Freak and released by Nintendo of America in the USA on March 22, 2009.
 
 Another world has emerged in the Sinnoh Region...
@@ -226,6 +239,7 @@ New experiences in the Wi-Fi Plaza and Battle Frontier!</desc>
 		<image>./00Boxart/Pokemon - SoulSilver Version (USA, Australia)</image>
 		<thumbnail>./00Boxart/Pokemon - SoulSilver Version (USA, Australia)</thumbnail>
 		<marquee>./00Logo/Pokemon - SoulSilver Version (USA, Australia)</marquee>
+		<cartridge>./00Cart/Pokemon - SoulSilver Version (USA, Australia)</cartridge>
 		<desc>Pokémon SoulSilver Version return players to the scenic Johto region first introduced in the beloved original Pokémon Gold and Pokémon Silver games nearly a decade ago. The richly detailed adventure of Pokémon Gold and Silver is now enhanced for the Nintendo DS and Nintendo DSi systems with updated graphics and sound, as well as new touch-screen features and a host of surprises. Pokémon SoulSilver Version brings dozens of Pokémon characters back into the limelight for a new Pokémon generation - and longtime fans - to catch, train and battle.</desc>
 		<releasedate>20090912T000000</releasedate>
 		<developer>Game Freak</developer>
@@ -240,6 +254,7 @@ New experiences in the Wi-Fi Plaza and Battle Frontier!</desc>
 		<image>./00Boxart/Pokemon - White Version (USA, Europe)</image>
 		<thumbnail>./00Boxart/Pokemon - White Version (USA, Europe)</thumbnail>
 		<marquee>./00Logo/Pokemon - White Version (USA, Europe)</marquee>
+		<cartridge>./00Cart/Pokemon - White Version (USA, Europe)</cartridge>
 		<desc>Pokémon Version Noire et Pokémon Version Blanche présentent de nouveaux Pokémon que les joueurs peuvent attraper, entraîner et utiliser en combat alors qu’ils poursuivent leur aventure. Notez que certains Pokémon ne peuvent être attrapés que dans une version du jeu. Par exemple, le légendaire Pokémon Reshiram ne peut qu’être attrapé dans Pokémon Version Noire, alors que le légendaire Pokémon Zekrom peut seulement être attrapé dans Pokémon Version Blanche.
 
 De plus, les deux jeux introduisent de nouveaux endroits, dont une ville métropolitaine unique appelée Ville Noire dans Pokémon Version Noire, et une verte et luxuriante forêt appelée Forêt Blanche dans Pokémon Version Blanche. Pokémon Version Noire et Pokémon Version Blanche introduisent aussi pour la première fois dans l’histoire de la franchise Pokémon, un jeu qui change au rythme des saisons. Certains Pokémon apparaîtront plus souvent lors de certaines saisons, et certains endroits ne seront accessibles qu’au cours de certaines saisons. Pokémon Version Noire et Pokémon Version Blanche permettent aux joueurs de choisir un Pokémon avec qui ils commenceront leur aventure : le Pokémon de type Plante Vipélierre, le Pokémon de type Feu Gruigrui ou le Pokémon de type Eau Moustillon. Jusqu'à ce que l'histoire principale du jeu est terminée, tous les Pokémon que les joueurs rencontreront n'auront jamais été vus dans les jeux Pokémon précédents. Un Dresseur et une Dresseuse seront aussi au rendez-vous pour partir à l’aventure dans la nouvelle région d’Unys.
@@ -259,6 +274,7 @@ De plus, les deux jeux introduisent de nouveaux endroits, dont une ville métrop
 		<image>./00Boxart/Shantae - Risky's Revenge (USA)</image>
 		<thumbnail>./00Boxart/Shantae - Risky's Revenge (USA)</thumbnail>
 		<marquee>./00Logo/Shantae - Risky's Revenge (USA)</marquee>
+		<cartridge>./00Cart/Shantae - Risky's Revenge (USA)</cartridge>
 		<desc>The sequel to the critically acclaimed Shantae is here! Fans asked, and WayForward has answered with a powder keg of high-octane, hair-whipping, hip-shaking action available only on the Nintendo DSiWare service. Shantae: Risky’s Revenge sets the bar even higher with thousands of frames of animation, huge multi-sprite bosses and a quest so big it’s bursting at the seams. Guide “half-genie” Shantae through haunted wastelands, burning deserts, enchanted forests, dripping caverns and deadly labyrinths. Discover magical attacks, brew zombie coffee, save golden babies and master the art of belly dancing to transform Shantae into more powerful creatures. Use your powers to foil the lady pirate Risky Boots and save Sequin Land from certain doom. With its infectious characters, flirtatious humor and deliciously outlandish action, Shantae: Risky’s Revenge offers up all the hair-whipping, belly-dancing action you can handle.</desc>
 		<releasedate>20101004T000000</releasedate>
 		<developer>WayForward</developer>
@@ -273,6 +289,7 @@ De plus, les deux jeux introduisent de nouveaux endroits, dont une ville métrop
 		<image>./00Boxart/Sonic Rush (USA)</image>
 		<thumbnail>./00Boxart/Sonic Rush (USA)</thumbnail>
 		<marquee>./00Logo/Sonic Rush (USA)</marquee>
+		<cartridge>./00Cart/Sonic Rush (USA)</cartridge>
 		<desc>The world's fastest hedgehog streaks onto Nintendo DS in Sonic Rush. In this sideways scrolling scramble, Sega's mascot is so incredibly fast you'll need to use both of the DS' two screens to keep up, with both the lower and upper displays combined to portray a single play area. Whizz around brand-new corkscrews, whipping Sonic up, down and all points in between - you can even take the spiky blue 'hog bungee jumping, Sonic plummeting down from one screen to the next. Sonic himself is displayed in 3D, and the boss-battles also switch to fully 3D action as in Sonic Heroes! Play as either Sonic or the mysterious new character Blaze the Cat, a feline queen from a parallel dimension. Search for the powerful Sol Emeralds - but beware, you're not the only one in search of these dangerous jewels. As you progress through the game, the "ripple" effect means that actions you take in Sonic's world will have consequences in the world of Blaze, and vice versa. With stylus controlled mini-games for when you need a break from the main game, Sonic's latest is a real Rush!</desc>
 		<releasedate>20051115T000000</releasedate>
 		<developer>Dimps Corporation</developer>
@@ -287,6 +304,7 @@ De plus, les deux jeux introduisent de nouveaux endroits, dont une ville métrop
 		<image>./00Boxart/Super Mario 64 DS (USA, Australia)</image>
 		<thumbnail>./00Boxart/Super Mario 64 DS (USA, Australia)</thumbnail>
 		<marquee>./00Logo/Super Mario 64 DS (USA, Australia)</marquee>
+		<cartridge>./00Cart/Super Mario 64 DS (USA, Australia)</cartridge>
 		<desc>Super Mario 64 DS is a 2004 DS third-person platformer video game developed by Nintendo EAD and released by Nintendo of America in the USA on November 21, 2004.
 
 Super Mario 64, the classic 3D platformer for the Nintendo 64, arrives on the Nintendo DS with all-new features that take advantage of the portable system's dual screens, touch screen, and wireless multiplayer capability. Like the original game, Super Mario 64 DS challenges you to find all the power stars hidden throughout the royal castle in the effort to free Peach imprisoned inside the castle. This time, you can play as Mario, Luigi, Wario, and Yoshi, each of whom has unique abilities. Overcome the challenges on your own or battle up to three of your friends in the multiplayer modes.</desc>
@@ -303,6 +321,7 @@ Super Mario 64, the classic 3D platformer for the Nintendo 64, arrives on the Ni
 		<image>./00Boxart/Super Princess Peach (USA)</image>
 		<thumbnail>./00Boxart/Super Princess Peach (USA)</thumbnail>
 		<marquee>./00Logo/Super Princess Peach (USA)</marquee>
+		<cartridge>./00Cart/Super Princess Peach (USA)</cartridge>
 		<desc>Princess Power!
 Bowser's up to no good again...but this time, it's Princess Peach to the rescue! When Mario, Luigi, and the Mushroom Castle Toads get kidnapped it's up to Peach and her magical umbrella to save them.
 * Feel the vibes! Use the Touch Screen on the DS to channel Peach's emotional vibes into special abilities. Float when she's happy, burn through walls when she's mad, or make vegetation grow with her tears!
@@ -321,11 +340,27 @@ Bowser's up to no good again...but this time, it's Princess Peach to the rescue!
 		<image>./00Boxart/World Ends with You, The (USA)</image>
 		<thumbnail>./00Boxart/World Ends with You, The (USA)</thumbnail>
 		<marquee>./00Logo/World Ends with You, The (USA)</marquee>
+		<cartridge>./00Cart/World Ends with You, The (USA)</cartridge>
 		<desc>The World Ends With You is an exciting new title developed exclusively for the Nintendo DS handheld system. Previously known as Subarashiki Kono Sekai on its release in Japan, The World Ends With You is an innovative new title from Square Enix that fully utilizes the capabilities of the Nintendo DS, and takes major influence from Japan's modern day culture including its people, music, clothes, food and design.</desc>
 		<releasedate>20080422T000000</releasedate>
 		<developer>Jupiter Corporation</developer>
 		<publisher>Square Enix</publisher>
 		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Yoshi's Island DS (USA).nds</path>
+		<name>Yoshi's Island DS</name>
+		<image>./00Boxart/Yoshi's Island DS (USA)</image>
+		<thumbnail>./00Boxart/Yoshi's Island DS (USA)</thumbnail>
+		<marquee>./00Logo/Yoshi's Island DS (USA)</marquee>
+		<cartridge>./00Cart/Yoshi's Island DS (USA)</cartridge>
+		<desc>Yoshi's Island DS is a sequel to the SNES game, Yoshi's Island. In it, players control Yoshi as he travels to Kamek's castle to rescue Luigi. Yoshi can carry Baby Mario, Peach, DK, Wario or Bowser on his back - depending on the baby carried, Yoshi will gain a special ability; for example, Mario lets Yoshi dash, Peach allows Yoshi to float for a longer period of time, and Wario whips out a gigantic magnet to attract coins and other metallic objects. If Yoshi is hit by an enemy, a counter appears, and begins to slowly count down to zero. If it reaches zero, the baby is kidnapped, and Yoshi loses a life. Yoshi can increase his counter by collecting stars that are rewards for some puzzles and defeating certain enemies.</desc>
+		<releasedate>20061113T000000</releasedate>
+		<developer>Artoon Co., Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

@@ -1,25 +1,12 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./3 Ninjas Kick Back (USA).sfc</path>
-		<name>3 Ninjas Kick Back</name>
-		<image>./00Boxart/3 Ninjas Kick Back (USA)</image>
-		<thumbnail>./00Boxart/3 Ninjas Kick Back (USA)</thumbnail>
-		<marquee>./00Logo/3 Ninjas Kick Back (USA)</marquee>
-		<desc>You first saw Rocky, Colt and Tum Tum on the silver screen when their martial arts skills and extreme exploits saved the honor of Grandfather Mori and defeated an evil arms dealer.  Now, it’s up to you!  In this action-packed adventure, you become any one of the 3 Ninjas.  And that’s when the fun begins.  Wild animals and even wilder ninjas attack!  A trio of spaced-out heavy metal rockers join forces with the evil Koga in an all-out effort to do you dirty.  But if you rescue Grandfather Mori and his ceremonial dagger, you’ll have the last laugh… and unlock a secret room filled with more gold than Fort Knox!</desc>
-		<releasedate>19940619T000000</releasedate>
-		<developer>Malibu Interactive</developer>
-		<publisher>Sony Imagesoft</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Addams Family, The (USA).sfc</path>
 		<name>The Addams Family</name>
 		<image>./00Boxart/Addams Family, The (USA)</image>
 		<thumbnail>./00Boxart/Addams Family, The (USA)</thumbnail>
 		<marquee>./00Logo/Addams Family, The (USA)</marquee>
+		<cartridge>./00Cart/Addams Family, The (USA)</cartridge>
 		<desc>Creepy, Kooky, Ooky, Spooky.
 
 THE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the family attorney, who is after the family fortune - Morticia, Lurch, Granny, Pugsley and Wednesday have gone to the house to reason with him. But when Gomez arrives, his family is missing! As Gomez, you must save your loved ones, your home and your loads of wealth. You'll have to watch out for scary obstacles like falling spikes, frightening monsters and ghosts, and you'll need to look for clues as you search for your family. Get a move on... 'cause you're gonna make a call on THE ADDAMS FAMILY!</desc>
@@ -36,6 +23,7 @@ THE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the fa
 		<image>./00Boxart/Aero the Acro-Bat 2 (USA)</image>
 		<thumbnail>./00Boxart/Aero the Acro-Bat 2 (USA)</thumbnail>
 		<marquee>./00Logo/Aero the Acro-Bat 2 (USA)</marquee>
+		<cartridge>./00Cart/Aero the Acro-Bat 2 (USA)</cartridge>
 		<desc>In the sequel to Aero the Acro-Bat you have to defeat evil industrialist Edgar Ektor once again. He is back and again with bad ideas, so you - in the role of Aero - have to find and destroy him before he carries out his diabolical "Plan B". Like in the last installment, you have to jump, escape lethal obstacles and progress in time. This game features more moves for Aero, more mechanisms to use and more items to collect.</desc>
 		<releasedate>19940401T000000</releasedate>
 		<developer>Iguana Entertainment</developer>
@@ -50,6 +38,7 @@ THE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the fa
 		<image>./00Boxart/Aladdin (USA)</image>
 		<thumbnail>./00Boxart/Aladdin (USA)</thumbnail>
 		<marquee>./00Logo/Aladdin (USA)</marquee>
+		<cartridge>./00Cart/Aladdin (USA)</cartridge>
 		<desc>Discover a Whole New World of Adventure... For years, Jafar, the Sultan's evil advisor has sought a magic treasure - a single lamp that holds the key to the greatest power in the world. With this goal in sight, Jafar learns that only one person in the world can claim the magic lamp from the dreaded Cave of Wonders - one whose rags hide a heart that is pure - a diamond in the rough! Join Aladdin and his pet monkey Abu, as they race through the marketplace toward their date with destiny. Watch as Jafar tricks our hero and his friend into retrieving the lamp from the dangerous Cave of Wonders. But Aladdin and Abu outwit Jafar, releasing the power of a wacky blue Genie! Now Aladdin will have the chance to spoil Jafar's devious plans and win the hand of the beautiful princess Jasmine. But it will take more than magic to make his wishes come true...</desc>
 		<releasedate>19931123T000000</releasedate>
 		<developer>Capcom</developer>
@@ -64,6 +53,7 @@ THE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the fa
 		<image>./00Boxart/A Plumber For All Seasons</image>
 		<thumbnail>./00Boxart/A Plumber For All Seasons</thumbnail>
 		<marquee>./00Logo/A Plumber For All Seasons</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>A Plumber For All Seasons is a hack I've worked on for a long time. Each world represents a different season — there's a Spring world, a Summer world, a Fall world, and a Winter world. (And some more!) Almost all the graphics are custom and hand-made.</desc>
 		<releasedate>20211211T000000</releasedate>
 		<developer>wye</developer>
@@ -73,18 +63,57 @@ THE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the fa
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Bowser's Kaizo Conspiracy.sfc</path>
+		<name>Bowser's Kaizo Conspiracy</name>
+		<image>./00Boxart/Bowser's Kaizo Conspiracy</image>
+		<thumbnail>./00Boxart/Bowser's Kaizo Conspiracy</thumbnail>
+		<marquee>./00Logo/Bowser's Kaizo Conspiracy</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>Bowser has stolen the wands of the 7 Guardians of Order. He seeks to use them to turn the Mushroom Kingdom into a glitched-out Kaizo wasteland. At least he didn't kidnap the princess.</desc>
+		<releasedate>20230524T000000</releasedate>
+		<developer>Gamma V</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Clock Tower Deluxe (English).sfc</path>
+		<name>Clock Tower Deluxe</name>
+		<image>./00Boxart/Clock Tower Deluxe (English)</image>
+		<thumbnail>./00Boxart/Clock Tower Deluxe (English)</thumbnail>
+		<marquee>./00Logo/Clock Tower Deluxe (English)</marquee>
+		<cartridge>./00Cart/Clock Tower Deluxe (English)</cartridge>
+		<desc>Clock Tower is a point and click survival horror game and the first installment in the Clock Tower series. It was developed and published by Human Entertainment for the Super Nintendo Entertainment System (SNES), or Super Famicom in Japan, on September 14, 1995 in Japan.
+
+Jennifer Simpson and her friends are from Granite Orphanage in Romsdalen, Norway. Adopted by a wealthy recluse named Mr. Barrows, they have come to live in the mansion known as "Clock Tower".
+
+Though, this mansion is not what it seems. Strange experiments are taking place in the shadows, and horrific creatures prowl through the night. Jennifer's friends have gone missing, and now she must rescue them and  try to escape with their lives.
+
+Clock Tower is a haunting adventure with over 10 different endings, and will stick with you long after you've stopped playing. Players beware.
+
+The DELUXE patch adds mouse support as well as new content from the PlayStation port to the SNES original. There are also lots of improvements like bugfixes and the ability to run through stairs, speed up the credits along with faster health regeneration. Recent additions include a refined chase system coupled with new hiding places and weapons. Your save file is also now protected in case you accidentally choose "NEW GAME" at the main menu.</desc>
+		<releasedate>19950914T000000</releasedate>
+		<developer>Human Entertainment Inc., BobSchneeder45</developer>
+		<publisher>Human Entertainment Inc., Romhacking</publisher>
+		<genre>Adventure, Horror</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Conker's High Rule Tail.sfc</path>
 		<name>Conker's High Rule Tail</name>
 		<image>./00Boxart/Conker's High Rule Tail</image>
 		<thumbnail>./00Boxart/Conker's High Rule Tail</thumbnail>
 		<marquee>./00Logo/Conker's High Rule Tail</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>Initially built as a spiritual sequel to Parallel Worlds, this project has evolved so much overtime that eventually it became an unofficial sequel to an M Rated game that was released late in the Nintendo 64 lifespan, none other than Conker’s Bad Fur Day!
 
 Including all the same crude humor found in that Conker game and the many references to movies and games we’ve come to love. For obvious reasons, it is also rated "AO for Adults Only"!</desc>
 		<releasedate>20211124T000000</releasedate>
 		<developer>SePH</developer>
 		<publisher>Romhacking</publisher>
-		<genre>Adventure, Unofficial</genre>
+		<genre>Adventure, Unlicensed</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -94,6 +123,7 @@ Including all the same crude humor found in that Conker game and the many refere
 		<image>./00Boxart/Demon's Crest (USA)</image>
 		<thumbnail>./00Boxart/Demon's Crest (USA)</thumbnail>
 		<marquee>./00Logo/Demon's Crest (USA)</marquee>
+		<cartridge>./00Cart/Demon's Crest (USA)</cartridge>
 		<desc>The demon realm is peaceful until six wondrous stones fall from the sky. Each stone represents a portion of the Demon's Crest. When united, the stones of the Demon's Crest bring the user ultimate power over demons and humans.
 These stones were so highly sought that clvil war broke out in the realm. The fight led to much bloodshed until one gargoyle emerged victorious: the red demon known as Firebrand.
 After Firebrand‘s final battle, his evil nemesis Phalanx ambushed Firebrand and stole the stones. Now Firebrand must recover the stones and unlte the power of the Demon's Crest before both realms fall into the hands of the sinister Phalanx!
@@ -116,6 +146,7 @@ the demon realm, overlooking 7 intense levels
 		<image>./00Boxart/Donkey Kong Country 2 - Diddy's Kong Quest (USA)</image>
 		<thumbnail>./00Boxart/Donkey Kong Country 2 - Diddy's Kong Quest (USA)</thumbnail>
 		<marquee>./00Logo/Donkey Kong Country 2 - Diddy's Kong Quest (USA)</marquee>
+		<cartridge>./00Cart/Donkey Kong Country 2 - Diddy's Kong Quest (USA)</cartridge>
 		<desc>Donkey Kong Country 2: Diddy's Kong Quest is a 1995 SNES side-scrolling platformer video game developed by Rare and released by Nintendo of America in the USA on November 20, 1995.
 
 O.K. KID, WIPE THAT DROOL OFF YOUR CHIN AND LISTEN UP IF YOU REALLY WANT TO LEARN SOMETHING ABOUT THIS GAME. Sure, it's got NEWFANGLED COMPUTER GRAPHICS and what Diddy calls stereo sound that rocks heavily and with little resistance! BUT, the game play Well, they FINALLY added some proper challenge to the game - a snap for me of course. AND THE STORY You sure ask a lot of questions, kid! Kaptain K. Rool and his cruelest cut-throat Kremlings have kidnapped that flea-bitten ape Donkey Kong. I figured I'd rescue him when the little pip-squeak DIDDY pops up along with his girlfriend, and they head off fixin' to prove themselves heroes or something. Come to think of it, I haven't laid eyes on those two for quite a while. I just may have to help them out after all!
@@ -138,6 +169,7 @@ O.K. KID, WIPE THAT DROOL OFF YOUR CHIN AND LISTEN UP IF YOU REALLY WANT TO LEAR
 		<image>./00Boxart/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA)</image>
 		<thumbnail>./00Boxart/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA)</thumbnail>
 		<marquee>./00Logo/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA)</marquee>
+		<cartridge>./00Cart/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA)</cartridge>
 		<desc>Donkey Kong Country 3: Dixie Kong's Double Trouble! is a 1996 SNES side-scrolling platformer video game developed by Rare and released by Nintendo of America in the USA on November 18, 1996.
 
 Monkey Mayhem Lives On!
@@ -158,6 +190,7 @@ Combining their unique abilities as they throw each other into action, Dixie Kon
 		<image>./00Boxart/Donkey Kong Country (USA)</image>
 		<thumbnail>./00Boxart/Donkey Kong Country (USA)</thumbnail>
 		<marquee>./00Logo/Donkey Kong Country (USA)</marquee>
+		<cartridge>./00Cart/Donkey Kong Country (USA)</cartridge>
 		<desc>Donkey Kong Country is a 1994 SNES side-scrolling platformer video game developed by Rare and released by Nintendo of America in the USA on November 21, 1994.
 
 Madness and Mayhem in this 3D Gorilla Thriller!
@@ -176,6 +209,7 @@ Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure
 		<image>./00Boxart/F-Zero (USA)</image>
 		<thumbnail>./00Boxart/F-Zero (USA)</thumbnail>
 		<marquee>./00Logo/F-Zero (USA)</marquee>
+		<cartridge>./00Cart/F-Zero (USA)</cartridge>
 		<desc>F-Zero is a 1991 SNES racing video game developed by Nintendo EAD and released by Nintendo of America in the USA on August 23, 1991.
 
 F-Zero is set in the year 2560, when humanity's multiple encounters with alien life forms had resulted in the expansion of Earth's social framework. This led to commercial, technological and cultural interchanges between planets. The multi-billionaires who earned their wealth through intergalactic trade were mainly satisfied with their lifestyles, although most coveted more entertainment in their lives. This resulted in a new entertainment based on the Formula One races to be founded with vehicles that could hover one foot above the track. These Grand Prix races were soon named "F-Zero" after a rise in popularity of the races. The game introduced the first set of F-Zero racers: Captain Falcon, Dr. Stewart, Pico, and Samurai Goroh.</desc>
@@ -192,6 +226,7 @@ F-Zero is set in the year 2560, when humanity's multiple encounters with alien l
 		<image>./00Boxart/Kirby Super Star (USA)</image>
 		<thumbnail>./00Boxart/Kirby Super Star (USA)</thumbnail>
 		<marquee>./00Logo/Kirby Super Star (USA)</marquee>
+		<cartridge>./00Cart/Kirby Super Star (USA)</cartridge>
 		<desc>Kirby Super Star is a 1996 SNES side-scrolling platformer video game developed by HAL Laboratory and released by Nintendo of America in the USA on September 20, 1996.
 
 Power up for EIGHT action-packed battles and adventures!
@@ -216,6 +251,7 @@ Use any of Kirby's amazing powers to create a "helper" to assist you in battle. 
 		<image>./00Boxart/Legend of Zelda, The - A Link to the Past (USA)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - A Link to the Past (USA)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - A Link to the Past (USA)</marquee>
+		<cartridge>./00Cart/Legend of Zelda, The - A Link to the Past (USA)</cartridge>
 		<desc>Play as Link, journey through the kingdom of Hyrule, conquer dungeons, and face off against the evil Ganon in a legendary adventure to rescue Princess Zelda and the Seven Sages.</desc>
 		<releasedate>19920413T000000</releasedate>
 		<developer>Nintendo EAD</developer>
@@ -225,11 +261,29 @@ Use any of Kirby's amazing powers to create a "helper" to assist you in battle. 
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Lemmings (USA).sfc</path>
+		<name>Lemmings</name>
+		<image>./00Boxart/Lemmings (USA)</image>
+		<thumbnail>./00Boxart/Lemmings (USA)</thumbnail>
+		<marquee>./00Logo/Lemmings (USA)</marquee>
+		<cartridge>./00Cart/Lemmings (USA)</cartridge>
+		<desc>Lemmings was one of the most popular computer games of its time, and several gaming magazines gave it some of their highest review scores at the time.
+
+The behavior of the creatures in Lemmings is based on the supposed behavior of real lemmings, who by urban legend are believed to go on migrations en masse that eventually lead to disaster. The basic objective of the game is to guide lemmings through a number of obstacles to a designated exit. In order to save the required number of lemmings to win, one must determine how to assign a limited number of eight different skills to specific lemmings that allow the selected lemming to alter the landscape, to affect the behavior of other lemmings, or to clear obstacles in order to create a safe passage for the rest of the lemmings.</desc>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sun Corporation of America</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Lion King, The [Proto] (Early Prototype).sfc</path>
 		<name>The Lion King [Proto]</name>
 		<image>./00Boxart/Lion King, The [Proto] (Early Prototype)</image>
 		<thumbnail>./00Boxart/Lion King, The [Proto] (Early Prototype)</thumbnail>
 		<marquee>./00Logo/Lion King, The [Proto] (Early Prototype)</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>A very early prototype of The Lion King was found and dumped by Z in 2015. Interestingly, the Master System and Game Gear versions of the game are based on this prototype.</desc>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Westwood Studios</developer>
@@ -244,6 +298,7 @@ Use any of Kirby's amazing powers to create a "helper" to assist you in battle. 
 		<image>./00Boxart/Lion King, The (USA)</image>
 		<thumbnail>./00Boxart/Lion King, The (USA)</thumbnail>
 		<marquee>./00Logo/Lion King, The (USA)</marquee>
+		<cartridge>./00Cart/Lion King, The (USA)</cartridge>
 		<desc>Experience Simba's journey from cub to king in Disney’s The Lion King. Navigate iconic locations from the movie, face off against hyenas, and defeat Scar to fulfill your destiny.</desc>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Westwood Studios</developer>
@@ -258,6 +313,7 @@ Use any of Kirby's amazing powers to create a "helper" to assist you in battle. 
 		<image>./00Boxart/Lord of the Rings, The - Volume 1 (USA)</image>
 		<thumbnail>./00Boxart/Lord of the Rings, The - Volume 1 (USA)</thumbnail>
 		<marquee>./00Logo/Lord of the Rings, The - Volume 1 (USA)</marquee>
+		<cartridge>./00Cart/Lord of the Rings, The - Volume 1 (USA)</cartridge>
 		<desc>Embark on an epic quest in the world of Middle-earth. Play as Frodo, Gandalf, and other characters as you battle enemies and journey toward Mount Doom in this RPG adaptation of Tolkien’s classic tale.</desc>
 		<releasedate>19940501T000000</releasedate>
 		<developer>Interplay Entertainment</developer>
@@ -272,6 +328,7 @@ Use any of Kirby's amazing powers to create a "helper" to assist you in battle. 
 		<image>./00Boxart/Mario is missing! Done Right!</image>
 		<thumbnail>./00Boxart/Mario is missing! Done Right!</thumbnail>
 		<marquee>./00Logo/Mario is missing! Done Right!</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>What if Mario is Missing weren’t a boring edutainment title? This hack intends to be what most players expected Mario is Missing to be: a platformer starring Luigi on a quest to save Mario. The hack contains 7 Worlds and is comparable in difficulty to official Mario games.</desc>
 		<releasedate>20170723T000000</releasedate>
 		<developer>Gamma V</developer>
@@ -286,6 +343,7 @@ Use any of Kirby's amazing powers to create a "helper" to assist you in battle. 
 		<image>./00Boxart/Mario Is Missing! (USA)</image>
 		<thumbnail>./00Boxart/Mario Is Missing! (USA)</thumbnail>
 		<marquee>./00Logo/Mario Is Missing! (USA)</marquee>
+		<cartridge>./00Cart/Mario Is Missing! (USA)</cartridge>
 		<desc>Don't look now, but Bowser's back, and this time he's in your world! But where is that mastermind of reptilian trouble doing his dastardly deeds? And what has he done with Mario? Welcome to Mario is Missing! Take a trek with your travel agent, Luigi, and see the world! Track down troublesome turtles. Figure out where in the world you are, and what on earth happened to Mario. If your grasp of geography is good enough, you'll get the goods, stomp the hoods, and grab Mario out of Bowser's ghastly guest house. A learning adventure that the whole family can share! This is no Koopa-stomping mayhem. It's a fun way to learn about our world!</desc>
 		<releasedate>19930601T000000</releasedate>
 		<developer>Software Creations</developer>
@@ -300,6 +358,7 @@ Use any of Kirby's amazing powers to create a "helper" to assist you in battle. 
 		<image>./00Boxart/Mario Kart (USA)</image>
 		<thumbnail>./00Boxart/Mario Kart (USA)</thumbnail>
 		<marquee>./00Logo/Mario Kart (USA)</marquee>
+		<cartridge>./00Cart/Mario Kart (USA)</cartridge>
 		<desc>Super Mario Kart is a 1992 SNES racing video game developed by Nintendo EAD and released by Nintendo of America in the USA on September 1, 1992.
 
 The Super Mario Go-Kart Park is open for tons of racing fun!  Hit the track with Mario, Luigi, Yoshi and the Princess.  Get tough and lock fenders with Donkey Kong, Jr. and Bowser.  Even Toad and Koopa Troopa will mix it up in an all-out quest for the Gold Cup!  Race head-to-head with a friend or challenge the computer in great, split-screen, Mode 7 graphics.
@@ -324,6 +383,7 @@ Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle 
 		<image>./00Boxart/Mario RPG - Legend of the Seven Stars (USA)</image>
 		<thumbnail>./00Boxart/Mario RPG - Legend of the Seven Stars (USA)</thumbnail>
 		<marquee>./00Logo/Mario RPG - Legend of the Seven Stars (USA)</marquee>
+		<cartridge>./00Cart/Mario RPG - Legend of the Seven Stars (USA)</cartridge>
 		<desc>Mario and friends embark on a grand role-playing adventure to defeat the evil Smithy and his minions. Collect stars, battle foes, and team up with unlikely allies to save the Mushroom Kingdom.</desc>
 		<releasedate>19960513T000000</releasedate>
 		<developer>Square</developer>
@@ -338,6 +398,7 @@ Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle 
 		<image>./00Boxart/Mega Man X3 (USA)</image>
 		<thumbnail>./00Boxart/Mega Man X3 (USA)</thumbnail>
 		<marquee>./00Logo/Mega Man X3 (USA)</marquee>
+		<cartridge>./00Cart/Mega Man X3 (USA)</cartridge>
 		<desc>Mega Man X3 is a 1995 SNES side-scrolling action platformer video game developed by Capcom and released by Capcom USA in the USA on January 4, 1996.
 
 Mega Man X and his trusty partner Zero have a new force to reckon with. Who or what has caused a riot of Mavericks to break out in the experimental utopia known as Doppler Town?
@@ -356,6 +417,7 @@ Named after the scientist reploid, Doppler Town was supposed to be a place where
 		<image>./00Boxart/New Super Mario Land (J)</image>
 		<thumbnail>./00Boxart/New Super Mario Land (J)</thumbnail>
 		<marquee>./00Logo/New Super Mario Land (J)</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>New Super Mario Land is a homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo.
 It combines the Game Boy original with New Super Mario Bros style graphics and adds gameplay features such as a four player simultaneous multiplayer mode.
 It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
@@ -372,6 +434,7 @@ It was developed in secret by a mystery coder and 30 custom cartridges of it wer
 		<image>./00Boxart/Shadowrun (USA)</image>
 		<thumbnail>./00Boxart/Shadowrun (USA)</thumbnail>
 		<marquee>./00Logo/Shadowrun (USA)</marquee>
+		<cartridge>./00Cart/Shadowrun (USA)</cartridge>
 		<desc>Disoriented and confused, you are forced into a race against time, technology and termination. Running in the shadows and cracks between the Megaplexes, survival depends on your wits, your weapons and your wayward companions. Plunge into the dark side of the future, where technology and magic become one, where devolution and destruction are a way of life. Plunge into Shadowrun.</desc>
 		<releasedate>19930501T000000</releasedate>
 		<developer>Beam Software</developer>
@@ -381,11 +444,50 @@ It was developed in secret by a mystery coder and 30 custom cartridges of it wer
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Sicari 2 - The Brink of Time.sfc</path>
+		<name>Sicari 2 - The Brink of Time</name>
+		<image>./00Boxart/Sicari 2 - The Brink of Time</image>
+		<thumbnail>./00Boxart/Sicari 2 - The Brink of Time</thumbnail>
+		<marquee>./00Logo/Sicari 2 - The Brink of Time</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>The sequel to Sicari Remastered!
+This hack introduces new features, such as the ability to play named levels in any order and Sicari's new dagger attack. Hopefully you enjoy it (:
+
+Plot: Set one year after Niscura's defeat, a new threat is on the horizon, a mysterious being called TS-94, who is seeking powerful artifacts known as the Shards of Serpos. Sicari, with the aid of K-16 must gather these shards and use them to travel through time to track TS-94 and stop her minions.</desc>
+		<releasedate>20221028T000000</releasedate>
+		<developer>Eevee</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sicari Remastered.sfc</path>
+		<name>Sicari Remastered</name>
+		<image>./00Boxart/Sicari Remastered</image>
+		<thumbnail>./00Boxart/Sicari Remastered</thumbnail>
+		<marquee>./00Logo/Sicari Remastered</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>Thousands of years ago, there was a war between the Gods of creation. Due to its effect on the mortal plane, the Gods were forced to punish themselves - to prevent such a thing from happening again. As such, they were all but cut off from the mortal world, with little to no influence, leading humanity to lose their faith.
+
+However, one group survived the thousands of years that passed after the war - the Sanguis vampire family. Their goal across those millennia was to undo the binding that their patron deity, Niscura was under. They wanted the Goddess of Dimensions and Shadow to be free again...
+...and they succeeded.
+
+there's a bit of sensitive content here and there in the hack so do keep that in mind when playing</desc>
+		<releasedate>20210209T000000</releasedate>
+		<developer>Eevee</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Star Fox (USA).sfc</path>
 		<name>Star Fox</name>
 		<image>./00Boxart/Star Fox (USA)</image>
 		<thumbnail>./00Boxart/Star Fox (USA)</thumbnail>
 		<marquee>./00Logo/Star Fox (USA)</marquee>
+		<cartridge>./00Cart/Star Fox (USA)</cartridge>
 		<desc>Star Fox, known as Starwing in the PAL regions, is a 3D rail shooter video game developed by Nintendo and Argonaut Software for the Super Nintendo Entertainment System. The first game in the Star Fox series, the story follows Fox McCloud and the rest of the Star Fox team defending their homeworld of Corneria against the invading forces of Andross.</desc>
 		<releasedate>19930603T000000</releasedate>
 		<developer>Argonaut Games, Nintendo EAD</developer>
@@ -395,11 +497,44 @@ It was developed in secret by a mystery coder and 30 custom cartridges of it wer
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Super Back to the Future Part II (Japan).sfc</path>
+		<name>Super Back to the Future Part II</name>
+		<image>./00Boxart/Super Back to the Future Part II (Japan)</image>
+		<thumbnail>./00Boxart/Super Back to the Future Part II (Japan)</thumbnail>
+		<marquee>./00Logo/Super Back to the Future Part II (Japan)</marquee>
+		<cartridge>./00Cart/Super Back to the Future Part II (Japan)</cartridge>
+		<desc>Marty has returned from his bizarre trip to 1955 all thanks to Doc's prized invention, the DeLorean time machine. He decides to do some skateboarding around the neighborhood and visits his girlfriend Jennifer. However, this is cut short as Doc arrives from his trip to the future. He tells them that their children's future is at stake and proceeds to take them both to the year 2015. Here, Marty assumes the identity of his son Marty Jr. and faces off with Biff's grandson Griff and then his gang members one-by-one.
+
+With Griff and his gang arrested, future history changes to ensure that the lives of Marty's children stay on track. But when Marty and Doc are not looking, old Biff takes an old sports almanac, hijacks the DeLorean, travels back to 1955 and gives the book to his teenage self. Then he returns to 2015 with Marty, Doc, and Jennifer none the wiser. When the three return to 1985, they discover that everything around them has drastically changed. Hill Valley now plagued with crime and pollution, Biff Tannen is now a multi-millionaire and Marty's stepfather, and the Doc has been certified insane. Now Marty must go throughout Hill Valley and figure out what has happened and try put time back to the way it was.</desc>
+		<releasedate>19930723T000000</releasedate>
+		<developer>Daft</developer>
+		<publisher>Toshiba-EMI Ltd.</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>jp</lang>
+	</game>
+	<game>
+		<path>./Super Junkoid.sfc</path>
+		<name>Super Junkoid</name>
+		<image>./00Boxart/Super Junkoid</image>
+		<thumbnail>./00Boxart/Super Junkoid</thumbnail>
+		<marquee>./00Logo/Super Junkoid</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>Trapped in a twisted dream where she is revered as a goddess, Junko must face the horrifying serpent that worships her.</desc>
+		<releasedate>20230821T000000</releasedate>
+		<developer>Pyoshi</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Super Mario All-Stars (USA).sfc</path>
 		<name>Super Mario All-Stars</name>
 		<image>./00Boxart/Super Mario All-Stars (USA)</image>
 		<thumbnail>./00Boxart/Super Mario All-Stars (USA)</thumbnail>
 		<marquee>./00Logo/Super Mario All-Stars (USA)</marquee>
+		<cartridge>./00Cart/Super Mario All-Stars (USA)</cartridge>
 		<desc>Super Mario All-Stars is a 1993 SNES side-scrolling platformer video game developed by Nintendo EAD and released by Nintendo of America in the USA on August 11, 1993.
 
 Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES! All the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super Game Pak. As an added bonus, the previously unreleased “Lost Levels” are included.  These super challenging courses have never been available in this country until now!
@@ -421,10 +556,26 @@ Revisit the magic and fun of the classic Super Mario Bros. series on your Super 
 		<image>./00Boxart/Super Mario World 2 - Yoshi's Island (USA)</image>
 		<thumbnail>./00Boxart/Super Mario World 2 - Yoshi's Island (USA)</thumbnail>
 		<marquee>./00Logo/Super Mario World 2 - Yoshi's Island (USA)</marquee>
+		<cartridge>./00Cart/Super Mario World 2 - Yoshi's Island (USA)</cartridge>
 		<desc>Yoshi embarks on an adventure to reunite Baby Mario with his brother, Baby Luigi, through colorful worlds, challenging puzzles, and memorable enemies in this classic platforming prequel.</desc>
 		<releasedate>19951004T000000</releasedate>
 		<developer>Nintendo EAD</developer>
 		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Mario World Central Production 2.sfc</path>
+		<name>Super Mario World Central Production 2</name>
+		<image>./00Boxart/Super Mario World Central Production 2</image>
+		<thumbnail>./00Boxart/Super Mario World Central Production 2</thumbnail>
+		<marquee>./00Logo/Super Mario World Central Production 2</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>The long-awaited sequel to An SMW Central Production, finally here after over a decade! An evil company known as Norveg Industries is expanding its business worldwide, including the Mushroom Kingdom. Can Mario put a stop to its business before nature as they know it dies out?</desc>
+		<releasedate>20220724T000000</releasedate>
+		<developer>SMW Central</developer>
+		<publisher>Romhacking</publisher>
 		<genre>Platform</genre>
 		<players>1</players>
 		<lang>en</lang>
@@ -435,6 +586,7 @@ Revisit the magic and fun of the classic Super Mario Bros. series on your Super 
 		<image>./00Boxart/Super Mario World (USA)</image>
 		<thumbnail>./00Boxart/Super Mario World (USA)</thumbnail>
 		<marquee>./00Logo/Super Mario World (USA)</marquee>
+		<cartridge>./00Cart/Super Mario World (USA)</cartridge>
 		<desc>Join Mario on his quest to rescue Princess Toadstool from Bowser across the dinosaur-themed world of Super Mario World. With Yoshi at his side, Mario faces new challenges, power-ups, and secrets.</desc>
 		<releasedate>19900813T000000</releasedate>
 		<developer>Nintendo EAD</developer>
@@ -449,6 +601,7 @@ Revisit the magic and fun of the classic Super Mario Bros. series on your Super 
 		<image>./00Boxart/Super Metroid (Japan, USA)</image>
 		<thumbnail>./00Boxart/Super Metroid (Japan, USA)</thumbnail>
 		<marquee>./00Logo/Super Metroid (Japan, USA)</marquee>
+		<cartridge>./00Cart/Super Metroid (Japan, USA)</cartridge>
 		<desc>Super Metroid is a 1994 SNES side-scrolling metroidvania platformer video game developed by Nintendo R&amp;D1 (co-developed by Intelligent Systems) and released by Nintendo of America in the USA on April 18, 1994.
 
 Take on a legion of Space Pirates and a new Metroid force as you forge into the covert underworld of Planet Zebes!  It’s up to you and Samus to recapture the long-surviving Metroid hatchling before evil hands unleash its energy.
@@ -467,6 +620,7 @@ An army of ominous creatures are poised for battle at every turn of Zebes’ twi
 		<image>./00Boxart/Classic Kong (Shiru)</image>
 		<thumbnail>./00Boxart/Classic Kong (Shiru)</thumbnail>
 		<marquee>./00Logo/Classic Kong (Shiru)</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>We are proud announce the release of Classic Kong, a faithful recreation of a classic title for the SNES. Yes, an actual new SNES ROM. It’s free of copy-protection and free of charge, and we’ve even released the source code for you hobbyist types. Special thanks to Shiru for his hard work as lead developer.
 
 Update: Second release! Because of the great response and requests for more content we’ve now added the pie factory level plus some more extras.</desc>
@@ -483,11 +637,29 @@ Update: Second release! Because of the great response and requests for more cont
 		<image>./00Boxart/Donkey Kong Country 4 - The Kremling's Revenge</image>
 		<thumbnail>./00Boxart/Donkey Kong Country 4 - The Kremling's Revenge</thumbnail>
 		<marquee>./00Logo/Donkey Kong Country 4 - The Kremling's Revenge</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>A fan-made continuation of the Donkey Kong Country series, where Donkey Kong faces the Kremlings once again. Set across new jungle terrains and underwater levels, this game brings back DKC’s signature gameplay with added challenges and secrets.</desc>
 		<releasedate>20120114T000000</releasedate>
 		<developer>Preposterify</developer>
 		<publisher>Romhacking</publisher>
 		<genre>Platform, Unofficial</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Legend of Zelda - Ancient Stone Tablets (Vol 1).smc</path>
+		<name>The Legend of Zelda - Ancient Stone Tablets</name>
+		<image>./00Boxart/The Legend of Zelda - Ancient Stone Tablets (Vol 1)</image>
+		<thumbnail>./00Boxart/The Legend of Zelda - Ancient Stone Tablets (Vol 1)</thumbnail>
+		<marquee>./00Logo/The Legend of Zelda - Ancient Stone Tablets (Vol 1)</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>BS The Legend of Zelda: Ancient Stone Tablets[5] was a game for the BS-X Broadcasting System add-on for the Super Famicom (the Japanese Super Nintendo). Games were downloaded from St. GIGA's satellite radio service. The game was much like a Second Quest or Master Quest of A Link to the Past, sharing a very similar overworld with slight changes and entirely new dungeons. Unlike a Second Quest however, it has an entirely new story. Various actions earned the player points, and these points could later be traded in to Nintendo for different prizes.
+
+Ancient Stone Tablets is different from most other Zelda games as the game's central heroes are actually the avatars of the player's ID for the BS-X Broadcasting System, drawn into Hyrule, which is also true for BS The Legend of Zelda. The difference being that this time the player does not take the place of Link, but takes part in a new tale set after the events of A Link to the Past. The male character wears a green tunic (though others are later available) and a backwards baseball cap. The female character has long red hair and is otherwise almost exactly the same as the male.</desc>
+		<releasedate>19970330T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Adventure, Role-Playing</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

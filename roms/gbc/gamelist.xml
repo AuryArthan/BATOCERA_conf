@@ -6,6 +6,7 @@
 		<image>./00Boxart/Conker's Pocket Tales (USA, Europe)</image>
 		<thumbnail>./00Boxart/Conker's Pocket Tales (USA, Europe)</thumbnail>
 		<marquee>./00Logo/Conker's Pocket Tales (USA, Europe)</marquee>
+		<cartridge>./00Cart/Conker's Pocket Tales (USA, Europe)</cartridge>
 		<desc>Conker's Pocket Tales is a 1999 Game Boy Color action-adventure video game developed and released by Rare, under distribution by Nintendo of America, in the USA on June 8, 1999.
 
 It's Conker's birthday and someone crashed his party! The Evil Acorn has stolen all of Conker's presents and kidnapped his best chipmunk friend, Berri. Now you must take on the role of the bushy-tailed hero, pursuing your nemesis throughout 6 visually-stunning worlds to rescue Berri and save your birthday from complete disaster. Strain your brain to solve challenging puzzles, battle the Evil Acorn's horde of minions with your trusty slingshot, and even flex your muscles in sporting events as you track your foe to the final showdown!</desc>
@@ -22,6 +23,7 @@ It's Conker's birthday and someone crashed his party! The Evil Acorn has stolen 
 		<image>./00Boxart/Legend of Zelda, The - Link's Awakening DX (USA, Europe)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - Link's Awakening DX (USA, Europe)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - Link's Awakening DX (USA, Europe)</marquee>
+		<cartridge>./00Cart/Legend of Zelda, The - Link's Awakening DX (USA, Europe)</cartridge>
 		<desc>Link’s latest challenge is set on the mysterious Koholint Island, a place where dreams and reality collide.  As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule.  This will not be an easy task.
 
 The island’s inhabitants have no knowledge of the outside world.  One creature, a talking owl, may know the solution to Link’s dilemma.  Link must first tackle eight dungeons full of treacherous monsters and tricky traps.  His goal: find the eight Instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
@@ -38,6 +40,7 @@ The island’s inhabitants have no knowledge of the outside world.  One creature
 		<image>./00Boxart/Legend of Zelda, The - Oracle of Ages (USA, Australia)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - Oracle of Ages (USA, Australia)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - Oracle of Ages (USA, Australia)</marquee>
+		<cartridge>./00Cart/Legend of Zelda, The - Oracle of Ages (USA, Australia)</cartridge>
 		<desc>Link has been summoned by the Triforce to the land of Labrynna, where the Sorceress of Shadows, Veran, has taken control of the Oracle of Ages, Nayru, and is using her power to ignite despair in Labrynna.  But hope is not lost... yet.  Link will need to find the 8 Essences of Time to save Nayru and defeat Veran!  And he must hurry, for time is running out...</desc>
 		<releasedate>20010227T000000</releasedate>
 		<developer>Capcom</developer>
@@ -52,6 +55,7 @@ The island’s inhabitants have no knowledge of the outside world.  One creature
 		<image>./00Boxart/Legend of Zelda, The - Oracle of Seasons (USA, Australia)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - Oracle of Seasons (USA, Australia)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - Oracle of Seasons (USA, Australia)</marquee>
+		<cartridge>./00Cart/Legend of Zelda, The - Oracle of Seasons (USA, Australia)</cartridge>
 		<desc>Link has been summoned by the Triforce to the land of Holodrum, which is in a state of destruction. Onox, the General of Darkness, has imprisoned the Oracle of Seasons, Din,  and sunk the Temple of Seasons to the ground! With the season in disarray, it's up to Link to save Din, and stop Onox. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.</desc>
 		<releasedate>20010227T000000</releasedate>
 		<developer>Capcom</developer>
@@ -66,6 +70,7 @@ The island’s inhabitants have no knowledge of the outside world.  One creature
 		<image>./00Boxart/Pokemon - Gold Version (USA, Europe)</image>
 		<thumbnail>./00Boxart/Pokemon - Gold Version (USA, Europe)</thumbnail>
 		<marquee>./00Logo/Pokemon - Gold Version (USA, Europe)</marquee>
+		<cartridge>./00Cart/Pokemon - Gold Version (USA, Europe)</cartridge>
 		<desc>Pokémon Gold Version is a 2000 Game Boy Color strategy role-playing video game developed by Game Freak and released by Nintendo of America in the USA on October 15, 2000.
 
 Enter a whole new world, with new Pokémon to capture, train and battle! Meet Professor Elm and get the all-new Poké Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time—and be sure to keep an eye out for Pokémon that come out only at night!
@@ -87,6 +92,7 @@ Enter a whole new world, with new Pokémon to capture, train and battle! Meet Pr
 		<image>./00Boxart/Pokemon - Silver Version (USA, Europe)</image>
 		<thumbnail>./00Boxart/Pokemon - Silver Version (USA, Europe)</thumbnail>
 		<marquee>./00Logo/Pokemon - Silver Version (USA, Europe)</marquee>
+		<cartridge>./00Cart/Pokemon - Silver Version (USA, Europe)</cartridge>
 		<desc>Pokémon Silver Version is a 2000 Game Boy Color strategy role-playing video game developed by Game Freak and released by Nintendo of America in the USA on October 15, 2000.
 
 Enter a whole new world, with new Pokémon to capture, train and battle!  Meet Professor Elm and get the all-new Poké Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time—and be sure to keep an eye out for Pokémon that come out only at night!
@@ -108,6 +114,7 @@ Enter a whole new world, with new Pokémon to capture, train and battle!  Meet P
 		<image>./00Boxart/Quartet</image>
 		<thumbnail>./00Boxart/Quartet</thumbnail>
 		<marquee>./00Logo/Quartet</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>Quartet is a simple but addictive puzzle game where you assemble pieces into faces and score points. Don't be too slow, or you will lose! This is the Game Boy version of the original Quartet game by Photon Storm.
 
 The game is designed for the original monochrome Game Boy, but also to take advantage of later models with color displays. So if you run it on a GBC, GBA or even SGB you get a glorious full color experience.</desc>
@@ -124,6 +131,7 @@ The game is designed for the original monochrome Game Boy, but also to take adva
 		<image>./00Boxart/Shantae (USA)</image>
 		<thumbnail>./00Boxart/Shantae (USA)</thumbnail>
 		<marquee>./00Logo/Shantae (USA)</marquee>
+		<cartridge>./00Cart/Shantae (USA)</cartridge>
 		<desc>Genie-girl Shantae is the self-appointed guardian of a small fishing village, Scuttle Town. Living life in a lighthouse rather than a bottle, she's constantly on the lookout for danger. When the nefarious lady-pirate, Risky Boots catches wind of the treasure that was recently unearthed in the village, she launches an attack. To get Scuttle out of trouble, it's up to Shantae to prove that she's the rightful 'Guardian Genie' to the best of her dancing, buying and hair-whipping abilities. Now crack that whip!
 
 * Play on the Game Boy Advance system for enhanced color and to unlock hidden secrets!
@@ -142,6 +150,7 @@ The game is designed for the original monochrome Game Boy, but also to take adva
 		<image>./00Boxart/Wario Land 3 (World)</image>
 		<thumbnail>./00Boxart/Wario Land 3 (World)</thumbnail>
 		<marquee>./00Logo/Wario Land 3 (World)</marquee>
+		<cartridge>./00Cart/Wario Land 3 (World)</cartridge>
 		<desc>Wario Land 3 is a 2000 Game Boy Color side-scrolling platformer video game developed by Nintendo R&amp;D1 and released by Nintendo of America in the USA on May 30, 2000.
 
 Trapped inside a magical music box, the invincible Wario is on a dangerous quest to help a mysterious figure recover its lost powers! Smash, bash and crash your way through more than two dozen gigantic levels in search of hidden keys, valuable treasures and mystical music boxes. Test your wits on puzzle after intricate puzzle and flex your muscles in action-packed boss fights! Be wary of Wanderin' Gooms, Hammer-bots, Mad Scienstein and more as you plunge into one of the largest, most dazzling adventures ever to hit Game Boy Color!</desc>
@@ -158,6 +167,7 @@ Trapped inside a magical music box, the invincible Wario is on a dangerous quest
 		<image>./00Boxart/Wario Land II (USA, Europe)</image>
 		<thumbnail>./00Boxart/Wario Land II (USA, Europe)</thumbnail>
 		<marquee>./00Logo/Wario Land II (USA, Europe)</marquee>
+		<cartridge>./00Cart/Wario Land II (USA, Europe)</cartridge>
 		<desc>Wario Land II is a 1999 Game Boy Color side-scrolling platformer video game developed by Nintendo R&amp;D1 and released by Nintendo of America in the USA on February 10, 1999.
 
 What kind of no-good ruffians would break into my castle and steal my treasures?! It's that rotten Captain Syrup and that Black Sugar Gang! I'm looking out for bad guys and scavenging for coins as I track down my treasures. If I don't get them all the first time, that's OK. I can go back again and again until I find them all. Captain Syrup doesn't stand a chance against me!</desc>

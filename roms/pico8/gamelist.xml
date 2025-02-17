@@ -5,6 +5,7 @@
 		<name>8 Legs to Love</name>
 		<image>./00Boxart/8 Legs to Love</image>
 		<thumbnail>./00Boxart/8 Legs to Love</thumbnail>
+		<cartridge>./00Cart/8 Legs to Love</cartridge>
 		<desc>Spin a web, eat bugs, earn points, and have fun!
 
 8 Legs to Love is separated into six levels of just over two minutes each. The goal of each level is to spin an elaborate web and use it to catch bugs. Each level poses a different challenge for building and maintaining a web, and introduces new and exotic types of bugs. Complete a playthrough and work towards a personal high score! Or just have good time, there's no pressure.</desc>
@@ -20,6 +21,7 @@
 		<name>A Doukutsu Demake</name>
 		<image>./00Boxart/A Doukutsu Demake</image>
 		<thumbnail>./00Boxart/A Doukutsu Demake</thumbnail>
+		<cartridge>./00Cart/A Doukutsu Demake</cartridge>
 		<desc>Another little project my brother and I have been working on. We are huge Cave Story fans, so building a demake was kind of a childhood dream come true. Never ceases to amaze me how much can be done within the (wonderful self-imposed) limitations of the Pico-8 engine.
 
 It has no real ending as-of-now, we might add that in later. But for now, enjoy! If you want to see some of our process in creating this, we vlogged about it at DoubtfulGames</desc>
@@ -31,10 +33,27 @@ It has no real ending as-of-now, we might add that in later. But for now, enjoy!
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Age of Ants.png</path>
+		<name>Age of Ants</name>
+		<image>./00Boxart/Age of Ants</image>
+		<thumbnail>./00Boxart/Age of Ants</thumbnail>
+		<cartridge>./00Cart/Age of Ants</cartridge>
+		<desc>Age of Ants is a demake of Age of Empires II (with an ant/bug retheme, why not).
+
+Defeat the enemy queen to win!</desc>
+		<releasedate>20230203T000000</releasedate>
+		<developer>eeooty</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./A Hat on Time.png</path>
 		<name>A Hat on Time</name>
 		<image>./00Boxart/A Hat on Time</image>
 		<thumbnail>./00Boxart/A Hat on Time</thumbnail>
+		<cartridge>./00Cart/A Hat on Time</cartridge>
 		<desc>The Conductor's train went off the rails near the desolate plains of Ash Town, so Hat Kid has returned to the planet to make sure her friends are okay, and to find a mysterious relic! Grab all 30 time pieces in this short platformer, based on the game A Hat in Time!</desc>
 		<releasedate>20180824T000000</releasedate>
 		<developer>eggnog</developer>
@@ -48,6 +67,7 @@ It has no real ending as-of-now, we might add that in later. But for now, enjoy!
 		<name>Ascent</name>
 		<image>./00Boxart/Ascent</image>
 		<thumbnail>./00Boxart/Ascent</thumbnail>
+		<cartridge>./00Cart/Ascent</cartridge>
 		<desc>Crashed on a desolate but mysterious planet you find yourself eye to eye with an ancient civilisation. Explore the planet, find powerful upgrades, and uncover its secrets.</desc>
 		<releasedate>20220903T000000</releasedate>
 		<developer>johanp</developer>
@@ -57,10 +77,43 @@ It has no real ending as-of-now, we might add that in later. But for now, enjoy!
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Beam.png</path>
+		<name>Beam</name>
+		<image>./00Boxart/Beam</image>
+		<thumbnail>./00Boxart/Beam</thumbnail>
+		<cartridge>./00Cart/Beam</cartridge>
+		<desc>Beam is a top down puzzle adventure and is meant to be mysterious, relaxing and pretty. If you get stuck read the signs around you! It is inspired by the Zelda series, Myst, The Witness, Tunic, Hyper Light Drifter,etc and is my first attempt at coding/game development.</desc>
+		<releasedate>20250104T000000</releasedate>
+		<developer>rupees</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Birds with Guns.png</path>
+		<name>Birds with Guns</name>
+		<image>./00Boxart/Birds with Guns</image>
+		<thumbnail>./00Boxart/Birds with Guns</thumbnail>
+		<cartridge>./00Cart/Birds with Guns</cartridge>
+		<desc>An Owl-some Roguelike Twin-Stick Shooter
+
+Are you ready to have a quacking time? Toucan play this egg-citing game right now! Made by an im-peck-able team of quail-ified developers, you're gonna have no egrets.
+
+Evil Robofox has captured all the birds to steal their eggs. The bird kingdom is counting on you to save them!</desc>
+		<releasedate>20230218T000000</releasedate>
+		<developer>Yolwoocle</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Shooter, Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Celeste 2.png</path>
 		<name>Celeste 2</name>
 		<image>./00Boxart/Celeste 2</image>
 		<thumbnail>./00Boxart/Celeste 2</thumbnail>
+		<cartridge>./00Cart/Celeste 2</cartridge>
 		<desc>For the 3rd anniversary of Celeste we made this new PICO-8 game in 3 days!</desc>
 		<releasedate>20210126T000000</releasedate>
 		<developer>noel</developer>
@@ -74,6 +127,7 @@ It has no real ending as-of-now, we might add that in later. But for now, enjoy!
 		<name>Celeste</name>
 		<image>./00Boxart/Celeste</image>
 		<thumbnail>./00Boxart/Celeste</thumbnail>
+		<cartridge>./00Cart/Celeste</cartridge>
 		<desc>A hardcore platformer by Matt Thorson and Noel Berry (me), that we made in 4 days.
 
 We used pretty much all our resources for this. 8186/8192 code, the entire spritemap, the entire map, and 63/64 sounds.</desc>
@@ -85,10 +139,27 @@ We used pretty much all our resources for this. 8186/8192 code, the entire sprit
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Cryomancer.png</path>
+		<name>Cryomancer</name>
+		<image>./00Boxart/Cryomancer</image>
+		<thumbnail>./00Boxart/Cryomancer</thumbnail>
+		<cartridge>./00Cart/Cryomancer</cartridge>
+		<desc>Defeat Fire Monsters with Ice Magic!
+
+The pyromancer broke into the ice magic tower and set fire monsters. Fire monsters can be defeated by hitting them with ice. As a cryomancer, can you defeat the pyromancer and save the tower?</desc>
+		<releasedate>20250119T000000</releasedate>
+		<developer>suezou</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Adventure, Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Dank Tomb.png</path>
 		<name>Dank Tomb</name>
 		<image>./00Boxart/Dank Tomb</image>
 		<thumbnail>./00Boxart/Dank Tomb</thumbnail>
+		<cartridge>./00Cart/Dank Tomb</cartridge>
 		<desc>If you'd like to put the game down and return to it later, the game features a special room where you can save your progress. Once you see the "progress saved" message, it's safe to close the browser/console. To delete your progress (to get 100% completion on a new playthrough, maybe?), press Enter and select "delete progress" from the in-game menu. Warning: irreversible!</desc>
 		<releasedate>20170725T000000</releasedate>
 		<developer>krajzeg</developer>
@@ -98,10 +169,39 @@ We used pretty much all our resources for this. 8186/8192 code, the entire sprit
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Delunky.png</path>
+		<name>Delunky</name>
+		<image>./00Boxart/Delunky</image>
+		<thumbnail>./00Boxart/Delunky</thumbnail>
+		<cartridge>./00Cart/Delunky</cartridge>
+		<desc>Enter the caves and try to find as much gold as you can before you perish to the dangers of the depth. Use your trusty whip in combination with bombs, ropes, and whatever you scavenge to get as far as you can.</desc>
+		<releasedate>20190424T000000</releasedate>
+		<developer>johanp</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dinky Kong.png</path>
+		<name>Dinky Kong</name>
+		<image>./00Boxart/Dinky Kong</image>
+		<thumbnail>./00Boxart/Dinky Kong</thumbnail>
+		<cartridge>./00Cart/Dinky Kong</cartridge>
+		<desc>Welcome to the Pico-verse - a pixelated land of tiny horizons and even tinier characters. In the Little Apple, a bustling town on the seaside, something terrible has happened! An oversized simian sprite has escaped and taken a citizen in its cruel clutches! Making its way through town, it has climbed up the construction site of the town’s tallest building. But one brave soul stands forth, determined to rescue their fellow citizen from the dreaded… Dinky Kong!</desc>
+		<releasedate>20230307T000000</releasedate>
+		<developer>Heracleum</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Dusk Child.png</path>
 		<name>Dusk Child</name>
 		<image>./00Boxart/Dusk Child</image>
 		<thumbnail>./00Boxart/Dusk Child</thumbnail>
+		<cartridge>./00Cart/Dusk Child</cartridge>
 		<desc>You have been drawn to a mysterious place, what secrets does it hold, and what will they mean for you?
 
 When not carrying an item, you can examine things. If you're stuck, try examining signs and other objects.
@@ -118,6 +218,7 @@ When you have explored far enough into the western temple, you can use the 'X' b
 		<name>Fuz</name>
 		<image>./00Boxart/Fuz</image>
 		<thumbnail>./00Boxart/Fuz</thumbnail>
+		<cartridge>./00Cart/Fuz</cartridge>
 		<desc>This is a tiny adventure based directly on FEZ, a game by the Polytron Corporation. It is a fan work, and was not made in collaboration with or endorsed by them.
 
 FUZ features a total of 8 distinct areas. Its visuals, mechanics, and puzzles are all based off those in the original.</desc>
@@ -133,6 +234,7 @@ FUZ features a total of 8 distinct areas. Its visuals, mechanics, and puzzles ar
 		<name>Ghost House</name>
 		<image>./00Boxart/Ghost House</image>
 		<thumbnail>./00Boxart/Ghost House</thumbnail>
+		<cartridge>./00Cart/Ghost House</cartridge>
 		<desc>As the title suggests. Made in a month for Spooky September 4-Color Jam.</desc>
 		<releasedate>20190901T000000</releasedate>
 		<developer>kittenmAster</developer>
@@ -146,6 +248,7 @@ FUZ features a total of 8 distinct areas. Its visuals, mechanics, and puzzles ar
 		<name>Gifts on Venus</name>
 		<image>./00Boxart/Gifts on Venus</image>
 		<thumbnail>./00Boxart/Gifts on Venus</thumbnail>
+		<cartridge>./00Cart/Gifts on Venus</cartridge>
 		<desc>Evil skulls have put explosive gifts all over Venus! Go and slash them off to save Venus!</desc>
 		<releasedate>20210308T000000</releasedate>
 		<developer>TRASEVOL_DOG</developer>
@@ -159,6 +262,7 @@ FUZ features a total of 8 distinct areas. Its visuals, mechanics, and puzzles ar
 		<name>Hybris</name>
 		<image>./00Boxart/Hybris</image>
 		<thumbnail>./00Boxart/Hybris</thumbnail>
+		<cartridge>./00Cart/Hybris</cartridge>
 		<desc>Destroy the infected cells to prevent the infection from spreading.</desc>
 		<releasedate>20151214T000000</releasedate>
 		<developer>benjamin_soule</developer>
@@ -168,10 +272,83 @@ FUZ features a total of 8 distinct areas. Its visuals, mechanics, and puzzles ar
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Islander.png</path>
+		<name>Islander</name>
+		<image>./00Boxart/Islander</image>
+		<thumbnail>./00Boxart/Islander</thumbnail>
+		<cartridge>./00Cart/Islander</cartridge>
+		<desc>ISLANDER is an idle crafting game inspired by games such as Forager and Minecraft. Use your pickaxe to mine any and all materials you can find, and craft your way off the islands.</desc>
+		<releasedate>20200902T000000</releasedate>
+		<developer>CarsonK</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Sandbox</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Little Necromancer.png</path>
+		<name>Little Necromancer</name>
+		<image>./00Boxart/Little Necromancer</image>
+		<thumbnail>./00Boxart/Little Necromancer</thumbnail>
+		<cartridge>./00Cart/Little Necromancer</cartridge>
+		<desc>Help Mortimer, a necromancer apprentice, to travel to the great Necropolis. Resurrect the dead ones along his pilgrimage. But beware! They know no more master.</desc>
+		<releasedate>20201219T000000</releasedate>
+		<developer>Fred_Osterero</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Adventure, Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Low Mem Sky.png</path>
+		<name>Low Mem Sky</name>
+		<image>./00Boxart/Low Mem Sky</image>
+		<thumbnail>./00Boxart/Low Mem Sky</thumbnail>
+		<cartridge>./00Cart/Low Mem Sky</cartridge>
+		<desc>You awake to find yourself on an alien planet, with the desire to achieve one thing... reach the centre of the galaxy!</desc>
+		<releasedate>20181227T000000</releasedate>
+		<developer>Liquidream</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mai-Chans Sweet Buns.png</path>
+		<name>Mai-Chans Sweet Buns</name>
+		<image>./00Boxart/Mai-Chans Sweet Buns</image>
+		<thumbnail>./00Boxart/Mai-Chans Sweet Buns</thumbnail>
+		<cartridge>./00Cart/Mai-Chans Sweet Buns</cartridge>
+		<desc>Mai-Chan's Sweet Buns is a cute puzzle game about pastries. Our goal is to help Mai-Chan serve her sweet buns to customers at her bakery.
+
+This game was created as part of the A Game By Its Cover Jam 2018.</desc>
+		<releasedate>20181227T000000</releasedate>
+		<developer>Krystman</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mancala.png</path>
+		<name>Mancala</name>
+		<image>./00Boxart/Mancala</image>
+		<thumbnail>./00Boxart/Mancala</thumbnail>
+		<cartridge>./00Cart/Mancala</cartridge>
+		<desc>This game is based on the ancient game of Mancala, specifically the common variant called Kalah. It features a challenging computer opponent as well as a 2-player mode.</desc>
+		<releasedate>20250201T000000</releasedate>
+		<developer>PicoCoder</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Marballs 2.png</path>
 		<name>Marballs 2</name>
 		<image>./00Boxart/Marballs 2</image>
 		<thumbnail>./00Boxart/Marballs 2</thumbnail>
+		<cartridge>./00Cart/Marballs 2</cartridge>
 		<desc>A sequel to Marballs, now with verticality, orbs and jump pads!
 
 Roll around with the arrow keys, jump with Z and use X to pause and restart.
@@ -185,10 +362,43 @@ To swap to 45 degrees controls choose "swap controls" in the pause menu.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Masters of the Universe.png</path>
+		<name>Masters of the Universe</name>
+		<image>./00Boxart/Masters of the Universe</image>
+		<thumbnail>./00Boxart/Masters of the Universe</thumbnail>
+		<cartridge>./00Cart/Masters of the Universe</cartridge>
+		<desc>Side with He-Man and his allies or Skeletor and his minions in this new take on the classic Barbarian sword fighting game.
+
+Battle 8 levels against increasingly difficult foes or play against a friend. You have the power!</desc>
+		<releasedate>20200822T000000</releasedate>
+		<developer>TheRoboZ</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Onitama.png</path>
+		<name>Onitama</name>
+		<image>./00Boxart/Onitama</image>
+		<thumbnail>./00Boxart/Onitama</thumbnail>
+		<cartridge>./00Cart/Onitama</cartridge>
+		<desc>Onitama is a chess-like abstract strategy boardgame.
+
+The game is played on a 5x5 board. Each player has five pawns, with the master pawn starting in the middle. At the begin of the game, 5 move cards are randomly selected out of the total of 16 animal moves. The goal is to capture the opponent's master pawn or to move on top of their master's starting position.</desc>
+		<releasedate>20210101T000000</releasedate>
+		<developer>mischa_u</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./P.Craft.png</path>
 		<name>P.Craft</name>
 		<image>./00Boxart/P.Craft</image>
 		<thumbnail>./00Boxart/P.Craft</thumbnail>
+		<cartridge>./00Cart/P.Craft</cartridge>
 		<desc>P.Craft is a crafting game. You wake up on a deserted island, and you have to survive. Gather materials and build your tools. Explore the area and find a cave. Will you find a way to escape the island?</desc>
 		<releasedate>20160708T000000</releasedate>
 		<developer>NuSan</developer>
@@ -198,10 +408,27 @@ To swap to 45 degrees controls choose "swap controls" in the pause menu.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./PicoFox.png</path>
+		<name>PicoFox</name>
+		<image>./00Boxart/PicoFox</image>
+		<thumbnail>./00Boxart/PicoFox</thumbnail>
+		<cartridge>./00Cart/PicoFox</cartridge>
+		<desc>Fly your Arwing to victory in this demake of a certain, iconic SNES game.
+
+I finished this game with our three week old son sitting in my lap. I guess this is one our first father-son activities together--kinda sweet in a very nerdy way. Perhaps his first words will be in Lua.</desc>
+		<releasedate>20161115T000000</releasedate>
+		<developer>electricgryphon</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Shmups</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./PicoHot.png</path>
 		<name>PicoHot</name>
 		<image>./00Boxart/PicoHot</image>
 		<thumbnail>./00Boxart/PicoHot</thumbnail>
+		<cartridge>./00Cart/PicoHot</cartridge>
 		<desc>SUPERHOT’s "time moves only when you move" mechanic. The Basic SUPERHOT three-color palette for clarity. It’s 3D! A few story levels and an endless mode.</desc>
 		<releasedate>20200401T000000</releasedate>
 		<developer>pirx_vr</developer>
@@ -215,6 +442,7 @@ To swap to 45 degrees controls choose "swap controls" in the pause menu.</desc>
 		<name>PicoKart</name>
 		<image>./00Boxart/PicoKart</image>
 		<thumbnail>./00Boxart/PicoKart</thumbnail>
+		<cartridge>./00Cart/PicoKart</cartridge>
 		<desc>Compete in a 3D, high-speed go-cart race against computer-controlled mouse opponents in three challenging tracks.</desc>
 		<releasedate>20151221T000000</releasedate>
 		<developer>electricgryphon</developer>
@@ -224,10 +452,41 @@ To swap to 45 degrees controls choose "swap controls" in the pause menu.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Pico Kombat 2.png</path>
+		<name>Pico Kombat 2</name>
+		<image>./00Boxart/Pico Kombat 2</image>
+		<thumbnail>./00Boxart/Pico Kombat 2</thumbnail>
+		<cartridge>./00Cart/Pico Kombat 2</cartridge>
+		<desc>Sharing my first project for PICO-8 platform. This game is inspired by a classic 90s fighting game franchise. I aimed to port as many original elements from the source game as possible within the limitations imposed by PICO-8. Some elements were left out as I reached the maximum token limit, however, I am very satisfied with the results achieved.
+
+I hope you enjoy the result and find at least a few moments of fun and nostalgia. I look forward to your comments!</desc>
+		<releasedate>20241214T000000</releasedate>
+		<developer>nascimento-cesar</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pico Monsters.png</path>
+		<name>Pico Monsters</name>
+		<image>./00Boxart/Pico Monsters</image>
+		<thumbnail>./00Boxart/Pico Monsters</thumbnail>
+		<cartridge>./00Cart/Pico Monsters</cartridge>
+		<desc>In this game there are markers called 'picostops' scattered throughout the map which drop random items whenever you have defeated a few wild monsters. 'Picostops' also replenish and revive all the monsters in your party. Catch new monsters with picoballs. Due to the save restrictions of pico8 the team size in this is only 4. Every wild monsters can have up to 4 different moves it's recommended to catch and compare to build your best team. There is also a very small story about professor corks whereabouts...</desc>
+		<releasedate>20160822T000000</releasedate>
+		<developer>hcnt</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Pico Pirates.png</path>
 		<name>Pico Pirates</name>
 		<image>./00Boxart/Pico Pirates</image>
 		<thumbnail>./00Boxart/Pico Pirates</thumbnail>
+		<cartridge>./00Cart/Pico Pirates</cartridge>
 		<desc>Pico Pirates is an open world adventure game featuring deadly monsters, rival pirates and beautiful sandy beaches!
 
 You set out on your quest to find The Pirate King and claim the crown for yourself. To do this, you'll need to find the 4 compass pieces scattered around the vast, procedurally generated world and keep your crews spirits high throughout (pirates lovely treasure and a good fight!).</desc>
@@ -243,6 +502,7 @@ You set out on your quest to find The Pirate King and claim the crown for yourse
 		<name>Pico Racer</name>
 		<image>./00Boxart/Pico Racer</image>
 		<thumbnail>./00Boxart/Pico Racer</thumbnail>
+		<cartridge>./00Cart/Pico Racer</cartridge>
 		<desc>As it sounds. A Pole Position/Enduro/OutRun derivative.</desc>
 		<releasedate>20160429T000000</releasedate>
 		<developer>kometbomb</developer>
@@ -256,6 +516,7 @@ You set out on your quest to find The Pirate King and claim the crown for yourse
 		<name>Pico Tennis</name>
 		<image>./00Boxart/Pico Tennis</image>
 		<thumbnail>./00Boxart/Pico Tennis</thumbnail>
+		<cartridge>./00Cart/Pico Tennis</cartridge>
 		<desc>Play against AI or with up to 4 players.
 
 Z to hit the ball. To hit the ball in different directions you need to hit it when it's off to your side. So the further to your right the ball is when you hit it the more it will go left.
@@ -273,6 +534,7 @@ X to do a power shot. Whenever you return the ball during a rally you will build
 		<name>Pico Tetris</name>
 		<image>./00Boxart/Pico Tetris</image>
 		<thumbnail>./00Boxart/Pico Tetris</thumbnail>
+		<cartridge>./00Cart/Pico Tetris</cartridge>
 		<desc>Why are you reading this, it's Tetris, you probably already know how it works
 
 Anyways, this clone is guideline-compliant in large parts (except where the guideline is boring or confusing to me), including Standard Rotation System and kicks. It has a steep difficulty curve, and a lot of options to adjust gameplay, animations, or Tetromino sprites (I have 16 now!).
@@ -290,6 +552,7 @@ I implemented 9 different modes, and up to 3 highscores are automatically saved 
 		<name>Picoware</name>
 		<image>./00Boxart/Picoware</image>
 		<thumbnail>./00Boxart/Picoware</thumbnail>
+		<cartridge>./00Cart/Picoware</cartridge>
 		<desc>Do you love WarioWare? And do you love PICO-8? What we if we combine them into one game that you can play in your browser, right now?</desc>
 		<releasedate>20210916T000000</releasedate>
 		<developer>szczm_</developer>
@@ -303,6 +566,7 @@ I implemented 9 different modes, and up to 3 highscores are automatically saved 
 		<name>Poom</name>
 		<image>./00Boxart/Poom</image>
 		<thumbnail>./00Boxart/Poom</thumbnail>
+		<cartridge>./00Cart/Poom</cartridge>
 		<desc>Mars base, Union Aerospace Corporation experiments opened a portal to Hell. You appear to be the last human, fight your way out!</desc>
 		<releasedate>20220103T000000</releasedate>
 		<developer>freds72</developer>
@@ -312,10 +576,87 @@ I implemented 9 different modes, and up to 3 highscores are automatically saved 
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Puzzles of the Paladin.png</path>
+		<name>Puzzles of the Paladin</name>
+		<image>./00Boxart/Puzzles of the Paladin</image>
+		<thumbnail>./00Boxart/Puzzles of the Paladin</thumbnail>
+		<cartridge>./00Cart/Puzzles of the Paladin</cartridge>
+		<desc>A young hero, fueled by dreams of becoming a revered paladin, embarks on a quest that will test his strength and intelligence. Inspired by tales of the Sunforged Knights, he eagerly undertakes the arduous trials that they administer and judge. Success promises not only rank among their esteemed order but also the rewards of riches and the fulfillment of a lifelong dream.</desc>
+		<releasedate>20240306T000000</releasedate>
+		<developer>NerdyTeachers</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Samurise.png</path>
+		<name>Samurise</name>
+		<image>./00Boxart/Samurise</image>
+		<thumbnail>./00Boxart/Samurise</thumbnail>
+		<cartridge>./00Cart/Samurise</cartridge>
+		<desc>Raijin, god of thunder has stolen your beloved cat! Fight through Oni and chase him to the heavens to save her!
+
+A runner/platformer where all you need to worry about is jumping and swinging your katana!</desc>
+		<releasedate>20241216T000000</releasedate>
+		<developer>Troypicol</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sebastian's Quest.png</path>
+		<name>Sebastian's Quest</name>
+		<image>./00Boxart/Sebastian's Quest</image>
+		<thumbnail>./00Boxart/Sebastian's Quest</thumbnail>
+		<cartridge>./00Cart/Sebastian's Quest</cartridge>
+		<desc>Kept this one under 500 lines of code, I think that's a new record for me. Get that cheese!</desc>
+		<releasedate>20250113T000000</releasedate>
+		<developer>Adam Atomic</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Shogun.png</path>
+		<name>Shogun</name>
+		<image>./00Boxart/Shogun</image>
+		<thumbnail>./00Boxart/Shogun</thumbnail>
+		<cartridge>./00Cart/Shogun</cartridge>
+		<desc>A simple strategy board game for 2-4 players. Can be played with the standard Shogi set.
+
+A player wins by reaching the center of the board, or by defeating all other players.</desc>
+		<releasedate>20250106T000000</releasedate>
+		<developer>AuryArthan</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sokoblox.png</path>
+		<name>Sokoblox</name>
+		<image>./00Boxart/Sokoblox</image>
+		<thumbnail>./00Boxart/Sokoblox</thumbnail>
+		<cartridge>./00Cart/Sokoblox</cartridge>
+		<desc>Sokoblox is a hybrid of two classic puzzle games: Sokoban (the push puzzle) and Bloxorz (the rolling block puzzle).
+
+See if you can beat all 15 levels!</desc>
+		<releasedate>20230301T000000</releasedate>
+		<developer>codeAtorium</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Super Mario Bros.png</path>
 		<name>Super Mario Bros</name>
 		<image>./00Boxart/Super Mario Bros</image>
 		<thumbnail>./00Boxart/Super Mario Bros</thumbnail>
+		<cartridge>./00Cart/Super Mario Bros</cartridge>
 		<desc>Late last year (2017) I started work on a port of Super Mario Bros [NES] to Pico-8. The goal was to be authentic as possible to the original game, while working within the Pico-8 limitations. Something like Super Mario Bros Deluxe [GBC] (https://www.mariowiki.com/Super_Mario_Bros._Deluxe).
 
 In the end I was able to get 1-1 and 1-2 mostly complete before starting to hit serious memory limits which make it seem near impossible to ship the full game.
@@ -329,10 +670,25 @@ With that in mind, I'm releasing it as-is for now so that people can check it ou
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Swordfish.png</path>
+		<name>Swordfish</name>
+		<image>./00Boxart/Swordfish</image>
+		<thumbnail>./00Boxart/Swordfish</thumbnail>
+		<cartridge>./00Cart/Swordfish</cartridge>
+		<desc>An aquatic action game. Swim sword first into the deep to destroy the evil at the heart of the ocean.</desc>
+		<releasedate>20180418T000000</releasedate>
+		<developer>chowyunbrent</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Tera.png</path>
 		<name>Tera</name>
 		<image>./00Boxart/Tera</image>
 		<thumbnail>./00Boxart/Tera</thumbnail>
+		<cartridge>./00Cart/Tera</cartridge>
 		<desc>Tera: Mind Over Matter is a modern puzzle action game about dropping blocks of different shapes to clear lines. The game has a rapid difficulty curve that emphasizes speed and accuracy. Get as many Teras as you can!</desc>
 		<releasedate>20190217T000000</releasedate>
 		<developer>tesselode</developer>
@@ -346,6 +702,7 @@ With that in mind, I'm releasing it as-is for now so that people can check it ou
 		<name>The Merciless Deep</name>
 		<image>./00Boxart/The Merciless Deep</image>
 		<thumbnail>./00Boxart/The Merciless Deep</thumbnail>
+		<cartridge>./00Cart/The Merciless Deep</cartridge>
 		<desc>Goal: Reach the deepest possible and then come back to your boat.</desc>
 		<releasedate>20200223T000000</releasedate>
 		<developer>benjamin_soule</developer>
@@ -355,10 +712,43 @@ With that in mind, I'm releasing it as-is for now so that people can check it ou
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Trial of the Sorcerer.png</path>
+		<name>Trial of the Sorcerer</name>
+		<image>./00Boxart/Trial of the Sorcerer</image>
+		<thumbnail>./00Boxart/Trial of the Sorcerer</thumbnail>
+		<cartridge>./00Cart/Trial of the Sorcerer</cartridge>
+		<desc>Grab your magic staff and venture deep into the demon realm to defeat Bahmott and his evil servants!
+
+Trial of the Sorcerer is a procedurally generated 3D first person shooter inspired by Wolfenstein 3D and Catacomb Abyss.
+
+Shoot monsters, collect loot, find keys to unlock doors, and try to find the exit to the next level. And don't forget to pickup the power crystals to level-up your magic staff along the way.</desc>
+		<releasedate>20220410T000000</releasedate>
+		<developer>Mot</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Trichromat.png</path>
+		<name>Trichromat</name>
+		<image>./00Boxart/Trichromat</image>
+		<thumbnail>./00Boxart/Trichromat</thumbnail>
+		<cartridge>./00Cart/Trichromat</cartridge>
+		<desc>I made this little puzzle game for a 2 week solo game jam. Enjoy!</desc>
+		<releasedate>20240313T000000</releasedate>
+		<developer>spratt</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./UFO Swamp Odyssey.png</path>
 		<name>UFO Swamp Odyssey</name>
 		<image>./00Boxart/UFO Swamp Odyssey</image>
 		<thumbnail>./00Boxart/UFO Swamp Odyssey</thumbnail>
+		<cartridge>./00Cart/UFO Swamp Odyssey</cartridge>
 		<desc>A short atmospheric platformer with metroidvania elements. Your UFO has been knocked out of the sky by scavengers and you're now trapped in their swampy junk yard. With the help of some friendly aliens, find a way to disable the electromagnetic pulse cannon that's keeping you from escaping.</desc>
 		<releasedate>20200527T000000</releasedate>
 		<developer>paranoidcactus</developer>
@@ -372,6 +762,7 @@ With that in mind, I'm releasing it as-is for now so that people can check it ou
 		<name>Villager</name>
 		<image>./00Boxart/Villager</image>
 		<thumbnail>./00Boxart/Villager</thumbnail>
+		<cartridge>./00Cart/Villager</cartridge>
 		<desc>Welcome, Villager!
 You are on this island to build a cosy little town for the peeple that want to live here.
 
@@ -392,6 +783,7 @@ Be good to them, and have fun.</desc>
 		<name>Wolfenstein 3D</name>
 		<image>./00Boxart/Wolfenstein 3D</image>
 		<thumbnail>./00Boxart/Wolfenstein 3D</thumbnail>
+		<cartridge>./00Cart/Wolfenstein 3D</cartridge>
 		<desc>Mostly works. Loads missing. Only 1 level. You get the idea.</desc>
 		<releasedate>20170103T000000</releasedate>
 		<developer>hungrybutterfly</developer>
@@ -405,6 +797,7 @@ Be good to them, and have fun.</desc>
 		<name>X-Zero</name>
 		<image>./00Boxart/X-Zero</image>
 		<thumbnail>./00Boxart/X-Zero</thumbnail>
+		<cartridge>./00Cart/X-Zero</cartridge>
 		<desc>Hack all the terminals and defeat the boss.
 
 This is my attempt at making a polished game in a week and a half, although it ended up being 2 weeks. I had to drop a few features I wanted to put in due to time, and code ended up getting a bit messy. Still, I'm pretty happy with how it came out.
@@ -418,10 +811,25 @@ The frame rate can drop sometimes, particularly in the later parts of the game w
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Yarn Cat.png</path>
+		<name>Yarn Cat</name>
+		<image>./00Boxart/Yarn Cat</image>
+		<thumbnail>./00Boxart/Yarn Cat</thumbnail>
+		<cartridge>./00Cart/Yarn Cat</cartridge>
+		<desc>Yarn Cat is a slow oldschool puzzle game about a mysterious cat that is somehow also a ball of yarn, traveling through odd lands to bring love to other cats. This is my first pico-8 game, and the first game I've made in about 20 years.</desc>
+		<releasedate>20241230T000000</releasedate>
+		<developer>lisska</developer>
+		<publisher>pico8, Homebrew</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Zepton.png</path>
 		<name>Zepton</name>
 		<image>./00Boxart/Zepton</image>
 		<thumbnail>./00Boxart/Zepton</thumbnail>
+		<cartridge>./00Cart/Zepton</cartridge>
 		<desc>You have to survive as long as possible to an always increasing number of enemies. GOOD LUCK!</desc>
 		<releasedate>20170609T000000</releasedate>
 		<developer>rez</developer>

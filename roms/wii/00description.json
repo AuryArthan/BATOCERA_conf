@@ -369,6 +369,36 @@
             "genre": "Action, Role-Playing",
             "players": "1",
             "lang": "en"
+        },
+        {
+            "path": "./Disney-Pixar Cars 2 (USA).wbfs",
+            "desc": "Cars 2 is a third person racing game where players have a choice of 25 different characters, and will train to become a world-class spy. As part of training, players participate in missions using high-tech gadgets, for example, to avoid enemies or slow them down. The game has three types of trophies: bronze, silver and gold. Points are awarded at different values depending on what type of vehicle class players are using. The game characters are divided into three weight classes: heavy, medium and light. Players can unlock new cars, tracks and missions be collecting emblems. And, drop-in/drop-out multiplayer modes support up to four players simultaneously.",
+            "releasedate": "20110621T000000",
+            "developer": "Avalanche Software LLC",
+            "publisher": "Disney Interactive",
+            "genre": "Racing",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Disney Tangled (USA).wbfs",
+            "desc": "Disney Tangled: The Video Game is a story-based adventure sent in a vast kingdom featuring characters with unique abilities, colorful environments, creative play, fun quests, and competitive racing challenges. Join other players to collect as many items as possible and win!",
+            "releasedate": "20101123T000000",
+            "developer": "Planet Moon Studios",
+            "publisher": "Disney Interactive",
+            "genre": "Adventure",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Disney Universe (USA).wbfs",
+            "desc": "The game resemble Lego games or LittleBigPlanet, with a few notable additions. Up to four friends can connect through local multiplayer and play through 6 different worlds to defeat enemies, and collect powerups and coins. One unique feature is that the enemies actively try to hinder a player's progress by setting up traps or hiding key items.\n\nThe two main attractions of the game are that players can travel to 6 worlds from classic and contemporary Disney and Pixar properties, consisting of Alice in Wonderland, Pirates of the Caribbean, The Lion King, Wall-E, Monsters Inc. and Aladdin and acquire 45 costumes based on numerous other Disney franchises, such as The Little Mermaid, Tron, Mickey Mouse, Lilo & Stitch and Tangled.",
+            "releasedate": "20111116T000000",
+            "developer": "Eurocom",
+            "publisher": "Disney Interactive",
+            "genre": "Action, Adventure",
+            "players": "4",
+            "lang": "en"
         }
     ]
 }

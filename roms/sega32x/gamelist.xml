@@ -6,6 +6,7 @@
 		<image>./00Boxart/Knuckles' Chaotix (Japan, USA)</image>
 		<thumbnail>./00Boxart/Knuckles' Chaotix (Japan, USA)</thumbnail>
 		<marquee>./00Logo/Knuckles' Chaotix (Japan, USA)</marquee>
+		<cartridge>./00Cart/Knuckles' Chaotix (Japan, USA)</cartridge>
 		<desc>Knuckles' Chaotix is a spin-off of the Sonic the Hedgehog series of Genesis games. The starring character in this title is Knuckles the Echidna, who first appeared in Sonic the Hedgehog 3. Knuckles works at Carnival Island, an amusement park. It's his job to protect the park and make it a happy place for visitors. Dr. Robotnik, as usual, has an evil plan for the park. He wants the power emerald which supplies electricity to the entire island. What's worse, he has imprisoned several of Knuckles' friends in the "combi confiner." This contraption only allows Knuckles to free one of his friends at a time be attaching a tether between himself and them. Therefore, when you play the game you are always attached to another character.
 
 Although the basic gameplay of Knuckles' Chaotix is similar to the Sonic games, the bungee cord between the two characters creates new challenges. The new characters that appear are Vector the Crocodile, Mighty the Armadillo, Espio the Chameleon, and Charmy Bee. There also two characters whose sole purpose is to slow you down, Heavy the Robot, and Bomb. Chaotix adds several new powerups and 3D bonus levels as well.</desc>
@@ -22,6 +23,7 @@ Although the basic gameplay of Knuckles' Chaotix is similar to the Sonic games, 
 		<image>./00Boxart/Kolibri (USA, Europe)</image>
 		<thumbnail>./00Boxart/Kolibri (USA, Europe)</thumbnail>
 		<marquee>./00Logo/Kolibri (USA, Europe)</marquee>
+		<cartridge>./00Cart/Kolibri (USA, Europe)</cartridge>
 		<desc>Deep in the Earth, a powerful ancient crystal hums, fueling the balance of nature. But when its toxic twin plummets to Earth, nature totters on the edge of extinction! Only one hope survives - Kolibri. Though small and alone, the hummingbird must battle the invasive mutation in all its malignant form to restore Earth. But at what cost?</desc>
 		<releasedate>19950908T000000</releasedate>
 		<developer>Novotrade International</developer>
@@ -36,6 +38,7 @@ Although the basic gameplay of Knuckles' Chaotix is similar to the Sonic games, 
 		<image>./00Boxart/Pitfall</image>
 		<thumbnail>./00Boxart/Pitfall</thumbnail>
 		<marquee>./00Logo/Pitfall</marquee>
+		<cartridge>./00Cart/Pitfall</cartridge>
 		<desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive—and quick. Or prepare to die.</desc>
 		<releasedate>19951001T000000</releasedate>
 		<developer>Activision</developer>

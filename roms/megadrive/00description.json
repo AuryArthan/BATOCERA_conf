@@ -199,6 +199,16 @@
             "genre": "Platform",
             "players": "2",
             "lang": "kr,en"
+        },
+        {
+            "path": "./Demons of Asteborg (Asia).md",
+            "desc": "Demons Of Asteborg is a new original title for the SEGA MegaDrive/Genesis which is now released both as a physical cartridge for this console and as a downloadable ROM for emulators and flash cards.\n\nIt is a platform-based game with some metroidvania elements inspired by a lot of others MegaDrive/Genesis titles like Ghouls’n Ghosts, Castlevania, Mickey Mania, Space Harrier or Panzer Dragoon.",
+			"releasedate": "20210804T000000",
+            "developer": "Neofid Studios",
+            "publisher": "Neofid Studios",
+            "genre": "Action, Adventure, Unlicensed",
+            "players": "1",
+            "lang": "en"
         }
     ]
 }

@@ -266,7 +266,7 @@
             "releasedate": "20180101T000000",
             "developer": "NovaSquirrel",
             "publisher": "Homebrew",
-            "genre": "Action, Platform, Unofficial",
+            "genre": "Action, Platform, Unlicensed",
             "players": "1",
             "lang": "en"
         },
@@ -296,7 +296,7 @@
             "releasedate": "20230317T000000",
             "developer": "Nesdraug",
             "publisher": "Romhacking",
-            "genre": "Adventure, Platform, Unofficial",
+            "genre": "Adventure, Platform, Unlicensed",
             "players": "2",
             "lang": "en"
         },
@@ -336,7 +336,7 @@
             "releasedate": "20160101T000000",
             "developer": "Southbird",
             "publisher": "Romhacking",
-            "genre": "Platform, Unofficial",
+            "genre": "Platform, Unlicensed",
             "players": "2",
             "lang": "en"
         },
@@ -346,7 +346,7 @@
             "releasedate": "20120117T000000",
             "developer": "Frantik",
             "publisher": "Romhacking",
-            "genre": "Platform, Unofficial",
+            "genre": "Platform, Unlicensed",
             "players": "1",
             "lang": "en"
         },
@@ -377,6 +377,16 @@
             "developer": "Nintendo",
             "publisher": "Nintendo",
             "genre": "Action, Role-Playing, Platform",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./From Below.nes",
+            "desc": "FROM BELOW is a falling block puzzle game featuring:\nSoft Drops Hard Drops Wall Kicks T-Spins Lock Delay 3 modes of play: Kraken Battle Mode\n\nThe signature mode of FROM BELOW. Battle the Kraken by clear lines across the onslaught of attacking Kraken Tentacles. The Tentacles push more blocks onto the screen every few seconds, forcing to act quickly, and strategize on an every changing board.",
+            "releasedate": "20200916T000000",
+            "developer": "Matt Hughson",
+            "publisher": "Homebrew",
+            "genre": "Puzzle, Unlicensed",
             "players": "1",
             "lang": "en"
         }

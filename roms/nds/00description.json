@@ -199,6 +199,16 @@
             "genre": "Action, Role-Playing",
             "players": "1",
             "lang": "en"
+        },
+        {
+            "path": "./Yoshi's Island DS (USA).nds",
+            "desc": "Yoshi's Island DS is a sequel to the SNES game, Yoshi's Island. In it, players control Yoshi as he travels to Kamek's castle to rescue Luigi. Yoshi can carry Baby Mario, Peach, DK, Wario or Bowser on his back - depending on the baby carried, Yoshi will gain a special ability; for example, Mario lets Yoshi dash, Peach allows Yoshi to float for a longer period of time, and Wario whips out a gigantic magnet to attract coins and other metallic objects. If Yoshi is hit by an enemy, a counter appears, and begins to slowly count down to zero. If it reaches zero, the baby is kidnapped, and Yoshi loses a life. Yoshi can increase his counter by collecting stars that are rewards for some puzzles and defeating certain enemies.",
+            "releasedate": "20061113T000000",
+            "developer": "Artoon Co., Ltd.",
+            "publisher": "Nintendo",
+            "genre": "Platform",
+            "players": "1",
+            "lang": "en"
         }
     ]
 }

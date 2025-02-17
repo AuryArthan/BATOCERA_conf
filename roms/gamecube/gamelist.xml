@@ -6,7 +6,7 @@
 		<image>./00Image/Billy Hatcher and the Giant Egg (USA)</image>
 		<thumbnail>./00Boxart/Billy Hatcher and the Giant Egg (USA)</thumbnail>
 		<marquee>./00Logo/Billy Hatcher and the Giant Egg (USA)</marquee>
-		<cart>./00Cart/Billy Hatcher and the Giant Egg (USA)</cart>
+		<cartridge>./00Cart/Billy Hatcher and the Giant Egg (USA)</cartridge>
 		<desc>He may wear a Rooster Suit, but no one calls him Chicken!
 
 Billy Hatcher must use the powers of a legendary suit to conquer an evil King who seeks to rule with an everlasting night. Slightly mischievous, yet always cool, only Billy can return the light to the land!
@@ -28,7 +28,7 @@ Billy Hatcher must use the powers of a legendary suit to conquer an evil King wh
 		<image>./00Image/Chibi-Robo! (USA)</image>
 		<thumbnail>./00Boxart/Chibi-Robo! (USA)</thumbnail>
 		<marquee>./00Logo/Chibi-Robo! (USA)</marquee>
-		<cart>./00Cart/Chibi-Robo! (USA)</cart>
+		<cartridge>./00Cart/Chibi-Robo! (USA)</cartridge>
 		<desc>Like most families, the Sandersons bicker about money and cleaning. Unlike most families, though, they also have robotic spiders, aliens, and talking toys to worry about. Enter Chibi-Robo, a tiny robot programmed to spread happiness. Join him on his quest to restore order to the Sanderson house and SAVE THE WORLD!</desc>
 		<releasedate>20060208T000000</releasedate>
 		<developer>Nintendo, Skip Ltd</developer>
@@ -43,7 +43,7 @@ Billy Hatcher must use the powers of a legendary suit to conquer an evil King wh
 		<image>./00Image/Cubivore - Survival of the Fittest (USA)</image>
 		<thumbnail>./00Boxart/Cubivore - Survival of the Fittest (USA)</thumbnail>
 		<marquee>./00Logo/Cubivore - Survival of the Fittest (USA)</marquee>
-		<cart>./00Cart/Cubivore - Survival of the Fittest (USA)</cart>
+		<cartridge>./00Cart/Cubivore - Survival of the Fittest (USA)</cartridge>
 		<desc>Eat or be eaten! Assume the role of an animal in it's early stages of evolutionary development. As your animal instincts take over, you will boldly traverse hostile environments, savagely stalking your prey to assert your place in the animal chain of power. Will you have what it takes to become the new king of beasts?</desc>
 		<releasedate>20021105T000000</releasedate>
 		<developer>Intelligent Systems Co., Ltd.</developer>
@@ -58,7 +58,7 @@ Billy Hatcher must use the powers of a legendary suit to conquer an evil King wh
 		<image>./00Image/Darkened Skye (USA)</image>
 		<thumbnail>./00Boxart/Darkened Skye (USA)</thumbnail>
 		<marquee>./00Logo/Darkened Skye (USA)</marquee>
-		<cart>./00Cart/Darkened Skye (USA)</cart>
+		<cartridge>./00Cart/Darkened Skye (USA)</cartridge>
 		<desc>In the action-oriented 3D role-playing game Darkened Skye, the player takes the role of the title character and embarks on a quest to collect four prisms that may help bring the light of goodness back to the world. Skye of Lynlora was just a restless shepherd when she first came across the strange item that would change her life forever. Now she has opened a portal to another place and chaos has come forth. Only Skye can set things right once again. She will face an assortment of fantasy characters and creatures in her journeys as she makes her way through 30 missions set across five different game worlds. It is notable that, like some other releases from publisher Simon and Schuster (including the Boston Animation-developed M&amp;M's: The Lost Formulas), this game features prominent product placement in the form of Skittles brand fruit-flavored candies. Indeed, it is the mystic power of Skittles that moves Skye through more than one threatening game situation. In spite of any potential incongruities of featuring a familiar consumer item in a fantasy world, Darkened Skye strives to provide the graphical competence, engrossing story, and state-of-the-art play that gamers expect from a major 2002 release. ~ T.J. Deci, All Game Guide</desc>
 		<releasedate>20021116T000000</releasedate>
 		<developer>Boston Animation</developer>
@@ -73,7 +73,7 @@ Billy Hatcher must use the powers of a legendary suit to conquer an evil King wh
 		<image>./00Image/Eternal Darkness - Sanity's Requiem (USA)</image>
 		<thumbnail>./00Boxart/Eternal Darkness - Sanity's Requiem (USA)</thumbnail>
 		<marquee>./00Logo/Eternal Darkness - Sanity's Requiem (USA)</marquee>
-		<cart>./00Cart/Eternal Darkness - Sanity's Requiem (USA)</cart>
+		<cartridge>./00Cart/Eternal Darkness - Sanity's Requiem (USA)</cartridge>
 		<desc>Eternal Darkness: Sanity's Requiem is a psychological horror action adventure, released in 2002 by Nintendo for the Gamecube. It tells the stories of twelve characters that span across the world and two millennia who have to deal with ancient forces of evil which have been trying to manifest themselves in our world. Chapters take place in Ancient Rome, Persia, the Middle East, and modern-day Rhode Island. Throughout the game, the protagonists will have access to several weapons appropriate for their era, from bastard sword &amp; gladius to flintlock pistol and shotgun.
 
 The game features an involved Magic system, which allows different spells to be created through the combination of runes. These spells can attack enemies, dispel illusions, and heal both the body and items.
@@ -92,7 +92,7 @@ Eternal Darkness: Sanity's Requiem also has a unique feature called Sanity. If a
 		<image>./00Image/F-Zero GX (USA)</image>
 		<thumbnail>./00Boxart/F-Zero GX (USA)</thumbnail>
 		<marquee>./00Logo/F-Zero GX (USA)</marquee>
-		<cart>./00Cart/F-Zero GX (USA)</cart>
+		<cartridge>./00Cart/F-Zero GX (USA)</cartridge>
 		<desc>F-Zero GX is a futuristic racing video game for the Nintendo GameCube console. Developed by Sega's Amusement Vision department, it was released in Japan, Europe, and North America, in 2003. Its arcade counterpart, F-Zero AX, utilizes hardware conceived from a business alliance between Nintendo, Namco, and Sega. F-Zero GX runs on an enhanced version of the engine that powered Super Monkey Ball. The game is widely considered one of the best racers on the GameCube platform.</desc>
 		<releasedate>20030725T000000</releasedate>
 		<developer>Amusement Vision, Ltd.</developer>
@@ -102,12 +102,27 @@ Eternal Darkness: Sanity's Requiem also has a unique feature called Sanity. If a
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Gun (USA).ciso</path>
+		<name>Gun</name>
+		<image>./00Image/Gun (USA)</image>
+		<thumbnail>./00Boxart/Gun (USA)</thumbnail>
+		<marquee>./00Logo/Gun (USA)</marquee>
+		<cartridge>./00Cart/Gun (USA)</cartridge>
+		<desc>You can experience the lawless Wild West as gunslinger Colton White in the action title Gun. Traverse an expansive world where you'll encounter outlaws, Native Americans, corrupt lawmen, and army psychopaths. You can assault a fort, hunt for bounties, and upgrade your equipment as you battle through a variety of gameplay styles. Gun also features a story written by Hollywood script writer Randall Jahnson.</desc>
+		<releasedate>20051108T000000</releasedate>
+		<developer>Neversoft Entertainment</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Kirby Air Ride (USA).ciso</path>
 		<name>Kirby Air Ride</name>
 		<image>./00Image/Kirby Air Ride (USA)</image>
 		<thumbnail>./00Boxart/Kirby Air Ride (USA)</thumbnail>
 		<marquee>./00Logo/Kirby Air Ride (USA)</marquee>
-		<cart>./00Cart/Kirby Air Ride (USA)</cart>
+		<cartridge>./00Cart/Kirby Air Ride (USA)</cartridge>
 		<desc>Prepare for fast and furious racing action as Kirby hits Warpstar speed. Use simple controls to race and battle your friends in one of three hectic game modes. In Air Ride mode, you'll race to the finish line against your friends or computer-controlled competition. Top Ride mode lets up to four players race to the finish line using wild items like buzz saws, drills, and freeze fans to pester the competition. In City Trial mode, you'll race around a gigantic fantasy city in a quest to build the ideal machine to use in a random challenge that occurs after a set time limit. Don't let Kirby's cuteness fool you--Kirby Air Ride is crawling with tough challenges suitable for players of all ages.</desc>
 		<releasedate>20031013T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -122,7 +137,7 @@ Eternal Darkness: Sanity's Requiem also has a unique feature called Sanity. If a
 		<image>./00Image/Legend of Zelda, The - Four Swords Adventures (USA)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - Four Swords Adventures (USA)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - Four Swords Adventures (USA)</marquee>
-		<cart>./00Cart/Legend of Zelda, The - Four Swords Adventures (USA)</cart>
+		<cartridge>./00Cart/Legend of Zelda, The - Four Swords Adventures (USA)</cartridge>
 		<desc>The game begins with the land of Hyrule in a state of fear because of strange happenings that have occurred recently. On a stormy night, Princess Zelda and the shrine maidens fear that the reason for these events is that Vaati's seal is weakening. She summons Link and brings him to the castle so he can protect her and the other maidens while they open the portal to the Four Sword Sanctuary. When they do, however, a shadowy figure appears from the portal. This figure was Shadow Link, who then kidnapped the shrine maidens and sealed them in crystals. Link follows him to the sanctuary where he retrieves the Four Sword to destroy this doppelganger. The Four Sword is a magical sword that splits the wielder into three clones of himself. Vaati is once again released and wreaks havoc on the once peaceful kingdom.</desc>
 		<releasedate>20040607T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -137,7 +152,7 @@ Eternal Darkness: Sanity's Requiem also has a unique feature called Sanity. If a
 		<image>./00Image/Legend of Zelda, The - The Wind Waker (USA)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - The Wind Waker (USA)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - The Wind Waker (USA)</marquee>
-		<cart>./00Cart/Legend of Zelda, The - The Wind Waker (USA)</cart>
+		<cartridge>./00Cart/Legend of Zelda, The - The Wind Waker (USA)</cartridge>
 		<desc>The game is set on a group of islands in a vast sea—a first for the series. The player controls Link, the protagonist of the Zelda series. He struggles against his nemesis, Ganondorf, for control of a sacred relic known as the Triforce. Link spends a large portion of the game sailing, traveling between islands, and traversing through dungeons and temples to gain the power necessary to defeat Ganondorf. He also spends time trying to find his little sister. The Wind Waker follows in the footsteps of Ocarina of Time and its sequel Majora's Mask, retaining the basic gameplay and control system from the two Nintendo 64 titles. A heavy emphasis is placed on using and controlling wind with a baton called the Wind Waker, which aids sailing and floating in air. Controversial during development for its use of cel shading graphics and younger Link character, The Wind Waker received acclaim on release and is one of the Nintendo GameCube's most popular games.</desc>
 		<releasedate>20030324T000000</releasedate>
 		<developer>Nintendo EAD</developer>
@@ -152,7 +167,7 @@ Eternal Darkness: Sanity's Requiem also has a unique feature called Sanity. If a
 		<image>./00Image/Legend of Zelda, The - Twilight Princess (USA)</image>
 		<thumbnail>./00Boxart/Legend of Zelda, The - Twilight Princess (USA)</thumbnail>
 		<marquee>./00Logo/Legend of Zelda, The - Twilight Princess (USA)</marquee>
-		<cart>./00Cart/Legend of Zelda, The - Twilight Princess (USA)</cart>
+		<cartridge>./00Cart/Legend of Zelda, The - Twilight Princess (USA)</cartridge>
 		<desc>In the next chapter in the Legend of Zelda series, Link can transform into a wolf to scour the darkened land of Hyrule. With the help of Midna, a mysterious being, you must guide Link through hordes of foul creatures and challenging bosses using new moves and a new horseback combat system. Many puzzles stand between Link and the fulfillment of his quest, so you must sharpen your wits as you hunt for weapons and items.</desc>
 		<releasedate>20061211T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -167,7 +182,7 @@ Eternal Darkness: Sanity's Requiem also has a unique feature called Sanity. If a
 		<image>./00Image/Luigi's Mansion (USA)</image>
 		<thumbnail>./00Boxart/Luigi's Mansion (USA)</thumbnail>
 		<marquee>./00Logo/Luigi's Mansion (USA)</marquee>
-		<cart>./00Cart/Luigi's Mansion (USA)</cart>
+		<cartridge>./00Cart/Luigi's Mansion (USA)</cartridge>
 		<desc>Luigi's Mansion is a 2001 GameCube third-person action-adventure video game developed by Nintendo EAD and released by Nintendo of America in the USA on November 18, 2001.
 
 Luigi's Won a Mansion! 
@@ -191,7 +206,7 @@ After collecting special medals, you'll be able to shoot fire, water, and ice fr
 		<image>./00Image/Mario Golf - Toadstool Tour (USA)</image>
 		<thumbnail>./00Boxart/Mario Golf - Toadstool Tour (USA)</thumbnail>
 		<marquee>./00Logo/Mario Golf - Toadstool Tour (USA)</marquee>
-		<cart>./00Cart/Mario Golf - Toadstool Tour (USA)</cart>
+		<cartridge>./00Cart/Mario Golf - Toadstool Tour (USA)</cartridge>
 		<desc>Hit the links in the Mushroom Kingdom!
 
 Mario, Peach, Yoshi, Donkey Kong and others have tee times reserved in the Mushroom Kingdom! Challenge them to tournaments, or take them on in character matches to collect rings or nab coins! Play on resort-style courses or look out for Chain Chomps, Warp Pipes and Thwomps on the Mushroom Kingdom courses!</desc>
@@ -208,7 +223,7 @@ Mario, Peach, Yoshi, Donkey Kong and others have tee times reserved in the Mushr
 		<image>./00Image/Mario Kart - Double Dash!! (USA)</image>
 		<thumbnail>./00Boxart/Mario Kart - Double Dash!! (USA)</thumbnail>
 		<marquee>./00Logo/Mario Kart - Double Dash!! (USA)</marquee>
-		<cart>./00Cart/Mario Kart - Double Dash!! (USA)</cart>
+		<cartridge>./00Cart/Mario Kart - Double Dash!! (USA)</cartridge>
 		<desc>The Mushroom Kingdom just got a whole lot more hectic as Mario and friends double up for furious kart racing. This time around, each kart holds two racers that can switch places at any time, so choose from a huge cast of favorites and pair them up any way you see fit. The character in front handles the driving duties, while the character in the rear doles out damage with six normal items and eight special items that only specific characters can use. Get ready for some intense multiplayer mayhem with your favorite characters, including Mario, Luigi, Donkey Kong, Peach, Bowser, and Koopa.</desc>
 		<releasedate>20031107T000000</releasedate>
 		<developer>Nintendo EAD</developer>
@@ -223,7 +238,7 @@ Mario, Peach, Yoshi, Donkey Kong and others have tee times reserved in the Mushr
 		<image>./00Image/Mario Party 6 (USA)</image>
 		<thumbnail>./00Boxart/Mario Party 6 (USA)</thumbnail>
 		<marquee>./00Logo/Mario Party 6 (USA)</marquee>
-		<cart>./00Cart/Mario Party 6 (USA)</cart>
+		<cartridge>./00Cart/Mario Party 6 (USA)</cartridge>
 		<desc>Mario Party 6 offers a new batch of games that require both your fingers and your voice. In this installment in the Mario Party series, you can use the included microphone controller to talk your way to victory. More than 80 minigames are included. You can play as Mario, Bowser, or other characters from the Mushroom Kingdom. New characters appear on the board depending on what time of day it is. The game supports up to four players.</desc>
 		<releasedate>20041206T000000</releasedate>
 		<developer>Hudson Entertainment, Inc.</developer>
@@ -238,7 +253,7 @@ Mario, Peach, Yoshi, Donkey Kong and others have tee times reserved in the Mushr
 		<image>./00Image/Mario Power Tennis (USA)</image>
 		<thumbnail>./00Boxart/Mario Power Tennis (USA)</thumbnail>
 		<marquee>./00Logo/Mario Power Tennis (USA)</marquee>
-		<cart>./00Cart/Mario Power Tennis (USA)</cart>
+		<cartridge>./00Cart/Mario Power Tennis (USA)</cartridge>
 		<desc>Mario Power Tennis features variations of tennis matches consisting of characters, courts, and scenarios based on the Mario series. The range of courts includes the standard three types of tennis court, but consists predominantly of those themed upon games in the Mario series, known as "Gimmick" courts. As well as adopting the style aesthetically, these feature thematic elements that influence how the match will be played on that surface, such as the ghosts in the Luigi's Mansion court, which hinder movement when the character comes into physical contact with them.
 Although standard tennis is available, variants of the sport can be played which adopt different rules and methods of victory. "Ring Shot" involves the player earning points by hitting the ball through rings of varying sizes, with the number of points dependent on the difficulty of the shot.[9] The player acquires the points whenever a winning shot is made adhering to standard rules; the match is won once the predetermined number of points is equaled or surpassed. A similar mode, "Item Battle", involves the characters using items based on the Mario universe to interfere with each other's game and gain an advantage</desc>
 		<releasedate>20041108T000000</releasedate>
@@ -254,7 +269,7 @@ Although standard tennis is available, variants of the sport can be played which
 		<image>./00Image/Mario Strikers (USA)</image>
 		<thumbnail>./00Boxart/Mario Strikers (USA)</thumbnail>
 		<marquee>./00Logo/Mario Strikers (USA)</marquee>
-		<cart>./00Cart/Mario Strikers (USA)</cart>
+		<cartridge>./00Cart/Mario Strikers (USA)</cartridge>
 		<desc>Nintendo's foray into sports titles continues with Super Mario Strikers, a new soccer game that's unlike anything ever to hit the pitch. Whether players are freezing their opponents with an ice-cold shell, unleashing a spiny shell on their hapless opponents or making entire teams flee in terror with a roving Chain Chomp, they're sure to see something new around every corner kick. Super Mario Strikers features all the favorite characters from the Nintendo universe, as well as four-person multiplayer action that will have players and their friends cheering all night long. Get ready for the world cup of gaming.</desc>
 		<releasedate>20051205T000000</releasedate>
 		<developer>Next Level Games</developer>
@@ -269,7 +284,7 @@ Although standard tennis is available, variants of the sport can be played which
 		<image>./00Image/Paper Mario - The Thousand-Year Door (USA)</image>
 		<thumbnail>./00Boxart/Paper Mario - The Thousand-Year Door (USA)</thumbnail>
 		<marquee>./00Logo/Paper Mario - The Thousand-Year Door (USA)</marquee>
-		<cart>./00Cart/Paper Mario - The Thousand-Year Door (USA)</cart>
+		<cartridge>./00Cart/Paper Mario - The Thousand-Year Door (USA)</cartridge>
 		<desc>Paper Mario: The Thousand-Year Door is a 2004 GameCube role-playing video game developed by Intelligent Systems and released by Nintendo of America in the USA on October 11, 2004.
 
 What sleeps behind the door?
@@ -296,7 +311,7 @@ Stay on your toes! Stamp foes, swing your hammer, and use timely button presses 
 		<image>./00Image/Pikmin 2 (USA)</image>
 		<thumbnail>./00Boxart/Pikmin 2 (USA)</thumbnail>
 		<marquee>./00Logo/Pikmin 2 (USA)</marquee>
-		<cart>./00Cart/Pikmin 2 (USA)</cart>
+		<cartridge>./00Cart/Pikmin 2 (USA)</cartridge>
 		<desc>Captain Olimar has returned to the planet where the Pikmin live, and he's all business this time. The company he works for is going bankrupt, so to save it, Olimar must salvage the treasure buried all over the planet. Of course, he'll need the help of the Pikmin to do that--he can't do anything by himself. Control one of two main characters--Olimar or his assistant--as you command your Pikmin to defeat enemies, propagate more Pikmin, collect precious doodads, and solve puzzles. With unlimited time, new colors of Pikmin, and two-player cooperative play, Pikmin 2 improves on the original in many ways.</desc>
 		<releasedate>20040830T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -311,7 +326,7 @@ Stay on your toes! Stamp foes, swing your hammer, and use timely button presses 
 		<image>./00Image/Pokemon XD - Gale of Darkness (USA)</image>
 		<thumbnail>./00Boxart/Pokemon XD - Gale of Darkness (USA)</thumbnail>
 		<marquee>./00Logo/Pokemon XD - Gale of Darkness (USA)</marquee>
-		<cart>./00Cart/Pokemon XD - Gale of Darkness (USA)</cart>
+		<cartridge>./00Cart/Pokemon XD - Gale of Darkness (USA)</cartridge>
 		<desc>Pokemon XD is a sequel to the role-playing game Pokémon Colosseum. You'll play as Michael, a Pokémon trainer who is trying to thwart the evil Cipher. Cipher plans to control the world by using the powerful, but unpredictable, shadow Pokémon. Now you must fight back by collecting your own shadow Pokémon and beating Cipher's goons in battle. Pokémon XD also lets you import Pokémon from Game Boy Advance Pokémon games and participate in head-to-head battles with other players.</desc>
 		<releasedate>20051003T000000</releasedate>
 		<developer>Genius Sonority Inc.</developer>
@@ -326,7 +341,7 @@ Stay on your toes! Stamp foes, swing your hammer, and use timely button presses 
 		<image>./00Image/Shadow the Hedgehog (USA)</image>
 		<thumbnail>./00Boxart/Shadow the Hedgehog (USA)</thumbnail>
 		<marquee>./00Logo/Shadow the Hedgehog (USA)</marquee>
-		<cart>./00Cart/Shadow the Hedgehog (USA)</cart>
+		<cartridge>./00Cart/Shadow the Hedgehog (USA)</cartridge>
 		<desc>The world is in peril as forces, both good and evil, make a play for the powerful Chaos Emeralds. In Shadow the Hedgehog, you can control Shadow and choose which side to fight for. This 3D platformer lets you use weapons, vehicles, environmental objects, and time and space manipulation to combat your foes.</desc>
 		<releasedate>20051115T000000</releasedate>
 		<developer>Sonic Team</developer>
@@ -341,7 +356,7 @@ Stay on your toes! Stamp foes, swing your hammer, and use timely button presses 
 		<image>./00Image/Sonic Riders (USA)</image>
 		<thumbnail>./00Boxart/Sonic Riders (USA)</thumbnail>
 		<marquee>./00Logo/Sonic Riders (USA)</marquee>
-		<cart>./00Cart/Sonic Riders (USA)</cart>
+		<cartridge>./00Cart/Sonic Riders (USA)</cartridge>
 		<desc>The Sonic series takes to the track in the combat racing game, Sonic Riders. Dr. Eggman has challenged Sonic and friends to race in his World Grand Prix, and you can enter the event and try to unravel his mysterious plot. The races happen on floating boards and include tricks, fighting, and racing. You can customize your character with upgraded equipment as you race down 13 different tracks through a handful of game modes. You can also challenge three of your friends to multiplayer races.</desc>
 		<releasedate>20060221T000000</releasedate>
 		<developer>Sonic Team</developer>
@@ -356,7 +371,7 @@ Stay on your toes! Stamp foes, swing your hammer, and use timely button presses 
 		<image>./00Image/Star Fox Adventures (USA)</image>
 		<thumbnail>./00Boxart/Star Fox Adventures (USA)</thumbnail>
 		<marquee>./00Logo/Star Fox Adventures (USA)</marquee>
-		<cart>./00Cart/Star Fox Adventures (USA)</cart>
+		<cartridge>./00Cart/Star Fox Adventures (USA)</cartridge>
 		<desc>Bonus Star Fox Adventures Official Nintendo Power Player's Guide With The Purchase Of This Game. Kmart Exclusive. Nintendo Power.
 
 Out of the cockpit and into epic adventure!
@@ -377,7 +392,7 @@ In the biggest challenge in Team Star Fox's history, he'll wield weapons and mag
 		<image>./00Image/Super Mario Sunshine (USA)</image>
 		<thumbnail>./00Boxart/Super Mario Sunshine (USA)</thumbnail>
 		<marquee>./00Logo/Super Mario Sunshine (USA)</marquee>
-		<cart>./00Cart/Super Mario Sunshine (USA)</cart>
+		<cartridge>./00Cart/Super Mario Sunshine (USA)</cartridge>
 		<desc>Super Mario Sunshine is a 2002 GameCube third-person action-adventure platformer video game developed by Nintendo EAD and released by Nintendo of America in the USA on August 26, 2002.
 
 When Mario arrives on tropical Isle Delfino, the once-pristine island is polluted and plastered with graffiti. Even worse, he's being blamed for the mess! Now instead of enjoying a relaxing vacation, Mario has to clean up the place and track down the real culprit.</desc>
@@ -394,7 +409,7 @@ When Mario arrives on tropical Isle Delfino, the once-pristine island is pollute
 		<image>./00Image/Super Smash Bros Melee (USA)</image>
 		<thumbnail>./00Boxart/Super Smash Bros Melee (USA)</thumbnail>
 		<marquee>./00Logo/Super Smash Bros Melee (USA)</marquee>
-		<cart>./00Cart/Super Smash Bros Melee (USA)</cart>
+		<cartridge>./00Cart/Super Smash Bros Melee (USA)</cartridge>
 		<desc>Super Smash Bros. Melee differs from traditional fighting games in that inflicting the most damage does not guarantee victory. Instead, opposing players must force their opponents beyond the boundaries of the stage. Most attacks inflict damage and can, if enough damage is dealt, knock back the enemy. Each character's health is measured by a meter that represents the damage received as a percentage. The higher the percentage value, the farther the player gets knocked back, and the easier they are to knock off the stage. Unlike other games of the same genre, in which moves are entered by button-input combinations, most moves in Super Smash Bros. Melee can be accessed via one-button presses and a joystick direction.</desc>
 		<releasedate>20011121T000000</releasedate>
 		<developer>HAL Laboratory, Inc.</developer>
@@ -409,7 +424,7 @@ When Mario arrives on tropical Isle Delfino, the once-pristine island is pollute
 		<image>./00Image/Vexx (USA)</image>
 		<thumbnail>./00Boxart/Vexx (USA)</thumbnail>
 		<marquee>./00Logo/Vexx (USA)</marquee>
-		<cart>./00Cart/Vexx (USA)</cart>
+		<cartridge>./00Cart/Vexx (USA)</cartridge>
 		<desc>Vexx is a 3D platforming video game developed by Acclaim Studios Austin and published by Acclaim Entertainment for the GameCube, PlayStation 2 and Xbox. It was also planned to be released for the Game Boy Advance but it was eventually cancelled. The objective consists of collecting magical hearts and unlocking more worlds to play, defeating enemies and jumping across platforms. Vexx is armed only with the legendary Astani war talons, which give him the power to defeat his enemies, as well as fly and swim under water.</desc>
 		<releasedate>20030211T000000</releasedate>
 		<developer>Acclaim Studios Austin</developer>
@@ -424,7 +439,7 @@ When Mario arrives on tropical Isle Delfino, the once-pristine island is pollute
 		<image>./00Image/Wario World (USA)</image>
 		<thumbnail>./00Boxart/Wario World (USA)</thumbnail>
 		<marquee>./00Logo/Wario World (USA)</marquee>
-		<cart>./00Cart/Wario World (USA)</cart>
+		<cartridge>./00Cart/Wario World (USA)</cartridge>
 		<desc>While Wario enjoys the riches from his many adventures, a mysterious black jewel in his trove transforms gems into monsters. Now, Wario must scramble to recover his riches in an alternate world filled with quirky puzzles, swarming enemies, and lots of loot. As Wario, you'll punch, kick, jump, grab monsters and objects, and inhale surrounding coins like a vacuum cleaner. You must cling to 3D balls to fight bosses, find hidden areas through trap doors, and bash your surroundings to uncover secrets.</desc>
 		<releasedate>20030624T000000</releasedate>
 		<developer>Treasure</developer>
@@ -434,12 +449,31 @@ When Mario arrives on tropical Isle Delfino, the once-pristine island is pollute
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Soulcalibur II (USA).iso</path>
+		<name>Soulcalibur II</name>
+		<image>./00Image/Soulcalibur II (USA)</image>
+		<thumbnail>./00Boxart/Soulcalibur II (USA)</thumbnail>
+		<marquee>./00Logo/Soulcalibur II (USA)</marquee>
+		<cartridge>./00Cart/Soulcalibur II (USA)</cartridge>
+		<desc>Transcending history and the world, a tale of souls and swords eternally retold.
+
+Four years have passed since the spirit sword, SoulCalibur defeated the evil Soul Edge. At the end of that fateful battle, the shards of the shattered Soul Edge were scattered across the world and SoulCalibur was lost to the void. Now, the evil that still resides in the scattered shards of Soul Edge threatens again to engulf the world in darkness.
+
+Guest starring exclusively for the Nintendo Gamecube: Link from the Legend of Zelda.</desc>
+		<releasedate>20030827T000000</releasedate>
+		<developer>Project Soul</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Super Mario Eclipse.iso</path>
 		<name>Super Mario Eclipse</name>
 		<image>./00Image/Super Mario Eclipse</image>
 		<thumbnail>./00Boxart/Super Mario Eclipse</thumbnail>
 		<marquee>./00Logo/Super Mario Eclipse</marquee>
-		<cart>./00Cart/Super Mario Eclipse</cart>
+		<cartridge>./00Cart/Super Mario Eclipse</cartridge>
 		<desc>Super Mario Eclipse is likely one of the most ambitious Mario fan projects of all time, a journey of pure wonder awaits. 120 returning shines from the game you know and love have been altered for a unique open-world play experience, with enhanced story elements that keep you engaged along the way!
 
 - 120 brand new shines
@@ -463,7 +497,7 @@ When Mario arrives on tropical Isle Delfino, the once-pristine island is pollute
 		<image>./00Image/Baten Kaitos - Eternal Wings and the Lost Ocean (USA)</image>
 		<thumbnail>./00Boxart/Baten Kaitos - Eternal Wings and the Lost Ocean (USA)</thumbnail>
 		<marquee>./00Logo/Baten Kaitos - Eternal Wings and the Lost Ocean (USA)</marquee>
-		<cart>./00Cart/Baten Kaitos - Eternal Wings and the Lost Ocean (USA)</cart>
+		<cartridge>./00Cart/Baten Kaitos - Eternal Wings and the Lost Ocean (USA)</cartridge>
 		<desc>The existence of Earth, a planet of continents surrounded by deep oceans, has long become a mere legend. People live now on islands which are floating high in the skies. They also have wings - "Wings of the Hearts" - growing on their backs. Kalas is a young man who was born only with one wing - he replaces the second with an artificial wing manufactured by great masters. He is on a quest to find the murderers of his grandfather and his brother. He meets a girl named Xelha, who is out to stop an evil conspiracy that threatens the country, and they join forces against the newly appeared evil.
 
 In this game, you don't only control Kalas and his party, but also play the role of Kalas' Guardian Spirit. From time to time Kalas will pose questions to you and ask for advise. Your answers will determine Kalas' general disposition and also his behavior in battles.</desc>

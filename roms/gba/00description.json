@@ -199,6 +199,46 @@
             "genre": "Platform, Unofficial",
             "players": "1",
             "lang": "en"
+        },
+        {
+            "path": "./Apotris.gba",
+            "desc": "Apotris is a multiplatform open-source block stacking game! What sets Apotris apart from other block stacking games is its extensive customization options, complemented by ultra-responsive controls that let you execute your moves with precision. With 14 unique game modes and a plethora of settings, you can tailor the game to your preferences, ensuring a fresh and challenging experience every time you play. Whether you're a casual player or a hardcore enthusiast, Apotris has something for everyone. You can even battle your friends using the Gameboy Advance Link Cable or Wireless Adapters in 2-Player Battle! While Apotris was originally designed for Gameboy Advance, it now supports all kinds of platforms, so between the ports and emulation you can play Apotris on almost anything.",
+            "releasedate": "20220504T000000",
+            "developer": "akouzoukos",
+            "publisher": "Homebrew",
+            "genre": "Puzzle, Unofficial",
+            "players": "2",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon FireRed Rocket Edition.gba",
+            "desc": "Play as a member of Team Rocket!\n\nIn Pokémon FireRed: Rocket Edition, you will cheat, lie and steal your way to the top as you engage with the thriving gang scene of the Kanto region. Featuring a story that takes place at the same time as the original FireRed, Rocket Edition will play with your expectations and allow you to experience the classic story from a whole new perspective. Along your journey, you will unravel secret conspiracies, explore a side of Kanto you’ve never seen before, engage with familiar characters in unfamiliar situations – and, most importantly: steal their Pokémon!",
+            "releasedate": "20210101T000000",
+            "developer": "colonelsalt",
+            "publisher": "Romhacking",
+            "genre": "Role-Playing, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon - Unbound.gba",
+            "desc": "Welcome to Borrius, a region rich with history. Centuries ago, the Borrian people were enveloped in a great war with a foreign land. When all seemed lost, the Borrian king summoned a powerful force to help turn the tide of battle. Unfortunately, the war ended in defeat when the king of the foreign land unleashed a devastating weapon. Disgruntled, the Borrian army returned home.\n\nThe people, now enraged against the Borrian king, attempted a coup by manipulating the dark force summoned during the war. The Borrian king was able to seal away its power, however, and the coup was thwarted.\n\nMany years later, an organization known simply as the \"Shadows\" seems bent on releasing the dark force once again. Are they after the destruction of the Borrius region, or is there something else at play? It's up to you to stand in their way!​",
+            "releasedate": "20161105T000000",
+            "developer": "Skeli",
+            "publisher": "Romhacking",
+            "genre": "Role-Playing, Unofficial",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Pokemon - Clover.gba",
+            "desc": "Pokémon Clover is a ROM Hack of Pokémon Fire Red featuring the two brand new regions of Fochun and the Ebin Isles, as well as 386 original fakemon!\n\nStarted in late 2014 as a janky rehash of Pokémon Fire Red, Pokémon Clover has since evolved into a complete overhaul with all-new characters, story, maps, music and gameplay mechanics.\n\nThe main point of Clover is to be both a parody of 4chan’s imageboard culture as well as a parody of Pokémon as a whole. It thus contains themes and language not suited for the faint of heart.\n\nThe current version of Clover has been in the works for over 4 whole years with effort worth thousands of hours by over 40 contributors, and with an estimated play time of over 100 hours, Clover is sure to bring you moments filled with joy, frustration, laughter and suffering!\n\nSo what are you waiting for? Take on a journey as Professor Stump’s Pokédex aide and battle tough rivals and Gym Leaders as you travel through fields, oceans, deserts and mountains!",
+            "releasedate": "20200410T000000",
+            "developer": "Clover Team",
+            "publisher": "Romhacking",
+            "genre": "Role-Playing, Unofficial",
+            "players": "1",
+            "lang": "en"
         }
     ]
 }
