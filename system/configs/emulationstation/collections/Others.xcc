@@ -16,6 +16,7 @@
 	<system>dos</system>
 	<system>windows</system>
 	<system>zxspectrum</system>
+	<system>jaguar</system>
 	<kidGame>TRUE</kidGame>
 	<kidGame>FALSE</kidGame>
 </filter>
