@@ -114,6 +114,13 @@ if [ -d "scummvm" ]; then
 		echo -e '\t\t<image>./00Boxart/'${filename##*/}'</image>' >> gamelist.xml
 		echo -e '\t\t<thumbnail>./00Boxart/'${filename##*/}'</thumbnail>' >> gamelist.xml
 		echo -e '\t\t<marquee>./00Logo/'${filename##*/}'</marquee>' >> gamelist.xml
+		if [ -f "./00Cart/$filename" ]; then	# check if cart exists
+			echo -e '\t\t<cartridge>./00Cart/'$filename'</cartridge>' >> gamelist.xml
+		else
+			if [ -f "./00Cart/00Placeholder" ]; then	# check if cart placeholder exists
+				echo -e '\t\t<cartridge>./00Cart/00Placeholder</cartridge>' >> gamelist.xml
+			fi
+		fi
 		if [ -f "./00description.json" ]; then	# check if descriptions exist
 			game=$(jq -c --arg path "./$filename.scummvm" '.games[] | select(.path == $path)' "./00description.json")
 			if [ -n "$game" ]; then		# check if the chosen game description exists
