@@ -6,6 +6,7 @@
 		<image>./00Boxart/Wolfenstein 3D</image>
 		<thumbnail>./00Boxart/Wolfenstein 3D</thumbnail>
 		<marquee>./00Logo/Wolfenstein 3D</marquee>
+		<cartridge>./00Cart/Wolfenstein 3D</cartridge>
 		<desc>Bring Down The Third Reich!\n\nAs the legendary William "B.J." Blazkowicz, you've been commissioned to rewrite history in a bloody 64-bit war zone filled with enough Nazi scum to keep you trigger-happy for weeks. Annihilate Der Fuerher's elite commando team, assasinate the diabolical Dr. Shabbs, capture the secret war plans, infiltrate Der Fuerher's bunker... and waste anyone and anything that gets in your way!</desc>
 		<releasedate>19920101T000000</releasedate>
 		<developer>id Software</developer>

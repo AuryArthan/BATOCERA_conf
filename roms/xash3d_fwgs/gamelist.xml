@@ -6,6 +6,7 @@
 		<image>./00Boxart/valve</image>
 		<thumbnail>./00Boxart/valve</thumbnail>
 		<marquee>./00Logo/valve</marquee>
+		<cartridge>./00Cart/valve</cartridge>
 		<desc>Half-Life, a First Person Shooter released by Valve & Sierra in 1998, tells the story of a recently graduated theoretical physicist, named Dr. Gordon Freeman, who is working on experiments in relation to teleportation technology with other scientists in the Black Mesa Research Facility. Unfortunately, an experiment goes disastrously wrong and aliens from another dimension, also known as Xen, subsequently enter the facility through a dimensional seam! As Freeman tries to make his way out of the ruined facility, he soon realizes that he is caught between two sides: the hostile aliens and a U.S. Marine Corps special operations unit dispatched to cover up the incident by eliminating all organisms in the facility, including every single survivor. Explore the facility as Gordon Freeman, escape the complex alive and discover both the mysterious Xens as well as their portals to other dimensions!</desc>
 		<releasedate>19981119T000000</releasedate>
 		<developer>Valve Corporation</developer>
@@ -20,6 +21,7 @@
 		<image>./00Boxart/bshift</image>
 		<thumbnail>./00Boxart/bshift</thumbnail>
 		<marquee>./00Logo/bshift</marquee>
+		<cartridge>./00Cart/bshift</cartridge>
 		<desc>Half Life: Blue Shift is the second stand-alone expansion pack for Half-Life and was released in 2001. Returning to the Black Mesa Research Facility as a security guard who allied with Gordon Freeman in the original Half Life, players explore previously restricted game's levels, fight hostile creatures or characters and solve a variety of puzzles to advance.</desc>
 		<releasedate>20010612T000000</releasedate>
 		<developer>Gearbox Software, Valve Corporation</developer>
@@ -34,6 +36,7 @@
 		<image>./00Boxart/gearbox</image>
 		<thumbnail>./00Boxart/gearbox</thumbnail>
 		<marquee>./00Logo/gearbox</marquee>
+		<cartridge>./00Cart/gearbox</cartridge>
 		<desc>Opposing Force returns to the same setting as Half-Life, but instead portrays the events from the perspective of a U.S. Marine, one of the enemy characters in the original game. The player character, Adrian Shephard, is sent in to neutralize the Black Mesa Research Facility after a scientific mishap causes it to be invaded by aliens, but quickly finds that the Marines are outnumbered and slowly being beaten back by a second alien race and black operations units.</desc>
 		<releasedate>19991101T000000</releasedate>
 		<developer>Gearbox Software, Valve Corporation</developer>

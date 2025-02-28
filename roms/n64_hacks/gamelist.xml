@@ -350,6 +350,21 @@ For the best experience, please use ParaLLEl via ParaLLel Launcher (RetroArch). 
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Mario Builder 64.z64</path>
+		<name>Mario Builder 64</name>
+		<image>./00Boxart/Mario Builder 64</image>
+		<thumbnail>./00Boxart/Mario Builder 64</thumbnail>
+		<marquee>./00Logo/Mario Builder 64</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>Mario Builder 64 is a toolbox letting you fulfill all of your SM64 dreams. Play one of the numerous user-made levels, or create a course pushing your imagination (and hardware) to its limits!</desc>
+		<releasedate>20240518T000000</releasedate>
+		<developer>Arthurtilly, rovertronic</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform, Unlicensed</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Mario - Escape from the Jail.z64</path>
 		<name>Mario - Escape from the Jail</name>
 		<image>./00Boxart/Mario - Escape from the Jail</image>

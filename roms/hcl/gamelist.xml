@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./hcl.game</path>
+		<name>Hydra Castle Labyrinth</name>
+		<desc>Hydra Castle Labyrinth is a tribute to platform/metroidvania games from the 16-bit era, inspired by games like La-Mulana and Maze Of Galious. Explore the castle, starting with your sword only, fight eight bosses in their respective dungeons, collect new items and reclaim the crown!</desc>
+		<image>./00Boxart/hcl</image>
+		<thumbnail>./00Boxart/hcl</thumbnail>
+		<marquee>./00Logo/hcl</marquee>
+		<cartridge>./00Cart/hcl</cartridge>
+		<releasedate>20190925T000000</releasedate>
+		<developer>Eiji Hashimoto aka Buster, Studio Pixel (port by PtitSeb)</developer>
+		<publisher>Studio Pixel, Homebrew</publisher>
+		<genre>Platformer</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>

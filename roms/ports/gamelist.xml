@@ -6,6 +6,7 @@
 		<image>./00Image/Super Mario 64 - Render 96</image>
 		<thumbnail>./00Boxart/Super Mario 64 - Render 96</thumbnail>
 		<marquee>./00Logo/Super Mario 64 - Render 96</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>Render96 is a fork of the Super Mario 64 PC port that adds extra settings, quality of life fixes, and new features.  It adds Luigi and Wario as playable characters, each with their own moves and capabilities.  It is also available with or without raytracing.</desc>
 		<releasedate>20210101T000000</releasedate>
 		<developer>DorfDork et al.</developer>
@@ -20,6 +21,7 @@
 		<image>./00Boxart/SuperTuxKart</image>
 		<thumbnail>./00Boxart/SuperTuxKart</thumbnail>
 		<marquee>./00Logo/SuperTuxKart</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>SuperTuxKart is a Free 3d kart racing game; we want to make the game fun more than we want to make it realistic. You can play with up to 4 friends on one PC, racing against each other or just try to beat the computer. (a network multiplayer feature is planned)
 See the great lighthouse or drive through the sand and visit the pyramids. Race underground or in space, watching the stars passing by. Have some rest under the palms on the beach (watching the other karts overtaking you :) ). But don't eat the bananas! Watch for bowling balls, plungers, bubble gum and cakes thrown by opponents.
 You can do a single race against other karts, compete in one of several Grand Prix, try to beat the high score in time trials on your own, play battle mode against your friends, and more!</desc>
@@ -36,6 +38,7 @@ You can do a single race against other karts, compete in one of several Grand Pr
 		<image>./00Boxart/SuperTux</image>
 		<thumbnail>./00Boxart/SuperTux</thumbnail>
 		<marquee>./00Logo/SuperTux</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>SuperTux is a classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games covered under the GPL. The Milestone 1 release of SuperTux features:
 
 9 enemies
@@ -58,6 +61,7 @@ Together with a little story, we hope to provide a good gaming experience with t
 		<image>./00Image/Veloren</image>
 		<thumbnail>./00Boxart/Veloren</thumbnail>
 		<marquee>./00Logo/Veloren</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
 
 Veloren is fully open-source, licensed under GPL 3. It uses original graphics, musics and other assets created by its community. Being contributor-driven, its development community and user community is one and the same: developers, players, artists and musicians come together to develop the game.</desc>
@@ -74,6 +78,7 @@ Veloren is fully open-source, licensed under GPL 3. It uses original graphics, m
 		<image>./00Image/Zelda - 2 Ship 2 Harkinian</image>
 		<thumbnail>./00Boxart/Zelda - 2 Ship 2 Harkinian</thumbnail>
 		<marquee>./00Logo/Zelda - 2 Ship 2 Harkinian</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>If you're a fan of "The Legend of Zelda: Majora's Mask", you'll be happy to know that 2S2H is a fan-made native PC port of the game that includes various enhancements to the original game, such as modern controls, widescreen support, and high-resolution graphics.</desc>
 		<releasedate>20240527T000000</releasedate>
 		<developer>Harbour Masters</developer>
@@ -88,6 +93,7 @@ Veloren is fully open-source, licensed under GPL 3. It uses original graphics, m
 		<image>./00Image/Zelda - Ship of Harkinian</image>
 		<thumbnail>./00Boxart/Zelda - Ship of Harkinian</thumbnail>
 		<marquee>./00Logo/Zelda - Ship of Harkinian</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>Ship of Harkinian is an unofficial source port of the 1998 Nintendo 64 video game, The Legend of Zelda: Ocarina of Time, that runs on Microsoft Windows, Linux, macOS, Wii U, and Nintendo Switch.
 
 It first released in March 2022 for Windows, four months after Ocarina of Time's source code was decompiled and released. Since then, Ship of Harkinian has received ports to Linux and macOS, and homebrew ports to Wii U and Nintendo Switch.</desc>

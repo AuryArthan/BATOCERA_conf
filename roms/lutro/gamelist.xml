@@ -6,6 +6,7 @@
 		<image>./00Image/Onion Kidd</image>
 		<thumbnail>./00Boxart/Onion Kidd</thumbnail>
 		<marquee>./00Logo/Onion Kidd</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>This is an Alex Kidd style platformer, made with lutro for my 3yo son. The gameplay is simplified, the character is a single tile high to avoid having to jump and punch at the same time.</desc>
 		<releasedate>20211113T000000</releasedate>
 		<developer>Kivutar</developer>
@@ -20,6 +21,7 @@
 		<image>./00Image/Shogun</image>
 		<thumbnail>./00Boxart/Shogun</thumbnail>
 		<marquee>./00Logo/Shogun</marquee>
+		<cartridge>./00Cart/Shogun</cartridge>
 		<desc>A simple, symmetric board game inspired by Shogi.
 
 There are two types of pieces:
@@ -44,6 +46,7 @@ Pointers cannot enter the center and can only be moved once per turn.</desc>
 		<image>./00Image/Spaceship</image>
 		<thumbnail>./00Boxart/Spaceship</thumbnail>
 		<marquee>./00Logo/Spaceship</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>Simple demo game for Lutro.</desc>
 		<releasedate>20210424T000000</releasedate>
 		<developer>Kivutar</developer>
@@ -58,6 +61,7 @@ Pointers cannot enter the center and can only be moved once per turn.</desc>
 		<image>./00Image/Tetris</image>
 		<thumbnail>./00Boxart/Tetris</thumbnail>
 		<marquee>./00Logo/Tetris</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>Tetris clone demo for Lutro, adapted from ex's blocks for LÖVE.</desc>
 		<releasedate>20210818T000000</releasedate>
 		<developer>Kivutar</developer>

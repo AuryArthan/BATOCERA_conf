@@ -6,6 +6,7 @@
 		<image>./00Image/Yarntown</image>
 		<thumbnail>./00Boxart/Yarntown</thumbnail>
 		<marquee>./00Logo/Yarntown</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
 		<desc>Welcome to Yarntown, a Zeldalike tribute to Bloodborne. Explore the streets of a cursed, gothic town, hunting beasts and uncovering twisted bosses.
 
 Yarntown is a 2D hommage to Bloodborne, a dark fantasy video game released on Playstation 4 in 2015. Bloodborne is as renowned for its demanding and merciless gameplay as for its incredible gothico-victorian atmosphere. This quest recreates only a part of the original game, because this is just a little side project.</desc>

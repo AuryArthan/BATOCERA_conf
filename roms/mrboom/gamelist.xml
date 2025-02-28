@@ -6,6 +6,7 @@
 		<image>./00Boxart/MrBoom</image>
 		<thumbnail>./00Boxart/MrBoom</thumbnail>
 		<marquee>./00Logo/MrBoom</marquee>
+		<cartridge>./00Cart/MrBoom</cartridge>
 		<desc>Mr.Boom is a Bomberman clone for the RetroArch platform and was converted from DOS assembly using asm2c.</desc>
 		<releasedate>19990101T000000</releasedate>
 		<developer>Community</developer>
