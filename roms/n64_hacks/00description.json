@@ -749,6 +749,26 @@
             "genre": "Platform, Unlicensed",
             "players": "1",
             "lang": "en"
+        },
+        {
+            "path": "./Mario Builder 64.z64",
+            "desc": "Mario Builder 64 is a toolbox letting you fulfill all of your SM64 dreams. Play one of the numerous user-made levels, or create a course pushing your imagination (and hardware) to its limits!",
+            "releasedate": "20240518T000000",
+            "developer": "Arthurtilly, rovertronic",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unlicensed",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Donkey Kong 64 - Tag Anywhere.z64",
+            "desc": "This patch lets you use D-Pad Left/Right to instantly tag to the previous/next Kong in the rotation.\n\nThe mystery menu options are unlocked without capturing banana fairies for your convenience.\n\nMade with love by Isotarge, with help from the DK64 crew.",
+            "releasedate": "20211126T000000",
+            "developer": "Isotarge",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unlicensed",
+            "players": "1",
+            "lang": "en"
         }
     ]
 }

@@ -161,6 +161,25 @@ According to a Shigeru Miyamoto interview, the game’s characters and those of 
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Donkey Kong 64 - Tag Anywhere.z64</path>
+		<name>Donkey Kong 64 - Tag Anywhere</name>
+		<image>./00Boxart/Donkey Kong 64 - Tag Anywhere</image>
+		<thumbnail>./00Boxart/Donkey Kong 64 - Tag Anywhere</thumbnail>
+		<marquee>./00Logo/Donkey Kong 64 - Tag Anywhere</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>This patch lets you use D-Pad Left/Right to instantly tag to the previous/next Kong in the rotation.
+
+The mystery menu options are unlocked without capturing banana fairies for your convenience.
+
+Made with love by Isotarge, with help from the DK64 crew.</desc>
+		<releasedate>20211126T000000</releasedate>
+		<developer>Isotarge</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform, Unlicensed</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Elise.z64</path>
 		<name>Elise</name>
 		<image>./00Boxart/Elise</image>
