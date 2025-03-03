@@ -769,6 +769,36 @@
             "genre": "Platform, Unlicensed",
             "players": "1",
             "lang": "en"
+        },
+        {
+            "path": "./Banjo-Kazooie - Stay At Home.z64",
+            "desc": "Explore with Banjo & Kazooie some of most emblematic N64's worlds, plus some new Sub-Areas inspired by other retro games.\nI decided to make this Mod this hard days that a lot of people is in quarantine around the world.\nMy idea is to expand it with a new World every few days if I can. I hope you enjoy it, and don't forget... STAY AT HOME!!",
+            "releasedate": "20200408T000000",
+            "developer": "Kurko Mods",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unlicensed",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Banjo-Kazooie - NightBear Before Christmas.z64",
+            "desc": "A Christmas-themed mod with some surprises! MERRY CHRISTMAS!",
+            "releasedate": "20201225T000000",
+            "developer": "Kurko Mods",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unlicensed",
+            "players": "1",
+            "lang": "en"
+        },
+        {
+            "path": "./Banjo-Kazooie - Gruntilda's Mask.z64",
+            "desc": "Gruntilda has found Majora's Mask and, using a powerful spell, has created an even deadlier item: Gruntilda's Mask. Explore the secrets of Clock Town and find a way to climb to the top of Clock Tower...",
+            "releasedate": "20191205T000000",
+            "developer": "Kurko Mods",
+            "publisher": "Romhacking",
+            "genre": "Platform, Unlicensed",
+            "players": "1",
+            "lang": "en"
         }
     ]
 }

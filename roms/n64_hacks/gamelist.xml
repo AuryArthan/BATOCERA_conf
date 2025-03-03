@@ -80,6 +80,53 @@ The game takes place in the underground lair, Dreamy Depths, where Banjo and Kaz
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Banjo-Kazooie - Gruntilda's Mask.z64</path>
+		<name>Banjo-Kazooie - Gruntilda's Mask</name>
+		<image>./00Boxart/Banjo-Kazooie - Gruntilda's Mask</image>
+		<thumbnail>./00Boxart/Banjo-Kazooie - Gruntilda's Mask</thumbnail>
+		<marquee>./00Logo/Banjo-Kazooie - Gruntilda's Mask</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>Gruntilda has found Majora's Mask and, using a powerful spell, has created an even deadlier item: Gruntilda's Mask. Explore the secrets of Clock Town and find a way to climb to the top of Clock Tower...</desc>
+		<releasedate>20191205T000000</releasedate>
+		<developer>Kurko Mods</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform, Unlicensed</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Banjo-Kazooie - NightBear Before Christmas.z64</path>
+		<name>Banjo-Kazooie - NightBear Before Christmas</name>
+		<image>./00Boxart/Banjo-Kazooie - NightBear Before Christmas</image>
+		<thumbnail>./00Boxart/Banjo-Kazooie - NightBear Before Christmas</thumbnail>
+		<marquee>./00Logo/Banjo-Kazooie - NightBear Before Christmas</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>A Christmas-themed mod with some surprises! MERRY CHRISTMAS!</desc>
+		<releasedate>20201225T000000</releasedate>
+		<developer>Kurko Mods</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform, Unlicensed</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Banjo-Kazooie - Stay At Home.z64</path>
+		<name>Banjo-Kazooie - Stay At Home</name>
+		<image>./00Boxart/Banjo-Kazooie - Stay At Home</image>
+		<thumbnail>./00Boxart/Banjo-Kazooie - Stay At Home</thumbnail>
+		<marquee>./00Logo/Banjo-Kazooie - Stay At Home</marquee>
+		<cartridge>./00Cart/00Placeholder</cartridge>
+		<desc>Explore with Banjo &amp; Kazooie some of most emblematic N64's worlds, plus some new Sub-Areas inspired by other retro games.
+I decided to make this Mod this hard days that a lot of people is in quarantine around the world.
+My idea is to expand it with a new World every few days if I can. I hope you enjoy it, and don't forget... STAY AT HOME!!</desc>
+		<releasedate>20200408T000000</releasedate>
+		<developer>Kurko Mods</developer>
+		<publisher>Romhacking</publisher>
+		<genre>Platform, Unlicensed</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Banjo-Kazooie - Tooty Adventure.z64</path>
 		<name>Banjo-Kazooie - Tooty Adventure</name>
 		<image>./00Boxart/Banjo-Kazooie - Tooty Adventure</image>
